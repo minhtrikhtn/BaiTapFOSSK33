@@ -10,3 +10,5 @@
 * Rất ngon, cũng rất đẹp mắt nữa.
 + 很好吃，也很好看。
 
+* Việc hôm nay thì nên hoàn thành trong hôm nay.
++ 今天的事必须今天完成。
