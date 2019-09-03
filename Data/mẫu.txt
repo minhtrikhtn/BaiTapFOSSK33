@@ -1,0 +1,12 @@
+﻿* Thưa quý khách, giờ quý khách đã gọi món chưa?
++ 先生，现在点菜吗？
+
+* Mời quý khách chọn món.
++ 你点菜吧。
+
+* Món cà chua xào trứng có mặn không?
++ 西红柿炒鸡蛋咸不咸？
+
+* Rất ngon, cũng rất đẹp mắt nữa.
++ 很好吃，也很好看。
+
