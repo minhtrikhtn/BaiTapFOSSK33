@@ -1,0 +1,7 @@
+C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\bin\Debug\ChuanHoaDuLieuNN.exe
+C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\bin\Debug\ChuanHoaDuLieuNN.pdb
+C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.Form1.resources
+C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.Properties.Resources.resources
+C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.csproj.GenerateResource.Cache
+C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.exe
+C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.pdb
