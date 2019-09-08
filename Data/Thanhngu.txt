@@ -1,0 +1,845 @@
+* Án binh bất động
++ 按兵不动
+
+* An cư lập nghiệp
++ 安家立业
+
+* An phận thủ thường
++ 安分守己
+
+* Anh em bốn biển một nhà
++ 四海之内皆兄弟
+
+* Anh em khinh trước, làng nước khinh sau
++ 家火不起，野火不来
+
+* Áo gấm đi đêm
++ 锦衣夜行
+
+* Ăn bát cơm dẻo, nhớ nẻo đường đi
++ 食饭不忘种田人
+
+* Ăn bẩn sông sâu
++ 不干不净、吃了长命
+
+* Ăn bậy nói bạ
++ 信口雌黄
+
+* Hay ăn lười làm
++ 好逸恶劳
+
+* Ăn bữa hôm lo bữa mai
++ 朝不保夕
+
+* Ăn bữa sáng lần bữa tối
++ 有早没晚
+
+* Ăn cây nào rào cây ấy
++ 食树护树
+
+* Ăn cây táo rào cây sung
++ 吃力扒外
+
+* Ăn cháo đá bát
++ 过河拆桥
+
+* Ăn chẳng có khó đến thân
++ 好事无缘，坏事有分
+
+* Ăn chọn nơi, chơi chọn bạn
++ 择善而从
+
+* Vẽ rắn thêm chân
++ 少不更事
+
+* Ăn chưa sạch, bạch chưa thông
++ 食不净、言不通
+
+* Ăn độc chốc mép
++ 独食独生疮
+
+* Ăn không nên đọi, nói chẳng nên lời
++ 笨口拙舌
+
+* Ăn không nói có
++ 煞有介事、无中生有
+
+* Ăn lấy chắc, mặc lấy bền
++ 布衣粗实
+
+* Ăn mày đòi xôi gấc
++ 乞丐讨肉粽
+
+* Ăn mặn khát nước
++ 吃咸口渴
+
+* Ăn mặn nói ngay còn hơn ăn chay nói dối
++ 宁可荤口念佛、莫将素口骂人
+
+* Ăn miếng trả miếng
++ 以眼还眼以牙还牙
+
+* Ăn một bát cháo, chạy ba quãng đồng
++ 吃一碗粥走三里路
+
+* Ăn no dửng mỡ
++ 饱暖思淫欲
+
+* Ăn ngay nói thật mọi tật mọi lành
++ 天理良心到处通行
+
+* Ăn nhạt mới biết thương mèo
++ 落魄方知穷人苦
+
+* Ăn nhờ ở đậu
++ 寄人篱下
+
+* Ăn phải gan hùm
++ 吃了豹子胆
+
+* Ăn quả nhớ kẻ trồng cây
++ 食果不忘种树人
+
+* Ăn sung mặc sướng
++ 锦衣玉食
+
+* Ăn vụng đổ vạ cho mèo, vu oan giá họa
++ 屈打成招
+
+* Ăn xổi ở thì , mổ gà lấy trứng
++ 杀鸡取卵
+
+* Ba bà chín chuyện
++ 话经三张嘴，长虫也长腿
+
+* Bà con xa không bằng láng giềng gần
++ 远亲不如近邻
+
+* Ba đầu sáu tay
++ 三头六臂
+
+* Ba mặt một lời
++ 三头对案
+
+* Ba mươi chưa phải là tết
++ 别言之过早
+
+* Ba mươi sáu kế, kế chuồn là hơn
++ 三十六计，走为上计
+
+* Ban ngày ban mặt
++ 大天白日
+
+* Ban ơn lấy lòng
++ 卖人情
+
+* Bán tín bán nghi
++ 半信半疑
+
+* Bán trôn nuôi miệng
++ 皮肉生涯
+
+* Bán trời không văn tự
++ 卖天不立契
+
+* Bán vợ đợ con
++ 卖妻典儿
+
+* Bát nước đổ đi khó lấy lại
++ 覆水难收
+
+* Bắn đại bác cũng không tới
++ 八竿子打不着
+
+* Bằng mặt không bằng lòng
++ 貌合神离
+
+* Bắt cá hai tay
++ 脚踏两只船
+
+* Bắt cóc bỏ đĩa
++ 炊沙作饭
+
+* Bắt chó đi cày
++ 狗咬耗子
+
+* Bé không vin, cả gẫy cành
++ 小时不教、大时不肖
+
+* Bệnh nào thuốc nấy
++ 对症下药
+
+* Biết người biết ta, trăm trận trăm thắng
++ 知己知彼、百战百胜
+
+* Biết thì thưa thốt, không biết dựa cột mà nghe
++ 知无不言,言无不尽
+
+* Biết vậy chẳng làm
++ 悔不当初
+
+* Bình cũ rượu mới
++ 旧瓶装新酒
+
+* Bình chân như vại, khoanh tay đứng nhìn
++ 高枕无忧, 袖手傍观
+
+* Bó đũa chọn cột cờ
++ 百里挑一
+
+* Bóp mồm bóp miệng
++ 省食俭穿
+
+* Bốc thuốc theo đơn
++ 照方子抓药
+
+* Bới bèo ra bọ, bới lông tìm vết
++ 吹毛求疵
+
+* Bỡn quá hóa thật
++ 弄假成真
+
+* Bụng bảo dạ
++ 自言自语
+
+* Bụng làm dạ chịu
++ 责无旁贷
+
+* Bụt chùa nhà không thiêng
++ 家庙不灵
+
+* Bút sa gà chết
++ 惜墨如金
+
+* Bữa đói bữa no
++ 一饥两饱
+
+* Bữa đực bữa cái
++ 三天打鱼两天晒网
+
+* Bức vách có tai
++ 隔墙有耳
+
+* Cá không ăn muối cá ươn
++ 不听老人言、吃亏在眼前
+
+* Cà cuống chết đến đít còn cay
++ 死不改悔
+
+* Cá lớn nuốt cá bé
++ 大鱼吃小鱼
+
+* Cá mè một lứa
++ 难兄难弟
+
+* Cá nằm trên thớt
++ 鱼游釜中
+
+* Cả thèm chóng chán
++ 一暴十寒
+
+* Cả vú lấp miệng em
++ 强词夺理
+
+* Cái duyên cái số nó vồ lấy nhau
++ 千里姻缘一线牵
+
+* Cái kim trong bọc lâu ngày cũng lòi ra
++ 纸包不住针
+
+* Cái khó ló cái khôn
++ 急中生智
+
+* Cải lão hoàn đồng
++ 返老还童
+
+* Cái nết đánh chết cái đẹp
++ 德重于貌
+
+* Cãi nhau như mổ bò
++ 大吵大闹
+
+* Cái sảy nảy cái ung
++ 千里之堤、溃于蚁穴
+
+* Cải tà quy chính
++ 改邪归正
+
+* Cải tử hoàn sinh
++ 起死回生
+
+* Cải trang vi hành
++ 白龙鱼服
+
+* Càng già càng dẻo càng dai
++ 宝刀不老
+
+* Cáo chết ba năm quay đầu về núi
++ 狐死首丘
+
+* Cáo mượn oai hùm
++ 狐假虎威
+
+* Cao không với tới, thấp không bằng lòng
++ 高不成低不就
+
+* Cày chùi bừa bãi
++ 敷衍了事
+
+* Cạy răng không nói một lời
++ 不哼不言
+
+* Cầm cân nẩy mực
++ 掌枰划线
+
+* Cầm chắc trong tay
++ 十拿八稳
+
+* Câm như hến
++ 噤若寒蝉
+
+* Cẩn tắc vô ưu
++ 有备无患
+
+* Cầu được ước thấy
++ 得心应手
+
+* Cầu người không bằng cầu mình
++ 求人不如求己
+
+* Cây cao, bóng cả
++ 树高影大
+
+* Cây có cội, nước có nguồn
++ 木有本，水有源
+
+* Cây muốn lặng mà gió chẳng ngừng
++ 树欲静而风不止
+
+* Cây ngay không sợ chết đứng
++ 真金不怕火炼
+
+* Có bệnh mới lo tìm thầy
++ 病急乱投医
+
+* Có bột mới gột nên hồ
++ 巧妇难为无米之炊
+
+* Có cô thì chợ cũng đông, cô đi lấy chồng thì chợ cũng vui.
++ 有你不多、没你不少
+
+* Có công mài sắt có ngày nên kim
++ 铁杵磨成针
+
+* Có chạy đằng trời
++ 插翅难飞
+
+* Có chí thì nên
++ 功到自然成
+
+* Có đầu có đuôi
++ 有条有理
+
+* Có đi có lại mới toại lòng nhau
++ 礼尚往来
+
+* Có gan ăn cắp, có gan chịu đòn
++ 敢做敢当
+
+* Có làm thì mới có ăn
++ 春花秋实
+
+* Có mắt như mù
++ 有眼无珠
+
+* Có mới nới cũ
++ 喜新厌旧
+
+* Có nuôi con mới biết lòng cha mẹ
++ 不养儿不知父母恩
+
+* Có ở trong chăn mới biết chăn có rận
++ 如人饮水，冷暖自知
+
+* Có phúc cùng hưởng, có họa cùng chịu
++ 有福同享，有难同当
+
+* Có tật giật mình
++ 做贼心虚
+
+* Có tích mới dịch nên tuồng
++ 巧妇难为无米炊
+
+* Có tiền mua tiên cũng được
++ 钱能沟通神
+
+* Có tiếng không có miếng
++ 有名无实
+
+* Có thực mới vực được đạo
++ 衣食足方能买鬼推磨
+
+* Cóc đi guốc, khỉ đeo hoa
++ 东施效颦
+
+* Cóc ghẻ mà đòi ăn thịt thiên nga
++ 瘌蛤蟆想吃天鹅肉
+
+* Coi trời bằng vung
++ 不知天高地厚
+
+* Con có khóc mẹ mới cho bú
++ 孩子哭了，抱给他娘
+
+* Con chị chưa đi, con dì nó lỡ
++ 姐姐不嫁，耽搁了妹妹
+
+* Tre già măng mọc
++ 后浪推前浪
+
+* Còn da lông mọc, còn chồi nảy cây
++ 皮之不存，毛将焉附
+
+* Con gái lớn trong nhà như quà bom nổ chậm
++ 女大不中留
+
+* Con giun xéo mãi cũng quằn
++ 忍无可忍
+
+* Con khôn cha mẹ nào răng
++ 儿大不由娘
+
+* Con không chê cha mẹ khó, chó không chê chủ nghèo
++ 儿不嫌母丑，狗不嫌家贫
+
+* Còn nước còn tát
++ 死马当作活马医
+
+* Con nhà tông không giống lông cũng giống cánh
++ 万变不离其宗
+
+* Con ông cháu cha
++ 王孙公子
+
+* Con sâu làm rầu nồi canh
++ 害群之马
+
+* Cõng rắn cắn gà nhà
++ 开门揖盗
+
+* Cõng rắn cắn gà nhà, rước voi về giày mả tổ
++ 背蛇害家鸡、招象踏祖坟
+
+* Cọp chết để da, người ta chết để tiếng
++ 牛死留皮、人死留名
+
+* Cố đấm ăn xôi
++ 心劳日拙
+
+* Cốc mò cò xơi
++ 火中取栗
+
+* Công thành danh toại
++ 功成名遂
+
+* Cốt đươc việc mình
++ 拔了萝卜地皮宽
+
+* Cơm áo gạo tiền
++ 衣食住行
+
+* Cơm có bữa, chợ có chiều
++ 鸡叫有早晚，天亮一起亮
+
+* Cơm gà cá gỏi
++ 炮风烹龙
+
+* Của đầy kho, không lo cũng hết
++ 座吃山空
+
+* Của ít lòng nhiều
++ 千里送鹅毛
+
+* Của một đồng, công một nén
++ 千里送娥毛
+
+* Của người phúc ta
++ 借花献佛
+
+* Của rẻ là của ôi
++ 便宜没好货
+
+* Của thiên trả địa
++ 悖入悖出
+
+* Cùng đường đuối lý
++ 理屈词穷
+
+* Cung kính không bằng tuân lệnh
++ 恭敬不如从命
+
+* Cười trừ cho qua chuyện
++ 一笑了之
+
+* Cha chung không ai khóc
++ 鸡多不下蛋
+
+* Cha mẹ sinh con trời sinh tính
++ 龙生九种
+
+* Cha nào con nấy
++ 有其父必有其子
+
+* Cha truyền con nối
++ 一脉相传
+
+* Chạy bán sống bán chết
++ 抱头鼠窜
+
+* Chạy đôn chạy đáo
++ 东奔西跑
+
+* Chảy máu chất xám
++ 楚材晋用
+
+* Cháy nhà hàng xóm bình chân như vại
++ 坐观成败
+
+* Cháy nhà ra mặt chuột
++ 图穷匕手见
+
+* Chạy như ma đuổi
++ 抱头鼠窜
+
+* Chạy trời không khỏi nắng
++ 在劫难逃
+
+* Chắc như đinh đóng cột
++ 百无一失
+
+* Chẳng biết đầu cua tai nheo ra sao
++ 不识庐山真面目
+
+* Chẳng biết mèo nào cắn mỉu nào
++ 鹿死谁手
+
+* Chân chỉ hạt bột
++ 循规蹈矩
+
+* Chân đăm đá chân chiêu
++ 跌跌撞撞
+
+* Chân ướt chân ráo
++ 风尘未掸
+
+* Châu chấu đá xe
++ 以螳当车
+
+* Chết đi sống lại
++ 一佛出世，二佛升天
+
+* Chết không chỗ chôn thây
++ 死无葬身之地
+
+* Chỉ bảo hết nước hết cái
++ 苦口婆心
+
+* Chỉ buộc chân voi
++ 杯水车薪
+
+* Chỉ chó mắng mèo
++ 指桑骂槐
+
+* Chỉ mành treo chuông
++ 风中之烛
+
+* Chia đôi mỗi bên một nửa
++ 二一添作五
+
+* Chim khôn chết miếng mồi ngon
++ 人为财死，鸟为食亡
+
+* Chim khôn chọn cành mà đậu
++ 良禽择木
+
+* Chín người mười ý
++ 众口难调
+
+* Chín quá hóa nẫu
++ 过犹不及
+
+* Chịu thương chịu khó
++ 任劳任怨
+
+* Chó ba khoanh mới nằm, người ba năm mới nói
++ 三思而后行
+
+* Chó cắn áo rách
++ 狗咬破衣人
+
+* Chó cắn thì không kêu
++ 咬人的狗不露齿
+
+* Chó cậy gần nhà, gà cậy gần chuồng
++ 狗仗人势
+
+* Chó có váy lĩnh
++ 铁树开花
+
+* Chó cùng rứt giậu
++ 狗急跳墙
+
+* Chó dữ mất láng giềng
++ 恶犬伤近邻
+
+* Chó đen giữ mực
++ 万变不离其宗
+
+* Chó ngáp phải ruồi
++ 瞎狗碰上死老鼠
+
+* Chó nhà có tang
++ 丧家之犬
+
+* Chồng tung vợ hứng
++ 夫唱妇随
+
+* Chở củi về rừng
++ 运柴回林
+
+* Chờ được vạ má đã sưng
++ 远水解不了近渴
+
+* Chớ thấy sóng cả mà ngã tay trèo
++ 莫见浪大松橹桨
+
+* Chơi bời lêu lổng
++ 游手好闲
+
+* Chơi với chó, chó liếm mặt
++ 养虎遗患
+
+* Chú khi ni, mi khi khác
++ 表面一套、背后一套
+
+* Chui đầu vào rọ
++ 作茧自缚
+
+* Chúng khẩu đồng từ, ông sư cũng chết
++ 众口一词、百口莫辩
+
+* Chuốc vạ vào thân
++ 若火烧身
+
+* Chuột chạy cùng sao
++ 日暮途穷
+
+* Chuột chù chê khỉ rằng hôi
++ 五十步笑百步
+
+* Chuột sa chĩnh gạo
++ 鼠陷米缸
+
+* Chuyện bé xé ra to
++ 小题大作
+
+* Chuyện bịa như thật
++ 有鼻子有眼
+
+* Chuyện giòn như pháo rang
++ 谈笑风生
+
+* Chữ tác đánh chữ tộ
++ 鲁鱼亥豕
+
+* Chưa cưa đã đổ
++ 不攻自破
+
+* Chưa đỗ ông nghè, đã đe hàng tổng
++ 未进山门，就想当方丈
+
+* Chưa gì đã co vòi
++ 畏缩不前
+
+* Chưa già đã yếu
++ 未老先衰
+
+* Chưa học bò đã lo học chạy
++ 未学爬、就学走
+
+* Chưa khỏi rên đã quên thầy thuốc
++ 呻吟未止忘良医
+
+* Chưa nặn bụt đã nặn bệ
++ 佛身未塑塑佛座
+
+* Chưa thấy quan tài chưa nhỏ lệ
++ 不见棺材不落泪
+
+* Chửi như mất gà
++ 骂大街
+
+* Chửi như tát nước
++ 破口大骂
+
+* Dã tràng se cát
++ 付诸东流
+
+* Dài dòng văn tự
++ 冗言繁语
+
+* Dãi nắng dầm mưa
++ 风里来，雨里去
+
+* Dai như đỉa đói
++ 韧如饿蛭
+
+* Danh chính ngôn thuận
++ 名正言顺
+
+* Danh không chính, ngôn không thuận
++ 名不正，言不顺
+
+* Dao sắc không gọt được chuôi
++ 水高漫不过船
+
+* Dạy con từ thuở còn thơ, dạy vợ từ thuở bơ vơ mới về
++ 教妇初来，教儿婴孩
+
+* Dây cà ra dây muống
++ 东拉西扯
+
+* Dâu là con, rể là khách
++ 一个女婿半个儿
+
+* Dễ làm khó bỏ
++ 避重就轻
+
+* Dễ người,dễ ta
++ 与人方便，自己方便
+
+* Dễ như chơi
++ 不费吹灰之力
+
+* Dễ như trở bàn tay
++ 易如反掌
+
+* Dĩ hòa vi quý
++ 与世无争
+
+* Dò sông dò bể dễ dò, nào ai lấy thước mà đo lòng người
++ 江海一量、人心莫测
+
+* Dốt đặc cán mai
++ 一窍不通
+
+* Dở khóc dở cười
++ 哭笑不得
+
+* Dở ông dở thằng
++ 不伦不类
+
+* Dù xây bảy đợt phù đồ, không bằng làm phúc cứu cho một người
++ 救人一命，胜造七级浮屠
+
+* Dục tốc bất đạt
++ 欲速不达
+
+* Dùi đục chấm mắm tôm
++ 风马牛不相及
+
+* Đa sầu đa cảm
++ 多愁善感
+
+* Đa tài đa nghệ
++ 多才多艺
+
+* Đã thương thì thương cho trót
++ 送佛送到西天
+
+* Đã trót thì phải trét
++ 一不做，二不休
+
+* Đãi cát tìm vàng
++ 沙里淘金
+
+* Đàn gảy tai trâu
++ 对牛弹琴
+
+* Đan gầu tát biển
++ 编戽竭海
+
+* Đánh bùn sang ao
++ 井里打水，往河里倒
+
+* Đánh chểt cái nết không chừa
++ 本性难移
+
+* Đánh chó khinh chủ
++ 打狗欺主
+
+* Đánh đòn phủ đầu
++ 先发制人
+
+* Đánh kẻ chạy đi, không ai đánh kẻ chạy lại
++ 浪子回头金不换
+
+* Đánh rắn giập đầu
++ 除恶务尽
+
+* Đánh trống bỏ dùi
++ 看始无终
+
+* Đánh trống lảng
++ 打退堂鼓
+
+* Đào ngã mận thay
++ 前仆后继
+
+* Đắt ra quế, ế ra củi
++ 物以稀为贵
+
+* Đâm lao thì phải theo lao
++ 箭在弦上
+
+* Đất lề quê thói
++ 随乡入乡
+
+* Đầu bò đầu bứu
++ 愣头愣脑
+
+* Đầu cơ trục lợi
++ 投机取巧
+
+* Đầu đường xó chợ
++ 街头巷尾
+
+* Đầu gối má kề
++ 同床共枕
+
+* Đầu mày cuối mắt
++ 眉来眉去
+
+* Đầu Ngô mình Sở
++ 不论不类
+
+* Đầu sóng ngọn gió
++ 大风大浪
+
+* Đầu tàu gương mẫu
++ 一马当先
+
+* Đầu tắt mặt tối
++ 辛辛苦苦
+
+* Đầu thừa đuôi thẹo
++ 鸡零狗碎
+
+* Đầu trâu mặt ngựa
++ 牛头马面
+
+* Đầu trộm đuôi cướp
++ 梁上君子
+
+* Đầu voi đuôi chuột
++ 虎头蛇尾
