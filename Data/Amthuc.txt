@@ -1,2 +1,155 @@
-* Đây là công đoạn quan trọng trước khi làm khô cá.
+﻿* Đây là công đoạn quan trọng trước khi làm khô cá.
 + 这是晒鱼前的一个重要步骤。
+
+* Tôi thích ăn món vừa chua vừa ngọt.
++ 我喜欢吃又酸又甜的。 
+ 
+* Tôi thích ăn món cay một chút. 
++ 我喜欢吃拉一点儿的。
+
+* Tôi thích ăn món Trung Quốc. 
++ 我喜欢吃中餐。
+
+* Tôi không thích ăn món Tây. 
++ 我不喜欢吃西餐。
+
+* Tôi thích đồ ăn nhanh. 
++ 我喜欢吃快餐。
+
+* Món Trung Quốc rất ngon.  
++ 中国菜很好吃。 
+
+* Món Hồng Kông không ngon. 
++ 香港菜不好吃。
+
+* Tôi không ăn được cay. 
++ 我不能吃辣的。
+ 
+* Tôi không thích ăn món mặn.
++ 我不喜欢吃咸的。 
+ 
+* Tôi thích ăn rau sống. 
++ 我喜欢吃生菜。 
+
+* Rau sống của Việt Nam rất ngon.
++ 越南的生菜很好吃。 
+
+* Trong rau sống có rất nhiều vitamin. 
++ 生菜里边有很多维生素。 
+
+* Tôi rất thích ăn hoa quả. 
++ 我很喜欢吃水果。
+
+* Hoa quả của Việt Nam rất phong phú đa dạng.
++ 越南的水果很丰富多样。
+ 
+* Hoa quả của Trung Quốc không nhiều. 
++ 中国的水果不多。  
+ 
+* Quả xoài vừa chua vừa ngọt.
++ 芒果又酸又甜。
+ 
+* Sầu riêng có mùi vị rất đặc biệt. 
++ 榴莲有特别的味道。
+
+* Rất nhiều người không thích ăn sầu riêng. 
++ 很多人不喜欢吃榴莲。
+ 
+* Mùi vị của sầu riêng rất nồng. 
++ 榴莲的味道很浓。 
+
+* Sầu riêng là hoa quả mà tôi thích ăn. 
++ 榴莲是我喜欢吃的水果。
+
+* Người Việt Nam rất thích ăn măng cụt. 
++ 越南人很喜欢吃山竺。
+
+* Ăn cùng lúc hai loại hoa quả mới tốt. 
++ 一起吃两种水果才好。 
+ 
+* Ăn nhiều sầu riêng rất dễ bị nóng.
++ 榴莲吃多了很容易上火。 /Liúlián chī duō le hěn róngyì shàng huǒ./ 
+
+* Chúng nó bổ sung lẫn nhau.
++ 他们互相补充。 
+ 
+* Hình như bạn béo lên thì phải. 
++ 你好像胖起来了。  
+
+* Bạn nên giảm béo là vừa. 
++ 你应该减肥了。 
+
+* Bạn cần ăn nhiều hoa quả và rau sống một chút. 
++ 你要多吃一点儿水果和生菜。
+
+* Bạn đừng ăn nhiều thịt quá. 
++ 你不要吃太多肉类。
+
+* Ăn nhiều rau sống và rau xanh rất có lợi cho sức khỏe.
++ 多吃水果和蔬菜对身体很有好处。
+
+* Bạn có thể đắp mặt nạ bằng lát hoa quả. 
++ 你可以用水果片做面膜。
+
+* Hoa quả rất tốt cho da dẻ.
++ 水果对皮肤非常好。 
+
+* Hôm nay tôi mời bạn ăn cơm. 
++ 今天我请你吃饭。
+ 
+* Bạn đi ăn cơm với tôi đi. 
++ 你跟我一起去吃饭吧。
+
+* 我觉得不太好吃。 
++ Tôi thấy không ngon lắm.
+ 
+* 她不喜欢吃中国菜。
++ Cô ta không thích ăn món Trung Quốc.
+
+* Chúng ta đến quán ăn Trung Quốc ăn đi, tớ thích đồ ăn Trung Quốc lắm.
++ 我们去中餐馆吃饭吧，我非常喜欢中国菜。
+
+* Ok, ở gần đây có một quán ăn Trung Quốc rất nổi tiếng, chúng ta tới ăn thử xem.
++ 好的，附近有一个很有名的中餐馆，我们去尝尝吧。
+
+* Hoan nghênh quý vị, xin hỏi có mấy người vậy?
++ 服务员：欢迎光临! 请问您几位？
+
+* Chỉ có 2 người chúng tôi, quán ăn các vị có những món nào ngon vậy?
++ 只有我们两个.你们这里有什么好吃的？
+
+* quán chúng tôi có món sườn xào chua ngọt, cá sốt cà chua, cơm xào thịt bò đều rất nổi tiếng.
++ 服务员：我们的糖醋排骨、茄汁烩鱼还有炒牛肉饭都非常有名。
+
+* Vậy cho mỗi món một phần đi.
++ 好，那每一菜来一份吧。
+
+* Hai vị muốn uống gì không?
++ 你要喝什么吗？
+
+* Tớ thích uống cô ca.
++ 我喜欢喝可乐。
+
+* Vậy cho chúng tôi 1 chai cô ca và 1 ly hồng trà nhé.
++ 那再给我们一瓶可乐和一杯红茶吧。
+
+* Hai vị còn muốn gọi gì nữa không ạ?
++ 服务员：您还要别的吗？
+
+* Cứ thế đã, nếu không đủ chúng tôi gọi tiếp nhé.
++ 先这样吧，不够再点，好吧。
+
+* Được, xin vui lòng chờ một chút.
++ 服务员：好的，请稍等。
+
+* Phục vụ, tính tiền.
++ 服务员算账。
+
+* Hoan nghênh quay trở lại!
++ 服务员：欢迎再来！
+
+* Quý khách muốn ăn gì?
++ 你想吃什么？
+
+
+
