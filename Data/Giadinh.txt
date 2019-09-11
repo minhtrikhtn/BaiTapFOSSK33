@@ -1,0 +1,326 @@
+* Nhà của anh ở đâu?.
++ 你家住在哪？。
+
+* Nhà tôi ở Hà Nội.
++ 我家住在河内。
+
+* Nhà anh có mấy người?.
++ 你家有几口人？。
+
+* Nhà tôi có 4 người: bố tôi, mẹ tôi, tôi, em trai.
++ 我家有四口人：爸爸，妈妈，我，弟弟。
+
+* Bố anh làm việc ở đâu?.
++ 你爸爸在哪儿工作？。
+
+* Bố tôi là việc ở bệnh viện.
++ 我爸爸在医院工作。
+
+* Em trai anh làm công việc gì?.
++ 你弟弟做什么工作？。
+
+* Em trai tôi làm kỹ sư.
++ 他是工程师。
+
+* Anh kết hôn chưa?.
++ 你结婚了吗？。
+
+* Tôi kết hôn rồi.
++ 我结婚了。
+
+* Anh có con chưa?.
++ 你有小孩了吗？。
+
+* Tôi có con rồi.
++ 我有小孩了。
+
+* Anh có mấy con.
++ 你有几个小孩？。
+
+* Tôi có 2 cháu.
++ 我有两个小孩。
+
+* Nhà tôi có ông nội, bà nội, bố, mẹ, em gái.
++ 我家有爷爷，奶奶，爸爸，妈妈，妹妹。
+
+* Không có.
++ 没有。
+
+* Mẹ anh làm việc ở đâu?.
++ 你妈妈在哪儿工作？。
+
+* Mẹ tôi làm việc ở trường học.
++ 我妈妈在学校工作。
+
+* Mời anh uống trà.
++ 请喝茶。
+
+* Không, tôi ở Hồ Chí Minh.
++ 不是。我家在胡志明。
+
+* Nhà tôi có 3 anh chị em: một anh trai, một em trai và chị gái.
++ 我有三个兄弟姐妹：一个哥哥，一个弟弟，一个姐姐。
+
+* Anh trai tôi làm thầy giáo.
++ 我哥哥当老师。
+
+* Ông bà nội không sống chung với gia đình anh à?.
++ 你的爷爷，奶奶不跟你们住在起吗？。
+
+* Cảm ơn, ồ, đây là ảnh gia đình bạn à? Gia đình bạn có mấy người?.
++ 谢谢，哦，这是你全家的照片吗？你家有几口人？。
+
+* Không, ông bà tôi không thích cuộc sống ở thành phố, vì vậy ông bà đều ở quê sống..
++ 没有，他们不喜欢城市里的生活，所以都在老家。
+
+* Thế à, em gái bạn rất xinh, tối nay cô ấy không ở nhà sao?.
++ 这样啊，你妹妹长得很漂亮，她今晚不在家吗？。
+
+* Em mình cùng với chị mình đi siêu thị mua đồ.
++ 我的妹妹跟我姐姐一起去超市买东西了。
+
+* Bố mẹ hôm qua đi công tác rồi.
++ 我爸妈昨天出差了。
+
+* Tình yêu của cha (cao cả và to lớn) như núi, tình yêu của mẹ( bao la) như nước.
++ 父爱如山，母爱如水。
+
+* Thương thay cho tấm lòng cha mẹ khắp thiên hạ.
++ 可怜天下父母心。
+
+* Không lập gia đình không biết củi gạo đắt, không nuôi con không biết công ơn cha mẹ.
++ 不当家不知柴米贵，不养子不知父母恩。
+
+* Lúc còn nhỏ không hiểu tấm lòng của mẹ, nuôi con mới biết báo ơn mẹ.
++ 从小不知老娘亲，育儿才知报娘恩。
+
+* Mong con thành tài.
++ 望子成龙，望女成凤。
+
+* Cho con ngàn vàng không bằng cho con một nghề.
++ 赐子千金，不如赐子一艺。
+
+* Ơn cha cao hơn núi, nghĩa mẹ sâu hơn biển.
++ 父恩比山高,母恩比海深。
+
+* Tình mẹ cao cả hơn mọi tình yêu khác.
++ 母爱胜于万爱。
+
+* Mĩ đức của cha mẹ là tài sản to lớn nhất của con cái.
++ 父母的美德是子女最大的财富。
+
+* Công cao nghĩa nặng của cha mẹ, khó mà báo đáp hết được.
++ 谁言寸草心，报得三春晖。
+
+* Tình cảm dành cho con cái rất sâu nặng.
++ 舐犊情深。
+
+* Ân trọng như núi.
++ 恩重如山。
+
+* Chỉ mẹ của Mạnh Tử 3 lần chuyển nhà vì con.
++ 孟母三迁。
+
+* Tôi có một gia đình hạnh phúc.
++ 我有一个幸福的家庭。
+
+* Bố là một thợ cắt tóc, những mái tóc được ông cắt đều trông rất đẹp.
++ 爸爸是一名美发师，经他剪出的 头发各个都是那么的帅。
+
+* Bình thường bố rất nghiêm, nhưng khi chơi đùa với tôi ông rất “cuồng nhiệt”.
++ 爸爸平时很严肃，但是和我玩起来 也很“疯狂”。
+
+* Mẹ tên là Tề Lệ Kiệt, năm nay cũng 38 tuổi, dáng mẹ không cao, trông hơi béo.
++ 妈妈叫齐丽杰，今年也是 38 岁，妈妈个头不高，身体有 点儿胖。
+
+* Bố hay bắt mẹ ăn ít một chút, không thì béo gần bằng chú heo con.
++ 爸爸老让妈妈少吃点，胖得快赶上“小猪”了。
+
+* Mẹ là người hay càm ràm.
++ 妈 妈是一个爱唠叨的人。
+
+* Thường không yên tâm về tôi, Cả ngày luôn căn dặn tôi phải thế này thế nọ.
++ 对我总是不放心，一天到晚总是嘱咐 我这样那样。
+
+* Đây chính là các thành viên gia đình tôi, một gia đình 3 người ngập tràn hạnh phúc.
++ 这就是我的家庭成员，一个幸福美满的三口之家。
+
+* Gia đình của tôi.
++ 我的家庭 。
+
+* Tôi yêu gia đình của tôi.
++ 我爱我的家庭。
+
+* Bởi vì tôi có một gia đình vui vẻ.
++ 因为我有一个快乐的家庭。
+
+* Bố tôi là một giáo viên tiếng Anh.
++ 我的爸爸是一名英语教师。
+
+* Ông rất thích chơi bóng rổ.
++ 他非常喜欢打篮球。
+
+* Mẹ của tôi theo đuổi công việc gì?.
++ 我的妈妈是赶什么呢?。
+
+* Bà là một giáo viên chăng?.
++ 她是一名教师吗?。
+
+* Mẹ tôi là một người rất dễ gần và thân thiện.
++ 我的妈妈是一个很亲切、友善的人。
+
+* Mẹ tôi luôn làm việc chăm chỉ.
++ 我妈妈总是勤劳的干活。
+
+* Tôi rất yêu bố mẹ tôi.
++ 我爱我的父母。
+
+* Bố tôi thì đi chơi bóng rồ, thỉnh thoảng chúng tôi cùng xem ti vi và nghe nhạc ở nhà.
++ 有时侯,我们都在家看电视和听音乐。
+
+* Bởi vì tôi và bố mẹ cùng sống rất hạnh phúc.
++ 因为我和爸爸妈妈一起生活得很开心。
+
+* Nhà tôi có 4 người, bố, mẹ, anh trai và tôi.
++ 我家有四口人，爸爸，妈妈，哥哥和我。
+
+* Bố mẹ tôi đều đã nghỉ hưu.
++ 我父母都退休了。
+
+* Trước kia bố mẹ tôi là cảnh sát.
++ 以前我父母是警察。
+
+* Anh trai cũng là cảnh sát.
++ 他也是警察。
+
+* Làm cảnh sát hình sự tại công an Hà Nội.
++ 在河内市公安局当刑事警察。
+
+* Vợ anh ấy mở một công ty thương mại.
++ 他妻子开一个贸易公司。
+
+* Anh ấy hàng ngày đều rất bận, 7 giờ sáng đi làm chiều 5 giờ tan ca.
++ 他每天都很忙，早上七点上班下午五点才下班。
+
+* Tôi cũng là cảnh sát, tôi là cảnh sát giao thông.
++ 我也当警察，我是交通警察。
+
+* Cuối tuần cả gia đình tôi thường đi ra ngoại ô du lịch, ở xung quanh Hà Nội có rất nhiều điểm du lịch.
++ 每个周末我们全家常到外区去玩儿，在河内周围有很多旅游景点。
+
+* Bố em 37 tuổi, là kỹ sư Quản lý đất đai công tác tại Bộ Tài nguyên và Môi trường.
++ 我的父親，37歲，是一名工程師，在自然資源和環境部工作的土地管理。
+
+* Mẹ em 35 tuổi là giáo viên và em 7 tuổi là học sinh lớp 8A trường Trung học cơ sở Định Tăng.
++ 我母親35歲和7歲的教師年級學生2A初中增加。
+
+* Em có em trai 4 tuổi.
++ 我4歲的男孩。
+
+* Bố mẹ rất yêu thương hai anh em.
++ 父母愛的兄弟。
+
+* Em rất yêu quý bố mẹ và thương em.
++ 我崇拜和喜愛她的父母。
+
+* Em rất vui được là một thành viên trong gia đình.
++ 我很高興能成為家庭中的一員。
+
+* Em sẽ cố gắng học hành chăm chỉ.
++ 我會盡量努力學習。
+
+* Người mà tôi yêu quý nhất là mẹ tôi.
++ 我最爱的是我的母亲。
+
+* Mẹ tôi cao, hơi gầy.
++ 她身材高而瘦 她是一个热情善良的人。
+
+* Gương mặt trái xoan hiền lành phúc hậu và mái tóc dài óng mượt.
++ 长着一张椭圆形的脸和长长的头发。
+
+* Mẹ tôi rất yêu thương chúng tôi.
++ 我的母亲非常爱我们。
+
+* Bà thức khuya dậy sớm vất vả để kiếm tiền và chăm sóc cho chúng tôi.
++ 她习惯熬夜和早起挣钱和照顾我们。
+
+* Bà tuy là người nghiêm khắc nhưng nhờ vậy mà chúng tôi nên người.
++ 她是严格的，因为我们被教育成一个好人。
+
+* Tôi sẽ cố gắng học thất giỏi để không phụ lòng tin của mẹ.
++ 我会努力学习，以满足我母亲的信仰。。
+
+* Mẹ tôi là người mà tôi ngưỡng mộ nhất.
++ 我母亲是我最崇拜的人。
+
+* Mẹ đã cống hiến nhiều thời gian và sức lực vào việc dạy dỗ tôi và hai anh trai tôi.
++ 她为我和我的两个兄弟的成长付出了大量的时间和精力。
+
+* Mặc dù làm việc vất vả nhưng bà ấy đã luôn dành thời gian để dạy chúng tôi nhiều điều bổ ích mà cần thiết và quan trọng trong cuộc sống sau này của chúng tôi.
++ 尽管她努力工作，但她总是抽出时间教我们许多有用的东西，这些东西在我们以后的生活中是必要和重要的。
+
+* Hơn nữa, mẹ là một tấm gương cho tôi noi theo.
++ 而且，她是我的好榜样。
+
+* Mẹ luôn cố gắng sống hòa thuận với những người hàng xóm bên cạnh và giúp đỡ mọi người khi họ gặp khó khăn cho nên hầu hết mọi người tôn trọng và yêu quý bà ấy.
++ 她总是努力和住在隔壁的人相处得很好，当他们遇到困难时，她会帮助每个人，所以他们中的大多数人都尊重和爱她。
+
+* Tôi ngưỡng mộ và kính trọng mẹ tôi không chỉ bởi vì bà nuôi dưỡng tôi tốt mà mẹ còn bên tôi và đưa ra sự giúp đỡ nếu cần thiết.
++ 我敬佩和尊敬我的母亲，因为她不仅使我成长得很好，而且还支持我，在必要的时候给予一些帮助。
+
+* Ví dụ như khi tôi gặp những khó khăn thì mẹ sẽ đưa ra những lời khuyên quý giá giúp tôi giải quyết những vấn đề đó.
++ 例如，当我遇到困难时，她会给我一些宝贵的建议来帮助我解决这些问题。
+
+* Mẹ có ảnh hưởng lớn tới tôi và tôi hi vọng rằng tôi sẽ thừa hưởng được một số nét tính cách của mẹ.
++ 她对我有很大的影响，我希望我能继承她的一些特质。
+
+* Mẹ hiền chỉ cầm tay.
++ 慈母手中线。
+
+* Áo ấy thân con mặc.
++ 游子身上衣。
+
+* Lúc đi còn khâu chặt.
++ 临行密密缝。
+
+* Mong con chớ chậm về.
++ 意恐迟迟归。
+
+* Ai nói chút lòng nhỏ.
++ 谁言寸草心。
+
+* Báo được nắng ba xuân.
++ 报得三春晖。
+
+* Mẹ lìa con, con lìa mẹ,ngày không dựng nắng, đau mà khóc.
++ 母别子，子别母，白日无光哭声苦。
+
+* Quan Tây, phiêu kỵ đại tướng quân,phá giặc năm ngoái có công huân.
++ 关西骠骑大将军，去年破虏新策勋。
+
+* Vua ban tiền vàng hai trăm vạn,người đón rợp đường hoa Lạc Dương.
++ 敕赐金钱二百万，洛阳迎得如花人。
+
+* Đón chào người mới, bỏ người cũ,tay cầm hoa sen, mắt đau đáu.
++ 新人迎来旧人弃，掌上莲花眼中刺。
+
+* Đón mới nới cũ, đâu buồn thương,buồn thương nhà ai có hai trẻ.
++ 迎新弃旧未足悲，悲在君家留两儿。
+
+* Một chập chững đi, một biết ngồi,ngồi gào, đi khóc giằng níu áo.
++ 一始扶行一初坐，坐啼行哭牵人衣。
+
+* Ai đó, điều hay ho chẳng thiếu,để mẹ con ta đành chia phôi.
++ 以汝夫妇新燕婉，使我母子生别离。
+
+* Chẳng bằng rừng sâu, quạ và thước,mẹ bên chim non, trống mái họp.
++ 不如林中乌与鹊，母不失雏雄伴雌。
+
+* Thà như mận đào trong vườn xanh,hoa rơi bởi gió, đâu tại cành.
++ 应似园中桃李树，花落随风子在枝。
+
+* Người mới, người mới, nghe ta nói,lạc Dương đầy rẫy gái lầu hồng.
++ 新人新人听我语，洛阳无限红楼女。
+
+* Mong có tướng quân lại lập công, để có người mới vượt người trước.
++ 但愿将军重立功，更有新人胜于汝。
