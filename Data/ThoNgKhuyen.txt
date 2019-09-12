@@ -1300,5 +1300,602 @@
 * Vận hội núi bể cũng lạ kỳ thay!.
 + 山海運會亦奇哉！。
 
-* .
-+ 。
+* Giác tự thần chung.
++ 覺寺晨鐘。
+
+* Móc dày khói nặng hàng cây lặng như tờ.
++ 煙深露重樹無風。
+
+* Chùa Giác đâu đây đưa hồi chuông sớm đến.
++ 何處禪關送曉鐘。
+
+* Xa xa nghe tiếng vọng từ bên kia đỉnh nóc sát mây.
++ 餘嚮遙傳雲棟外。
+
+* Lạnh lẽo từng hồi một nửa đọng trong hoa tuyết.
++ 寒聲半滯雪花中。
+
+* Trên chòi canh nửa đêm tiếng điêu đẩu đã im bặt.
++ 戍樓刁鬥三更靜。
+
+* Nơi dặm tía không còn một hạt bụi bay.
++ 紫陌塵埃一點空。
+
+* Đến đây lòng kính cẩn vẫn muốn hỏi ai là chủ.
++ 這裡惺惺還問主。
+
+* Niềm tâm sự khôn đem bày tỏ với sư ông.
++ 難將底意話僧翁。
+
+* Giáp giang.
++ 甲江。
+
+* Đường lại qua sông Ghép lần nữa.
++ 甲江重來路。
+
+* Một mái chèo bơi nhẹ dưới bóng tà dương.
++ 斜陽一棹輕。
+
+* Càng về tối đàn âu trông thành đen.
++ 群鷗入夜黑。
+
+* Những ngọn núi xa xanh ngắt nhô lên lưng trời.
++ 遠岫半空青。
+
+* Gió giật, thuyền đánh cá khiếp sợ.
++ 風急驚魚挺。
+
+* Cát nhiều làm chậm trễ chuyến hành trình của ta.
++ 沙深滯客程。
+
+* Điều làm cho khách xa nhà buồn nhất.
++ 旅懹無杳處。
+
+* Là suốt ngày nghe sóng bể gầm.
++ 盡日海濤聲。
+
+* Giáp Thân trung thu ngụ Hà Nội hữu cảm ký đồng niên cử nhân Ngô.
++ 甲申中秋寓河內有感寄同年舉人吳。
+
+* Mười năm về trước ta ở nơi đây, cũng tết trung thu này.
++ 十年此地此中秋。
+
+* Thành quách còn y nguyên, nhưng cảnh đã khác.
++ 城郭依依景已殊。
+
+* Nến trắng, đèn đỏ, lấp loáng như gần như xa.
++ 白燭紅燈迷遠近。
+
+* Mũ trắng, dù xanh, lẫn lộn ta với người.
++ 素冠青蓋雜誰吾。
+
+* Sông Tô như giận, tiếng sóng vỗ dồn dập.
++ 蘇江有恨濤聲急。
+
+* Núi Nùng vô tình, mảnh trăng đêm lẻ loi.
++ 濃嶺無情夜月孤。
+
+* Lệnh cấm đi đêm, gần đây nghe nói gắt gao lắm.
++ 夜禁近聞嚴肅甚。
+
+* Nhà thơ có còn nhớ cuộc chơi trước kia không?.
++ 詩翁曾憶舊遊不？。
+
+* Giới viên.
++ 芥園。
+
+* Trước chỗ ngồi trồng một vườn cải.
++ 坐前一芥園。
+
+* Sớm hôm tưới tắm rất là khó nhọc.
++ 灌溉苦朝夕。
+
+* Một khóm thì củ vàng và mập mạp.
++ 一個黃荄肥。
+
+* Nhưng đầu hoa thì lại trắng phếch.
++ 花頭盡為白。
+
+* Một khóm thì đầu hoa vàng.
++ 一個花頭黃。
+
+* Nhưng dưới gốc lại không có củ.
++ 根下卻無核。
+
+* Hai bên không nên trái ý nhau.
++ 彼此莫相違。
+
+* Ta cùng các ngươi đều được vừa ý.
++ 吾與子共適。
+
+* Hạ nhật.
++ 夏日。
+
+* Nắng hoe gió nhẹ buổi hè vào.
++ 輕風嫩暑夏之初。
+
+* Mình lão thơ ngông chén lại hào.
++ 大醉狂吟獨有余。
+
+* Vải chín, bà hàng bưng quả biếu.
++ 巿婦承盤供熟荔。
+
+* Cá tươi, lão giặm nhắc nơm chào.
++ 佃翁發茍賣鮮魚。
+
+* Nghe chim giữa lúc vừa say dậy.
++ 宿醒乍起一聞雉。
+
+* Giở sách ôn câu chửa nhãng nào.
++ 舊句未忘頻撿書。
+
+* Tranh, nứa đủ vui khi tuổi tác.
++ 蓬蓽此間容老病。
+
+* Đường đời tất tả nữa ra sao?.
++ 棲棲塵路更何如？。
+
+* Hạ nhật hàn vũ.
++ 夏日寒雨。
+
+* Trước cửa sổ phía tây, mặt trời đã ngả nhưng bóng chưa tàn.
++ 日落西風影未残。
+
+* Bóng mây từ nơi nào bỗng phủ kín ngàn núi.
++ 雲陰何處鎖千山。
+
+* Hôm qua nắng dữ còn bực vì nóng.
++ 昨朝酷暑猶愁熱。
+
+* Chiều nay gió lạnh lại sợ rét rồi.
++ 今夕凄風又怕寒。
+
+* Quạt mới chưa biết hãy còn lên mặt.
++ 新扇未知猶德色。
+
+* Chăn cũ nhìn mình lại thấy thẹn thò.
++ 舊衾相對又慚顏。
+
+* Xưa nay lòng người sở thích khác nhau như sao Cơ, sao Tất.
++ 由來箕畢人情異。
+
+* Đạo trời dẫu công bằng cũng khó xử trí xong.
++ 天道雖公處置難。
+
+* Hạ nhật hữu cảm.
++ 夏日有感。
+
+* Ơn vua càng nặng thì cảm khích càng nhiều.
++ 皇恩夤重感夤增。
+
+* Đã lâu nay đội mũ phương nam muốn dứt đi không được.
++ 許久南冠絕不能。
+
+* Vì còn có một điểm lòng người như sừng tê thông suốt.
++ 尚有人心犀一點。
+
+* Nên đối với thế cục không thể không ứa lệ đến ba thưng.
++ 可無世局淚三升。
+
+* Cái chí khí tuổi tre đã hao mòn đi cùng với hai mái tóc.
++ 始年志氣歸雙鬢。
+
+* Văn chương trong buổi học suy tàn đã rơi xuống bậc dưới.
++ 末學文章入下層。
+
+* Giấc mộng hoa vàng nơi lữ thứ có rượu trắng gần gũi với mình.
++ 旅夢黃花白酒伴。
+
+* Chưa nên tỏ ra sợ sệt mệt mỏi gối đầu nằm trước ngọn đèn xanh.
++ 未應驚倦枕青燈。
+
+* Hạ nhật ngẫu hứng.
++ 夏日偶興。
+
+* Ngày hè nhìn đường dài lấy làm khó chịu.
++ 不堪夏日望修途。
+
+* Chí khí ngang tàng vốn có đã thành cô quạnh.
++ 平日凌雲志氣孤。
+
+* Trên đám rau tần biếc phủ mặt ao thấy một con cá chép nhẩy lên.
++ 覆沼綠蘋跳一鯉。
+
+* Trong bụi tre xanh trước cửa có đôi bươm bướm bay liện.
++ 當門翠竹舞雙蝴。
+
+* Hứng thơ của Uyên Minh phần nhiều vì rượu.
++ 淵明吟興哆歸酒。
+
+* Khe quanh nhà Tử Hậu cũng mang tiếng ngu.
++ 子厚環溪儘為愚。
+
+* Ngồi rỗi đương toan mang rượu ra uống.
++ 閒坐方將取杯酌。
+
+* Mưa từ phương đồng với làn gió mát cùng đến.
++ 雨從東至好風俱。
+
+* Hạ nhật ngẫu thành.
++ 夏日偶成。
+
+* Ta về nghỉ đã năm sáu năm.
++ 余歸五六載。
+
+* Nơi ở có ngôi nhà bảy gian.
++ 所居七間堂。
+
+* Phía Tây nam có ao nước trong.
++ 西南池水清。
+
+* Cúi nhìn cá bơi lội tung tăng.
++ 俯見魚洋洋。
+
+* Phía Đông bắc có bờ tre rậm.
++ 東北籬竹多。
+
+* Mở cửa sổ ra, khí trời buổi sáng mát mẻ.
++ 窗開晨氣涼。
+
+* Chống gậy tha hồ đi ra đi vào.
++ 扶筇恣出入。
+
+* Tựa ghế ngồi, muốn thấp muốn cao tuỳ ý.
++ 憑几隨低昂。
+
+* Cao hứng lên rót rượu uống tràn.
++ 乘興輒縱飲。
+
+* Mỗi lần uống hàng mấy chục chén.
++ 一飲累十觴。
+
+* Phương chi gạo mới ngon cơm.
++ 矧此新穀甘。
+
+* Lại thêm rau vườn thơm tho.
++ 兼之園菜香。
+
+* Sai con lấy sách ra đọc.
++ 命兒取書讀。
+
+* Xa xôi lại nghĩ đến đời Toại Nhân, Hoàng Đế.
++ 悠悠思燧黃。
+
+* Hạ nhật phỏng biểu huynh Đặng thai quy tác.
++ 夏日訪表兄鄧台歸作。
+
+* Chống gậy theo lùm dây leo trước cổng dạo quanh đường hẹp.
++ 攜杖捫蘿遶徑行。
+
+* Ngẫu nhiên đến thăm nhà bác Đặng.
++ 偶然來訪鄧家兄。
+
+* Nhìn nhau râu tóc, ai là người già hơn?.
++ 相看鬚髮誰為老。
+
+* Từng thấy xóm làng một nửa chưa thay đổi.
++ 曾見閭閻半未更。
+
+* Trâu mệt, nằm dưới gốc cây phì hơi nắng.
++ 臥樹疲牛噓暑氣。
+
+* Con chó nhỏ bên kia ao sủa tiếng người.
++ 隔池小犬吠人聲。
+
+* Thủng thỉnh cười chỉ ông trời khoẻ:.
++ 逍遙笑指天公健。
+
+* Suốt ngày một cây sáo lơ lửng giữa tầng không.
++ 盡日當空一笛橫。
+
+* Hạ nhật tân tình.
++ 夏日新晴。
+
+* Mừng được trời mới hửng nắng, vội mở cửa ra xem.
++ 喜得新晴一啓扉。
+
+* Thấy trên mây lững thững hiện ra bóng áo vàng.
++ 雲間容與出黃衣。
+
+* Tằm già thích khô ráo, đương ngủ sắp trở dậy.
++ 老蠶愛燥眠將起。
+
+* Lúa mới ngậm hơi ấm, đòng đòng dần dần mẫm ra.
++ 新穀含喧腹漸肥。
+
+* Chú bé chăn trâu cầm ngang chiếc roi xua nghé đi qua.
++ 牧豎橫鞭驅犢過。
+
+* Ông già bên xóm chống gậy đi thăm ruộng trở về.
++ 鄰翁扶杖看田歸。
+
+* Một mình ngồi bên cửa sổ hướng Bắc, lại thêm chén rượu.
++ 北窗獨坐添杯酒。
+
+* Chỉ thấy chiếc quạ từ nơi nào, tha rễ cây bay qua.
++ 何處寒鴉徹杜飛。
+
+* Hạ nhật vãn diểu.
++ 夏日晚眺。
+
+* Mới đầu tháng tư khí trời đã nóng nực.
++ 四月初回暑氣濃。
+
+* Một tiếng chim hót trong lùm cây xanh.
++ 一清啼鳥綠陰中。
+
+* Người nhà phơi lúa tranh nhau chạy mưa.
++ 家人晒穀爭逃雨。
+
+* Đàn bà nuôi tằm tìm cách chắn gió.
++ 婦女登蠶擬護風。
+
+* Ruộng lầy, người đi làm tham buổi về muộn.
++ 原濕貪天歸亦晚。
+
+* Bóng mây che mặt trời vẫn còn rạng ánh hồng.
++ 雲陰覆日影猶紅。
+
+* Cuộc đời tất cả đều túi bụi, có ai là người rỗi việc?.
++ 百年奕奕誰無事。
+
+* Xoã tóc hóng mát, chỉ có độc ông lão này.
++ 散髮承涼獨乃翁。
+
+* Hạ nhật văn cô ác thanh.
++ 夏日聞鴣惡聲。
+
+* Một tiếng kêu cô ác buồn chết chết người ta.
++ 鴣惡一聲愁殺人。
+
+* Cô về thì xuân đi cô không biết xuân.
++ 鴣來春去不知春。
+
+* Lấy tổ rễ dâu của chi khác làm tổ của mình.
++ 撤他桑杜為門戶。
+
+* Chỉ có vợ chồng mà không có vua tôi.
++ 只有婦夫無君臣。
+
+* Đến đâu đều áo trắng khoe khoang giữa ban ngày.
++ 處處白衣憍白日。
+
+* Nơi nào quả vải đỏ cùng tới tấp trong bụi hồng.
++ 村村紅栵擻紅塵。
+
+* Cô đến cô không thấy khổ vì nóng nực.
++ 鴣來鴣不苦煩熱。
+
+* Ngoảnh đầu nhớ đến gió xuân giọt lệ thấm khăn.
++ 回首東風暗濺巾。
+
+* Hà Nội Văn Miếu hữu cảm.
++ 河內文廟有感。
+
+* Đã mươi năm, nay lại bước tới cửa Giám cũ.
++ 十載空躋舊監門。
+
+* Nỗi lòng dằng dặc biết nói cùng ai.
++ 悠悠心事向誰論。
+
+* Lầu Khuê Văn chưa dứt tiếng chuông đêm.
++ 奎樓未斷宵鐘響。
+
+* Dòng Bích Thuỷ còn gọi hồn trăng khuya.
++ 碧水猶招月夜魂。
+
+* Lau nước mắt ướt khăn vì nỗi đạo ta khốn ách.
++ 拭目沾巾吾道厄。
+
+* Phủi bia cũ xem chữ, cảm thấy người xưa vẫn còn.
++ 拂碑看字古人存。
+
+* Thỉnh thoảng có ông lão trong xóm qua lại.
++ 往來時有村墟叟。
+
+* Cứ chống gậy đi trên đường ngõ chẳng nói năng gì.
++ 巷外扶筇默不言。
+
+* Hàm giang xuân thuỷ.
++ 涵江春水。
+
+* Một dải mênh mông chảy xuôi ra bể.
++ 一派汪洋到海濱。
+
+* Cảnh xuân trên sông Hàm đẹp biết chừng nào.
++ 涵江江水不勝春。
+
+* Trăng từ ngọn ngô đồng in xuống lòng sông như những hạt ngọc.
++ 梧桐月印波心玉。
+
+* Gió qua ngàn dương liễu thổi gợn mặt nước trắng xoá như bạc.
++ 楊柳風飄水面銀。
+
+* Hai bên bờ chia thành hai ngả bắc nam.
++ 兩岸分開南北路。
+
+* Một cánh buồm tiễn đưa tất cả khách xuôi ngược.
++ 一帆送盡往來人。
+
+* Khí hào hùng của những chiến tướng họ Đinh còn sót lại những gì.
++ 丁家戰將餘豪氣。
+
+* Kìa đám rau tần bên bến nước vẫn xanh tốt như xưa.
++ 洲渚依依長綠蘋。
+
+* Hí tặng song hữu Lê Xá tú tài.
++ 戱贈窗友黎舍秀才。
+
+* Cùng là bệnh nhưng bệnh không giống nhau.
++ 同病由來病不同。
+
+* Bác thì chỉ còn mắt sáng, tôi thì còn tai sáng.
++ 君偏明目我偏聰。
+
+* Nói chuyện bằng tay vẽ làm cho tai bác rảnh.
++ 談依手畫閒君耳。
+
+* Rượu có người rót hộ đỡ cho con mắt của tôi.
++ 酒有人斟佐我瞳。
+
+* Sẵn có tính trời chỉ cần giữ cho tâm linh khỏi mờ đi là đủ.
++ 天性衹應靈不昧。
+
+* Đối với thói đời hãy cứ điếc mà cười xoà càng hay.
++ 世情莫厭柚如充。
+
+* Hai người nếu hợp lại chỉ bằng một người.
++ 二人解使合為一。
+
+* Tạo vật phú dữ cho người, cứ bảo là công những cũng chưa công.
++ 賦予為公却未公。
+
+* Hoàn Kiếm hồ.
++ 還劍湖。
+
+* Đã ba mươi năm không đến hồ Hoàn Kiếm.
++ 不到劍湖三十年。
+
+* Cảnh sắc thời ấy nay đã mờ mịt.
++ 當時景色已茫然。
+
+* Những nơi nhà tranh cổng trống đều thành lâu đài.
++ 衡茅何處起樓閣。
+
+* Ban đêm chỉ nghe tiếng súng, tiếng kèn, không thấy đàn sáo.
++ 笳礮但聲無管絃。
+
+* Chim én tìm về quên cả lối cũ.
++ 玄鳥歸來迷舊徑。
+
+* Âu trắng tối đến ngủ trong khói sương.
++ 白鷗暮下宿寒煙。
+
+* Đáng thương mảnh đất văn vật năm trăm năm trước.
++ 可憐五百文章地。
+
+* Chỉ còn một hòn núi đá nhỏ như nắm tay trơ trọi.
++ 尚有孤山石一拳。
+
+* Hung niên kỳ 1.
++ 凶年其一。
+
+* Than ôi, ta sinh ra gặp buổi nhiều điều lo lắng.
++ 我生之後嘆逢罹。
+
+* Đời loạn người cùng lại gặp năm mất mùa.
++ 世亂人窮歲又饑。
+
+* Ban đêm dế kêu rền rĩ như nói lên những sự ấm ức.
++ 息息夜蟲如自訴。
+
+* Tiếng nhạn kêu sương nhác muốn bay đi ngả nào.
++ 嗷嗷霜雁欲何之。
+
+* Cũng may nhà nho còn được xếp trên hạng ăn mày.
++ 幸因儒等為先丐。
+
+* Đã quen ăn rễ rau lê nên da chưa đến nỗi nhăn lại.
++ 久慣蔾根未皺皮。
+
+* Trong lúc lo buồn sắp cầm bút viết.
++ 憂悶愴然將著筆。
+
+* Sực nhớ đến đời xưa đã từng có “thơ xin ăn”.
++ 古人乞食已成詩。
+
+* Hung niên kỳ 2.
++ 凶年其二。
+
+* Năm mất mùa ruộng ta tốt sao được.
++ 凶年安得我田臧。
+
+* Kẻ xin ăn người khóc đói nơi nơi nháo nhác.
++ 索食啼饑處處忙。
+
+* Nếu vua thần nông mà biết được việc sau nghìn năm.
++ 農帝若知千載後。
+
+* Thì có lẽ cứ để cho người ta ăn sống bắt tươi như thời hồng hoang.
++ 應教咀搏似鴻荒。
+
+* Hung niên kỳ 3.
++ 凶年其三 。
+
+* Mưa tạt vào cửa sổ lạnh lẽo mở hé nửa chừng.
++ 雨打寒窗一半開。
+
+* Tung chăn ngồi dậy dạ những bồi hồi.
++ 推衾起坐悵然懷。
+
+* Chỉ nghe thấy mụ hàng xóm cầu đảo lúa mới.
++ 但聞鄰婦祈新麥。
+
+* Không thấy ông lão trong làng đưa thứ rượu cũ đến.
++ 不見村翁送舊醅。
+
+* Trông vời non sông nước cũ thật là thảm đạm.
++ 故國山何真慘黮。
+
+* Lũ chim hồng nhạn lạc loài tha hương rất là đau thương.
++ 他鄉鴻雁最悲哀。
+
+* Năm đói nhưng lạ thay có kẻ nét mặt vẫn hớn hở.
++ 年饑卻怪施施者。
+
+* Chẳng biết no nê từ nơi cồn mả nào mà đến.
++ 何處墦間饜足來。
+
+* Hung niên kỳ 4.
++ 凶年其四。
+
+* Mùa đông trước vì đại hạn lúa không thu được.
++ 旱甚冬前榖不收。
+
+* Gió rét mùa hè này lại lạnh như mùa thu.
++ 凄風今夏冷如秋。
+
+* Cháo thừa ở bãi tha ma đã từng ăn chưa?.
++ 墦間剩粥曾餐未。
+
+* Rượu còn lại ở đáy hũ có thèm uống không?.
++ 甕底留醅肯醉無。
+
+* Ví phỏng vận nước cũng bị tai ách như vận nhà.
++ 國運若為家運厄。
+
+* Thì những hạng “ông lớn” đều đáng gọi là “ông lợn” cả.
++ 大人應作豕人呼。
+
+* Đói kém chỉ là việc tầm thường đừng than vãn lắm.
++ 莫嘆尋常饑餓甚。
+
+* Chỉ đến lúc cùng mới thấy được cái bản chất của ta.
++ 時窮力是見真吾。
+
+* Hung niên kỳ 5.
++ 凶年其五。
+
+* Mùa qua đại hạn còn đâu?.
++ 旱甚冬前穀不收。
+
+* Chiêm này gió lạnh khác nào thu xưa!.
++ 凄風今夏冷如秋。
+
+* Cháo thừa trốc mả ăn chưa?.
++ 墦間剩粥曾餐未。
+
+* Rượu thừa đáy hũ say sưa được nào?.
++ 甕底留醅肯醉無。
+
+* Vận nhà vận nước ngang nhau.
++ 國運若為家運厄。
+
+* "Ông lớn", "ông lơn" chung vào một tên.
++ 大人應作豕人呼。
+
+* Đói no chớ vội than phiền.
++ 莫嘆尋常饑餓甚。
+
+* Gieo neo mới thấy vẹn tuyền cái "ta".
++ 時窮方是見真吾。
