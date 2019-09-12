@@ -1,2 +1,784 @@
-* Đây là công đoạn quan trọng trước khi làm khô cá.
+﻿* Đây là công đoạn quan trọng trước khi làm khô cá.
 + 这是晒鱼前的一个重要步骤。
+
+* Tôi thích ăn món vừa chua vừa ngọt.
++ 我喜欢吃又酸又甜的。 
+ 
+* Tôi thích ăn món cay một chút. 
++ 我喜欢吃拉一点儿的。
+
+* Tôi thích ăn món Trung Quốc. 
++ 我喜欢吃中餐。
+
+* Tôi không thích ăn món Tây. 
++ 我不喜欢吃西餐。
+
+* Tôi thích đồ ăn nhanh. 
++ 我喜欢吃快餐。
+
+* Món Trung Quốc rất ngon.  
++ 中国菜很好吃。 
+
+* Món Hồng Kông không ngon. 
++ 香港菜不好吃。
+
+* Tôi không ăn được cay. 
++ 我不能吃辣的。
+ 
+* Tôi không thích ăn món mặn.
++ 我不喜欢吃咸的。 
+ 
+* Tôi thích ăn rau sống. 
++ 我喜欢吃生菜。 
+
+* Rau sống của Việt Nam rất ngon.
++ 越南的生菜很好吃。 
+
+* Trong rau sống có rất nhiều vitamin. 
++ 生菜里边有很多维生素。 
+
+* Tôi rất thích ăn hoa quả. 
++ 我很喜欢吃水果。
+
+* Hoa quả của Việt Nam rất phong phú đa dạng.
++ 越南的水果很丰富多样。
+ 
+* Hoa quả của Trung Quốc không nhiều. 
++ 中国的水果不多。  
+ 
+* Quả xoài vừa chua vừa ngọt.
++ 芒果又酸又甜。
+ 
+* Sầu riêng có mùi vị rất đặc biệt. 
++ 榴莲有特别的味道。
+
+* Rất nhiều người không thích ăn sầu riêng. 
++ 很多人不喜欢吃榴莲。
+ 
+* Mùi vị của sầu riêng rất nồng. 
++ 榴莲的味道很浓。 
+
+* Sầu riêng là hoa quả mà tôi thích ăn. 
++ 榴莲是我喜欢吃的水果。
+
+* Người Việt Nam rất thích ăn măng cụt. 
++ 越南人很喜欢吃山竺。
+
+* Ăn cùng lúc hai loại hoa quả mới tốt. 
++ 一起吃两种水果才好。 
+ 
+* Ăn nhiều sầu riêng rất dễ bị nóng.
++ 榴莲吃多了很容易上火。 /Liúlián chī duō le hěn róngyì shàng huǒ./ 
+
+* Chúng nó bổ sung lẫn nhau.
++ 他们互相补充。 
+ 
+* Hình như bạn béo lên thì phải. 
++ 你好像胖起来了。  
+
+* Bạn nên giảm béo là vừa. 
++ 你应该减肥了。 
+
+* Bạn cần ăn nhiều hoa quả và rau sống một chút. 
++ 你要多吃一点儿水果和生菜。
+
+* Bạn đừng ăn nhiều thịt quá. 
++ 你不要吃太多肉类。
+
+* Ăn nhiều rau sống và rau xanh rất có lợi cho sức khỏe.
++ 多吃水果和蔬菜对身体很有好处。
+
+* Bạn có thể đắp mặt nạ bằng lát hoa quả. 
++ 你可以用水果片做面膜。
+
+* Hoa quả rất tốt cho da dẻ.
++ 水果对皮肤非常好。 
+
+* Hôm nay tôi mời bạn ăn cơm. 
++ 今天我请你吃饭。
+ 
+* Bạn đi ăn cơm với tôi đi. 
++ 你跟我一起去吃饭吧。
+
+* 我觉得不太好吃。 
++ Tôi thấy không ngon lắm.
+ 
+* 她不喜欢吃中国菜。
++ Cô ta không thích ăn món Trung Quốc.
+
+* Chúng ta đến quán ăn Trung Quốc ăn đi, tớ thích đồ ăn Trung Quốc lắm.
++ 我们去中餐馆吃饭吧，我非常喜欢中国菜。
+
+* Ok, ở gần đây có một quán ăn Trung Quốc rất nổi tiếng, chúng ta tới ăn thử xem.
++ 好的，附近有一个很有名的中餐馆，我们去尝尝吧。
+
+* Hoan nghênh quý vị, xin hỏi có mấy người vậy?
++ 服务员：欢迎光临! 请问您几位？
+
+* Chỉ có 2 người chúng tôi, quán ăn các vị có những món nào ngon vậy?
++ 只有我们两个.你们这里有什么好吃的？
+
+* quán chúng tôi có món sườn xào chua ngọt, cá sốt cà chua, cơm xào thịt bò đều rất nổi tiếng.
++ 服务员：我们的糖醋排骨、茄汁烩鱼还有炒牛肉饭都非常有名。
+
+* Vậy cho mỗi món một phần đi.
++ 好，那每一菜来一份吧。
+
+* Hai vị muốn uống gì không?
++ 你要喝什么吗？
+
+* Tớ thích uống cô ca.
++ 我喜欢喝可乐。
+
+* Vậy cho chúng tôi 1 chai cô ca và 1 ly hồng trà nhé.
++ 那再给我们一瓶可乐和一杯红茶吧。
+
+* Hai vị còn muốn gọi gì nữa không ạ?
++ 服务员：您还要别的吗？
+
+* Cứ thế đã, nếu không đủ chúng tôi gọi tiếp nhé.
++ 先这样吧，不够再点，好吧。
+
+* Được, xin vui lòng chờ một chút.
++ 服务员：好的，请稍等。
+
+* Phục vụ, tính tiền.
++ 服务员算账。
+
+* Hoan nghênh quay trở lại!
++ 服务员：欢迎再来！
+
+* Quý khách muốn ăn gì?
++ 你想吃什么？
+
+* Có gì ngon không?
++ 有什么好吃的？
+
+* Thịt gà nướng không tồi, anh thử nhé!
++ 烤鸡不错，尝尝吧！	
+
+* Được, cho một con.
++ 好的，来一只.
+
+* Xin đợi một lát
++ 请稍等	
+
+* Ngon quá, phục vụ, menu
++ 好吃极了，服务员，菜单
+
+* Còn có cái gì ngon nữa không?
++ 还有什么好吃的？	
+
+* Mì vằn thắn không tồi, anh nếm thử nhé
++ 面条不错，尝尝吧！	
+
+* Được, cho một bát
++ 好的，来一碗.	
+
+* Đây là cái gì mà ngon thế?
++ 这是什么好吃的？
+
+* Canh cá.
++ 水煮鱼.
+
+* Cho một con.
++ 来一条	.
+
+* Hơi cay đó.
++ 有点辣	.
+
+* Không sao.
++ 没关系.
+
+* Xin đợi một lát.
++ 请稍等. 
+
+* Cay chết rồi.
++ 辣极了	
+
+* Bạn thích loại thức ăn nào?
++ 你喜欢哪一种菜？
+
+* Bạn có thích đồ ăn Trung Quốc không?
++ 你喜欢中国菜吗？
+	
+* Bạn thích ăn gì, món Trung hay món Tây?
++ 你喜欢吃什么菜，中式的还是美式的？	
+
+* Làm ơn cho tôi biết nhà hàng Trung Quốc ở đâu?
++ 请你告诉我中国餐馆在哪里？
+
+* Bạn có biết ở đây có thức ăn nhanh nào ăn được không?
++ 你知道哪里有快餐可吃？	
+
+* Bạn muốn ăn gì?
++ 你要吃什么？	
+
+* Bạn muốn gọi muốn gì?
++ 你要点些什么菜？	
+
+* Bạn đã gọi món chưa
++ 你点过菜了吗？
+
+* Tôi đang đợi một người bạn, tôi sẽ gọi món sau.
++ 我在等一位朋友，稍后再点。	
+
+* Bạn có thể gợi ý một vài món ăn ngon được không?
++ 请你推荐一些好菜好吗？
+
+* Món đặc biệt của ngày hôm nay là gì?
++ 今天的特色菜是什么？	
+
+* Tôi muốn ăn đơn giản thôi.
++ 我想吃些简单的东西。	
+
+* Bạn thích ăn điểm tâm nào?
++ 你喜欢吃点什么点心？	
+
+* Chúng tôi đang rất vội.
++ 我们要赶时间。
+
+* Làm ơn mau mang thức ăn cho chúng tôi.
++ 我们点的菜请快送来。	
+
+* Bít tết hôm nay rất ngon.
++ 今天的牛排很不错。	
+
+* Tôi muốn một suất bít tết.
++ 我就要份牛排。	
+
+* Bạn thích bít tết chín một chút hay là tái?
++ 你喜欢的牛排是熟一些还是生的？
+
+* Tôi muốn một suất bít tết chín vừa.
++ 我要熟一点儿的牛排。	
+
+* Uống một cốc thế nào
++ 喝一杯怎样？
+
+* Cạn ly
++ 干杯！	
+
+* Chúc cậu mạnh khỏe!
++ 祝你健康！	
+
+* Cậu cùng tôi cùng nâng chén chúc sức khỏe ngài Trần nào.
++ 请你跟我一起举杯祝陈先生健康。	
+
+* Cậu cùng tôi cùng nhau nâng chén chúc cho hợp tác thành công nào.
++ 请你跟我一起举杯预祝我们合作成功。	
+
+* Tôi muốn tìm nơi nào ăn rẻ một chút.
++ 我要找个便宜的地方吃。	
+
+* Gần đây có quán ăn không?
++ 这附近有餐馆吗？	
+
+* Cậu có thể giới thiệu cho tôi vài quán ăn ngon không?
++ 你能介绍一间好餐馆吗？		
+
+* Ở thị trấn này có quán ăn Trung Quốc nào không?
++ 在本镇有中国餐馆吗？		
+
+* Cậu có thể cho tôi biết ở đây có quán ăn nào giá cả hợp lí mà ngon không?
++ 请你告诉我哪里有价钱公道而菜又好的餐馆好吗？
+	
+* Phục vụ thế nào?
++ 服务怎么样？
+
+* Làm ơn đưa cho tôi thực đơn.
++ 请给我一从菜单好吗？
+
+* Tiên sinh, thực đơn ở đây.
++ 先生，菜单就在这儿。	
+	
+* Cậu bây giờ chuẩn bị gọi món sao?
++ 你现在就准备点菜吗？		
+
+* Tối qua cậu ăn cơm ở đâu?
++ 昨晚你在什么地方吃饭的？	
+
+* Vị của món này ngon.
++ 它的味道很好。	
+
+* Món ăn mặn quá rồi.
++ 菜太咸了。		
+
+* Tôi khát rồi.
++ 我口渴了。	
+
+* Cho tôi một cốc nước lạnh.
++ 请给我一杯冷水。
+
+* Tôi đang ăn kiêng.
++ 我在节食中。	
+
+* Tôi không thể ăn nhiều hơn nữa.	
++ 我不想再多吃了。	
+
+* Đây là một bữa ăn vui vẻ.
++ 这是个令人愉快的一餐。
+
+* Cậu muốn uống gì?
++ 你要喝点儿什么？	
+
+* Tôi muốn một cốc cà phê được không?
++ 我想要一杯咖啡好吗？	
+	
+* Cậu muốn uống cà phê hay trà?
++ 你要喝咖啡还是茶？		
+
+* Tôi muốn uống trà chanh.
++ 我想要柠檬茶。		
+
+* Cậu còn muốn ăn gì thêm không?
++ 你还要吃别的东西吗？		
+
+* Không cần, cảm ơn, tôi đã ăn no rồi.
++ 不用，谢谢。我已经吃饱了。	
+
+* Tôi muốn ăn kem với hoa quả tươi.
++ 我要吃点冰淇淋和新鲜水果。		
+
+* Cậu muốn ăn gì thì cứ tự nhiên đi.
++ 你喜欢什么随便吃。	
+
+* Làm ơn cho tôi muối với hạt tiêu.
++ 请把盐和胡椒递给我。	
+
+* Tôi đã gọi món mười phút trước rồi.
++ 我10分钟前就点菜了。	
+
+* Tôi đã đợi nửa tiếng rồi.
++ 我一直等了半个小时。	
+
+* Vì sao đồ ăn của tôi mãi chưa có?
++ 为什么我点的菜那么慢？		
+
+* Tôi không thể đợi được nữa.
++ 我不能再等了。	
+
+* Xin vui lòng phục vụ nhanh chóng.
++ 请尽快服务。		
+
+* Chúc bạn ngon miệng!
++ 你吃好！		
+
+* Tôi ăn no rồi.
++ 我吃饱了.	
+
+* Bạn cứ ăn đi nhé/ cứ bình tĩnh ăn nhé
++ 慢慢吃	
+
+* Có thể đưa hóa đơn cho tôi không?
++ 请把账单给我好吗？	
+
+* Vui lòng thanh toán ở quầy.
++ 请到柜台付账。
+
+* Chúng ta ai trả của người nấy.
++ 我们各付各的。
+
+* Không, lần này tôi mời.
++ 不，这次我请客。		
+
+* Lần này tôi mời có được không?		
++ 这次我请客好吗？
+
+* Anh có bàn cho 6 người ngồi không?
++ 您有6个人的台子吗？
+
+* Tôi thích ngồi bàn gần cửa sổ.
++ 我喜欢靠近窗边的桌子。
+
+* Tôi đã dùng tên “Jim” để đặt một bàn rồi.
++ 我用“Jim”的名字预定了一张桌子。 
+
+* Tôi muốn xem thực đơn.
++ 我想看一下菜单。
+
+* Tôi muốn gọi món.
++ 我现在要点菜。
+
+* Anh giới thiệu món nào?
++ 你推荐什么？
+
+* Các anh có ăn cay không?
++ 你们吃辣的吗？
+
+* Tôi không ăn cay.
++ 我不吃辣的。
+
+* Tôi là người ăn chay.
++ 我是素食者。 
+
+* Tôi bị dị ứng với tôm.
++ 我对虾过敏。 
+
+* Tôi muốn ăn vịt quay Bắc Kinh.
++ 我想要北京烤鸭。
+
+* Tôi sẽ ăn bánh nhân táo để tráng miệng.
++ 我会吃苹果派作甜食。
+
+* Tôi muốn một chút rượu trắng.
++ 我想要一些白酒。
+
+* Đây không phải món do tôi gọi.
++ 这不是我点的。
+
+* Tôi muốn thanh toán.
++ 我想要买单。
+
+* Tôi nghĩ rằng hóa đơn này có nhầm một chỗ.	
++ 我认为账单上有一个错误。	
+
+* Cho chị một hai bia Hà Nội.
++ 来一瓶河内啤酒。
+
+* Các anh muốn uống rượu gì? Rượu Mao Đài được không?
++ 要什么酒？是茅台酒吗？
+
+* Món ăn chinh là gì?
++ 主食吃什么？
+
+* Cho hai bát cơm.
++ 两碗饭。
+
+* Có cần canh không?
++ 要汤吗？
+
+* Cho món canh trứng nấu cà chua.
++ 来一碗西红柿炒鸡汤。
+
+* Bạn cẩn bao nhiêu thịt?
++ 你需要多少肉? 
+
+* Có tươi không?
++ 够新鲜吗?  
+
+* Móc và rửa sạch bên trong con cá.
++ 把鱼内脏掏洗干净.  
+
+* Bạn đang nấu món gì vậy?
++ 你在做什么饭?  
+
+* Thịt sắp nướng cháy rồi.
++ 肉要烧焦. 
+
+* Thái cà chua thành hạt lựu.
++ 把茄子切成丁儿.  
+
+* Bếp ga hỏng rồi.
++ 煤气灶坏了.  
+
+* Ở trong tủ bát.
++ 在橱柜里.  
+
+* đưa cho tôi một cái đĩa.
++ 递给我一个盘子.  
+
+* thái thành miếng mỏng.
++ 切成薄片.  
+
+* Đổ cà chua vào.
++ 加入番茄. 
+
+* Sấy khô trong lò nướng.
++ 在烤箱里进行烘焙.  
+
+* Chiên đô ăn trong dầu nóng.
++ 把食物放进热油中炸.  
+
+* Chỗ này sao lại nhiều dán vậy?
++ 这里为什么这么多蟑螂啊?   
+
+* Tôi muốn ninh thịt hầm trong 5 phút.
++ 我想把炖肉煨5分钟.  
+
+* đun nóng nước lên môt chút.
++ 烧点水吧.  
+
+* Tôi ngửi thấy mùi ga. Tắt bếp ga đi.
++ 我闻到煤气味了.把煤气关了.  
+
+* Vẫn chưa trộn xong.
++ 还没有完全搅拌好.  
+
+* Đập 2 quả trứng vào.
++ 打两个鸡蛋.  
+
+* Bạn có thể cho một chút đá vào mỗi cốc không?
++ 你能在每个杯子里放些冰吗?   
+
+*  Con dao này cùn quá.
++ 这把刀太钝了.
+
+* ok, sắp nấu xong rồi.
++ 好了.快做完了. 
+
+* Còn cần bao lâu nữa mới nấu xong?
++ 还要多久才能做好呀?   
+
+* Bữa tối nấu gì ngon nhỉ?
++ 晚饭做什么好呢?  
+
+* Con dao này dễ sử dụng nhỉ, đúng không?
++ 这刀挺好使的,是不是?  
+
+* Anh yêu, vặn nhỏ bếp ga xuống là được.
++ 亲爱的,把煤气炉调小就好.  
+
+* Chờ canh nguội là bạn có thể ăn được.
++ 等汤一凉下来,你就可以吃了.  
+
+* Cho thêm chút muối nữa.
++ 多放一些盐.
+
+* Mẹ đang ở trong bếp nấu một bữa ăn thịnh soạn.
++ 妈妈正在厨房里大显身手呢.
+
+* Tôi nấu ăn, Erin lo mảng giặt giũ.
++我做饭，埃琳收拾碗筷。
+
+* Hôm qua, tôi bận rộn trong bếp để làm bánh.
++ 我昨天一直忙着做蛋糕呢。
+
+* Căn bếp bẩn và không hấp dẫn chút nào.
++ 厨房脏乱不堪。
+
+* Bạn có thể sử dụng tất cả mọi thứ.
++ 你可以使用所有的物品。
+
+* Trong quá khứ, phụ nữ chỉ được phép ăn trong bếp.
++ 过去，女人只能在灶屋吃饭。 
+
+* Từ đây đến nhà hàng Mc Donal gần nhất đi mất bao lâu?
++ 离这里最近的麦当劳要走多久?
+
+* Tôi gọi suất ăn thứ 2.
++ 我要二号套餐.
+
+* Chỗ các anh có món ăn nhanh nào đặc sắc không ?
++ 你们这里有什么特色快餐吗?
+
+* Anh có thể giới thiệu cho tôi nhà hàng đồ ăn nhanh Trung Quốc tốt nhất không?
++ 你可以为我推荐一家最好的中试快餐厅吗?
+
+* Anh có thể cho tôi biết đây là gì không?
++ 你能告诉我这是什么吗?
+
+* Tôi sẽ ăn món này.
++ 我将要吃这个.
+
+* Anh có gợi ý món nào không?
++ 你有什么推荐吗?
+
+* Tôi muốn sủi cảo nhân tôm, vằn thắn và bánh bao trứng sữa.
++ 我想要一些虾饺,馄饨和一个奶黄包.
+
+* Tôi có thể xem thực đơn không?
++ 我可以看一下菜单吗?
+
+* Anh có thực đơn không?
++ 你有菜单马?
+
+* Thanh toán!
++ 买单!
+
+* Đắt không?
++ 贵吗?
+
+* Tôi muốn đến kia nếm 1 chút.
++ 我想去那里品尝一下.
+
+* Chào các anh, xin hỏi các anh muốn dùng gì?
++ 你们好.请问你们用什么菜?
+
+* Cho tôi xem thực đơn.
++ 拿菜单给我看.
+
+* Xin đợi một chút…Đây ạ!
++ 请等一下…这个得.
+
+* Cho tôi 1 thịt lợn xốt chua ngọt, một cải ngọt xào, một gà rán, một cá hấp, 2 bát cơm, 1 bát canh dưa.
++ 来一个香波咕噜肉,一个炒青菜,一个炸鸡,一个清蒸鱼,两碗饭,亿万西瓜汤.
+
+* Anh có muốn uống gì không?
++ 你要喝点儿什么?
+
+* Cho tôi 1 bia Hà Nội và 1 chai rượu Brandi.
++ 来一个河内啤酒和一瓶白兰地.
+
+* Vâng, anh đợi một lát. Thức ăn sẽ được mang ra ngay.
++ OK.请等一下儿,菜就来.
+
+* Các anh đến rồi. Mời các anh ngồi chỗ này.
++ 你们来了,请这边坐.
+
+
+* Các anh muốn dùng món gì?
++ 你们几位想吃点什么?
+
+* Cho tôi 1 cá hấp.
++ 来一个清蒸鱼.
+
+* Thêm 1 con vịt quay Bắc Kinh và 1 súp lơ xào hải sản.
++ 再要一只北京烤鸭和一个西兰花带子.
+
+* Cô tư vấn giúp tôi mấy món khác được không?
++ 请帮我堤点几个菜,行吗?
+
+* Các anh muốn uống rượu gì? Rượu Mao Đài nhé!
++ 要什么酒?是茅台酒吗?
+
+* Món chính các anh dùng gì?
++ 主食吃什么?
+
+* Cho 2 bát cơm.
++ 给我两碗饭.
+
+* Anh có gọi thêm canh không?
++ 你要加汤吗?
+
+* Cho một bát canh trứng cà chua.
++ 来一碗西红柿鸡汤.
+
+* Cô ơi, tính tiền cho tôi.
++ 娘女,请算帐.
+
+* Của anh tổng cộng 950.000 đồng ạ.
++ 你的单总共950.000块.
+
+* Hôm nay tôi mời, để tôi trả tiền cho.
++ 今天我请客,我来付钱.
+
+* Tiền thừa cô cứ giữ lấy nhé.
++ 娘女,剩下的钱,请你收下吧.
+
+* Cảm ơn anh, nhưng chỗ em quy định không nhận tiền bo ạ.
++ 谢谢,我们酒店规定不能收小费.
+
+* Bạn có biết nấu ăn không?
++ 你会做菜吗？
+
+* Biết một chút. Bạn thì sao?
++ 会一点。你呢？
+
+* Tôi nấu rất ngon. Món ăn sở trường của tôi là món trứng sốt cà chua
++ 我做得很好。我的拿手菜是番茄炒蛋。
+
+* Vậy lần tới bạn làm cho tôi ăn nhé.
++ 那你下一次做给我吃。
+
+* Bạn có muốn ở nhà làm một bà nội trợ không?
++ 你愿意在家做全职太太吗?
+
+* Sau khi cưới, bạn có đồng ý ở nhà làm một bà nội trợ không?
++ 婚后, 你愿意当全职太太吗?
+
+* Ăn nhiều vào.
++ 多吃点。
+
+* Món này hơi mặn.
++ 这菜有点咸。
+
+* Cho anh bát nữa.
++ 再给我一碗。
+
+* Cơm mẹ nấu ăn ngon nhất.
++ 妈妈做的菜最好吃了。
+
+* Phải ăn sáng thôi.
++ 该吃早饭了。
+
+* Khi nào chúng ta ăn cơm?
++ 我们什么时候吃饭？
+ 
+* Bữa tối ăn món gì?
++ 晚饭吃什么？
+
+* Cơm tối sắp làm xong rồi.
++ 晚饭快要做好了。
+
+* Đến giờ ăn cơm rồi.
++ 吃饭时间到了。
+
+* Cơm tối chuẩn bị xong rồi.
++ 晚饭准备好了。
+
+* Cho anh thêm ít thức ăn được không?
++ 请给我添点菜，行吗？
+
+* Có ăn thêm món này nữa không?
++ 这个菜再来一点吗？
+ 
+* Cho anh thêm ít tương ớt được không?
++ 那个辣椒酱再来点好吗？
+
+* Coi chừng, món này còn nóng lắm.
++ 小心，这很烫。
+
+* Anh đi bày bàn ăn được không?
++ 你去摆餐桌好吗？
+
+* Ngồi vào đi, cơm tối làm xong rồi.
++ 去坐下，晚饭做好了。
+
+* Tôi bị dị ứng (với) ___. Món này có ___ không?
++ 我对____过敏。这里包含____吗？
+
+* Tôi bị tiểu đường. Món này có đường hay carbohydrate không?
++ 我有糖尿病。这个里面含糖或者碳水化合物吗？
+
+* Cho tôi xin một cốc nữa.
++ 我想要加菜，谢谢。
+
+* Chúc bạn ăn ngon miệng!
++ 祝您就餐愉快！
+
+* Bàn ghế đã được bố trí xong hết rồi, mời ông vào, ông Lý
++ 李先生，桌子已经摆上了，您里边请。
+
+* Anh thích uống loại rượu nào ?
++ 您喜欢喝什么酒？
+
+* Uống bia vậy.
++ 啤酒吧。
+
+* Anh thử món này xem mùi vị của nó thế nào ?
++ 您尝尝这个菜，味道怎么样？
+
+* Ngon thật đấy. Rất hợp với khẩu vị của tôi
++ 做得真好吃，非常适合我的口味。
+
+* Vậy thì anh đừng khách sáo, dùng nhiều vào. 
++ 那你别客气，多尝一点。
+
+* Nghe nói anh là người sành ăn và còn rất giỏi nấu ăn có phải không ?
++ 听说您对饮食非常讲究，而且挺会做菜。
+
+* Nào có chuyện đó. Chỉ là nấu được vài món ăn gia đình thôi.
++ 哪里，只是会做一些家常便菜而已。
+
+* Kìa, sao anh không ăn đi ?
++ 诶，您怎么不吃了？
+
+* Tôi ăn no rồi, mọi người cứ từ từ mà ăn.
++ 吃饱了，你们慢吃。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
