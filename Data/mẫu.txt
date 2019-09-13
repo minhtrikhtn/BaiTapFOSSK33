@@ -181,5 +181,245 @@
 * Có vấn đề gì không?	 
 + 有什么问题吗？
 
+* Có ý kiến không đồng ý không?	
++ 有不同意见吗？
+
+* Có thể cô ta là tài xế.	
++ 她可能是个司机吗？
+
+* Có thể cho tôi biết tên của bạn không?	
++ 能告诉我你的名字吗？
+
+* Cô ta rất khỏe, cảm ơn.	
++ 她很好，谢谢。
+
+* Cô mặc bộ trắng kia là ai?	
++ 穿白衣服的那位小姐是谁？
+
+* Cô bé kia là học sinh phải không?	
++ 那个女孩是学生吗？
+
+* Chút nữa gặp nhé.	
++ 待会儿见。
+
+* Chiếc kính của tôi đâu rồi?	
++ 我的眼镜在哪儿？
+ 
+* Chào buổi sáng, buổi chiều, buổi tối!	
++ 早晨（下午/晚上）好！
+
+* Chắc chắn cô ta là người mẫu, phải vậy không?	
++ 她一定是个模特，不是吗？
+
+* Căn phòng rộng bao nhiêu?	
++ 你的房子有多大？
+ 
+* Cái to hơn là của tôi.	
++ 大些的那个。
+ 
+* Cái này trong Tiếng Anh nói như thế nào?	
++ 这个用英语怎么说？
+ 
+* Cái kia ở bên phải bạn.	
++ 你右边的那个。
+
+* Các bạn có theo kịp được tôi giảng bài không?	
++ 你们跟上我讲的了吗？
+
+* Bây giờ là tháng mấy?	 
++ 现在是几月？
+
+* Bây giờ là tháng mười hai.	
++ 现在是十二月。
+
+* Bắt đầu vào học rồi.	
++ 上课时间到了。
+
+* Bạn tên là gì?	
++ 你叫什么名字？
+
+* Bạn làm nghề gì?	
++ 你是做什么的？
+
+* Bạn là ai?	
++ 你是谁？
+
+* Bạn khỏe không?	
++ 你好吗？
+ 
+* Bạn hoặc Vợ, Chồng bạn khỏe không?	
++ 爱米好吗？/你妻子好吗, 你丈夫好吗？
+ 
+* Bạn họ gì?	
++ 你姓什么？
+
+* Bạn có thể nói lại một lần nữa được không?	
++ 你能再说一遍吗？
+
+* Bạn có thể giới thiệu tôi cho cô ta không?	
++ 你能把我介绍给她吗？
+ 
+* Bạn biết chiếc kính tôi để đâu không?	
++ 你知道我把眼镜搁哪儿了吗？
+
+* Anh ta làm nghề gì?	
++ 他是干什么的？
+
+* Anh ta là giám đốc.	
++ 他是个经理。
+
+* Quen biết anh tôi rất vui.  
++ 认识你，我很高兴。
+
+* Anh có bận không? 
++ 你忙吗？	
+
+* Không bận lắm. 
++ 不太忙。
+
+* Bạn đi mua thức ăn à? 
++ 你买菜吗？	
+
+* Vâng, tôi đi mua thức ăn.  
++ 是，我去买菜。
+
+* Đã lâu không gặp, dạo này anh khỏe không?   
++ 好久不见，你最近好吗？
+
+* Cảm ơn, rất khỏe, còn anh? 
++ 谢谢，很好，你呢？
+
+* Tôi cũng rất khỏe. 
++ 我也很好。	
+
+* Gia đình anh thế nào? 
++ 你家怎么样？
+
+* Rất tốt! 
++ 很好！
+
+* Nhờ phước của ông, mọi người đều khỏe cả. 
++ 托尼的副全都过得很好。
+ 
+* Chào bạn. Kỳ nghỉ hè có vui vẻ không? 
++ 你好，暑假过得愉快吗？
+
+* Rất tuyệt. Tôi cảm thấy khỏe hơn sau kỳ nghỉ hè.  
++ 好极了，我觉得比暑假前健康多了。
+
+* Tôi cũng rất vui được quen với bạn.  
++ 认识你，我也很高兴。
+
+* Bạn năm nay bao nhiêu tuổi?  
++ 你今年多大？
+
+* Tôi năm nay 22 tuổi.  
++ 我今年二十二岁。
+
+* Bạn sinh năm nào? 
++ 你哪年出生？
+
+* Bây giờ mấy giờ rồi? 
++ 现在几点？
+ 
+* Bây giờ là 10h. 
++ 现在十点。
+
+* Cậu mấy giờ đến phòng học? 
++ 你什么时候去教室？
+
+* Tôi 8h kém 15 đến phòng học. 
++ 我差一刻八点去教室。
+
+* Cậu dậy lúc mấy giờ?  
++ 你几点起床？
+
+* Tôi dậy lúc 7 giờ. 
++ 我七点起床。
+
+* Xin lỗi cho tôi hỏi tôi đang ở chỗ nào vậy? 
++ 对不起，请问我现在在什么地方?
+
+* Tôi thấy không khỏe .  
++ 我不舒服。 
+
+* Thấy khó chịu chỗ nào? 
++ 哪儿不舒服？
+
+* Tôi luôn bị sổ mũi. 
++ 我总是流鼻涕。
+ 
+* Anh cặp nhiệt độ thử đi. 
++ 你试试表吧。
+
+* Anh bị sốt (cao). 
++ 你发（高）烧。
+ 
+* Tôi sẽ kê đơn thuốc cho anh. 
++ 我会给你开了药方。
+
+* Xin lỗi, bà ấy ra ngoài rồi. Xin hỏi bà là ai? 
++ 对不起，她先在出去了。请问您是谁？
+
+* Bà có nhắn gì không? 
++ 你要留话吗？
+
+* Vậy nhờ ông nói với bà ấy rằng tôi gọi điện đến là được rồi. 
++ 那，只要请你告诉她我打电话来就好了。
+
+* Hãy giữ im lặng 1 chút. 
++ 安靜一點。
+
+* Phấn khởi lên nào. 
++ 振作起來。
+
+*Làm tốt lắm. 
++ 做得好。
+
+* Chơi vui vẻ. 
++ 玩得開心。
+
+* Tôi về rồi. 
++ 我回來了。
+
+* Tôi lạc đường rồi. 
++ 我迷路了。
+
+* Tôi đãi , tôi mời. 
++ 我請客。
+
+* Mời đi lối này. 
++ 這邊請。
+
+* Đi theo tôi. 
++ 跟我来。
+
+* Tôi bảo đảm. 	
++ 我保證。
+
+* Tôi nghi lắm. 
++ 我懷疑。
+
+* Tôi là người độc thân thành đạt. 
++ 我是單身貴族。
+
+* Tôi là fan( người hâm mộ) của anh ấy.  
++ 我是他的影迷。
+
+* Bạn chắc chắn không ? 
++ 你肯定嗎？ 
+
+* Tôi đang ăn kiêng. 
++ 我在節食。
+
+* Tôi có thể giúp bạn gì không ? 
++ 我能幫你嗎?
+
+* Tôi sẽ lưu ý. 
++ 我會留意的。
+
+* Tôi đang vội lắm.  
++ 我在趕時間。
+
 
 
