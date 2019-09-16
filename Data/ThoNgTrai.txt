@@ -1,4 +1,4 @@
-* Nguyễn Trãi.
+﻿* Nguyễn Trãi.
 + 阮廌。
 
 * Bình Ngô đại cáo.
@@ -3055,5 +3055,5 @@
 * Sào, Do bằng có tái sinh.
 + 人間箬有巢由徒。
 
-* Hãy nghe khúc hát bên ghềnh Côn Sơn..
+* Hãy nghe khúc hát bên ghềnh Côn Sơn.
 + 勸渠聽我山中曲。
