@@ -155,9 +155,81 @@
 * Hiện tại anh ta có thể đi mua sắm đồ dùng du lịch.
 + 现在他可以去采购旅行用品。
 
+* mẫu đăng kí.
++ 登记表。
+
+* nhân viên phục vụ.
++ 服务员。
+
+* nhân viên tiếp tân.
++ 接待员。
+
+* nhân viên trực ban.
++ 值班服务员。
+
+* Hành trình của bạn sắp xếp ổn rồi chứ.
++ 你的行程安排好了吗。
+
+* Bạn ở đấy trong bao lâu.
++ 呆多久。
+
+* Nơi ở của du khách.
++ 旅客住宿所。
+
+* Phòng nhỏ trong trại dã ngoại.
++ 野营小屋。
+
+* Sơn trang nghỉ mát.
++ 避暑山庄。
+
+* Tàu thủy du lịch.
++ 游览船。
+
+* Tắm biển.
++ 海水浴。
+
+* Tắm nắng.
++ 太阳浴。
+
+* Thảm du lịch.
++ 旅行毯	。
+
+* Tham quan trên biển.
++ 海上观光。
+
+* Thắng cảnh du lịch.
++ 旅游胜地。
+
+* Thắng cảnh nghỉ mát.
++ 避暑胜地。
+
+* Thẻ du lịch.
++ 旅行证件。
+
+* Tiền vé vào cửa.
++ 门票费。
+
+* Trại dã ngoại ngày nghỉ.
++ 假日野营地。
+
+* Trang bị leo núi.
++ 登山装备。
+
+* Túi da du lịch.
++ 旅行皮包。
+
+* Túi du lịch.
++ 旅行袋。
+
+* Túi du lịch bằng vải bạt.
++ 帆布行李袋。
+
+* Tuyến du lịch.
++ 旅游路线。
+
+* Vali du lịch.
++ 旅行箱。
+
 * .
 + 。
-
-v
-
 
