@@ -1,4 +1,4 @@
-﻿* Báo tiệp.
+* Báo tiệp.
 + 報捷。
 
 * Trăng đẩy cửa sổ hỏi Thơ xong chưa.
@@ -70,13 +70,11 @@
 * Người thì bị giết nhà bị đốt.
 + 人被殺了家被焚。
 
-
 * Đầy đất máu đỏ đầy núi xương phơi.
 + 滿地血紅滿山骨。
 
 * Tàu bay bom đạn không thể tránh khỏi.
 + 飛機落彈無可免。
-
 
 * Đói rét bệnh tật khó sống nổi.
 + 饑寒疾病難生活。
@@ -84,13 +82,11 @@
 * Họ đang đấu tranh một cách gian khổ.
 + 他們艱苦地斗爭。
 
-
 * Bảo vệ dân chủ và hoà bình.
 + 保衛民主與和平。
 
 * Họ cần có người viện trợ.
 + 他門需要援助者。
-
 
 * Họ cần có sự đồng tình.
 + 他門需要有同情。
@@ -98,13 +94,11 @@
 * Giặc Nhật tiến công cả thế giới.
 + 日鬼向世界進攻。
 
-
 * Chúng là kẻ thù chung của loài người.
 + 他是人類之公敵。
 
 * Anh em chị em Việt Nam ơi.
 + 越南兄弟姊妹阿。
-
 
 * Mau mau đứng lên cứu Trung Quốc.
 + 快快起來助中國。
@@ -120,6 +114,959 @@
 
 * Cứu Trung Quốc là tự cứu mình.
 + 救中國是救自己。
+
+* Đăng sơn.
++ 登山。
+
+* Chống gậy lên núi xem trận địa.
++ 攜杖登山觀陣地。
+
+* Muôn trùng núi nâng đỡ muôn trùng mây.
++ 萬重山擁萬重雲。
+
+* Khí mạnh của nghĩa quân ta muốn nuốt cả sao Ngưu sao Đẩu.
++ 義兵壯氣吞牛斗。
+
+* Thề diệt hết quân xâm lược sói lang.
++ 誓滅豺狼侵掠軍。
+
+* Đề Ba Mông động.
++ 題巴蒙洞。
+
+* Mặt trời mọc phương Đông hiện lên một điểm hồng.
++ 日出東方一點紅。
+
+* Như mắt phượng mày ngài cong vút của người đẹp.
++ 峨眉鳳眼似彎弓。
+
+* Khắp trời đêm chỉ có một ngôi sao lẻ loi treo lơ lửng.
++ 滿天星斗零丁吊。
+
+* Mây đen che mờ mặt trăng khiến bầu trời u ám.
++ 烏雲蓋月暗朦朧。
+
+* Đề Đức Môn động kỳ một.
++ 題徳門洞其一。
+
+* Trên núi Tam Thai trước mặt tiếng chim nghe ngọt ngào.
++ 三台對面鳥聲甜。
+
+* Nước chảy rầm rì ngay bên cạnh chỗ ta ngủ.
++ 流水潺潺伴我眠。
+
+* Chạy khắp chân trời đường xa vạn dặm.
++ 走遍天涯千里路。
+
+* Ẩn mình ở trong động này là nơi an toàn nhất.
++ 藏身此洞最安全。
+
+* Đề Đức Môn động kỳ hai.
++ 題徳門洞其二。
+
+* Động này thật là tốt.
++ 此洞真正好。
+
+* Hơn cả núi Thất Tinh.
++ 勝比七星岩。
+
+* Người khách nước Việt tới nơi này.
++ 越人到此處。
+
+* Lòng sao có thể không mỉm cười cho được.
++ 莫不心開顏。
+
+* Đề Tống gia tướng quân miếu thi.
++ 題宋家將軍廟詩。
+
+* Cuối cùng rồi cũng đến nhân dân làm chủ bản thân mình.
++ 畢竟人民終自主。
+
+* Hà tất Nguỵ Hồ gây ra chuyện tang thương làm gì.
++ 偽胡何必幹桑滄。
+
+* Đối nguyệt.
++ 對月。
+
+* Ngoài cửa sổ ánh trăng lồng trên cây cổ thụ.
++ 窗外月明籠古樹。
+
+* Ánh trăng nhích dần bóng cổ thụ lại trước cửa sổ.
++ 月移樹影到窗前。
+
+* Việc quân việc nước bàn bạc xong rồi.
++ 軍機國計商談了。
+
+* Xách gối đến bên cửa sổ nằm ngủ trước ánh trăng.
++ 攜枕窗旁對月眠。
+
+* Hoàng Sơn nhật ký kỳ một.
++ 黃山日記其一。
+
+* Xã viên Hoàng Sơn trồng nhiều chè.
++ 黃山社員多種茶。
+
+* Lá chè đượm đà nhiều hương vị.
++ 茶葉潤澤香味多。
+
+* Khách dạo chơi núi từ khắp miền đông tây nam bắc.
++ 東西南北遊山客。
+
+* Uống chén chè thơm lắng nghe điệu dân ca miền núi.
++ 飲杯山茶聽山哥。
+
+* Hoàng Sơn nhật ký kỳ hai.
++ 黃山日記其二。
+
+* Các cháu bé ở Hoàng Sơn thật là ngoan.
++ 黃山小孩真乖乖。
+
+* Thấy tôi đều chào Cháu chào Bác ạ.
++ 見我就問伯伯好。
+
+* Má như quả táo miệng như hoa.
++ 頰如蘋果嘴如花。
+
+* Tình cảm đối với tôi thật là nồng hậu.
++ 對我感情真濃厚。
+
+* Hoàng Sơn nhật ký kỳ ba.
++ 黃山日記其三。
+
+* Cảnh núi ở Hoàng Sơn đẹp lạ thường.
++ 黃山風景非常好。
+
+* Một ngày mưa năm ngày tạnh ráo.
++ 一天下雨五天睛。
+
+* Sáng sớm theo khách mới đi tiễn khách cũ.
++ 朝隨新客送老客。
+
+* Đêm nghe tiếng suối đáp lại tiếng chim.
++ 夜聽泉聲和鳥聲。
+
+* Hoàng Sơn nhật ký kỳ bốn.
++ 黃山日記其四。
+
+* Cụ Đổng tặng tôi bài thơ dài.
++ 董公贈我以長詩。
+
+* Tôi muốn làm thơ kính hoạ lại cụ.
++ 我欲作詩奉和之。
+
+* Nhưng công việc chống Mỹ cứu nước.
++ 可是抗美救國事。
+
+* Đã hoàn toàn chiếm lĩnh tâm tư tôi.
++ 完全 佔領我心思。
+
+* Hoàng Sơn nhật ký kỳ năm.
++ 黃山日記其五。
+
+* An Huy từ xưa vốn có nhiều hào kiệt.
++ 安徽自古多豪傑。
+
+* Có ai sánh được với Tân tứ quân anh hùng.
++ 誰比英雄新四軍。
+
+* Quânđội của Đảng khắp nơi trừ khử cường bạo.
++ 黨軍到處除強暴。
+
+* Từ nay công nhân thành chủ nhân.
++ 從此工人作主人。
+
+* Hoàng Sơn nhật ký kỳ sáu.
++ 黃山日記其六。
+
+* Các đồng chí ở địa phương rất quý khách.
++ 地方同志太客氣。
+
+* Đối với chúng tôi chu đoá từng li từng tí.
++ 對我們無微不至。
+
+* Hầu như ngày nào cũng đi tham quan.
++ 幾乎天天去參觀。
+
+* Tối tối lại mời chúng tôi xem kịch.
++ 晚晚請我們看戲。
+
+* Ký Mao chủ tịch.
++ 寄毛主席。
+
+* Mừng nghe ông bơi lội thoả thích ở Trường Giang.
++ 欣聞您暢泳長江。
+
+* Quần chúng reo vui thấy ông khoẻ mạnh.
++ 群眾歡呼您健康。
+
+* Tôi ở Việt Nam đang bận đánh Mỹ.
++ 我在越南忙抗美。
+
+* Từ xa tôi chúc ông Vạn thọ vô cương.
++ 遙祝您萬壽無疆。
+
+* Ly Bắc Kinh.
++ 離北京。
+
+* Giữa lòng trời Ký Bắc treo vầng trăng sáng trắng.
++ 冀北天心懸皓月。
+
+* Lòng ta theo trăng sáng cùng man mác.
++ 心隨皓月共悠悠。
+
+* Vầng trăng sáng kia ai chia làm hai nửa.
++ 皓月誰分為兩半。
+
+* Một nửa theo cùng bạn cũ một nửa soi khách đường trường.
++ 半隨舊友半征夫。
+
+* Mậu Thân xuân tiết.
++ 戊申春節。
+
+* Tiết tháng tư trăm loài hoa nở đầy vườn.
++ 四月百花開滿圓。
+
+* Đỏ đỏ tía tía hoa đua nhau phô vẻ tươi.
++ 紅紅紫紫互爭妍。
+
+* Có con chim trắng sà xuống hồ để bắt cá.
++ 白鳥捉魚湖裏去。
+
+* Chim hoàng oanh thì lại bay thẳng lên trời.
++ 黃鶯飛上天。
+
+* Trên trời những áng mây thong thả bay đến rồi bay đi.
++ 天上閒雲來又去。
+
+* Lòng rộn lên tin thắng trận ở miền Nam báo về.
++ 忙把南方捷報傳。
+
+* Ngọ quá Thiên Giang.
++ 午過遷江。
+
+* Đến Thiên Giang thì nói chuyện Thiên Giang.
++ 到遷江說遷江。
+
+* Trên bờ Thiên Giang sương xuân đã phủ đầy.
++ 遷江江岸滿春霜。
+
+* Hàng ngàn chiếc chiến xa của địch đều hoá thành tro đen.
++ 千輛敵車成黑燼。
+
+* Hồng quân tiến thẳng đến Trấn Nam Quan.
++ 紅軍直到鎮南關。
+
+* Nguyên tiêu.
++ 元宵。
+
+* Đêm nay rằm tháng giêng trăng vừa tròn.
++ 今夜元宵月正圓。
+
+* Nước sông xuân tiếp liền với màu trời xuân.
++ 春江春水接春天。
+
+* Giữa nơi khói sóng thăm thẳm bàn bạc việc quân.
++ 煙波深處談軍事。
+
+* Nửa đêm trở về thuyền chở đầy ánh trăng.
++ 夜半歸來月滿船。
+
+* Nhị vật.
++ 二勿。
+
+* Qua xuân mới rồi mà vẫn không thuốc lá không rượu.
++ 無煙無酒過新春。
+
+* Dễ khiến nhà thơ hóa thành kẻ tục.
++ 易使詩人化俗人。
+
+* Trong mộng thấy được hút thuốc lá uống rượu ngon.
++ 夢里吸煙吃美酒。
+
+* Tỉnh ra tinh thần rất phấn chấn.
++ 醒來更奮振精神。
+
+* Phỏng Khúc Phụ.
++ 訪曲父。
+
+* Ngày mười chín tháng năm đến thăm Khúc Phụ.
++ 五月十九訪曲父。
+
+* Thông xưa miếu cũ vẫn còn y nguyên.
++ 古松古廟兩依稀。
+
+* Thế lực họ Khổng nay đâu rồi.
++ 孔家勢力今何在。
+
+* Chỉ còn ánh chiều tà chiếu bia cũ.
++ 只剩斜陽照古碑。
+
+* Quá Hồ Bắc.
++ 過湖北。
+
+* Khi ta đi ngoài đồng toàn là tuyết trắng.
++ 我去田間都白雪。
+
+* Nay ta về lúa mạch ngoài đồng đã xanh xanh.
++ 我來田陌已青青。
+
+* Ngày mai có cày máy thay thế cho cày gỗ.
++ 明天機械替木械。
+
+* Ức triệu gia đình nông dân vui hưởng cảnh thái bình.
++ 億兆農家樂太平。
+
+* Quế Lâm phong cảnh.
++ 桂林風景。
+
+* Phong cảnh Quế Lâm đẹp bậc nhất trong thiên hạ. 
++ 桂林風景甲天下。
+
+* Khác nào tranh vẽ trong thơ thơ trong tranh vẽ.
++ 如詩中畫畫中詩。
+* Trên núi những người hái củi ca hát.
++ 山中樵夫唱。
+
+* Dưới sông thuyền khách trở về.
++ 江上客船歸。
+
+* Thật kỳ lạ.
++ 奇。
+
+* Tặng Bùi công.
++ 贈裴公。
+
+* Khi xem sách chim rừng đậu ở song cửa sổ.
++ 看書山鳥棲窗扦。
+
+* Lúc phê công văn đoá hoa xuân soi bóng trong nghiên mực.
++ 批札春花照硯池。
+
+* Luôn luôn phải về báo tin thắng trận con ngựa trạm cũng vất vả.
++ 捷報頻來勞驛馬。
+
+* Nhớ cụ vừa tức cảnh thành bài thơ gửi tặng cụ.
++ 思公即景贈新詩。
+
+* Tặng Trần Canh đồng chí.
++ 贈陳賡同志。
+
+* Rượu ngọt sâm banh trong chén ngọc dạ quang.
++ 香檳美酒夜光杯。
+
+* Sắp uống tỳ bà trên ngựa đã giục giã.
++ 欲飲琵琶馬上催。
+
+* Say sưa nằm lăn nơi sa trường anh đừng cười nhé.
++ 醉臥沙場君莫笑。
+
+* Chớ để cho một tên địch nào trở về.
++ 敵人休放一人回。
+
+* Tặng Võ công.
++ 贈武公。
+
+* Đường xa nghìn dặm cụ đến tìm tôi.
++ 千里公尋我。
+
+* Biết bao tình cảm ngụ trong một lời nói.
++ 百感一言中。
+
+* Thờ dân mong sao hết đạo hiếu.
++ 事民願盡孝。
+
+* Thờ nước mong sao hết đạo trung.
++ 事國願盡忠。
+
+* Cụ đến tôi mừng rỡ.
++ 公來我欣喜。
+
+* Cụ về tôi lại nhớ cụ.
++ 公去我思公。
+
+* Chỉ xin tặng cụ một câu này.
++ 贈公只一句。
+
+* Kháng chiến nhất định thành công.
++ 抗戰必成功。
+
+* Tầm hữu vị ngộ.
++ 尋友未遇。
+
+* Trăm dặm tìm anh mà chẳng gặp anh.
++ 百里尋君未遇君。
+
+* Vó ngựa dẫm vỡ những áng mây trên đầu núi.
++ 馬蹄踏碎領頭雲。
+
+* Trở về tình cờ qua một cây mai rừng.
++ 歸來偶過山梅樹。
+
+* Mỗi đoá hoa vàng là một điểm xuân.
++ 每朵黃花一點春。
+
+* Tân xuất ngục học đăng sơn.
++ 新出獄學登山。
+
+* Mây ôm dẫy núi núi ôm mây.
++ 雲擁重山山擁雲。
+
+* Lòng sông như gương không chút bụi.
++ 江心如鏡淨無塵。
+
+* Một mình bồi hồi dạo bước trên đỉnh núi Tây Phong.
++ 徘徊獨步西風岭。
+
+* Trông về phía trời Nam xa xăm nhớ bạn cũ.
++ 遙望南天憶故人。
+
+* Thập tam tảo quá Trường Sa.
++ 十三早過長沙。
+
+* Trường Sa ngày trước là bãi sa trường.
++ 長沙過去是沙長。
+
+* Mỗi toà lâu đài kia là một vết thương.
++ 一塊樓臺一點傷。
+
+* Ngày nay Trung Quốc đã được giải phóng.
++ 中國而今已解放。
+
+* Trường Sa từ nay về sau sẽ thoát khỏi cảnh đổi dời dâu bể.
++ 長沙此後免桑蒼。
+
+* Thất cửu.
++ 七九。
+ 
+* Thường người ta chưa đến năm mươi tuổi đã tự than già.
++ 人未五旬常嘆老。
+
+* Mình nay sáu mươi ba tuổi vẫn đang khoẻ mạnh.
++ 我今七九正康強。
+
+* Sống cách thanh đạm tinh thần sáng suốt.
++ 自供清淡精神爽。
+
+* Làm việc thong dong ngày tháng dài.
++ 做事從容日月長。
+
+* Thu dạ.
++ 秋夜。
+
+* Bàn tính công việc mãi đến canh khuya mới tạm được nghỉ ngơi.
++ 籌劃更深漸得閒。
+
+* Mưa gió mùa thu báo tin tiết thu lạnh đã đến.
++ 秋風秋雨報秋寒。
+
+* Chợt nghe tiếng sáo thu từ phía trước núi vọng lại.
++ 忽聞秋笛山前響。
+
+* Bộ đội du kích vừa về cuộc rượu chưa tàn.
++ 遊擊歸來酒未殘。
+
+* Thướng sơn.
++ 上山。
+
+* Ngày hai mươi bốn tháng sáu.
++ 六月二十四。
+
+* Lên đến núi này.
++ 上到此山來。
+
+* Ngẩng đầu thấy mặt trời đỏ gần lại.
++ 舉頭紅日近。
+
+* Bờ bên kia có một nhành mai.
++ 對岸一枝梅。
+
+* Toàn dân cảo dược tiến.
++ 全民搞躍進。
+
+* Toàn dân cùng tiến vọt.
++ 全民搞躍進。
+
+* Cờ đỏ cắm khắp nơi.
++ 滿地插紅旗。
+
+* Nông nghiệp cộng sản hoá.
++ 農業共產化。
+
+* Đó là thời thái bình.
++ 就是太平時。
+
+* Tư chiến sĩ.
++ 思戰士。
+
+* Đêm khuya móc rơi dồn dập như mưa thu.
++ 更深露急如秋雨。
+
+* Sáng sớm sương dày đặc như mây mặt biển.
++ 晨早霜濃似海雲。
+
+* Mau mau gửi áo rét cho chiến sĩ.
++ 快送寒衫給戰士。
+
+* Ánh mặt trời ấm áp đã báo trước tin xuân mới sắp về.
++ 陽光和暖報新春。
+
+* Vịnh Thái Hồ.
++ 詠太湖。
+
+* Tây Hồ không sánh được với Thái Hồ đẹp.
++ 西湖不比太湖美。
+
+* Thái Hồ so với Tây Hồ còn rộng hơn nhiều.
++ 太湖更比西湖寬。
+
+* Thuyền đánh cá đi lại dưới nắng sớm ấm.
++ 漁舟來去朝陽暖。
+
+* Dâu lúa đầy đồng hoa đầy núi.
++ 桑稻滿田花滿山。
+
+* Vịnh Vạn Lý Trường Thành.
++ 詠萬里長城。
+
+* Thính thuyết Trường Thành vạn lý trường.
++ 聽說長城萬里長。
+
+* Đầu liên Đông hải vĩ Tây Cương.
++ 頭連東海尾西疆。
+
+* Kỷ thiên bách vạn lao động giả.
++ 幾千百萬勞動者。
+
+* Kiến trúc tư thành trấn nhất phương.
++ 建築斯城鎮一方。
+
+* Vọng Thiên San.
++ 望天山。
+
+* Xa ngắm ngọn Thiên San phong cảnh thật đẹp.
++ 遙望天山風景好。
+
+* Ráng tía tuyết trắng ôm ngọn núi xanh.
++ 紫霞白雪抱青山。
+
+* Mặt trời mới ló đỏ như lửa.
++ 朝陽初出赤如火。
+
+* Muôn ánh hào quang chiếu thế gian.
++ 萬道豪光照世間。
+
+* Vô đề hai.
++ 無題二。
+
+* Lúc khách lại trên đường mòn bên núi hoa nở đầy mặt đất. 
++ 山徑客來花滿地。
+
+* Khi bộ đội đến trong rừng rậm đàn chim bay vút lên trời. 
++ 叢林軍到鳥衝天。
+
+* Việc nước việc quân bàn bạc xong.
++ 軍機國計商談了。
+
+* Xách thùng cùng chú bé ra vườn tưới rau.
++ 攜桶皆童灌菜園。
+
+* Vô đề ba.
++ 無題三。
+
+* Đã ba năm rồi không uống rượu không hút thuốc lá.
++ 三年不吃酒吹煙。
+
+* Ở đời không ốm đau chính là tiên thật sự.
++ 人生無病是真仙。
+
+* Mừng thấy miền Nam thắng lớn liên tiếp.
++ 喜見南方連大勝。
+
+* Một năm cả bốn mùa đều là xuân.
++ 一年四季都春天。
+
+* Xuân tiết tặng đậu cấp La Quý Ba.
++ 春節贈豆給羅貴波。
+
+* Có ba cân đậu trắng.
++ 白豆三斤重。
+
+* Chất ngọt vị lại thơm.
++ 質甘而味香。
+
+* Thanh niên chỗ tôi tăng gia được.
++ 青年增產得。
+
+* Mời anh thưởng thức xem thế nào.
++ 請你嚐一嚐。
+
+* Xuân tiết tặng ngư cấp Trung Quốc cố vấn đoàn.
++ 春節贈魚給中國顧問團。
+
+* Đào giúp cho vạn nhà đón năm mới đến.
++ 桃符萬戶迎新。
+
+* Pháo kêu một tiếng tiễn năm cũ đi.
++ 爆竹一聲除舊。
+
+* Gửi tặng mấy món hải sản này.
++ 奉送海味數條。
+
+* Để dùng tạm uống rượu thưởng xuân.
++ 聊供賞春下酒。
+
+* Xuân tiết tặng tửu cấp Trung Quốc cố vấn đoàn.
++ 春節贈酒給中國顧問團。
+
+* Nghinh xuân vô biệt quỹ.
++ 迎春無別饋。
+
+* Duy hữu tửu sổ tôn.
++ 唯有酒數樽。
+
+* Thỉnh nhĩ môn nhất tuý.
++ 請你們一醉。
+
+* Cộng khánh thắng lợi xuân.
++ 共慶勝利春。
+
+* Vô đề một.
++ 無題一。
+
+* Thân thể ở trong ngục.
++ 身体在獄中。
+
+* Tinh thần ở ngoài ngục.
++ 精神在獄外。
+
+* Muốn nên sự nghiệp lớn.
++ 欲成大事業。
+
+* Tinh thần càng phải cao.
++ 精神更要大。
+
+* Khai quyển.
++ 開卷。
+
+* Già này vốn không thích ngâm thơ.
++ 老夫原不愛吟詩。
+
+* Nhân vì trong ngục không có gì làm.
++ 因為囚中無所為。
+
+* Hãy mượn việc ngâm thơ cho qua ngày dài.
++ 聊借吟詩消永日。
+
+* Vừa ngâm vừa đợi ngày tự do.
++ 且吟且待自由時。
+
+* Tại Túc Vinh nhai bị khấu lưu.
++ 在足榮街被扣留。
+
+* Phố tên Túc Vinh mà khiến ta mang nhục.
++ 足榮卻使余蒙辱。
+
+* Cố ý làm chậm trễ hành trình của ta.
++ 故意遲延我去程。
+
+* Bày đặt ra trò tình nghi gián điệp.
++ 間諜嫌疑空捏造。
+
+* Không dưng làm mất danh dự của người.
++ 把人名譽白犧牲。
+
+* Nhập Tĩnh Tây huyện ngục.
++ 入靖西縣獄。
+
+* Trong ngục tù cũ đón tù mới.
++ 獄中舊犯迎新犯。
+
+* Trên trời mây tạnh đuổi mây mưa.
++ 天上晴雲逐雨雲。
+
+* Mây tạnh mây mưa mấy đám mây nổi bay đi hết.
++ 晴雨浮雲飛去了。
+
+* Chỉ còn lại người tự do trong ngục.
++ 獄中留住自由人。
+
+* Thế lộ nan.
++ 世路難。
+
+*Đi khắp non cao và núi hiểm.
++ 走遍高山與峻岩。
+
+* Nào ngờ đường phẳng lại khó qua.
++ 那知平路更難堪。
+
+* Núi cao gặp hổ rút cục vẫn không việc gì.
++ 高山遇虎終無恙。
+
+* Đường phẳng gặp người lại bị bắt.
++ 平路逢人卻被監。
+
+* Ta vốn là đại biểu của dân Việt Nam.
++ 余原代表越南民。
+
+* Định đến Trung Hoa gặp nhân vật trọng yếu.
++ 擬到中華見要人。
+
+* Không dưng đất bằng nổi sóng gió.
++ 無奈風波平地起。
+
+* Đưa ta vào làm khách quý trong tù.
++ 送余入獄作嘉賓。
+
+* Vốn trung thực thành thật ta không có điều gì thẹn với lòng.
++ 忠誠我本無心疚。
+
+* Thế mà bị tình nghi là Hán gian.
++ 卻被嫌疑做漢奸。
+
+* Việc xử thế vốn không phải là dễ.
++ 處世原來非易易。
+
+* Lúc này xử thế càng khó khăn hơn.
++ 而今處世更難難。
+
+* Buổi sáng.
++ 早。
+* Mỗi sớm mặt trời vượt lên khỏi đầu tường.
++ 太陽每早從牆上。
+
+* Chiếu tới cửa nhà lao cửa chưa mở.
++ 照著龍門門未開。
+
+* Giờ đây trong lao còn đen tối.
++ 籠裡現時還黑暗。
+
+* Nhưng ánh sáng đã bừng lên phía trước mặt.
++ 光明卻已面前來。
+
+* Sớm dậy mọi người đua nhau bắt rận.
++ 早起人人爭獵虱。
+
+* Chuông điểm tám giờ bữa cơm sáng bắt đầu.
++ 八鐘響了早餐開。
+
+* Khuyên anh hãy cứ ăn no.
++ 勸君且吃一個飽。
+
+* Khổ đến tột cùng vui ắt tới.
++ 否極之時必泰來。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
