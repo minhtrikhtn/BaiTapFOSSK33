@@ -830,6 +830,7 @@
 
 * Buổi sáng.
 + 早。
+
 * Mỗi sớm mặt trời vượt lên khỏi đầu tường.
 + 太陽每早從牆上。
 
@@ -854,54 +855,520 @@
 * Khổ đến tột cùng vui ắt tới.
 + 否極之時必泰來。
 
+* Buổi trưa.
++ 午。
 
+* Trong nhà lao giấc ngủ trưa thật khoan khoái.
++ 獄中午睡真舒服。
 
+* Một giấc say sưa suốt mấy tiếng liền.
++ 一睡昏昏幾句鐘。
 
+* Mơ thấy cưỡi rồng bay lên trời.
++ 夢見乘龍天上去。
 
+* Khi tỉnh dậy mới biết mình vẫn nằm trong ngục.
++ 醒時才覺臥籠中。
 
+* Lời hỏi.
++ 問話。
 
+* Hai cực của xã hội.
++ 社會的兩極。
 
+* Quan toà và phạm nhân.
++ 法官與犯人。
 
+* Quan bảo anh có tội.
++ 官曰你有罪。
 
+* Phạm nhân thưa tôi dân lành.
++ 犯曰我良民。
 
+* Quan bảo anh nói dối.
++ 官曰你說假。
 
+* Phạm nhân thưa tôi nói thật.
++ 犯曰我言真。
 
+* Quan toà tính vốn thiện.
++ 法官性本善。
 
+* Lại hầm hầm giả làm bộ ác.
++ 假裝惡狺狺。
 
+* Muốn khép người vào tội.
++ 要入人於罪。
 
+* Lại ra vẻ ân cần.
++ 卻假意慇懃。
 
+* Giữa hai cực này.
++ 這兩極之奸。
 
+* Có thần công lý đứng.
++ 立著公理神。
 
+* Quá trưa.
++ 午後。
 
+* Hai giờ chiều nhà lao mở cửa đổi không khí.
++ 二點開籠換空氣。
 
+* Mọi người ngẩng lên ngắm trời tự do.
++ 人人仰看自由天。
 
+* Khách thần tiên trên trời tự do.
++ 自由天上神仙客。
 
+* Biết chăng trong tù cũng có tiên.
++ 知否籠中也有仙。
 
+* Chiều hôm.
++ 晚。
 
+* Cơm chiều xong mặt trời lặn về tây.
++ 晚餐吃了日西沉。
 
+* Khắp nơi rộn tiếng ca dân dã và tiếng nhạc.
++ 處處山歌與樂音。
 
+* Nhà ngục u ám huyện Tĩnh Tây.
++ 幽暗靖西禁閉室。
 
+* Bỗng thành một viện hàn lâm nghệ thuật nhỏ.
++ 忽成美術小翰林。
 
+* Cơm tù.
++ 囚糧。
 
+* Mỗi bữa một bát cơm gạo đỏ.
++ 每餐一碗紅米飯。
 
+* Không muối không rau cũng chẳng canh.
++ 無鹽無菜又無湯。
 
+* Có người đem cơm được ăn no.
++ 有人送飯吃得飽。
 
+* Không người đem cơm đói kêu cha kêu mẹ.
++ 沒人送飯喊爺娘。
 
+* Bạn tù thổi sáo.
++ 難友吹笛。
 
+* Trong tù bỗng nghe khúc nhạc nhớ quê hương.
++ 獄中忽聽思鄉曲。
 
+* Âm thanh trở nên thê lương tình điệu trở nên sầu muộn.
++ 聲轉淒涼調轉愁。
 
+* Nước non xa cách nghìn trùng cảm thương vô hạn.
++ 千里關河無限感。
 
+* Người chốn phòng khuê lại bước lên một tầng lầu.
++ 閨人更上一層樓。
 
+* Cái cùm.
++ 腳閘。
 
+* Miệng đói dữ tợn như một hung thần.
++ 猙獰餓口似兇神。
 
+* Đêm đêm há hốc nuốt chân người.
++ 晚晚張開把腳吞。
 
+* Người nào cũng bị nuốt chân phải.
++ 各人被吞了右腳。
 
+* Chỉ còn chân trái co duỗi được thôi.
++ 只剩左腳能屈伸。
 
+* Trên đời lại có chuyện thật là kỳ.
++ 世間更有離奇事。
 
+* Mọi người tranh nhau đến trước để cùm chân.
++ 人憫爭先上腳鉗。
 
+* Vì có cùm chân mới được ngủ.
++ 因為有鉗才得睡。
 
+* Không cùm chân thì không chỗ ngủ yên.
++ 無鉗沒處可安眠。
 
+* Học đánh cờ.
++ 學奕棋。
 
+* Ngồi trong giam cấm buồn tênh học đánh cờ.
++ 閑坐無聊學奕棋。
+
+* Nghìn quân muôn ngựa cùng rong ruổi.
++ 千兵萬馬共驅馳。
+
+* Tấn công lui giữ đều phải thần tốc.
++ 進攻退守應神速。
+
+* Tài cao chân nhanh mới được nước trước.
++ 高才疾足先得之。
+
+* Tầm nhìn phải rộng suy nghĩ phải sâu.
++ 眼光應大心應細。
+
+* Phải kiên quyết luôn luôn tấn công.
++ 堅決時時要進攻。
+
+* Lạc nước hai xe cũng thành vô dụng.
++ 錯路雙車也沒用。
+
+* Gặp thời một tốt có thể thành công.
++ 逢時一卒可成功。
+
+* Thế lực hai bên vốn ngang nhau.
++ 雙方勢力本平均。
+
+* Kết cục thắng lợi thuộc về một người.
++ 勝利終須屬一人。
+
+* Tính kế đánh hay giữ không sơ hở.
++ 攻守運籌無漏著。
+
+* Mới xứng là bậc đại tướng anh dũng.
++ 才稱英勇大將軍。
+
+* Ngắm trăng.
++ 望月。
+
+* Trong tù không rượu cũng không hoa.
++ 獄中無酒亦無花。
+
+* Trước cảnh đẹp đêm nay biết làm thế nào.
++ 對此良宵奈若何。
+
+* Người hướng ra trước song ngắm trăng sáng.
++ 人向窗前看明月。
+
+* Từ ngoài khe cửa trăng ngắm nhà thơ.
++ 月從窗隙看詩家。
+
+* Chia nước.
++ 分水。
+
+* Mỗi người được chia nửa chậu nước.
++ 每人分得水半盆。
+
+* Rửa mặt hoặc đun trà tuỳ ý mình.
++ 洗面烹茶各隨便。
+
+* Ai muốn rửa mặt đừng đun trà.
++ 誰要洗面勿烹茶。
+
+* Ai muốn đun trà thôi rửa mặt.
++ 誰要烹茶勿洗面。
+
+* Trung thu.
++ 中秋。
+
+* Trăng trung thu tròn như gương.
++ 中秋秋月圓如鏡。
+
+* Chiếu rọi cõi đời ánh trăng trắng như bạc.
++ 照燿人間白似銀。
+
+* Nhà ai sum họp ăn tết trung thu.
++ 家裡團圓吃秋節。
+
+* Chẳng quên người trong ngục nuốt sầu.
++ 不忘獄裡吃愁人。
+
+* Người trong ngục cũng thưởng thức trung thu.
++ 獄中人也賞中秋。
+
+* Trăng thu gió thu đều vương sầu.
++ 秋月秋風帶點愁。
+
+* Không được tự do ngắm trăng thu.
++ 不得自由賞秋月。
+
+* Lòng theo cùng trăng thu vời vợi.
++ 心隨秋月共悠悠。
+
+* Đánh bạc.
++ 賭。
+* Ngoài dân đánh bạc thì bị quan bắt.
++ 民間賭博被官拉。
+
+* Trong tù đánh bạc có thể công khai.
++ 獄裡賭博可公開。
+
+* Con bạc bị tù thường hối tiếc.
++ 被拉賭犯常嗟悔。
+
+* Sao không sớm vào quách chốn này.
++ 何不先到這裡來。
+
+* Tù đánh bạc.
++ 賭犯。
+
+* Nhà nước không phát cơm cho tù cờ bạc.
++ 公家不給賭犯飯。
+
+* Muốn cho họ hối cải lỗi trước.
++ 欲令他們悔前非。
+
+* Nhưng bọn tù sừng sỏ ngày nào cũng có cơm thịt.
++ 硬犯餚饌天天有。
+
+* Còn tù nghèo đói chảy dãi cùng với nước mắt.
++ 窮犯飢涎共淚垂。
+
+*  Bạn tù họ Mạc.
++ 難友幕某。
+
+* Con cái nhà giàu mà nghèo giáo dục.
++ 富家子弟貧家教。
+
+* Gan đánh bạc to như trời mà mật thì nhỏ như cái kim.
++ 賭膽如天膽似鍼。
+
+* Cái tài huênh hoang khoác lác thật là vĩ đại.
++ 車代炮財真偉大。
+
+* Ở tù nhưng vẫn tơ tưởng ăn nhân sâm.
++ 在囚仍想喫人葠。
+
+* Bạn tù  nguyên là chủ nhiệm.
++ 難友原主任。
+
+* Nhà nước giao cho trọng trách coi giữ biên thuỳ.
++ 國家重托鎮邊陲。
+
+* Sao lại quên việc công chỉ lo việc tư.
++ 胡乃忘公只願私。
+
+* Quặng thường tuồn qua biên giới.
++ 鉹礦常從邊界去。
+
+* Bởi thế lò đúc tiền mới đúc ra bài thơ tù.
++ 金錢爐裡鑄囚詩。
+
+* Tết Song thập bị giải đi Thiên Bảo.
++ 雙十日解往天保。
+
+* Nhà nào nhà ấy kết hoa và treo đèn.
++ 家家結綵與張燈。
+
+* Cả nước reo vui mừng ngày quốc khánh.
++ 國慶歡聲舉國騰。
+
+* Thế mà hôm nay ta bị trói giải đi.
++ 我卻今天被綁解。
+
+* Ngọn gió ngược cố ý cản đôi cánh chim bằng.
++ 逆風有意阻飛鵬。
+
+* Đi đường.
++ 走路。
+
+* Có đi đường mới biết đường đi khó.
++ 走路才知走路難。
+
+* Hết lớp núi này lại tiếp đến lớp núi khác.
++ 重山之外又重山。
+
+* Khi đã vượt các lớp núi lên đến đỉnh cao chót.
++ 重山登到高峰後。
+
+* Thì muôn dặm nước non thu cả vào tầm mắt.
++ 萬里與圖顧盼間。
+
+* Chiều tối.
++ 暮。
+
+* Chim mỏi về rừng tìm cây ngủ.
++ 倦鳥歸林尋宿樹。
+
+* Chòm mây lẻ trôi lững lờ trên tầng không.
++ 孤雲慢慢度天空。
+
+* Thiếu nữ xóm núi xay ngô.
++ 山村少女磨包粟。
+
+* Ngô xay vừa xong lò than đã đỏ.
++ 包粟磨完爐已烘。
+
+* Đêm ngủ ở Long Tuyền.
++ 夜宿龍泉。
+
+* Suốt ngày đôi ngựa không ngừng vó.
++ 白天雙馬不停蹄。
+
+* Đêm đến lại từng nếm món gà năm vị.
++ 夜晚嘗嘗五味雞。
+
+* Rệp và rét thừa cơ xông vào tập kích. 
++ 虱冷乘機來夾擊。
+
+* Mừng nghe xóm bên chim oanh hót báo sáng.
++ 隔鄰欣聽曉鶯啼。
+
+* Điền Đông.
++ 田東。
+
+* Mỗi bữa được một bát cháo của nhà nước.
++ 每餐一碗公家粥。
+
+* Cái bụng luôn luôn than phiền.
++ 肚子時時在嘆吁。
+
+* Cơm không ba đồng chẳng đủ no.
++ 白飯三元不鉤飽。
+
+* Củi đắt như quế gạo như châu.
++ 薪如桂也米如珠。
+
+* Mới đến nhà lao Thiên Bảo.
++ 初到天保獄。
+
+* Ngày đi năm mươi ba cây số.
++ 日行五十三公里。
+
+* Ướt hết mũ áo rách hết giày.
++ 濕盡衣冠破盡鞋。
+
+* Suốt đêm lại không có chỗ ngủ yên.
++ 徹夜又無安睡處。
+
+* Ngồi trên hố xí đợi trời sáng.
++ 廁坑上坐待朝來。
+
+* Vợ người bạn tù đến nhà lao thăm chồng.
++ 難友之妻探監。
+
+* Chàng ở trong song sắt.
++ 君在銕窗裡。
+
+* Thiếp ở ngoài song sắt.
++ 妾在銕窗前。
+
+* Gần nhau chỉ tấc gang.
++ 相近在咫尺。
+
+* Mà cách nhau trời vực.
++ 相隔似天淵。
+
+* Miệng không thốt lên lời.
++ 口不能說的。
+
+* Chuyển lời nhờ khoé mắt.
++ 只賴眼傳言。
+
+* Chưa nói nước mắt tràn.
++ 未言淚已滿。
+
+* Tình cảnh thật đáng thương.
++ 情景真可憐。
+
+* Tự khuyên mình.
++ 自勉。
+
+* Không có cảnh mùa đông tiêu điều rét mướt.
++ 没有冬寒憔悴景。
+
+* Sẽ không có mùa xuân ấm áp huy hoàng.
++ 將無春暖的輝煌。
+
+* Tai ương rèn luyện ta.
++ 災殃把我來鍛鍊。
+
+* Khiến cho tinh thần ta càng thêm hăng hái.
++ 使我精神更健強。
+
+* Cảnh đồng nội.
++ 野景。
+
+* Lúc ta đến lúa còn xanh.
++ 我來之時禾尚青。
+
+* Nay vụ gặt đã xong một nửa.
++ 現在秋收半已成。
+
+* Nơi nơi nông dân mặt mày hớn hở.
++ 處處農民顏帶笑。
+
+* Ruộng đồng tràn đầy tiếng ca hát.
++ 田間充滿唱歌聲。
+
+* Hàng cháo.
++ 粥攤。
+
+* Dưới bóng cây râm mát bên đường.
++ 路旁樹影涼陰下。
+
+* Một túp lều tranh ấy là tiệm rượu.
++ 一椽茅蘆是酒樓。
+
+* Cháo nguội và muối trắng làm thành thực đơn.
++ 冷粥白鹽供食譜。
+
+* Khách đi đường qua đây tạm dừng nghỉ.
++ 行人過此暫停留。
+
+* Nhà lao Quả Đức.
++ 果德獄。
+
+* Phòng giam cũng là một gia đình nhỏ.
++ 監房也是小家庭。
+
+* Gạo củi dầu muối đều tự mình lo sắm.
++ 柴米油鹽自己營。
+
+* Trước mỗi phòng giam là một bếp.
++ 每個籠前一個灶。
+
+* Suốt ngày thổi cơm và nấu canh.
++ 成天煮飯與調羹。
+
+* Bác Lưu Sở trưởng Long An.
++ 隆安劉所長。
+
+* Sở trưởng họ Lưu giải quyết công việc thận trọng đúng đắn.
++ 辯事認真劉所長。
+
+* Mọi người đều khen ông công bằng.
++ 人人讚誦你公平。
+
+* Đồng tiền hạt gạo đều công bố.
++ 文錢粒米都公布。
+
+* Nhà lao sạch sẽ hợp vệ sinh.
++ 乾凈囚籠好衛生。
+
+* Giải đi sớm.
++ 早解。
+
+* Gà gáy một lần đêm chưa tàn.
++ 一次雞啼夜未闌。
+
+* Chòm sao nâng vầng trăng lên đỉnh núi mùa thu.
++ 群星擁月上秋山。
+
+* Người đi xa đã cất bước trên đường xa.
++ 征人已在征途上。
+
+* Gió thu táp mặt từng cơn từng cơn lạnh lẽo.
++ 迎面秋風陣陣寒。
+
+* Phương đông màu trắng chuyển thành hồng.
++ 東方白色已成紅。
+
+* Bóng đêm còn rơi rớt sớm đã hết sạch.
++ 幽暗殘餘早一空。
+
+* Hơi ấm bao la khắp vũ trụ.
++ 暖氣包羅全宇宙。
+
+* Người đi thi hứng bỗng thêm nồng.
++ 行人詩興忽加濃。
 
 
 
