@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> de2d1ec3fc93fecde969838cf10c0880697f90dc
+
 ﻿* TRẠNG THÁI YÊU. 
 + 爱的状态.
 
@@ -11,22 +8,14 @@
 * Bãi cỏ non chen đông.
 + 草很拥挤.
 
-<<<<<<< HEAD
-*  Ai nhặt thưa thoát niệm.
-=======
 * Ai nhặt thưa thoát niệm.
->>>>>>> de2d1ec3fc93fecde969838cf10c0880697f90dc
 + 谁选择了稀疏逃生概念.
 
 * Chiêm bao chạm phố phường.
 + 梦想触及街道。
 
 * Ai đọc thơ kêu bạt.
-<<<<<<< HEAD
-+谁读诗大笑.
-=======
 + 谁读诗大笑.
->>>>>>> de2d1ec3fc93fecde969838cf10c0880697f90dc
 
 * Ngân nga khúc hát dài.
 + 哼唱长歌.
@@ -43,13 +32,8 @@
 * Trườn trên mùa yêu rộng.
 + 在广泛的爱情季节爬行.
 
-<<<<<<< HEAD
-+ Thời gian hồn nhiên bỗng.
-* 突然的时间.
-=======
 * Thời gian hồn nhiên bỗng.
 + 突然的时间.
->>>>>>> de2d1ec3fc93fecde969838cf10c0880697f90dc
 
 * Trăm năm hóa sương già.
 + 数百年的衰老。
@@ -114,7 +98,6 @@
 * Thấy bóng mình đang đi lên đỉnh.
 + 看到你的影子到顶部。
 
-<<<<<<< HEAD
 * Và chỉ mình ta .
 + 只有我.
 
@@ -189,5 +172,4 @@
 
 
 
-=======
->>>>>>> de2d1ec3fc93fecde969838cf10c0880697f90dc
+
