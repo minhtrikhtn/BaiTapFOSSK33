@@ -202,11 +202,12 @@
 * Em không thích anh đâu. Hoặc có lẽ là chưa thích.
 + 我不喜欢你也许还没有。
 
-*
-+
+* Sao anh lại nói vậy nhỉ?
++ 为什么这么说
 
-*
-+
+* Tôi không quá buồn vì câu từ chối của anh nhưng không có nghĩa là tôi không hụt.
++ 对于他的拒绝我并不感到难过，但这并不意味着我并不矮。
+
 
 *
 +
