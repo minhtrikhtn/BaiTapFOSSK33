@@ -1,0 +1,660 @@
+1. 我明白了
+Wǒmíngbáile
+Tôi hiểu rồi
+
+2. 我不乾了	
+Wǒ bú gàn le
+Tôi không làm nữa
+
+3. 我也是
+Wǒ yě shì
+Tôi cũng vậy
+
+4. 我同意	
+Wǒ tóngyì
+Tôi đồng ý
+
+5. 還不錯
+Hái bùcuò	
+Cũng được lắm
+
+6. 安靜一點
+Ānjìng yī diǎn
+Hãy giữ im lặng 1 chút
+
+7. 闭嘴	
+Bì zuǐ
+Im miệng
+
+8. 讓我來
+Ràng wǒ lái
+Để tôi , để tôi làm
+
+9. 振作起來
+Zhènzuò qǐlái
+Phấn khởi lên nào
+
+10. 做得好
+Zuò de hǎo
+Làm tốt lắm
+
+11. 玩得開心
+Wán de kāixīn
+Chơi vui vẻ
+
+12. 我回來了
+Wǒ huíláile
+Tôi về rồi
+
+13. 我迷路了
+Wǒ mílùle
+Tôi lạc đường rồi
+
+14. 我請客
+Wǒ qǐngkè
+Tôi đãi , tôi mời
+
+15. 我也一樣	
+Wǒ yě yīyàng
+Tôi cũng thế
+
+16. 這邊請	
+Zhè biān qǐng
+Mời đi lối này
+
+17. 跟我来	
+Gēn wǒ lái
+Đi theo tôi
+
+18. 我拒絕	
+Wǒ jùjué
+Tôi từ chối
+
+19. 我保證	
+Wǒ bǎozhèng
+Tôi bảo đảm
+
+20. 我懷疑	
+Wǒ huáiyí
+Tôi nghi lắm
+
+21. 我也這樣想	
+Wǒ yě zhèyàng xiǎng
+Tôi cũng nghĩ như thế
+
+22. 我是單身貴族	
+Wǒ shì dānshēn guìzú
+Tôi là người độc thân thành đạt
+
+23. 讓我想想	
+Ràng wǒ xiǎng xiǎng
+Để tôi nghĩ đã
+
+24. 我是他的影迷	
+Wǒ shì tā de yǐngmí
+Tôi là fan (người hâm mộ) của anh ấy
+
+25. 你肯定嗎？	
+Nǐ kěndìng ma?
+Bạn chắc chắn không?
+
+26. 我在節食	
+Wǒ zài jiéshí
+Tôi đang ăn kiêng
+
+27. 你出賣我	
+Nǐ chūmài wǒ
+Mày bán đứng tao
+
+28. 我能幫你嗎?	
+Wǒ néng bāng nǐ ma?
+Tôi có thể giúp bạn gì không?
+
+29.我做到了	
+Wǒ zuò dàole
+Tôi làm được rồi
+
+30. 我做完了	
+Wǒ zuò wánle
+Tôi làm xong rồi
+
+31. 我會留意的	
+Wǒ huì liúyì
+Tôi sẽ lưu ý
+
+32. 我在趕時間	
+Wǒ zài gǎn shíjiān
+Tôi đang vội lắm
+
+33. 你欠我一個人情	
+Nǐ qiàn wǒ yīgè rénqíng
+Bạn nợ tôi một việc
+
+34. 你在開玩笑吧?	
+Nǐ zài kāiwánxiào ba?
+Bạn đùa à?
+
+35. 我不是故意的	
+Wǒ bùshì gùyì de
+Tớ không cố ý
+
+36. 我會幫你打點	
+Wǒ huì bāng nǐ dǎdiǎn
+Tôi sẽ sắp xếp cho anh
+
+37. 她缺乏勇氣	
+Tā quēfá yǒngqì
+Anh ấy thiếu dũng khí
+
+38. 我別無選擇	
+Wǒ bié wú xuǎnzé
+Tôi không có sự lựa chọn
+
+39. 我喜歡吃冰淇淋	
+Wǒ xǐhuan chī bīngqílín
+Tôi thích ăn kem
+
+40. 我盡力而為	
+Wǒ jìnlì ér wéi
+Tôi sẽ cố gắng hết sức
+
+41. 你好嗎？	
+Nǐhǎo ma?
+Bạn có khỏe không?
+
+42. 见到你很高兴。	
+Jiàn dào nǐ hěn gāoxìng
+Rất vui được gặp bạn.
+
+43. 你近来过的怎麼樣？	
+Nǐ jìn lái guò de zěnmeyàng?
+Bạn dạo này thế nào?
+
+44. 忙嗎？	
+Máng ma ?
+Bận không?
+
+45.還好。
+Hái hǎo
+Cũng tốt
+
+46. 挺好。	
+Tǐng hǎo.
+Rất tốt.
+
+47. 馬馬虎虎	
+Mǎmahǔhu
+Chỉ tàm tạm,bình thường.
+
+48. 我愛你	
+Wǒ ài nǐ
+Anh yêu em
+
+49. 这是你的嗎?	
+Zhè shì nǐ de ma?
+Nó là của bạn à?
+
+50. 這很好。
+Zhè hěn hǎo.
+Rất tốt
+
+51. 你肯定嗎?	
+Nǐ kěndìng ma?
+Bạn có chắc không?
+
+52. 非做不可嗎?	
+Fēi zuò bùkě ma?
+Tôi có phải không?
+
+53. 他和我同歲	
+Tā hé wǒ tóng suì.
+Anh ấy cùng tuổi với tôi
+
+54. 不要緊。	
+Bùyàojǐn.
+Không có gì
+
+55. 沒問題!	
+Méi wèntí!
+Không vấn đề gì
+
+56. 就這樣!
+Jiù zhèyàng!
+Thế đó
+
+57. 時間快到了	
+Shíjiān kuài dàole.
+Hết giờ
+
+58. 有什麼新鮮事嗎?	
+Yǒu shén me xīnxiān shì ma?
+Có tin tức gì mới không
+
+59. 算上我。	
+Suàn shàng wǒ.
+Tin tôi đi
+
+60. 別擔心	
+Bié dānxīn.
+Đừng lo lắng
+
+61. 好點了嗎?	
+Hǎo diǎnle ma?
+Thấy đỡ hơn chưa?
+
+62. 你呢?	
+Nǐ ne?
+Bạn thì sao?
+
+63. 你欠我一個人情。
+Nǐ qiàn wǒ yīgè rénqíng.
+Bạn nợ tôi đó
+
+64. 不客氣。
+Bù kèqì.
+Không có gì
+
+65. 哪一天都行夕	
+Nǎ yītiān dou xíng xī
+Ngày nào đó sẽ làm
+
+66. 你在開玩笑吧!	
+Nǐ zài kāiwánxiào ba!
+Bạn đùa à?
+
+67. 祝賀你!	
+Zhùhè nǐ!
+Chúc mừng bạn
+
+68. 我情不自禁。	
+Wǒ qíngbùzìjīn.
+Tôi không chịu nổi
+
+69. 我不知道 .	
+Wǒ bù zhìdāo
+Tôi không biết
+
+70. 我會幫你打點的。	
+Wǒ huì bāng nǐ dǎdiǎn de.
+Tôi sẽ giúp bạn
+
+71. 給你。	
+Gěi nǐ.
+Của bạn đây
+
+72. 没有人知道。	
+Méiyǒu rén zhīdào.
+Không ai biết
+
+73.別緊張。	
+Bié jǐnzhāng.
+Đừng vội vàng (căng thẳng)
+
+74. 太遺憾了!	
+Tài yíhànle!
+Tiếc quá
+
+75. 還要別的嗎?	
+Hái yào bié de ma?
+Còn gì nữa không?
+
+76. 一定要小心!	
+Yīdìng yào xiǎoxīn!
+Cẩn thận
+
+77. 幫個忙，好嗎?	
+Bāng gè máng, hǎo ma?
+Giúp tôi một việc
+
+78. 先生，對不起	
+Xiānshēng, duìbùqǐ.
+Xin lỗi ngài, xin lỗi bạn
+
+79. 幫幫我!	
+Bāng bāng wǒ!
+Giúp tôi một tay
+
+80. 怎麼樣?	
+Zěnme yàng?
+Mọi việc thế nào?
+
+81. 我沒有頭緒	
+Wǒ méiyǒu tóuxù.
+Tôi không biết
+
+82. 我做到了!	
+Wǒ zuò dàole!
+Tôi đã làm được rồi
+
+83. 我不想聽	
+Wǒ bù xiǎng tīng
+Tôi không muốn nghe nữa
+
+84. 我不懂!	
+Wǒ bù dǒng
+Tôi không hiểu
+
+85. 這是她的本行	
+Zhè shì tā de běn háng.
+Đó là chuyên môn của cô ta.
+
+86. 由你決定	
+Yóu nǐ juédìng.
+Nó phụ thuộc vào bạn
+
+87. 簡直太棒了!	
+Jiǎnzhí tài bàngle!
+Thật tuyệt vời
+
+88. 別客氣。	
+Bié kèqì.
+Đừng khách sáo, đừng khách khí
+
+89. 好棒 .	
+Hǎo bàng .
+Tuyệt vời
+
+90. 保持聯絡。	
+Bǎochí liánluò.
+Giữ liên hệ nhé
+
+91. 時間就是金錢。	
+Shíjiān jiùshì jīnqián.
+Thời gian là vàng bạc
+
+92. 是哪一位?	
+Shì nǎ yī wèi?
+Ai gọi đó
+
+93. 你做得對。	
+Nǐ zuò dé duì.
+Bạn đã làm đúng
+
+94. 笨蛋	
+Bèn dān
+Đồ ngốc, ngu ngốc
+
+95. 滾開	
+Gǔn kāi
+Cút đi, xéo đi. Biến đi ngay
+
+96. 祝你玩得開心!	
+Zhù nǐ wán dé kāixīn!
+Thưởng thức nhé
+
+97. 小心一點	
+Xiǎoxīn yī diǎn .
+Cẩn thận một chút.
+
+98. 別動。	
+Bié dōng
+Đừng cử động. Đứng yên, đừng nhúc nhích.
+
+99. 別走.	
+Bié zǒu .
+Đừng đi.
+
+100. 幹嘛	
+Gān mǎ ！
+Gì thế!
+
+101. 男人	
+Nánrén
+Đàn ông, nam nhân.
+
+102. 你好!
+Ní hảo.
+Chào anh ( chị, bạn).
+
+103. 先生，早安!
+Xiānsheng, zăo ān!
+Chào ngài, buổi sáng vui vẻ!
+
+104. 小姐，中午好!
+Xiăojiĕ, zhōngwŭ hăo.
+Chào cô, chúc cô buổi trưa vui vẻ!
+
+105. 老板，晚安!
+Lăobăn, wăn an!
+Chào ông, chúc ngủ ngon!
+
+106. 认识你，我很高兴。
+Rènshinĭ, wŏhĕn gāoxìng.
+Tôi rất vui mừng khi quen biết anh (chị).
+
+107. 认识你，我也很高兴。
+Rènshinĭ, wŏyĕ hĕn gāoxìng.
+Quen biết anh tôi cũng rất vui
+
+108. 你吃了吗？
+Nĭchī le ma?
+Anh ăn cơm chưa?
+
+109. 我吃了。你呢？
+Wŏchī le. Nĭ ne?
+Tôi ăn rồi, anh đã ăn chưa?
+
+110. 你去哪儿？
+Nĭ qù năr?
+Anh đi đâu đấy?
+
+111. 我出去。
+Wŏchūqù.
+Tôi đi ra ngoài.
+
+112. 再见。
+Zàijiàn.
+Tạm biệt.
+
+113. 明天见。x.
+Míngtiān jiàn.
+Ngày mai gặp nhé
+
+114. 你好吗？
+Nĭ hăo ma?
+Anh khỏe không?
+
+115.我好！
+Wŏ hăo!
+Tôi khỏe!
+
+116. 你身体好吗？
+Nĭ shēntĭ hăoma?
+Anh khỏe không?
+
+117.我很好，谢谢。你呢？
+Wŏ hĕn hăo, xièxie. Nĭ ne?
+Tôi rất khỏe, cám ơn anh. Còn anh?
+
+118. 我也很好，谢谢你。
+Wŏ yĕ hĕn hăo, xiè xie nĭ.
+Tôi cũng rất khỏe, cám ơn anh.
+
+119. 你好
+Nĭ hăo!
+Chào anh!
+
+120. 早安！
+Zăo ān!
+Chào buổi sáng!
+
+121. 午安！
+Wŭ ān!
+Chào buổi trưa!
+
+122. 晚安！
+Wăn ān!
+Chào buổi tối, chúc ngủ ngon!
+
+123. 请进
+Qĭngjìn!
+Mời vào!
+
+124. 请跟我走！
+Qĭnggēnwŏzŏu!
+Hãy đi theo tôi!
+
+125. 请坐!
+Qĭngzuò!
+Mời ngồi!
+
+126. 请吃饭！
+Qĭng chīfàn!
+Mời ăn cơm!
+
+127. 请喝茶。
+Qĭng hē chá.
+Mời uống trà!
+
+128. 别客气。
+Bié kè qi.
+Đừng khách khí.
+
+129. 请上车。
+Qĭng shàng chē.
+Mời lên xe.
+
+130. 请下车。
+Qĭng xià chē.
+Mời xuống xe.
+
+131. 请说慢一点。
+Qĭng shuō màn yī diăn.
+Xin nói chậm một chút.
+
+132. 请再说一遍。
+Qĭng zài shuō yì biān.
+Xin nhắc lại lần nữa.
+
+133. 请大声一点。
+Qĭng dà shēng yì diăn.
+Xin nói to một chút.
+
+134. 请帮我一下。
+Qĭng bāng wŏ yí xià.
+Hãy giúp tôi.
+
+135. 请等我一会儿。
+Qĭng dĕng yí huìr.
+Xin đợi một chút.
+
+136. 感谢。
+Găn xiè.
+Cảm ơn.
+
+137. 不用谢。
+Bú yòng xiè.
+Không cần cảm ơn.
+
+138. 没什么。
+Méi shén me.
+Không có gì.
+
+139. 对不起。
+Duì bù qĭ.
+Xin lỗi.
+
+140. 请原谅。
+Qĭng yuán liàng.
+Xin thứ lỗi.
+
+141. 麻烦你了。
+Má fán nĭ le.
+Làm phiền anh.
+
+142. 劳驾。
+Láo jià.
+Cảm phiền.
+
+143. 我很抱歉。
+Wŏ hĕn bào qiàn.
+Thành thật xin lỗi.
+
+144. 太可惜。
+Tài kĕ xī.
+Thật đáng tiếc.
+
+145. 客气一点。
+Kè qi yì diăn.
+Khách khí một chút.
+
+146. 我走啊。
+Wŏ zŏu a.
+Tôi đi đây.
+
+147. 慢走。
+Màn zŏu.
+Về nhé.
+
+148.再见。
+Zài jiàn.
+Tạm biệt.
+
+149. 请客气。
+Qĭng kè qì.
+Xin khách khí.
+
+150.别客气。
+Bié kè qì.
+Xin đừng khách khí.
+
+151. 好久不见。
+Hăo jiŭ bú jiàn.
+Lâu rồi không gặp.
+
+152. 请等一下，请等一等。
+Qĭng dĕng yí xià, Qĭng dĕng yì dĕng.
+Đợi chút.
+
+153. 你好，你好吗？
+Nĭ hăo, nĭ hăo ma?
+Chào chị, chị khỏe không?
+
+154. 你好，我很好。你呢？
+Nĭ hăo, wŏ hĕn hăo. Nĭ ne?
+Chào em, chị khỏe. Còn em?
+
+155. 我也很好。
+Wŏ yĕ hĕn hăo.
+Em cũng vậy.
+
+156. 请坐。
+Qĭng zuò.
+Chị ngồi đi.
+
+157. 谢谢。
+Xièxie.
+Cám ơn em.
+
+158. 别客气。
+Biékèqi.
+Xin đừng khách khí.
+
+159. 李经理，中午好！
+Lĭ jīng lĭ, zhōng wŭ hăo!
+Giám đốc Lý buổi trưa vui vẻ!
+
+160. 你好，请喝茶。
+Nĭ hăo, qĭng hē chá.
+Chào anh, mời anh uống trà.
+
+161. 谢谢你。
+Xièxie nĭ.
+Cám ơn anh.
+
+162. 你吃饭了吗？
+Nĭ chī fàn le ma?
+Anh ăn cơm chưa?
+
+163. 我吃了。
+Wŏ chī le.
+Tôi ăn rồi.
+
+164. 你呢？
+Nĭ ne?
+Còn anh?
+
+165. 我吃饱了。
+Wŏ chī băo le.
+Tôi ăn no rồi.
+
