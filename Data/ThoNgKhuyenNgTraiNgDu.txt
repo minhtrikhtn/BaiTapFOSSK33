@@ -10062,3 +10062,6 @@
 
 * Chân trời góc biển, tuổi ba mươi.
 + 海角天涯三十年。
+
+* Xuân nhật ngẫu hứng.
++ 春日偶興。
