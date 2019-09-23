@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿* TRẠNG THÁI YÊU 
 + 爱的状态
 
@@ -100,3 +101,58 @@
 
 
 
+=======
+﻿* TRẠNG THÁI YÊU 
++ 爱的状态
+
+* Cô đơn ngày chợt ấm
++ 孤独突然温暖
+
+* Bãi cỏ non chen đông
++ 草很拥挤
+
+* Ai nhặt thưa thoát niệm
++ 谁选择了稀疏逃生概念
+
+* Chiêm bao chạm phố phường.
++ 梦想触及街道。
+
+* Ai đọc thơ kêu bạt
++ 谁读诗大笑
+
+* Ngân nga khúc hát dài
++ 哼唱长歌
+
+* Đồng thoại trời kêu nhạt
++ 同时，天空一片苍白
+
+* Bóng nhớ in dấu hài.
++ 记忆球与喜剧。
+
+* Là khi em, khi ta
++ 当你，当我们
+
+* Trườn trên mùa yêu rộng
++ 在广泛的爱情季节爬行
+
+* Thời gian hồn nhiên bỗng
++ 突然的时间
+
+* Trăm năm hóa sương già.
++ 数百年的衰老。
+
+* Bấc về em có lạnh
++ 你身上的灯心好冷
+
+* Đá sỏi biết môi cười
++ 鹅卵石会笑
+
+* Gai góc chun chăn gối
++ 棘手的枕头
+
+* Má phấn có thơm tươi ?
++ 脸颊粉新鲜吗？
+
+
+
+>>>>>>> 52aebd643d1b7407f255ea963f030cd5e0116160
