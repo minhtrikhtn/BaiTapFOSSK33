@@ -1865,8 +1865,2290 @@
 + 传闻谣言远近。
 
 * Gần miền có một mụ nào,
-+ 靠近有域名的域名
++ 靠近有域名的域名,
 
-* Đưa người viễn khách tìm vào vấn danh
-+ 让乘客查看名单
+* Đưa người viễn khách tìm vào vấn danh.
++ 让乘客查看名单.
 
+* Hỏi tên rằng: Mã Giám sinh.
++ 请输入以下名称：代码出生。
+
+* Hỏi quê, rằng: Huyện Lâm Thanh cũng gần.
++ 问农村，那是：林同区也在附近。
+
+* Quá niên trạc ngoại tứ tuần,
++ 海外超过四个星期，
+
+* Mày râu nhẵn nhụi, áo quần bảnh bao.
++ 光滑的胡须，漂亮的衣服。
+
+* Trước thầy sau tớ lao xao,
++ 老师上课后我扑腾,
+
+* Nhà băng đưa mối rước vào lầu trang.
++ 银行将白蚁带到书本楼。
+
+* Ghế trên ngồi tót sỗ sàng,
++ 高脚椅准备坐下,
+
+* Buồng trong mối đã giục nàng kíp ra.
++ 白蚁的房间催促她脱离。
+
+* Nỗi mình thêm tức nỗi nhà,
++ 我在家更难过,
+
+* Thềm hoa một bước, lệ hoa mấy hàng!
++ 花一步一步，几排花！
+
+* Ngại ngùng giợn gió e sương,
++ 令人尴尬的是，风在吹,
+
+* Nhìn hoa bóng thẹn, trông gương mặt dày.
++ 害羞地望着花，望着浓密的脸。
+
+* Mối càng vén tóc bắt tay,
++ 理发师越摇头握手，
+
+* Nét buồn như cúc, điệu gầy như mai.
++ 像雏菊一样令人难过的功能，像明天一样听起来很清脆。
+
+* Đắn đo cân sắc cân tài,
++ 衡量人才的平衡，
+
+* Ép cung cầm nguyệt, thử bài quạt thơ.
++ 强迫抱着月亮，试试诗迷。
+
+* Mặn nồng một vẻ một ưa,
++ 咸看起来很受宠,
+
+* Bằng lòng khách mới tùy cơ dặt dìu.
++ 满足新客人的喜好，具体取决于他们的喜好。
+
+* Rằng: Mua ngọc đến Lam Kiều,
++ 那：买珍珠给林基，
+
+* Sính nghi xin dạy bao nhiêu cho tường?
++ 怀疑者请教多少钱？
+
+* Mối rằng: đáng giá nghìn vàng,
++ 圈出：价值数千金币，
+
+* Gấp nhà nhờ lượng người thương dám nài.
++ 折叠房屋要归功于敢于恳求的人数。
+
+* Cò kè bớt một thêm hai,
++ 鹳少一两个，
+
+* Giờ lâu ngã giá vàng ngoài bốn trăm.
++ 长时间以来，金价下跌超过四百。
+
+* Một lời thuyền đã êm dằm,
++ 船上的话很顺利,
+
+* Hãy đưa canh thiếp trước cầm làm ghi.
++ 请在小鸟前把卡片记下来。
+
+* Định ngày nạp thái vu qui,
++ 确定充电日期，
+
+* Tiền lưng đã sẵn việc gì chẳng xong!
++ 什么钱已经可用回来做！
+
+
+* Một lời cậy với Chung công,
++ 忠恭信，
+
+* Khất từ tạm lĩnh Vương ông về nhà.
++ 从王先生乞求暂时回家。
+
+* Thương tình con trẻ cha già,
++ 爱年轻的父亲,
+
+* Nhìn nàng ông những máu sa ruột dàu:
++ 看着她，血液里充满了肠子：
+
+* Nuôi con những ước về sau,
++ 养育您的孩子以后再希望，
+
+* Trao tơ phải lứa, gieo cầu đáng nơi.
++ 给猫咪乱扔垃圾，播种桥梁是值得的。
+
+* Trời làm chi cực bấy trời,
++ 天空非常极端,
+
+* Này ai vu thác cho người hợp tan!
++ 嘿，谁喜欢晒黑！
+
+* Búa rìu bao quản thân tàn,
++ 柴刀锤打身体，
+
+* Nỡ đầy đọa trẻ, càng oan khốc già.
++ 到处都是年幼的孩子，年龄越来越大。
+
+* Một lần sau trước cũng là,
++ 以后的时间也是
+
+* Thôi thì mặt khuất chẳng thà lòng đau!
++ 好吧，那张隐藏的脸宁愿受伤！
+
+* Theo lời càng chảy dòng châu,
++ 随着文字的流动，
+
+* Liều mình ông rắp gieo đầu tường vôi.
++ 自担风险，他撒了石灰墙。
+
+* Vội vàng kẻ giữ người coi,
++ 快点那些守望的人
+
+* Nhỏ to nàng lại tìm lời khuyên can:
++ 大胆的寻求建议可以：
+
+* Vẻ chi một mảnh hồng nhan,
++ 看起来像粉红色的美女,
+
+* Tóc tơ chưa chút đền ơn sinh thành.
++ 真丝的头发对出生有点感激。
+
+* Dâng thư đã thẹn nàng Oanh,
++ 这封信因Oanh感到羞耻，
+
+* Lại thua ả Lý bán mình hay sao?
++ 输给她还是输给Ly？
+
+* Cỗi xuân tuổi hạc càng cao,
++ 起重机年龄越长，
+
+* Một cây gánh vác biết bao nhiêu cành.
++ 一棵树上有许多树枝。
+
+* Lòng tơ dù chẳng dứt tình,
++ 虽然永无止境的爱心，
+
+* Gió mưa âu hẳn tan tành nưóc non.
++ 欧洲的风雨必须完全溶解该国。
+
+* Thà rằng liều một thân con,
++ 最好冒险一个孩子，
+
+* Hoa dù rã cánh, lá còn xanh cây.
++ 降落伞降落伞花，叶子是绿色的。
+
+* Phận sao đành vậy cũng vầy,
++ 这样的缘分,
+
+* Cầm như chẳng đậu những ngày còn xanh.
++ 好像在绿色的日子里没有举行。
+
+* Cũng đừng tính quẩn lo quanh,
++ 另外，不要担心。
+
+* Tan nhà là một thiệt mình là hai.
++ 谭家是一个真正的损失是两个。
+
+* Phải lời ông cũng êm tai,
++ 他的话也很温柔,
+
+* Nhìn nhau giọt vắn giọt dài ngổn ngang.
++ 互相看着对方的短滴蔓延。
+
+* Mái ngoài họ Mã vừa sang,
++ 在外面，马的家人来了,  
+
+* Tờ hoa đã ký, cân vàng mới trao.
++ 签名花片，新重量.
+
+* Trăng già độc địa làm sao?
++ 老月亮多么残酷？
+
+* Cầm dây chẳng lựa buộc vào tự nhiên.
++ 握住一根绳子与自然无关。
+
+* Trong tay đã sẵn đồng tiền,
++ 手里有钱,
+
+
+* Dầu lòng đổi trắng thay đen khó gì!
++ 白油变硬，黑变硬！
+
+* Họ Chung ra sức giúp vì,
++ 他们尽力提供帮助，因为，
+
+* Lễ tâm đã đặt, tụng kỳ cũng xong.
++ 仪式已经设置，朗诵结束。
+
+* Việc nhà đã tạm thong dong,
++ 琐事已经放松了，
+
+* Tinh kỳ giục giã đã mong độ về.
++ 强烈要求达到预期的程度。
+
+* Một mình nàng ngọn đèn khuya,
++ 晚上独自一人灯,
+
+* Áo dầm giọt lệ, tóc xe mối sầu.
++ 衬衫束流泪，车祸发。
+
+
+* Phận dầu, dầu vậy cũng dầu,
++ 油部分，油也，油，
+
+* Xót lòng đeo đẳng bấy lâu một lời!
++ 仁慈地穿了一个字！
+
+* Công trình kể biết mấy mươi.
++ 这项工作告诉了几十年。
+
+* Vì ta khăng khít, cho người dở dang.
++ 因为我们亲密，对于未完成的人。
+
+* Thề hoa chưa ráo chén vàng,
++ 我发誓花还没花光，
+
+* Lỗi thề thôi đã phụ phàng với hoa.
++ 错误将花朵并排发誓。
+
+* Trời Liêu non nước bao xa.
++ 这个国家几岁.
+
+* Nghĩ đâu rẽ cửa chia nhà tự tôi.
++ 认为对我来说这是一扇单独的门。
+
+* Biết bao duyên nợ thề bồi.
++ 有多少还债宽限期。
+
+* Kiếp này thôi thế thì thôi còn gì.
++ 这就是剩下的一切。
+
+* Tái sinh chưa dứt hương thề.
++ 重生尚未结束。
+
+* Làm thân trâu ngựa đền nghì trúc mai.
++ 使水牛马和竹庙的身体。
+
+* Nợ tình chưa trả cho ai,
++ 债务还没有付给任何人，
+
+* Khối tình mang xuống tuyền đài chưa tan.
++ 爱的质量下降了，但仍在传播。
+
+* Nỗi riêng riêng những bàng hoàng,
++ 与震惊的人特别分开，
+
+* Dầu chong trắng đĩa lệ tràn thấm khăn.
++ 白油溢出吸收剂盘。
+
+* Thúy Vân chợt tỉnh giấc xuân,
++ 翠·范（Thuy Van）突然在春天醒来。
+
+* Dưới đèn ghé đến ân cần hỏi han:
++ 在灯光下，体贴询问：
+
+* Cơ trời dâu bể đa đoan,
++ 天空是如此暗淡，
+
+* Một nhà để chị riêng oan một mình,
++ 一个不公正地独处给她的房子，
+
+* Cớ chi ngồi nhẫn tàn canh?
++ 为什么还要多坐着不安？
+
+* Nỗi riêng còn mắc mối tình chi đây?
++ 私事在这里也困扰了？
+
+* Rằng: Lòng đương thổn thức đầy,
++ 那：抽泣，
+
+* Tơ duyên còn vướng mối này chưa xong.
++ 丝绸的魅力仍然纠缠着这种联系。
+
+* Hở môi ra cũng thẹn thùng,
++ 裸露的嘴唇也害羞，
+
+* Để lòng thì phụ tấm lòng với ai.
++ 要心，子心要谁。
+
+* Cậy em, em có chịu lời,
++ 来吧，你会服从的。
+
+* Ngồi lên cho chị lạy rồi sẽ thưa.
++ 坐下，我向你鞠躬。
+
+* Giữa đường đứt gánh tương tư,
++ 在负担相似的两行之间，
+
+* Loan giao chắp mối tơ thừa mặc em.
++ 分配给我红色丝绸的贷款。
+
+* Kể từ khi gặp chàng Kim,
++ 自从见到金,
+
+* Khi ngày quạt ước, khi đêm chén thề.
++ 当粉丝们希望的时候，夜晚发誓。
+
+* Sự đâu sóng gió bất kỳ,
++ 哪里有暴风雨，
+
+* Hiếu tình khôn lẽ hai bề vẹn hai!
++ 孝顺爱两个诚信二！
+
+* Ngày xuân em hãy còn dài,
++ 我还有一个漫长的春日，
+
+* Xót tình máu mủ, thay lời nước non.
++ 热爱热血，而不是年轻的话。
+
+* Chị dù thịt nát xương mòn,
++ 即使她的肉破了，
+
+* Ngậm cười chín suối hãy còn thơm lây.
++ 微笑的九股小溪依旧香气四溢。
+
+* Chiếc thoa với bức tờ mây,
++ 擦同云传单，
+
+* Duyên này thì giữ vật này của chung.
++ 这种魅力使这件事保持共同点。
+
+* Dù em nên vợ nên chồng,
++ 即使你是夫妻,
+
+* Xót người mệnh bạc, ắt lòng chẳng quên.
++ 仁慈的人注定了白银，一定不要忘记。
+
+* Mất người còn chút của tin,
++ 失去一点信念, 
+
+* Phím đàn với mảnh hương nguyền ngày xưa.
++ 老式香熏香的钥匙。
+
+* Mai sao dầu có bao giờ.
++ 明天有石油。
+
+* Đốt lò hương ấy, so tơ phím này.
++ 烧香炉，比较这个关键。
+
+* Trông ra ngọn cỏ lá cây,
++ 看起来像草叶，
+
+* Thấy hiu hiu gió thì hay chị về.
++ 如果您看到天气，您将回来。
+
+* Hồn còn mang nặng lời thề,
++ 灵魂也承载着沉重的誓言，
+
+* Nát thân bồ liễu, đền nghì trúc mai;
++ 菩萨身，庙宇建筑杏；
+
+* Dạ đài cách mặt khuất lời,
++ 舞台隐藏在脸上,
+
+* Rẩy xin chén nước cho người thác oan.
++ 洒水以供不当使用。
+
+* Bây giờ trâm gẫy bình tan,
++ 现在胸针断裂了，
+
+* Kể làm sao xiết muôn vàn ái ân.
++ 告诉人们如何亲切地表达爱意。
+
+* Trăm nghìn gửi lại tình quân,
++ 十万被送回军队，
+
+* Tơ duyên ngắn ngủi có ngần ấy thôi.
++ 这种短暂的魅力就是这样。
+
+* Phận sao phận bạc như vôi,
++ 白银的命运就像石灰
+
+* Đã đành nước chẩy hoa trôi lỡ làng.
++ 如果村里流淌着水，想念村落。
+
+* Ôi Kim lang! Hỡi Kim lang!
++ 哦，金郎！金郎！
+
+* Thôi thôi thiếp đã phụ chàng từ đây!
++ 好吧，老婆从这里帮了我！
+
+* Cạn lời hồn ngất máu say,
++ 说了这么多血，醉酒的灵魂，
+
+* Một hơi lặng ngắt đôi tay giá đồng.
++ 沉默打断了铜价。
+
+* Xuân Huyên chợt tỉnh giấc nồng,
++ 玄惠妍突然醒了,
+
+* Một nhà tấp nập, kẻ trong người ngoài.
++ 一个繁忙的房子，局外人。
+
+* Kẻ thang người thuốc bời bời,
++ 被一个人迷住的人，
+
+* Mới dằn cơn vựng, chưa phai giọt hồng.
++ 新的镇流器词汇，不掉粉红色滴。
+
+* Hỏi: Sao ra sự lạ lùng?
++ 问：为什么奇怪？
+
+* Kiều càng nức nở mở không ra lời.
++ Kieu更加抽泣着打开这句话。
+
+* Nỗi nàng Vân mới rỉ tai,
++ 新范文的听证会,
+
+* Chiếc thoa này với tờ bồi ở đây..
++ 这个带盖的轻拍。
+
+* Này cha làm lỗi duyên mày,
++ 爸这是你的错,
+
+* Thôi thì nỗi ấy sau này đã em.
++ 好吧那晚我来了。
+
+* Vì ai rụng cải rơi kim,
++ 因为谁丢芥末针,
+
+* Để con bèo nổi mây chìm vì ai.
++ 因为尘土云而躲避。
+
+* Lời con dặn lại một hai,
++ 我告诉过你一两个,
+
+* Dẫu mòn bia đá, dám sai tấc vàng.
++ 尽管石碑磨损，但敢于寸黄。
+
+* Lậy thôi, nàng lại thưa chiềng,
++ 来吧，她再来一次,
+
+* Nhờ cha trả được nghĩa chàng cho xuôi.
++ 感谢父亲付出他的钱。
+
+* Sá chi thân phận tôi đòi,
++ 我声称萨基的命运，
+
+* Dẫu rằng xương trắng quê người quản đâu.
++ 虽然白骨在哪里经理。
+
+* Xiết bao kể nỗi thảm sầu!
++ 多少悲伤悲伤！
+
+* Khắc canh đã giục nam lâu mấy hồi.
++ 刻汤长期敦促人们。
+
+* Kiệu hoa đâu đã đến ngoài,
++ 游行来了,
+
+* Quản huyền đâu đã giục người sinh ly.
++ 管理层敦促人们生育。
+
+* Đau lòng kẻ ở người đi,
++ 对那些去的人感到痛苦,
+
+* Lệ rơi thấm đá tơ chia rũ tằm.
++ 泪落丝li行。
+
+* Trời hôm mây kéo tối rầm,
++ 傍晚的天空多云,
+
+* Rầu rầu ngọn cỏ đầm đầm cành sương.
++ 酸的草顶使露水的树枝湿润。
+
+* Rước nàng về đến trú phường,
++ 接待她到病房，
+
+* Bốn bề xuân khóa một nàng ở trong.
++ 四个弹簧表面锁住了一个女孩。
+
+* Ngập ngừng thẹn lục e hồng,
++ 一直呆呆地停下来,
+
+* Nghĩ lòng lại xót xa lòng đòi phen.
++ 再次思考使内心的渴望感叹。
+
+* Phẩm tiên rơi đến tay hèn,
++ 仙女们变得，
+
+* Hoài công nắng giữ mưa gìn với ai:
++ 在阳光下，与谁保持降雨：
+
+* Biết thân đến bước lạc loài,
++ 知道自己会流浪，
+
+* Nhị đào thà bẻ cho người tình chung.
++ 对于普通的情人，第二趟火车宁愿中断。
+
+* Vì ai ngăn đón gió đông,
++ 因为谁能阻止冬天的风,
+
+* Thiệt lòng khi ở đau lòng khi đi.
++ 痛苦时伤心欲绝。
+
+* Trùng phùng dầu họa có khi,
++ 有时油雾虫,
+
+* Thân này thôi có còn gì mà mong.
++ 这个身体不过是希望。
+
+* Đã sinh ra số long đong,
++ 生了很多,
+
+* Còn mang lấy kiếp má hồng được sao?
++ 你甚至可以过着美好的生活吗？
+
+* Trên yên sẵn có con dao,
++ 鞍座上有一把刀。
+
+* Giấu cầm nàng đã gói vào chéo khăn:
++ 将包裹的女孩隐藏在交叉毛巾中：
+
+* Phòng khi nước đã đến chân,
++ 万一水到了脚下，
+
+* Dao này thì liệu với thân sau này.
++ 这把刀适合以后使用。
+
+* Đêm thu một khắc một chầy,
++ 在秋天，一个半，
+
+* Bâng khuâng như tỉnh như say một mình.
++ 像醉汉一样挣扎着挣扎。
+
+* Chẳng ngờ gã Mã Giám Sinh,
++ 出乎意料的家伙马嘉欣（Ma Giam Sinh），
+
+* Vẫn là một đứa phong tình đã quen.
++ 还是个熟悉的女孩。
+
+* Quá chơi lại gặp hồi đen,
++ 当我也玩的时候，我遇到了坏人，
+
+* Quen mùi lại kiếm ăn miền nguyệt hoa.
++ 习惯于觅食花朵区域。
+
+* Lầu xanh có mụ Tú Bà,
++ 绿色的地板上有一个瞎女人图巴，
+
+* Làng chơi đã trở về già hết duyên.
++ 玩耍的乡村回到了古老的时代。
+
+* Tình cờ chẳng hẹn mà nên,
++ 偶然不应该约会，
+
+* Mạt cưa mướp đắng đôi bên một phường.
++ 苦瓜锯末在两个病房中。
+
+* Chung lưng mở một ngôi hàng,
++ 一起开了一家餐厅,
+
+* Quanh năm buôn phấn bán hương đã lề.
++ 一年四季卖香都有一定的利润。
+
+* Dạo tìm khắp chợ thì quê,
++ 漫步市场，乡村，
+
+* Giả danh hầu hạ dạy nghề ăn chơi.
++ 假装自己是从事工作的军人。
+
+* Rủi may âu cũng tại trời,
++ 不幸的是，在天堂
+
+* Đoạn trường lại chọn mặt người vô duyên.
++ 校区选择笨拙的面孔
+
+* Xót nàng chút phận thuyền quyên,
++ 可怜她一条命运的小船，
+
+* Cành hoa đem bán vào thuyền lái buôn.
++ 花枝在商船上出售。
+
+* Mẹo lừa đã mắc vào khuôn,
++ 特技被困在模具中，
+
+* Sính nghi rẻ giá nghênh hôn sẵn ngày.
++ 廉价的怀疑欢迎这一天。
+
+* Mừng thầm: Cờ đã đến tay!
++ 恭喜：旗帜到了！
+
+* Càng nhìn vẻ ngọc càng say khúc vàng.
++ 您越看珍珠，醉的金曲就越多。
+
+* Đã nên quốc sắc thiên hương,
++ 成为民族色彩，
+
+* Một cười này hẳn nghìn vàng chẳng ngoa.
++ 笑不能夸大成千上万的金子。
+
+* Về đây nước trước bẻ hoa,
++ 回到这里，先摘花，
+
+* Vương tôn quý khách ắt là đua nhau.
++ Vuong的宗教顾客一定在比赛。
+
+* Hẳn ba trăm lạng kém đâu,
++ 必须有三百个碎片
+
+* Cũng đà vừa vốn còn sau thì lời,
++ 势头与这些话一样长，
+
+* Miếng ngon kề đến tận nơi,
++ 好吃的东西来到你家，
+
+* Vốn nhà cũng tiếc của trời cũng tham.
++ 首都也为天堂感到遗憾。
+
+* Đào tiên đã bén tay phàm,
++ 道已经举手,
+
+* Thì vin cành quít cho cam sự đời!
++ 然后，橘子将橘子分支为橙色生活！
+
+* Dưới trần mấy mặt làng chơi,
++ 在村庄的表面之下,
+
+* Chơi hoa đã dễ mấy người biết hoa.
++ 打花对某些人来说很容易就知道花。
+
+* Nước vỏ lựu máu mào gà,
++ 石榴凤头鸡,
+
+* Mượn màu chiêu tập lại là còn nguyên.
++ 借用的颜色收集完好无损。
+
+* Mập mờ đánh lận con đen,
++ 愚弄了那个黑人孩子，
+
+* Bao nhiêu cũng bấy nhiêu tiền mất chi?
++ 多少钱？
+
+* Mụ già hoặc có điều gì,
++ 老妇之类的,
+
+* Liều công mất một buổi quỳ mà thôi.
++ 只敢跪下。
+
+* Vả đây đường xá xa xôi,
++ 在这边路, 
+
+* Mà ta bất động nữa người sinh nghi.
++ 那我们更是一动不动的人怀疑。
+
+* Tiếc thay một đóa trà mi,
++ 不幸的是，一杯茶,
+
+* Con ong đã tỏ đường đi lối về.
++ 蜜蜂显示了他的回程。
+
+* Một cơn mưa gió nặng nề,
++ 一场大雨和大风，
+
+* Thương gì đến ngọc tiếc gì đến hương.
++ 不幸的是，珍珠交易。
+
+* Đêm xuân một giấc mơ màng,
++ 春夜梦，
+
+* Đuốc hoa để đó, mặc nàng nằm trơ.
++ 耀斑离开它，她躺在惰性。
+
+* Giọt riêng tầm tã tuôn mưa,
++ 独自一滴雨,
+
+* Phần căm nỗi khách phần dơ nỗi mình:
++ 肮脏的一部分:
+
+* Tuồng chi là giống hôi tanh,
++ 统志就像是发臭一样,
+
+* Thân nghìn vàng để ô danh má hồng.
++ 成千上万的黄金使脸红。
+
+* Thôi còn chi nữa mà mong?
++ 好吧，您还能期待什么？
+
+* Đời người thôi thế là xong một đời.
++ 一生中只有一个人生完成。
+
+* Giận duyên tủi phận bời bời,
++ 命运是不幸的,
+
+* Cầm dao nàng đã toan bài quyên sinh.
++ 她拿着刀，试图提高生活。
+
+* Nghĩ đi nghĩ lại một mình:
++ 一次又一次地思考：
+
+* Một mình thì chớ hai tình thì sao?
++ 那两个爱一个人呢？
+
+* Sao dầu sinh sự thế nào,
++ 星星的诞生如何,
+
+* Truy nguyên chẳng kẻo lụy vào song thân.
++ 可追溯性，以免烦恼父母。
+
+* Nỗi mình âu cũng giãn dần,
++ 我的焦虑也逐渐放松了，
+
+* Kíp chầy thôi cũng một lần mà thôi.
++ 只会两次。
+
+* Những là đo đắn ngược xuôi,
++ 但这是上下的,
+
+* Tiếng gà nghe đã gáy sôi mái tường.
++ 鸡的声音在墙的后面咆哮。
+
+* Lầu mai vừa rúc còi sương,
++ 早晨只是一个早晨，
+
+* Mã Sinh giục giã vội vàng ra đi.
++ 马信敦促仓促离开。
+
+* Đoạn trường thay lúc phân kỳ!
++ 学校细分而不是分歧！
+
+* Vó câu khấp khểnh bóng xe gập ghềnh.
++ 有弯曲的句子颠簸的汽车球。
+
+* Bề ngoài mười dặm trường đình,
++ 离家十英里外,
+
+* Vương ông mở tiệc tiễn hành đưa theo.
++ 英国的盛宴伴随着惯例。
+
+* Ngoài thì chủ khách dập dìu,
++ 另外，客人主人,
+
+* Một nhà huyên với một Kiều ở trong.
++ 内有Ki的夫。
+
+* Nhìn càng lã chã giọt hồng,
++ 您看起来越像粉红色的水滴，
+
+* Rỉ tai nàng mới giãi lòng thấp cao:
++ 只有当她听到她的耳朵低沉和高昂时：
+
+* Hổ sinh ra phận thơ đào,
++ 老虎出生于诗歌诗歌，
+
+* Công cha nghĩa mẹ kiếp nào trả xong?
++ 公开的父亲意味着该死的全部付出了吗？
+
+* Lỡ làng nước đục bụi trong,
++ 如果浑水村庄清澈，
+
+* Trăm năm để một tấm lòng từ đây.
++ 从这里百年一心。
+
+* Xem gương trong bấy nhiêu ngày,
++ 看了这么多镜子，
+
+* Thân con chẳng kẻo mắc tay bợm già!
++ 我的身体不舔旧手！
+
+* Khi về bỏ vắng trong nhà,
++ 当我回到沙漠中,
+
+* Khi vào dùng dắng khi ra vội vàng.
++ 在使用中，在冲出时。
+
+* Khi ăn khi nói lỡ làng,
++ 当我们想念村庄的时候吃饭,
+
+* Khi thầy khi tớ xem thường xem khinh.
++ 当我鄙视老师的时候。
+
+* Khác màu kẻ quý người thanh,
++ 你们坚持不同的颜色，
+
+* Ngẫm ra cho kỹ như hình con buôn.
++ 仔细考虑像商人一样的图片。
+
+* Thôi con còn nói chi con?
++ 好吧，你怎么说？
+
+* Sống nhờ đất khách thác chôn quê người!
++ 生活在被外国游客掩埋的地面上！
+
+* Vương bà nghe bấy nhiêu lời,
++ 主人听了很多话，
+
+* Tiếng oan đã muốn vạch trời kêu lên.
++ 不公正的人想向天空袭来。
+
+* Vài tuần chưa cạn chén khuyên.
++ 几个星期不干杯建议.
+
+* Mái ngoài nghỉ đã giục liền ruổi xe.
++ 敦促度假屋外开车。
+
+* Xót con lòng nặng trì trì,
++ 坚忍的心，
+
+* Trước yên ông đã nằn nì thấp cao:
++ 在悲伤之前，他坚持要个子高：
+
+* Chút thân yếu liễu tơ đào,
++ 小小的身体柳柳丝桃，
+
+* Rớp nhà đến nỗi giấn vào tôi ngươi.
++ 这么粗糙的房子碰到你了。
+
+* Từ đây góc bể bên trời,
++ 从这里在游泳池的一角，
+
+* Nắng mưa thui thủi quê người một thân.
++ 多雨的雨乡人家属。
+
+* Nghìn tầm nhờ bóng tùng quân,
++ 一千多年由于军队的阴影，
+
+* Tuyết sương che chở cho thân cát đằng.
++ 雪露保护着后面的沙子。
+
+* Cạn lời khách mới thưa rằng:
++ 一些新客户回答：
+
+* Buộc chân thôi cũng xích thằng nhiệm trao.
++ 绑你的腿和链子也可以。
+
+* Mai sau dầu đến thế nào,
++ 石油明天如何,
+
+* Kìa gương nhật nguyệt nọ dao quỉ thần!
++ 看哪，月亮照着魔鬼！
+
+* Đùng đùng gió giục mây vần,
++ 风吹了，
+
+* Một xe trong cõi hồng trần như bay.
++ 平凡的世界上有一辆汽车像在飞翔。
+
+* Trông vời gạt lệ chia tay,
++ 看起来像再见,
+
+* Góc trời thăm thẳm đêm ngày đăm đăm.
++ 天空越来越深.
+
+* Nàng thì dặm khách xa xăm,
++ 她很远,
+
+* Bạc phau cầu giá đen rầm ngàn mây.
++ 银桥祈祷乌云成千上万的价格。
+
+* Vi lô san sát hơi may,
++ 工厂略加监督
+
+* Một trời thu để riêng ai một người.
++ 分离某人的秋天天空。
+
+* Dặm khuya ngất tạnh mù khơi,
++ 深夜，昏倒了，
+
+* Thấy trăng mà thẹn những lời non sông.
++ 看月亮大风小词.
+
+* Rừng thu từng biếc xen hồng,
++ 秋天的森林里夹杂着玫瑰，
+
+* Nghe chim như nhắc tấm lòng thần hôn.
++ 听鸟儿回想起内心的吻。
+
+* Những là lạ nước lạ non,
++ 但是奇怪又奇怪,
+
+* Lâm Truy vừa một tháng tròn tới nơi.
++ 林·特鲁伊（Lam Truy）刚到一个月。
+
+* Xe châu dừng bánh cửa ngoài,
++ 欧洲汽车停在外面的车轮上,
+
+* Rèm trong đã thấy một người bước ra.
++ 内幕看到一个人出来。
+
+* Thoắt trông nhờn nhợt màu da,
++ 皮肤看起来油腻而苍白，
+
+* Ăn gì cao lớn đẫy đà làm sao!
++ 吃的东西太大了!
+
+* Trước xe lơi lả han chào,
++ 欢迎在车前，
+
+* Vâng lời nàng mới bước vào tận nơi.
++ 服从了，她走进了那个地方。
+
+* Bên thì mấy ả mày ngài,
++ 先生，女士们一边,
+
+* Bên thì ngồi bốn năm người làng chơi.
++ 派对坐了四年。
+
+* Giữa thì hương án hẳn hoi,
++ 在香气的中间,
+
+* Trên treo một tượng trắng đôi lông mày.
++ 在悬挂的白色眉毛雕像。
+
+* Lầu xanh quen lối xưa nay,
++ 绿色地板熟悉旧风格，
+
+* Nghề này thì lấy ông này tiên sư,
++ 这个工作，他带了这个仙女，
+
+* Hương hôm hoa sớm phụng thờ.
++ 香昨天昨天早日敬花。
+
+* Cô nào xấu vía có thưa mối hàng,
++ 如果有个丑女孩有顾客，
+
+* Cởi xiêm lột áo sỗ sàng,
++ 脱下衣服，脱下衬衫，
+
+* Trước thần sẽ nguyện mảnh hương lầm rầm.
++ 上天之前，上帝会祈祷香碎片。
+
+* Đổi hoa lót xuống chiếu nằm,
++ 改变衬里的花朵躺下，
+
+* Bướm hoa bay lại ầm ầm tứ vi!
++ 蝴蝶的花朵猛烈地四人飞翔！
+
+* Kiều còn ngơ ngẩn biết gì,
++ 基约仍然知道是什么傻瓜,
+
+* Cứ lời lạy xuống mụ thì khấn ngay:
++ 如果您低头，请立即祈祷：
+
+* Cửa hàng buôn bán cho may,
++ 缝纫店, 
+
+* Đêm đêm Hàn thực ngày ngày Nguyên tiêu.
++ 汉王朝的夜晚正是农历新年。
+
+* Muôn nghìn người thấy cũng yêu,
++ 成千上万的人也爱，
+
+* Xôn xao oanh yến rập rìu trúc mai.
++ 明天搅拌燕麦阿拉伯斧。
+
+* Tin nhạn vẩn lá thư bài,
++ 破字母，
+
+* Đưa người cửa trước rước người cửa sau.
++ 将前门移到前门。
+
+* Lạ tai nghe chửa biết đâu,
++ 奇怪的耳朵，甚至。
+
+* Xem tình ra cũng những màu dở dang.
++ 看情况还未完成的颜色。
+
+* Lễ xong hương hỏa gia đường,
++ 在完成燃烧仪式之后，
+
+* Tú Bà vắt nóc lên giường ngồi ngay.
++ 涂巴把屋顶放在床上，马上坐下。
+
+* Dạy rằng: Con lạy mẹ đây,
++ 教我，我向母亲俯卧，
+
+* Lạy rồi sang lạy cậu mày bên kia.
++ 鞠躬，然后向另一只眉毛鞠躬。
+
+* Nàng rằng: Phải bước lưu ly,
++ 她说：必须介入,
+
+* Phận hèn vâng đã cam bề tiểu tinh.
++ co弱的命运致力于亚晶表面。
+
+* Điều đâu lấy yến làm oanh,
++ 去哪儿啊，
+
+* Ngây thơ chẳng biết là danh phận gì?
++ 不知道头衔是什么？
+
+* Đủ điều nạp thái vu qui,
++ 装满泰国泰语,
+
+* Đã khi chung chạ lại khi đứng ngồi.
++ 有时当他们站在一起的时候站着。
+
+* Giờ ra thay mặt đổi ngôi,
++ 现在代表王位，
+
+* Dám xin gửi lại một lời cho minh.
++ 敢发短信给我。
+
+* Mụ nghe nàng nói hay tình,
++ 她听到她说再见，
+
+* Bấy giờ mới nổi tam bành mụ lên:
++ 然后出现三个被蒙住眼睛的人：
+
+* Này này sự đã quả nhiên,
++ 嘿，这确实有效，
+
+* Thôi đà cướp sống chồng min đi rồi.
++ 好吧，夫妻俩离家很近。
+
+* Bảo rằng đi dạo lấy người,
++ 我叫他出去走走
+
+* Đem về rước khách kiếm lời mà ăn.
++ 带客人去谋取利益。
+
+* Tuồng vô nghĩa ở bất nhân,
++ 仲在不人道方面毫无意义，
+
+* Buồn mình trước đã tần mần thử chơi.
++ 我很伤心，因为我尝试玩。
+
+* Màu hồ đã mất đi rồi,
++ 湖色消失了,
+
+* Thôi thôi vốn liếng đi đời nhà ma!
++ 来吧，让我们去鬼屋吧！
+
+* Con kia đã bán cho ta,
++ 那个卖给我的,
+
+* Nhập ra phải cứ phép nhà tao đây.
++ 进入并离开我的房子在这里。
+
+* Lão kia có giở bài bây,
++ 对方现在上课了,
+
+* Chẳng văng vào mặt mà mày lại nghe.
++ 不会溅到您听到的脸上。
+
+* Cớ sao chịu tốt một bề,
++ 为什么一方面要好，
+
+* Gái tơ mà đã ngứa nghề sớm sao?
++ 是一个早痒的女孩吗？
+
+* Phải làm cho biết phép tao!
++ 必须让我知道魔术！
+
+* Chập bì tiên rắp sấn vào ra tay.
++ 双手合十。
+
+* Nàng rằng: Trời thẳm đất dày!
++ 她说：天空很浓，土很深！
+
+* Thân này đã bỏ những ngày ra đi.
++ 这个机构已经放弃了要走的日子。
+
+* Thôi thì thôi có tiếc gì!
++ 好吧，对不起！
+
+* Sẵn dao tay áo tức thì giở ra.
++ 立即准备好刀套。
+
+* Sợ gan nát ngọc liều hoa!
++ 害怕粉碎珍珠！
+
+* Mụ còn trông mặt nàng đà quá tay.
++ 穆也长了很多脸。
+
+* Thương ôi tài sắc bậc này,
++ 怜悯这个有才华的人
+
+* Một dao oan nghiệt đứt dây phong trần.
++ 一把不公正的刀打破了天花板。
+
+* Nỗi oan vỡ lở xa gần,
++ 不公正感在附近消失了，
+
+* Trong nhà người chật một lần như nêm.
++ 在一个狭窄的房子里，曾经一度楔入。
+
+* Nàng thì bằn bặt giấc tiên,
++ 她先睡了,
+
+* Mụ thì cầm cập mặt nhìn hồn bay.
++ 穆然后紧紧抓住灵魂.
+
+* Vực nàng vào chốn hiên tây,
++ 抛弃她到门廊，
+
+* Cắt người coi sóc chạy thầy thuốc thang.
++ 切开照梯医生的看护人。
+
+* Nào hay chưa hết trần duyên,
++ 加油还是不加油,
+
+* Trong mê dường đã đứng bên một nàng.
++ 在迷宫中站着一个女孩。
+
+* Rỉ rằng: Nhân quả dở dang,
++ 说：因果不完整，
+
+* Đã toan trốn nợ đoạn trường được sao?
++ 您是否尝试过为学校避免债务？
+
+* Số còn nặng nợ má đào,
++ 有些人仍然负债累累，
+
+* Người dầu muốn quyết trời nào đã cho.
++ 想要决定哪位上帝赐予人的人。
+
+* Hãy xin hết kiếp liễu bồ,
++ 柳树，请终结你的生命，
+
+* Sông Tiền đường sẽ hẹn hò về sau.
++ 钱塘江将在以后约会。
+
+* Thuốc thang suốt một ngày thâu,
++ 毒品整天升级，
+
+* Giấc mê nghe đã dàu dàu vừa tan.
++ 听的梦想刚刚消失。
+
+* Tú bà chực sẵn bên màn,
++ 涂八准备好了,
+
+* Lựa lời khuyên giải mơn man gỡ dần:
++ 选择和删除提示逐渐删除：
+
+* Một người dễ có mấy thân!
++ 一个身体很少的人有多容易！
+
+* Hoa xuân đương nhụy, ngày xuân còn dài.
++ 春天的花蕊，春天的日子还很长。
+
+* Cũng là lỡ một lầm hai,
++ 还错过了两个错误
+
+* Đá vàng sao nỡ ép nài mưa mây!
++ 金星冲动地压下阴云！
+
+* Lỡ chưn trót đã vào đây,
++万一它在这里，
+
+* Khóa buồng xuân để đợi ngày đào non.
++ 锁定弹簧室，等待幼桃的一天。
+
+* Người còn thì của hãy còn,
++ 拥有它的人仍然存在，
+
+* Tìm nơi xứng đáng là con cái nhà.
++ 找到适合您孩子的地方。
+
+* Làm chi tội báo oán gia,
++ 如何报仇,
+
+* Thiệt mình mà hại đến ta hay gì?
++ 我的伤害真的伤害了我还是什么？
+
+* Kề tai mấy mỗi nằn nì,
++ 他们在抱怨多少,
+
+* Nàng nghe dường cũng thị phi rạch ròi.
++ 她似乎消息灵通。
+
+* Vả suy thần mộng mấy lời,
++ 想到了幻灭的几句话，
+
+* Túc nhân âu cũng có trời ở trong.
++ 欧洲人民也有天堂。
+
+* Kiếp này nợ trả chưa xong,
++ 这辈子还没有还清债务,
+
+* Làm chi thêm một nợ chồng kiếp sau!
++ 让更多的债务来世！
+
+* Lặng nghe, thấm thía gót đầu,
++ 默默聆听，穿上你的脚跟，
+
+* Thưa rằng: Ai có muốn đâu thế này?
++ 他回答：谁想要这个？
+
+* Được như lời, thế là may,
++ 言语好，很幸运，
+
+* Hẳn rằng mai có như rày cho chăng!
++ 这样的明天大概是合理的！
+
+* Sợ khi ong bướm đãi đằng,
++ 害怕蜜蜂和蝴蝶，
+
+* Đến điều sống đục, sao bằng thác trong!
++ 对于不透明的生物，星星由小瀑布串联！
+
+* Mụ rằng: Con hãy thong dong,
++ 她说：请照顾好自己，
+
+* Phải điều lòng lại dối lòng mà chơi!
++ 一定要撒谎打人！
+
+* Mai sau ở chẳng như lời,
++ 明天这样的话,
+
+* Trên đầu có bóng mặt trời rạng soi.
++ 头上有灿烂的阳光。
+
+* Thấy lời quyết đoán hẳn hoi,
++ 看到他的自信，
+
+* Đành lòng, nàng cũng sẽ nguôi nguôi dần.
++ 老实说，她也将逐渐平息。
+
+* Trước lầu Ngưng Bích khóa xuân,
++ 春季课程停止比奇楼前，
+
+* Vẻ non xa, tấm trăng gần, ở chung.
++ 看起来很遥远，月亮也很近。
+
+* Bốn bề bát ngát xa trông,
++ 四个侧面看起来太远了,
+
+* Cát vàng cồn nọ, bụi hồng dặm kia.
++ 黄沙丘，粉尘飞扬。
+
+* Bẽ bàng mây sớm đèn khuya,
++ 清晨哼哼，
+
+* Nửa tình, nửa cảnh như chia tấm lòng.
++ 一半的爱，一半的场面像破碎的心。
+
+* Tưởng người dưới nguyệt chén đồng,
++ 以为人们在月球杯下，
+
+* Tin sương luống những rày trông mai chờ.
++ 锡露看起来像明天在等待。
+
+* Bên trời góc bể bơ vơ,
++ 在寂寞的游泳池的一角，
+
+* Tấm son gột rửa bao giờ cho phai.
++ 千万不要洗口红。
+
+* Xót người tựa cửa hôm mai,
++ 明天要仁慈地靠在门上，
+
+* Quạt nồng ấp lạnh, những ai đó giờ?
++ 暖风扇冷，这是谁？
+
+* Sân Lai cách mấy nắng mưa,
++ 来来有几阵雨，
+
+* Có khi gốc tử đã vừa người ôm?
++ 有时候，根刚刚拥抱了人们？
+
+* Buồn trông cửa bể chiều hôm,
++ 可悲的是下午照顾着水箱门
+
+* Thuyền ai thấp thoáng cánh buồm xa xa?
++ 谁的船飘扬得远？
+
+* Buồn trông ngọn nước mới sa,
++ 悲伤地看着新水，
+
+* Hoa trôi man mác, biết là về đâu?
++ 曼联四处游荡，知道在哪里？
+
+* Buồn trông nội cỏ dàu dàu,
++ 悲伤在草丛中,
+
+* Chân mây mặt đất một màu xanh xanh.
++ 多云的蓝色脚的绿色。
+
+* Buồn trông gió cuốn mặt ghềnh,
++ 悲伤的表情风拂面,
+
+* Ầm ầm tiếng sóng kêu quanh ghế ngồị.
++ 座位周围大声的海浪声.
+
+* Chung quanh những nước non người,
++ 在不成熟的国家，
+
+* Đau lòng lưu lạc, nên vài bốn câu.
++ 伤透了心，这么少的句子。
+
+* Ngậm ngùi rủ bước rèm châu,
++ 倒下垂的步骤,
+
+* Cách tường, nghe có tiếng đâu họa vần.
++ 怎么听墙，哪里没有韵。
+
+* Một chàng vừa trạc thanh xuân,
++ 一个年轻的年轻人,
+
+* Hình dong chải chuốt, áo khăn dịu dàng.
++ 图修饰，温柔的围巾衬衫。
+
+* Nghĩ rằng cũng mạch thư hương,
++ 认为这也是戏剧，
+
+* Hỏi ra mới biết rằng chàng Sở Khanh.
++ 直到那时，我才知道汗的部门。
+
+* Bóng Nga thấp thoáng dưới mành,
++ 俄罗斯球在百叶窗下隐约可见，
+
+* Trông nàng, chàng cũng ra tình đeo đai.
++ 她看了看，他也爱戴皮带。
+
+* Than ôi! sắc nước hương trời,
++ 唉！天空芬芳的色彩，
+
+* Tiếc cho đâu bỗng lạc loài đến đây?
++ 可惜突然来到这里？
+
+* Giá đành trong nguyệt trên mây,
++ 上面月亮的价格,
+
+* Hoa sao, hoa khéo đọa đày bấy hoa?
++ 团结的星星，花朵会破坏细花吗？
+
+* Tức gan riêng giận trời già,
++ 我是说对天空生气,
+
+* Lòng này ai tỏ cho ta, hỡi lòng?
++ 我的心是谁向我展示了这个？
+
+* Thuyền quyên ví biết anh hùng,
++ 收集船知道英雄，
+
+* Ra tay tháo cũi, sổ lồng như chơi!
++ 分发婴儿床，笼子玩耍！
+
+* Song thu đã khép cánh ngoài,
++ 但是秋天封闭了外面,
+
+* Tai còn đồng vọng mấy lời sắt đanh.
++ 泰也回应了几个尖刻的话。
+
+* Nghĩ người thôi lại nghĩ mình,
++ 想着人们停止思考自己，
+
+* Cám lòng chua xót, nhạt tình chơ vơ.
++ 悲伤的感激，苍白的爱无奈。
+
+* Những là lần lữa nắng mưa,
++ 但是有雨有雨,
+
+* Kiếp phong trần biết bao giờ mới thôi?
++ 生活方式的天花板知道什么时候会新？
+
+* Đánh liều nhắn một hai lời,
++ 发出一两则讯息，
+
+* Nhờ tay tế độ vớt người trầm luân.
++ 得益于救赎之手的深入.
+
+* Mảnh tiên kể hết xa gần,
++ 童话故事讲的很远，
+
+* Nỗi nhà báo đáp, nỗi thân lạc loài.
++ 记者的反应，迷失物种的感觉。
+
+* Tan sương vừa rạng ngày mai,
++ 融化的露水明天明天才来，
+
+* Tiện hồng nàng mới nhắn lời gửi sang.
++ 顺便说一句，她刚刚发送了一条消息。
+
+* Trời tây lãng đãng bóng vàng,
++ 天空空无一人，光亮的黄色，
+
+* Phúc thư đã thấy tin chàng đến nơi.
++ 福音看见他到了。
+
+* Mở xem một bức tiên mai,
++ 打开童话般的画面，
+
+* Rành rành tích việt có hai chữ đề.
++ 流利的越南产品有两个字。
+
+* Lấy trong ý tứ mà suy:
++ 采取了以下四种内插思想：
+
+* Ngày hai mươi mốt, tuất thì phải chăng?
++ 死亡的第二十一天，是否合理？
+
+* Chim hôm thoi thót về rừng,
++ 鸟只勉强回到了森林，
+
+* Đóa trà mi đã ngậm trăng nửa vành.
++ 茶茶有半个月亮。
+
+* Tường đông lay động bóng cành,
++ 东墙撼动了树枝，
+
+* Rẽ song, đã thấy Sở Khanh lẻn vào.
++ 翻歌，看到汗部潜入。
+
+* Sượng sùng đánh dạn ra chào,
++ 致敬地致敬，
+
+* Lạy thôi, nàng mới rỉ tai ân cần.
++ 只有那时，她才客气地客气。
+
+* Rằng: Tôi bèo bọt chút thân,
++ 那：我炸一点身体，
+
+* Lạc đàn mang lấy nợ nần yến anh.
++ 拉克论坛承担了他的债务燕麦。
+
+* Dám nhờ cốt nhục tử sinh,
++ 敢于生死攸关的核心，
+
+* Còn nhiều kết cỏ ngậm vành về sau!
++ 以后还有更多草头！
+
+* Lặng nghe, lẩm nhẩm gật đầu:
++ 默默地听着，精神上点头：
+
+* Ta đây phải mượn ai đâu mà rằng!
++ 我要在这里借人！
+
+* Nàng đà biết đến ta chăng,
++ 她知道自己的动力，
+
+* Bể trầm luân, lấp cho bằng mới thôi!
++ 低音盆，填充一个新的！
+
+* Nàng rằng: Muôn sự ơn người,
++ 她说：万事感谢您，
+
+* Thế nào xin quyết một bài cho xong.
++ 如何解决问题，就去解决。
+
+* Rằng: Ta có ngựa truy phong,
++ 那：我有一匹马要狩猎，
+
+* Có tên dưới trướng, vốn dòng kiện nhi.
++ 以诉讼儿科法的名字命名。
+
+* Thừa cơ lẻn bước ra đi,
++ 遗产悄悄溜走，
+
+* Ba mươi sáu chước, chước gì là hơn.
++ 三十六份副本，再复制更多。
+
+* Dù khi gió kép, mưa đơn,
++ 即使是双风，雨还是单雨,
+
+* Có ta đây cũng chẳng cơn cớ gì!
++ 我这里没有任何借口！
+
+* Nghe lời nàng đã sinh nghi,
++ 听她怀疑的话，
+
+* Song đà quá đỗi, quản gì được thân.
++ 歌声也很大，什么都可以管理。
+
+* Cũng liều nhắm mắt đưa chân,
++ 还冒着闭上眼睛的危险，
+
+* Mà xem con Tạo xoay vần đến đâu!
++ 在哪里看到创作的押韵？
+
+* Cùng nhau lẻn bước xuống lầu,
++ 一起在楼下偷偷摸摸,
+
+* Song song ngựa trước, ngựa sau một đoàn.
++ 并行马先，后面马代表团。
+
+* Đêm thâu khắc lậu canh tàn,
++ 晚上到处都是走私汤，
+
+* Gió cây trút lá, trăng ngàn ngậm gương.
++ 树上留下风，月亮和镜子。
+
+* Lối mòn cỏ nhợt mù sương,
++ 绿草如茵的小路上，
+
+* Lòng quê đi một bước đường, một đau.
++ 乡村的心脏迈出了一步，很痛苦。
+
+* Tiếng gà xao xác gáy mau,
++ 鸡的声音迅速激起脖子,
+
+* Tiếng người đâu đã mái sau dậy dàng.
++ 屋顶的屋顶在哪里容易醒来。
+
+* Nàng càng thổn thức gan vàng,
++ 她哭泣得越多，就越勇敢，
+
+* Sở Khanh đã rẽ dây cương lối nào!
++ 因此，汗（Khanh Khanh）改变了方向！
+
+* Một mình khôn biết làm sao,
++ 你一个人不知道该怎么办,
+
+* Dặm rừng bước thấp, bước cao hãi hùng.
++ 迈林步伐低，恐惧步高。
+
+* Hóa nhi thật có nỡ lòng,
++ 孩子们真的有心脏，
+
+* Làm chi dày tía, vò hồng, lắm nau!
++ 制作紫色，粉红色，粉红色！
+
+* Một đoàn đổ đến trước sau,
++ 首先是代表团，
+
+* Vuốt đâu xuống đất, cánh đâu lên trời.
++ 哪里爪着地面，哪里翅膀向天空。
+
+* Tú bà tốc thẳng đến nơi,
++ 涂芭赶到目的地,
+
+* Hầm hầm áp điệu một hơi lại nhà.
++ 地下室调了个呼吸，回到了家。
+
+* Hung hăng chẳng nói chẳng tra,
++ 好斗的不说不调查，
+
+* Đang tay vùi liễu, giập hoa tơi bời.
++ 手掩埋柳树，断花破烂。
+
+* Thịt da ai cũng là người,
++ 每个人的肉都是人,
+
+* Lòng nào hồng rụng, thắm rời chẳng đau.
++ 心脏是粉红色的，掉落的，无痛的可拆卸的。
+
+* Hết lời thú phục, khẩn cầu,
++ 所有表白，恳求，
+
+* Uốn lưng thịt đổ, cất đầu máu sa.
++ 弯回肉，脱掉血头。
+
+* Rằng: Tôi chút phận đàn bà,
++ 那：我有点女人味，
+
+* Nước non lìa cửa, lìa nhà, đến đây.
++ 年轻的国家离开了门，离开了家，来到这里。
+
+* Bây giờ sống chết ở tay,
++ 现在生死攸关，
+
+* Thân này đã đến thế này thì thôi!
++ 这个身体来了！
+
+* Nhưng tôi có sá chi tôi,
++ 但是我和我无关
+
+* Phận tôi đành vậy, vốn người để đâu?
++ 我的命运如此，首都在哪里？
+
+* Thân lươn bao quản lấm đầu,
++ 鳗鱼的身体被头部覆盖，
+
+* Chút lòng trinh bạch từ sau xin chừa!
++ 从下面的小处女请离开！
+
+* Được lời mụ mới tùy cơ,
++ 根据她说的话,
+
+* Bắt người bảo lĩnh làm tờ cung chiêu.
++ 让担保人做一个秘密表。
+
+* Bày vai có ả Mã Kiều,
++ 和Ma Ma Kieu一起玩
+
+* Xót nàng, ra mới đánh liều chịu đoan.
++ 怜悯她，所以我会立即战斗。
+
+* Mụ càng kể nhặt, kể khoan,
++ 她越接话，
+
+* Gạn gùng đến mực, nồng nàn mới tha.
++ 体面的要点，热情的新临。
+
+* Vực nàng vào nghỉ trong nhà,
++ 绑架她在房子里休息,
+
+* Mã Kiều lại ngỏ ý ra dặn lời:
++ 马基乌再次提出要说：
+
+* Thôi đà mắc lận thì thôi!
++ 好吧，很容易被骗！
+
+* Đi đâu chẳng biết con người Sở Khanh?
++ 不知道去哪里系庆人？
+
+* Bạc tình, nổi tiếng lầu xanh,
++ 银色的爱，著名的蓝色地板，
+
+* Một tay chôn biết mấy cành phù dung!
++ 一只手知道多少树枝适合！
+
+* Đà đao lập sẵn chước dùng,
++ 使用夸大的执行力，
+
+* Lạ gì một cốt một đồng xưa nay!
++ 真是个奇怪的老家伙！
+
+* Có ba mươi lạng trao tay,
++ 三十五盎司，
+
+* Không dưng chi có chuyện này, trò kia!
++ 不要停止拥有这个和那个！
+
+* Rồi ra trở mặt tức thì,
++ 然后他立刻转过身来，
+
+* Bớt lời, liệu chớ sân si, thiệt đời!
++ 几句话，是否无耻，真实生活！
+
+* Nàng rằng: Thề thốt nặng lời,
++ 她说：发誓，
+
+* Có đâu mà lại ra người hiểm sâu!
++ 那个危险的人在哪里可以出去！
+
+* Còn đương suy trước, nghĩ sau,
++ 首先考虑，然后思考，
+
+* Mặt mo đã thấy ở đâu dẫn vào.
++ 莫脸上看到了要去哪里。
+
+* Sở Khanh lên tiếng rêu rao:
++ 因 此，庆大发声说：
+
+* Rằng nghe mới có con nào ở đây.
++ 那这里有个新孩子。
+
+* Phao cho quyến gió rủ mây,
++ 用来吸引风云的浮标，
+
+* Hãy xem có biết mặt này là ai.
++ 让我们看看您是否知道这张脸是谁.
+
+* Nàng rằng: Thôi thế thì thôi!
++ 她说：那么就这样！
+
+* Rằng không, thì cũng vâng lời là không!
++ 如果没有，那就服从它！
+
+* Sở Khanh quát mắng đùng đùng,
++ 庆部严厉喊道，
+
+* Sấn vào, vừa rắp thị hùng ra tay,
++ 感动了，只是将英雄拉开了手，
+
+* Nàng rằng: Trời nhé có hay!
++ 她说：天哪！
+
+* Quyến anh, rủ yến, sự này tại ai?
++ 勾引他，请窝，这一个在？
+
+* Đem người giẩy xuống giếng khơi,
++ 把他带到井里,
+
+* Nói rồi, rồi lại ăn lời được ngay!
++ 我告诉过你，我现在可以赢利！
+
+* Còn tiên tích việt ở tay,
++ 还有仙女精灵，
+
+* Rõ ràng mặt ấy, mặt này chứ ai?
++ 显然，这一面是谁？
+
+* Lời ngay, đông mặt trong ngoài,
++ 马上，内外拥挤，
+
+* Kẻ chê bất nghĩa, người cười vô lương!
++ 真是可笑的评论家，谁不诚实地笑！
+
+* Phụ tình án đã rõ ràng,
++ 情况很清楚,
+
+* Dơ tuồng, nghỉ mới kiếm đường tháo lui.
++ 肮脏的新撤退方式。
+
+* Buồng riêng, riêng những sụt sùi:
++ 单独的房间，分开的滚筒：
+
+* Nghĩ thân, mà lại ngậm ngùi cho thân.
++ 想想自己，但可怜自己。
+
+* Tiếc thay trong giá trắng ngần,
++ 不幸的是，在白色的价格，
+
+* Đến phong trần, cũng phong trần như ai!
++ 到房间的天花板，也像房间的天花板！
+
+* Tẻ vui cũng một kiếp người,
++ 有趣也是一生，
+
+* Hồng nhan phải giống ở đời mãi ru!
++ 红色的美必须永远像人生茹！
+
+* Kiếp xưa đã vụng đường tu,
++ 前世在这条路上很笨拙,
+
+* Kiếp này chẳng kẻo đền bù mới xuôi!
++ 此生将无法补偿新的补偿！
+
+* Dù sao bình đã vỡ rồi,
++ 花瓶还是坏了,
+
+* Lấy thân mà trả nợ đời cho xong!
++ 振作起来，还清债务生活！
+
+* Vừa tuần nguyệt sáng, gương trong,
++ 只是明亮的月亮，透明的镜子，
+
+* Tú bà ghé lại thong dong dặn dò:
++ 涂芭停下来悠闲地说：
+
+* Nghề chơi cũng lắm công phu,
++ 职业也很细致，
+
+* Làng chơi ta phải biết cho đủ điều.
++ 乡村游戏我们必须知道的一切。
+
+* Nàng rằng: Mưa gió dập dìu,
++ 她说：风雨无阻,
+
+* Liều thân, thì cũng phải liều thế thôi!
++ 服药自己，那就还得冒险！
+
+* Mụ rằng: Ai cũng như ai,
++ 她说：每个人都像任何人,
+
+* Người ta ai mất tiền hoài đến đây?
++ 谁赔钱总是来这里？
+
+* Ở trong còn lắm điều hay,
++ 里面有很多好东西,
+
+* Nỗi đêm khép mở, nỗi ngày riêng chung.
++ 夜晚封闭，仅此一天。
+
+* Này con thuộc lấy nằm lòng,
++ 嘿，我记下来了,
+
+* Vành ngoài bảy chữ, vành trong tám nghề.
++ 外环七字，内环八字。
+
+* Chơi cho liễu chán, hoa chê,
++ 玩柳树无聊，该死，
+
+* Cho lăn lóc đá, cho mê mẩn đời.
++ 对于滚石，对于生活着迷。
+
+* Khi khóe hạnh, khi nét ngài,
++ 当幸福的角落，当他的线条，
+
+* Khi ngâm ngợi nguyệt, khi cười cợt hoa.
++ 当背诵月光时，当嘲笑花朵时。
+
+* Đều là nghề nghiệp trong nhà,
++ 都是内部职业，
+
+* Đủ ngần ấy nết, mới là người soi.
++ 足够多的是 照镜子。
+
+* Gót đầu vâng dạy mấy lời,
++ 是的，上帝教了你一些事情。
+
+* Dường chau nét nguyệt, dường phai vẻ hồng.
++ 看起来像月亮，粉红色似乎褪了色。
+
+* Những nghe nói, đã thẹn thùng,
++ 听说，害羞，
+
+* Nước đời lắm nỗi lạ lùng, khắt khe!
++ 乡村生活如此陌生而严格！
+
+* Xót mình cửa các, buồng khuê,
++ 倒在门上,
+
+* Vỡ lòng, học lấy những nghề nghiệp hay!
++ 入门，学习好职业！
+
+* Khéo là mặt dạn, mày dày,
++ 聪明的脸，你浓密的，
+
+* Kiếp người đã đến thế này thì thôi!
++ 一辈子都是这样的！
+
+* Thương thay thân phận lạc loài,
++ 怜悯失落生物的命运，
+
+* Dẫu sao cũng ở tay người biết sao?
++ 反正还掌握在手中？
+
+* Lầu xanh, mới rủ trướng đào,
++ 绿色地板，新受邀挖，
+
+* Càng treo giá ngọc, càng cao phẩm người.
++ 挂玉价格越高，您就越高。
+
+* Biết bao bướm lả, ong lơi,
++ 这么多的蝴蝶和蜜蜂，
+
+* Cuộc say đầy tháng, trận cười suốt đêm.
++ 一个月的醉酒，整夜的笑声.
+
+* Dập dìu lá gió, cành chim,
++ 冲压鸟的叶子和树枝，
+
+* Sớm đưa Tống Ngọc, tối tìm Tràng Khanh.
++提早交货唐恩高,黑暗寻求董里.
+
+* Khi tỉnh rượu, lúc tàn canh,
++ 当他醒来，死亡时,
+
+* Giật mình, mình lại thương mình xót xa.
++ 吓了一跳，我为自己感到难过。
+
+* Khi sao phong gấm rủ là,
++ 当星云笼罩，
+
+* Giờ sao tan tác như hoa giữa đường?
++ 现在为什么棕褐色在路中间像花一样？
+
+* Mặt sao dày gió dạn sương,
++ 明星脸上满是风和露水，
+
+* Thân sao bướm chán, ong chường bấy thân?
++ 蝴蝶星的身体无聊，蜜蜂自己吗？
+
+* Mặc người mưa Sở, mây Tần,
++ 戴雨，云和秦部,
+
+* Những mình nào biết có xuân là gì!
++ 那些知道春天是什么！
+
+* Đôi phen gió tựa, hoa kề,
++ 有时像风，相邻的花朵，
+
+*  Nửa rèm tuyết ngậm, bốn bề trăng thâu.
++ 半帘雪，月亮的四个侧面。
+
+* Cảnh nào cảnh chẳng đeo sầu,
++ 每个场景都不会忧郁,
+
+* Người buồn, cảnh có vui đâu bao giờ!
++ 伤心的人，现场永远不会幸福！
+
+* Đòi phen nét vẽ, câu thơ,
++ 需要笔画，诗歌，
+
+* Cung cầm trong nguyệt, nước cờ dưới hoa,
++ 在月球上鞠躬，在花下移动，
+
+* Vui là vui gượng kẻo mà,
++ 开心很有趣，
+
+* Ai tri âm đó, mặn mà với ai?
++ 谁知道那个声音，对谁咸？
+
+* Thờ ơ gió trúc, mưa mai,
++ 不管风吹雨打,
+
+* Ngẩn ngơ trăm nỗi, giùi mài một thân.
++ 惊讶了数百次，磨了一个身子。
+
+* Ôm lòng đòi đoạn xa gần,
++ 拥抱着远方的心，
+
+* Chẳng vò mà rối, chẳng dần mà đau!
++ 没有纠结，没有痛苦！
+
+* Nhớ ơn chín chữ cao sâu,
++ 感谢这九句话，
+
+* Một ngày một ngả bóng dâu tà tà.
++ 有一天，一个卧卧的邪恶。
+
+* Dặm ngàn, nước thẳm, non xa,
++ 数千英里，深水，未成熟，
+
+* Nghĩ đâu thân phận con ra thế này!
++ 您认为您的命运在哪里！
+
+* Sân hòe đôi chút thơ ngây,
++ 操场有点天真,
+
+* Trân cam, ai kẻ đỡ thay việc mình?
++ 真诚的，谁能代替我？
+
+* Nhớ lời nguyện ước ba sinh,
++ 记住父亲的愿望，
+
+* Xa xôi ai có thấu tình chăng ai?
++ 谁对你很同情？
+
+* Khi về hỏi liễu Chương đài,
++ 当他回去问张柳时，
+
+* Cành xuân đã bẻ cho người chuyên tay.
++ 春季分支机构被专业人员打破。
+
+* Tình sâu mong trả nghĩa dày,
++ 深爱付出厚重的意义，
+
+* Hoa kia đã chắp cành này cho chưa?
++ 另一朵花已经组装好了吗？
+
+* Mối tình đòi đoạn vò tơ,
++ 爱需要丝绸，
+
+* Giấc hương quan luống lần mơ canh dài.
++ 香气是一个漫长的梦想。
+
+* Song sa vò võ phương trời,
++ 歌颂天堂,
+
+* Nay hoàng hôn, đã lại mai hôn hoàng.
++ 现在日落，再次日落。
+
+* Lần lần thỏ bạc ác vàng,
++ 上次银兔妖金，
+
+* Xót người trong hội đoạn tràng đòi cơn!
++ 冒号人群中的仁慈者要求插曲！
+
+* Đã cho lấy chữ hồng nhan,
++ 给这个词粉红色，
+
+* Làm cho, cho hại, cho tàn, cho cân!
++ 制造，伤害，让灰烬，减轻体重！
+
+* Đã đày vào kiếp phong trần,
++ 被放逐到尘世，
+
+* Sao cho sỉ nhục một lần mới thôi!
++ 如何羞辱一个新的！
+
+* Khách du bỗng có một người,
++ 那个游客突然有一个人，
+
+* Kỳ Tâm họ Thúc cũng nòi thư hương.
++ 州州结束还比赛字母香。
+
+* Vốn người huyện Tích châu Thường,
++  提洲通区首府,
+
+* Theo nghiêm đường mở ngôi hàng Lâm Tri.
++ 沿着这条路开设Lam Tri餐厅。
+
+* Hoa khôi mộ tiếng Kiều nhi,
++ 凯尼古墓的美丽,
+
+* Thiếp hồng tìm đến hương khuê gửi vào.
++ 找粉卡发香。
+
+* Trướng tô giáp mặt hoa đào,
++ 碗正对着桃花，
+
+* Vẻ nào chẳng mặn nét nào chẳng ưa?
++ 它看起来咸吗？
+
+* Hải đường mơn mởn cành tơ,
++ 海阳丝油腻的树枝，
+
+* Ngày xuân càng gió càng mưa càng nồng.
++ 春天的风越来越强。
+
+* Nguyệt hoa hoa nguyệt não nùng,
++ 月桂花月耀斑，
+
+* Đêm xuân ai dễ cầm lòng được chăng?
++ 谁可以轻松地度过春天的夜晚？
+
+* Lạ gì thanh khí lẽ hằng,
++ 奇怪的是恒定的气体，
+
+* Một dây một buộc ai giằng cho ra.
++ 一条领带可以支撑某人。
+
+* Sớm đào tối mận lân la,
++ 傍晚桃李啦啦，
+
+* Trước còn trăng gió sau ra đá vàng.
++ 在月亮和风之前回到金色的石头。
+
+* Dịp đâu may mắn lạ dường,
++ 运气似乎很奇怪,
+
+* Lại vừa gặp khoảng xuân đường lại quê.
++ 刚遇到春天回到乡下。
+
+* Sinh càng một tỉnh mười mê,
++ 生一个省十种美食,
+
+* Ngày xuân lắm lúc đi về với xuân.
++ 春天总是要回到春天。
+
+* Khi gió gác khi trăng sân,
++ 当风挡住月亮时,
+
+* Bầu tiên chuốc rượu câu thần nối thơ.
++ 选举问与酒精挂钩。
+
+* Khi hương sớm khi trà trưa,
++ 下午有香的时候
+
+* Bàn vây điểm nước đường tơ họa đàn.
++ 表鳍点水丝图形线。
+
+* Miệt mài trong cuộc truy hoan,
++ 醉在启示中，
+
+* Càng quen thuộc nết càng dan díu tình.
++ 越熟悉，就越深情。
+
+* Lạ cho cái sóng khuynh thành,
++ 对于成功的浪潮感到奇怪，
+
+* Làm cho đổ quán xiêu đình như chơi.
++ 使家庭餐厅像玩耍一样。
+
+* Thúc sinh quen thói bốc rời,
++ 养成装卸的习惯，
+
+* Trăm nghìn đổ một trận cười như không.
++ 成千上万的笑声像没有。
+
+* Mụ càng tô lục chuốt hồng,
++ 她越煮粉红色，
+
+* Máu tham hễ thấy hơi đồng thì mê.
++ 贪婪地热血，当你感到有些迷住的时候。
+
+* Dưới trăng quyên đã gọi hè,
++ 在=叫做夏天的自杀月亮下，
+
+* Đầu tường lửa lựu lập loè đâm bông.
++ 石榴防火墙的顶部闪烁。
+
+* Buồng the phải buổi thong dong,
++ 会议室是免费的，
+
+* Thang lan rủ bức trướng hồng tẩm hoa.
++ 梯子散布着粉红色盛开的鲜花，用鲜花绑在一起。
+
+* Rõ màu trong ngọc trắng ngà!
++ 珍珠白颜色清晰！
+
+* Dày dày sẵn đúc một tòa thiên nhiên.
++ 厚厚的预制自然建筑。
+
+* Sinh càng tỏ nét càng khen,
++ 天生称赞，
+
+* Ngụ tình tay thảo một thiên luật đường.
++ 奉献爱心起草了一条天上的法则。
+
+* Nàng rằng: Vâng biết ý chàng.
++ 她说：是的，他知道。
+
+* Lời lời châu ngọc hàng hàng gấm thêu.
++ 珍珠字绣品。
+
+* Hay hèn lẽ cũng nối điêu,
++ 也许胆怯，
+
+* Nỗi quê nghĩ một hai điều ngang ngang.
++ 农村认为水平的两个。
+
+* Lòng còn gửi áng mây Vàng.
++ 心脏还发出一朵金色的云。
+
+* Họa vần xin hãy chịu chàng hôm nay.
++ 画家韵，今天请忍受他。
+
+* Rằng: Sao nói lạ lùng thay!
++ 那：为什么这么奇怪！
+
+* Cành kia chẳng phải cỗi này mà ra?
++ 那个分支不是吗？
+
+* Nàng càng ủ đột thu ba,
++ 她越伤心，
+
+* Đoạn trường lúc ấy nghĩ mà buồn tênh:
++ 当时的片段令人悲伤地认为：
+
+* Thiếp như hoa đã lìa cành,
++ 仿佛花开了，
+
+* Chàng như con bướm lượn vành mà chơi.
++ 他就像是一只在篮筐旁嬉戏的蝴蝶。
+
+* Chúa xuân đành đã có nơi,
++ 春天的领主有一个地方，
+
+* Vắn ngày thôi chớ dài lời làm chi.
++ 短时间，不要说任何话。
+
+* Sinh rằng: Từ thuở tương tri,
++ 天生：从彼此相爱之时起，
+
+* Tấm riêng riêng những nặng vì nước non.
++ 由于水不成熟，单独的面板重。
+
+* Trăm năm tính cuộc vuông tròn,
++ 围绕广场的一百年,
+
+* Phải dò cho đến ngọn nguồn lạch sông.
++ 必须探测直到河源。
+
+* Nàng rằng: Muôn đội ơn lòng.
++ 她说：谢谢。
+
+* Chút e bên thú bên tòng dễ đâu.
++ 里面有点动物很容易。
+
+* Bình Khang nấn ná bấy lâu,
++ 平康徘徊了很长时间，
+
+* Yêu hoa yêu được một màu điểm trang.
++ 爱花喜欢成为化妆色。
+
+* Rồi ra lạt phấn phai hương,
++ 然后粉末褪了香，
+
+* Lòng kia giữ được thường thường mãi chăng?
++ 对方的心脏通常保持永久性吗？
+
+* Vả trong thềm quế cung trăng,
++ 在月光下的罗勒里,
+
+* Chủ trương đành đã chị Hằng ở trong.
++ 保单内有挂起。
+
+* Bấy lâu khăng khít dải đồng,
++ 只要铜带,
+
+* Thêm người người cũng chia lòng riêng tây.
++ 西部也有更多的人。
+
+* Vẻ chi chút phận bèo mây,
++ 看起来有点混浊,
+
+* Làm cho bể ái khi đầy khi vơi.
++ 使池充满爱。
+
+* Trăm điều ngang ngửa vì tôi,
++ 一百件事等于我,
+
+* Thân sau ai chịu tội trời ấy cho?
++ 谁受了谁的苦难？
+
+* Như chàng có vững tay co,
++ 好像他有坚定的手，
+
+* Mười phần cũng đắp điếm cho một vài.
++ 十个部分还涵盖了一些妓女。
+
+* Thế trong dầu lớn hơn ngoài,
++ 所以油比外面大,
+
+* Trước hàm sư tử gửi người đằng la.
++ 在狮子面前送人大喊.
+
+* Cúi đầu luồn xuống mái nhà,
++ 将头弯曲到屋顶，
+
+* Giấm chua lại tội bằng ba lửa nồng.
++ 再用三火烧醋。
+
+* Ở trên còn có nhà thông,
++ 还有松屋,
+
+* Lượng trên trông xuống biết lòng có thương?
++ 看不起的钱知道慈悲心吗？
+
+* Sá chi liễu ngõ hoa tường?
++ 萨基柳花道？
+
+* Lầu xanh lại bỏ ra phường lầu xanh.
++ 绿地板再次离开病房的绿地板。
+
+* Lại càng dơ dáng dại hình,
++ 这个数字越肮脏，
+
+* Đành thân phận thiếp ngại danh giá chàng.
++ 卡牌的命运怕他的声誉。
+
+* Thương sao cho vẹn thì thương.
++ 怜悯使诚信。
+
+* Tính sao cho vẹn mọi đường xin vâng.
++ 以便所有行都可以。
+
+* Sinh rằng: Hay nói đè chừng!
++ 天生：或者说！
+
+* Lòng đây lòng đấy chưa từng hay sao?
++ 这颗心从未来过这里或什么？
+
+* Đường xa chớ ngại Ngô Lào,
++ 不要犹豫，去老挝，
+
+* Trăm điều hãy cứ trông vào một ta.
++ 一百件事要继续关注。
+
+* Đã gần chi có điều xa?
++ 距离有多近？
+
+* Đá vàng đã quyết phong ba cũng liều.
++ 决定服用三剂。
+
+* Cùng nhau căn vặn đến điều,
++ 放在一起,
+
+* Chỉ non thề bể nặng gieo đến lời.
++ 只有不成熟的誓言才能播下沉重的话语。
+
+* Nỉ non đêm ngắn tình dài,
++ 感到毡漫长的爱情长夜，
+
+* Ngoài hiên thỏ đã non đoài ngậm gương.
++ 兔子外面是未成熟的镜子。
+
+* Mượn điều trúc viện thừa lương,
++ 借用超重医院的结构,
+
+* Rước về hãy tạm giấu nàng một nơi.
++ 回去暂时把她藏起来。
+
+* Chiến hòa sắp sẵn hai bài,
++ 简安排两张卡，
+
+* Cậy tay thầy thợ mượn người dò la.
++ 弯下腰来探望的借来的老师。
+
+* Bắn tin đến mặt Tú bà,
++ 把新闻拍到涂八的脸上,
+
+* Thua cơ mụ cũng cầu hòa dám sao.
++ 失去力量也带来了和平。
+
+* Rõ ràng của dẫn tay trao,
++ 手的清晰度,
+
+* Hoàn lương một thiếp thân vào cửa công.
++ 向门口支付名片。
+
+* Công tư đôi lẽ đều xong,
++ 公私夫妇都做完了,
+
+* Gót tiên phút đã thoát vòng trần ai.
++ 第一分钟从天花板逃脱了。
+
+* Một nhà sum họp trúc mai,
++ 一个和平的聚会屋，
+
+* Càng sâu nghĩa bể càng dài tình sông.
++ 含义越深，河槽越长。
+
+* Hương càng đượm lửa càng nồng,
++ 香火越浓，
+
+* Càng sôi vẻ ngọc càng lồng màu sen.
++ 珍珠越沸腾，莲花色越浓.
