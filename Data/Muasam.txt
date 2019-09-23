@@ -1,0 +1,152 @@
+﻿* xin hỏi cái này bao nhiêu tiền.
++ 请问这个多少钱。
+
+* tôi có thể thử được không.
++ 我可以试试吗。
+
+* có màu khác không.
++ 有别的颜色吗。
+
+* cái này chất khá tốt nhưng màu không được đẹp lắm.
++ 这个质量还不错，但颜色不好看。
+
+* tôi xem qua một chút.
++ 我随便看看。
+
+* anh xem hộ tôi cái này giá bao nhiêu.
++ 你能不能帮我看一下价格。
+
+* như thế không hợp lí lắm.
++ 那不合理。
+
+* anh đưa ra giá thấp nhất là bao nhiêu?
++ 最低你能出什么价？。
+
+* giảm giá cho tôi đi.
++ 给我打个折吧。
+
+* giá này thực sự quá đắt.
++ 这个价真的太贵了。
+
+* anh bán rẻ hơn chút cho tôi đi.
++ 你卖给我便宜一点嘛。
+
+* anh có thể viết cho tôi tờ hóa đơn không?
++ 能不能给我一张发票？
+
+* ở đây có quẹt thẻ được không?
++ 这里可以刷卡吗？
+
+* bạn muốn giúp gì không?
++ 你好需要帮忙吗
+
+* hôm nay đang sell off 50%.
++ 今天全场对折了。
+
+* bạn yên tâm đi.
++ 你放心。
+
+* đồ chỗ tôi là tốt nhất rồi đấy.
++ 我们家的东西是最好的了。
+
+* hàng này đang bán chạy nhất đấy.
++ 这是畅销货。
+
+* cái này rẻ hơn này.
++ 这个更便宜呢。
+
+* bạn mua mấy cái?
++ 你要买几个？
+
+* mua nhiều tôi giảm giá nhiều.
++ 买多给你优惠。
+
+* cái giá này thực sự là rẻ nhất rồi đấy.
++ 这个价实在是最便宜了。
+
+* bạn có tiền mặt không?
++ 你有现金吗？
+
+* bạn dùng loại tiền nào?
++ 你用的是什么钱？
+
+* nhân dân tệ hay là đô la.
++ 人民币还是美金。
+
+* tôi không mua nổi.
++ 我买不起。
+
+* gần đây có cái chợ nào không?
++ 靠近这里儿有市场吗？
+
+* đối diện chỗ chúng ta có một cái chợ đấy.
++ 对面有一个。
+
+* Chị muốn mua đồ gì?
++ 你要买什么东西？
+
+* Tôi muốn mua mấy bộ quần áo và một ít hoa quả.
++ 我要买几件衣服和一点儿水果。
+
+* cái váy này có mấy cỡ?
++ 这件连衣裙有什么号码？
+
+* Có mấy màu?
++ 有什么颜色？
+
+* Chị muốn mua màu gì?
++ 你要什么颜色的？
+
+* Tôi muốn mua màu trắng.
++ 我喜欢白色的。
+
+* màu trắng không còn cỡ M.
++ 白色没有M号吗了。
+
+* Bộ này hơi nhỏ.
++ 这件太小的了。
+
+* lấy cho chị cỡ M.
++ 还给我M码。
+
+* Chị xem màu đó có được không?
++ 你要红色的吗？
+
+* chị cứ thử đi.
++ 没问题。
+
+* đôi giày này bao nhiêu tiền?
++ 这双鞋多少钱？
+
+* 100 tệ.
++ 100块。
+
+* Màu đen nhìn hơi già.
++ 黑色看起来太老。
+
+* đưa tôi màu đỏ xem sao.
++ 拿给我红色看看。
+
+* Chị đi màu đỏ nhìn trẻ Trung.
++ 你穿红色看起来很年轻。
+
+* lấy cho tôi đôi màu đỏ đi.
++ 给我一双红色。
+
+* Ông còn cần gì khác không?
++ 你还要其他吗？。
+
+* Tôi lấy thêm một cái bật lửa.
++ 再要一个打火机。
+
+* tổng cộng bao nhiêu tiền?
++ 总共多少钱？
+
+* Mời sang phía bên kia trả tiền.
++ 请去那里付钱。
+
+* Tính tiền giúp tôi.
++ 帮我算帐呀。
+
+* Của ông tổng cộng 24 đồng.
++ 你总共24块。

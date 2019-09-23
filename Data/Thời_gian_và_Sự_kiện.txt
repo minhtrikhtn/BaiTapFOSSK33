@@ -1,0 +1,426 @@
+* Bây giờ là mấy giờ rồi?
++ 现在几点？
+
+* 9h.
++ 九点。
+
+* Mấy giờ bạn vào làm?
++ 你几点上班?
+
+* Tôi 7h30 vào làm.
++ 我7点半上班。
+
+* 10h10.
++ 十点十分。
+
+* 8h30.
++ 八点半。
+
+* Mấy giờ chúng ta xuất phát đi Trung Quốc.
++ 我们几点出发去中国。
+
+* 10h20.
++ 10点20分钟。
+
+* 20 phút.
++ 20 分钟。
+
+* Hiệu sách Lam Thiên mấy giờ mở cửa?
++ 蓝天书店几点开门？
+
+* 7h45.
++ 7点45分钟。 
+
+* 3 tiếng.
++ 3 个小时。
+
+* Anh đợi tôi mấy tiếng rồi?
++ 你等我几个小时了？
+
+* 2 tiếng rồi.
++ 两个小时了。
+
+* Năm 2012.
++ 今年是2012年。
+
+* Năm nay là năm nào?
++ 今年是哪年？
+
+* 6 năm.
++ 6年。
+
+* Anh kết hôn được mấy năm rồi?
++ 你结婚几年了？
+
+* 8 năm rồi.
++ 8年了。
+
+* Tháng 8.
++ 8月。
+
+* Bạn học Hán ngữ được mấy tháng rồi?
++ 你学汉语学几个月了?
+
+* 3 tháng rồi.
++ 3个月了。
+
+* Tháng này là tháng mấy?
++ 这个月是几月？
+
+* Tháng 12.
++ 12月。
+
+* Tuần này.
++ 这个礼拜。
+
+* Tuần trước.
++ 上个礼拜。
+
+* Tuần sau.
++ 下个礼拜。
+
+* Mỗi tuần.
++ 每个礼拜。
+
+* Mấy tuần.
++ 几个礼拜。
+
+* 4 tuần.
++ 4个礼拜。
+
+* Ngày 30.
++ 30日。
+
+* Ngày mai là ngày mấy tháng mấy?
++ 明天是几月几号？
+
+* Ngày mai là ngày 12 tháng 2.
++ 明天是12月2号。
+
+* Ngày 12/10 tôi đi thành phố Hồ Chí Minh tham gia triển lãm nông nghiệp.
++ 我10月12日去胡志明市参加农业展览会。
+
+* Anh thuê phòng mấy ngày?
++ 你租房租几天?
+
+* 3 ngày.
++ 3天。
+
+* buổi sáng.
++ 早上。
+
+* buổi trưa.
++ 中午。
+
+* buổi chiều.
++ 下午。
+
+* buổi tối.
++ 晚上。
+
+* ban đêm.
++ 夜间。
+
+* hàng ngày.
++ 每天。
+
+* hôm kia.
++ 前天。
+
+* hôm qua.
++ 昨天。
+
+* hôm nay.
++ 今天。
+
+* ngày mai.
++ 明天。
+
+* ngày kia.
++ 后天。
+
+* 9h sáng ngày mai.
++ 明天上午9点。
+
+* 5h chiều ngày hôm nay.
++ 今天下午5点。
+
+* Ông chủ, chiều ngày mai mấy giờ tôi phải trả phòng.
++ 老板，我明天下午几点退房?
+
+* Chiều mai 3h anh phải trả phòng.
++ 你明天下午3点要退房。
+
+* thứ.
++ 礼拜/星期。
+
+* thứ hai.
++ 星期一。
+
+* thứ ba.
++ 星期二。
+
+* thứ tư.
++ 星期三。
+
+* thứ năm
++ 星期四。
+
+* thứ sáu.
++ 星期五。
+
+* thứ bảy.
++ 星期六。
+
+* chủ nhật.
++ 星期天。
+
+* cuối tuần.
++ 周末。
+
+* 2/9/2012.
++ 2012年9月2日
+
+* Lễ giáng sinh là ngày mấy tháng mấy?
++ 圣诞节是几月几号？
+
+* 25/12.
++ 12月25号。
+
+* Lễ giáng sinh này anh tặng con anh món quà gì?
++ 这个圣诞节，你送你小孩什么礼物。
+
+* Tôi cho cháu đi công viên.
++ 我陪他去公园玩儿。
+
+* Chào anh, dạo này anh khỏe không?
++ 你好，你最近好吗？
+
+* Tôi khỏe, cám ơn anh. 
++ 好，谢谢你。
+
+* Xin hỏi, hôm nay là thứ mấy?
++ 请问，今天是星期几？
+
+* Hôm nay là thứ bảy.
++ 今天是星期六。
+
+* Chủ nhật anh đi du lịch Trung Quốc à?
++ 你星期天去中国游泳吗？
+
+* Đúng vậy.
++ 对啊。
+
+* Chúc anh lên đường thượng lộ bình an.
++ 祝你上路平安。
+
+* Ngày mùng 4.
++ 4号。
+
+* Ông chủ, hôm nay là ngày bao nhiêu?
++ 老板，今天几号？
+
+* Hôm nay là ngày 20.
++ 今天是20号。
+
+* Ngày mai tôi còn ra chợ mua mấy bộ quần áo?
++ 你明天回越南吗？
+
+* Ngày kia tôi mới về Việt Nam.
++ 我后天才回去越南。
+
+* năm.
++ 年。
+
+* tháng.
++ 月。
+
+* ngày.
++ 日。
+
+* số.
++ 号。
+
+* tuần.
++ 星期。
+
+* thời gian.
++ 时间。
+
+* Việt Nam.
++ 越南。
+
+* Trung Quốc.
++ 中国。
+
+* Hà Nội.
++ 河内。
+
+* điểm.
++ 点。
+
+* phút.
++ 分钟。
+
+* giờ.
++ 小时。
+
+* đi làm.
++ 上班。
+
+* một chút.
++ 一点。
+
+* sách.
++ 书。
+
+* cửa hàng.
++ 商店。
+
+* công viên
++ 公园。
+
+* kết hôn.
++ 结婚。
+
+* Tết Dương Lịch.
++ 阳历节。
+
+* Tết Nguyên Đán.
++ 新年节。
+
+* Tết Nguyên Tiêu.
++ 元宵节。
+
+* Ngày Quốc tế lao động.
++ 国际劳动节。
+
+* Tết Đoan Ngọ.
++ 端午节。
+
+* Lễ Vu Lan.
++ 乌兰节。
+
+* Ngày Quốc Khánh.
++ 国庆节。
+
+* Tết Trung thu.
++ 中秋节。
+
+* Lễ giáng sinh.
++ 圣诞节。
+
+* Sách của tôi.
++ 我的书。
+
+* Mẹ tôi.
++ 我妈妈。
+
+* A là B.
++ A 是 B。
+
+* Tôi là người Hà Nội.
++ 我是河内人。
+
+* A không phải là B.
++ A不是B。
+
+* Tôi không phải người Hà Nội.
++ 我不是河内人。
+
+* Bạn có phải là…không?
++ 你是………吗?
+
+* Có phải anh là kiến trúc sư không?
++ 你是工程师吗？
+
+* Bạn có phải là………?
++ 你是不是………?
+
+* Anh là người Hà Nội à?
++ 你是不是河内人？
+
+* Vâng.
++ 是。
+
+* Không phải.
++ 不是。
+
+* Hôm nay là ngày mấy tháng mấy?
++ 今天几月几号？
+
+* Ngày 30 tháng 4.
++ 4月30日。
+
+* Mai là ngày Quốc tế lao động à?
++ 明天是国际劳动节吗？
+
+* Vâng, mai bạn đi đâu chơi không?
++ 是，你明天去哪儿玩？
+
+* Tôi dẫn con trai tôi đi công viên.
++ 我陪男孩去公园玩儿。
+
+* Sáng nay mấy giờ bạn đi làm?
++ 你今天上午几点上班？
+
+* 8h30.
++ 8点30.
+
+* Chiều nay mấy giờ tan làm?
++ 你今天下午五几点下班？
+
+* 5h.
++ 5点。
+
+* Bây giờ là mấy giờ?
++ 现在几点？
+
+* 12h45.
++ 12点45。
+
+* Ngày mai là ngày bao nhiêu?
++ 明天是几月几号？
+
+* Sáng nay mấy giờ bạn ngủ dậy?
++ 你今天早上几点起床。
+
+* 6h sáng.
++ 早上6点。
+
+* Còn bạn?
++ 你呢？
+
+* Tôi 6h15.
++ 我6点15分。
+
+* Mấy giờ bạn ra khỏi nhà?
++ 你几点出门？
+
+* Hôm nay mấy giờ anh ngủ dậy?
++ 你今天几点起床?
+
+* Hôm nay tôi ngủ dậy lúc 7h.
++ 今天我7点起床。
+
+* Hôm nay mấy giờ bạn ăn sáng?
++ 你今天几点吃早饭？
+
+* Bạn ở công ty mấy giờ ăn cơm trưa?
++ 你在公司几点吃午饭？
+
+* Tối qua mấy giờ bạn đi ngủ?
++ 你昨天晚上几点睡觉？
+
+* Tối qua 11h tôi đi ngủ.
++ 我昨天晚上11点睡觉。
+
+* Tối qua bạn làm gì?
++ 昨天晚上你做什么？
+
+* Tối qua tôi xem phim.Bộ phim đó rất hay.
++ 我昨天晚上看电影。那个电影很好看。
+
+
+
+
