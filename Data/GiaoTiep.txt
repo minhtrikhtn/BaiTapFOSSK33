@@ -1,0 +1,59 @@
+* Chào buổi sáng !
++ 早安.
+* Chào buổi sáng, buổi chiều, buổi tối!	
++ 早晨（下午/晚上）好！
+* Mời vào.	
++ 请进.
+* Mời ngồi.	
++ 请坐.
+* Chơi vui vẻ
++ 玩得開心.
+* Rất khỏe, cảm ơn, thế còn bạn?	
++ 很好，谢谢，你呢？
+* Rất vui quen biết bạn.	
++ 很高兴认识你.
+* Mai gặp lại nhé.	
++ 明天见.
+* Quen biết bạn tôi cũng rất vui.	
++ 认识你我也很高兴.
+* Tôi là người Việt Nam.
++ 我是越南人.
+* Bạn biết nói tiếng Anh không?	
++ 你会说英语吗？
+* Tôi tên là JonhWick.	
++ 我叫汤姆斯.
+* Tôi cũng rất khỏe.	
++ 我也很好.
+* Hôm nay thứ mấy?	
++ 今天星期几？
+* Đây là cái gì?	
++ 这是什么？
+* Cuối tuần này bạn làm gì?	
++ 这周末你干什么？
+* Con đường này dài bao xa?	
++ 这条街有多长？
+* Có vấn đề gì không?	 
++ 有什么问题吗?
+* Chút nữa gặp nhé.	
++ 待会儿见.
+* Bạn tên là gì ?	
++ 你叫什么名字？
+* Bạn làm nghề gì?	
++ 你是做什么的？
+* Bạn là ai?	
++ 你是谁？
+* Bạn khỏe không?	
++ 你好吗？
+* Đã lâu không gặp, dạo này anh khỏe không?   
++ 好久不见，你最近好吗？
+* Cảm ơn, rất khỏe, còn anh? 
++ 谢谢，很好，你呢？
+* Tôi cũng rất khỏe. 
++ 我也很好.	
+* Rất tốt! 
++ 很好！
+
+
+
+
+
