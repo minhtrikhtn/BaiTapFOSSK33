@@ -9,6 +9,7 @@ using System.Windows.Forms;
 using System.Globalization;
 using System.Text.RegularExpressions;
 using System.IO;
+using System.Security;
 
 namespace ChuanHoaDuLieuNN
 {
@@ -21,7 +22,20 @@ namespace ChuanHoaDuLieuNN
 
         private void btnSelectFiles_Click(object sender, EventArgs e)
         {
+            // OpenFileDialog dlg = new OpenFileDialog();
+            //if (dlg.ShowDialog() == DialogResult.OK)
+            //{
+            //   string fileName;
 
+            //   fileName = dlg.FileName;
+            //MessageBox.Show(fileName);
+            //}
+            OpenFileDialog oFile = new OpenFileDialog();
+            oFile.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            if (oFile.ShowDialog() == DialogResult.OK)
+            {
+                lblFileName.Text = oFile.FileName;
+            }
         }
 
         private void btnChonFileKQ_Click(object sender, EventArgs e)
@@ -30,6 +44,12 @@ namespace ChuanHoaDuLieuNN
         }
 
         private void btnChuanhoa_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void lblFileName_Click(object sender, EventArgs e)
         {
 
         }
