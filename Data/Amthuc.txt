@@ -1,7 +1,6 @@
 ﻿* Đây là công đoạn quan trọng trước khi làm khô cá.
 + 这是晒鱼前的一个重要步骤。
 
-<<<<<<< HEAD
 * Tôi có thể xem thực đơn không?
 + 我可以看一下菜单吗?
 
@@ -38,6 +37,8 @@
 * Cá kho với tiêu rất ngon.
 + 红烧鱼加胡椒味道好。
 =======
+=======
+>>>>>>> 86f05b98be0278b613ee315ccde3b4d60ea5c2b2
 * Tôi thích ăn món vừa chua vừa ngọt.
 + 我喜欢吃又酸又甜的。 
  
@@ -488,9 +489,902 @@
 * Cho món canh trứng nấu cà chua.
 + 来一碗西红柿炒鸡汤。
 
+<<<<<<< HEAD
+=======
+* Bạn cẩn bao nhiêu thịt?
++ 你需要多少肉? 
+
+* Có tươi không?
++ 够新鲜吗?  
+
+* Móc và rửa sạch bên trong con cá.
++ 把鱼内脏掏洗干净.  
+
+* Bạn đang nấu món gì vậy?
++ 你在做什么饭?  
+
+* Thịt sắp nướng cháy rồi.
++ 肉要烧焦. 
+
+* Thái cà chua thành hạt lựu.
++ 把茄子切成丁儿.  
+
+* Bếp ga hỏng rồi.
++ 煤气灶坏了.  
+
+* Ở trong tủ bát.
++ 在橱柜里.  
+
+* đưa cho tôi một cái đĩa.
++ 递给我一个盘子.  
+
+* thái thành miếng mỏng.
++ 切成薄片.  
+
+* Đổ cà chua vào.
++ 加入番茄. 
+
+* Sấy khô trong lò nướng.
++ 在烤箱里进行烘焙.  
+
+* Chiên đô ăn trong dầu nóng.
++ 把食物放进热油中炸.  
+
+* Chỗ này sao lại nhiều dán vậy?
++ 这里为什么这么多蟑螂啊?   
+
+* Tôi muốn ninh thịt hầm trong 5 phút.
++ 我想把炖肉煨5分钟.  
+
+* đun nóng nước lên môt chút.
++ 烧点水吧.  
+
+* Tôi ngửi thấy mùi ga. Tắt bếp ga đi.
++ 我闻到煤气味了.把煤气关了.  
+
+* Vẫn chưa trộn xong.
++ 还没有完全搅拌好.  
+
+* Đập 2 quả trứng vào.
++ 打两个鸡蛋.  
+
+* Bạn có thể cho một chút đá vào mỗi cốc không?
++ 你能在每个杯子里放些冰吗?   
+
+*  Con dao này cùn quá.
++ 这把刀太钝了.
+
+* ok, sắp nấu xong rồi.
++ 好了.快做完了. 
+
+* Còn cần bao lâu nữa mới nấu xong?
++ 还要多久才能做好呀?   
+
+* Bữa tối nấu gì ngon nhỉ?
++ 晚饭做什么好呢?  
+
+* Con dao này dễ sử dụng nhỉ, đúng không?
++ 这刀挺好使的,是不是?  
+
+* Anh yêu, vặn nhỏ bếp ga xuống là được.
++ 亲爱的,把煤气炉调小就好.  
+
+* Chờ canh nguội là bạn có thể ăn được.
++ 等汤一凉下来,你就可以吃了.  
+
+* Cho thêm chút muối nữa.
++ 多放一些盐.
+
+* Mẹ đang ở trong bếp nấu một bữa ăn thịnh soạn.
++ 妈妈正在厨房里大显身手呢.
+
+* Tôi nấu ăn, Erin lo mảng giặt giũ.
++我做饭，埃琳收拾碗筷。
+
+* Hôm qua, tôi bận rộn trong bếp để làm bánh.
++ 我昨天一直忙着做蛋糕呢。
+
+* Căn bếp bẩn và không hấp dẫn chút nào.
++ 厨房脏乱不堪。
+
+* Bạn có thể sử dụng tất cả mọi thứ.
++ 你可以使用所有的物品。
+
+* Trong quá khứ, phụ nữ chỉ được phép ăn trong bếp.
++ 过去，女人只能在灶屋吃饭。 
+
+* Từ đây đến nhà hàng Mc Donal gần nhất đi mất bao lâu?
++ 离这里最近的麦当劳要走多久?
+
+* Tôi gọi suất ăn thứ 2.
++ 我要二号套餐.
+
+* Chỗ các anh có món ăn nhanh nào đặc sắc không ?
++ 你们这里有什么特色快餐吗?
+
+* Anh có thể giới thiệu cho tôi nhà hàng đồ ăn nhanh Trung Quốc tốt nhất không?
++ 你可以为我推荐一家最好的中试快餐厅吗?
+
+* Anh có thể cho tôi biết đây là gì không?
++ 你能告诉我这是什么吗?
+
+* Tôi sẽ ăn món này.
++ 我将要吃这个.
+
+* Anh có gợi ý món nào không?
++ 你有什么推荐吗?
+
+* Tôi muốn sủi cảo nhân tôm, vằn thắn và bánh bao trứng sữa.
++ 我想要一些虾饺,馄饨和一个奶黄包.
+
+* Tôi có thể xem thực đơn không?
++ 我可以看一下菜单吗?
+
+* Anh có thực đơn không?
++ 你有菜单马?
+
+* Thanh toán!
++ 买单!
+
+* Đắt không?
++ 贵吗?
+
+* Tôi muốn đến kia nếm 1 chút.
++ 我想去那里品尝一下.
+
+* Chào các anh, xin hỏi các anh muốn dùng gì?
++ 你们好.请问你们用什么菜?
+
+* Cho tôi xem thực đơn.
++ 拿菜单给我看.
+
+* Xin đợi một chút…Đây ạ!
++ 请等一下…这个得.
+
+* Cho tôi 1 thịt lợn xốt chua ngọt, một cải ngọt xào, một gà rán, một cá hấp, 2 bát cơm, 1 bát canh dưa.
++ 来一个香波咕噜肉,一个炒青菜,一个炸鸡,一个清蒸鱼,两碗饭,亿万西瓜汤.
+
+* Anh có muốn uống gì không?
++ 你要喝点儿什么?
+
+* Cho tôi 1 bia Hà Nội và 1 chai rượu Brandi.
++ 来一个河内啤酒和一瓶白兰地.
+
+* Vâng, anh đợi một lát. Thức ăn sẽ được mang ra ngay.
++ OK.请等一下儿,菜就来.
+
+* Các anh đến rồi. Mời các anh ngồi chỗ này.
++ 你们来了,请这边坐.
 
 
+* Các anh muốn dùng món gì?
++ 你们几位想吃点什么?
 
+* Cho tôi 1 cá hấp.
++ 来一个清蒸鱼.
 
+* Thêm 1 con vịt quay Bắc Kinh và 1 súp lơ xào hải sản.
++ 再要一只北京烤鸭和一个西兰花带子.
 
->>>>>>> dda1f1d3d1000a537d8587f1c03d92d166ed97c3
+* Cô tư vấn giúp tôi mấy món khác được không?
++ 请帮我堤点几个菜,行吗?
+
+* Các anh muốn uống rượu gì? Rượu Mao Đài nhé!
++ 要什么酒?是茅台酒吗?
+
+* Món chính các anh dùng gì?
++ 主食吃什么?
+
+* Cho 2 bát cơm.
++ 给我两碗饭.
+
+* Anh có gọi thêm canh không?
++ 你要加汤吗?
+
+* Cho một bát canh trứng cà chua.
++ 来一碗西红柿鸡汤.
+
+* Cô ơi, tính tiền cho tôi.
++ 娘女,请算帐.
+
+* Của anh tổng cộng 950.000 đồng ạ.
++ 你的单总共950.000块.
+
+* Hôm nay tôi mời, để tôi trả tiền cho.
++ 今天我请客,我来付钱.
+
+* Tiền thừa cô cứ giữ lấy nhé.
++ 娘女,剩下的钱,请你收下吧.
+
+* Cảm ơn anh, nhưng chỗ em quy định không nhận tiền bo ạ.
++ 谢谢,我们酒店规定不能收小费.
+
+* Bạn có biết nấu ăn không?
++ 你会做菜吗？
+
+* Biết một chút. Bạn thì sao?
++ 会一点。你呢？
+
+* Tôi nấu rất ngon. Món ăn sở trường của tôi là món trứng sốt cà chua
++ 我做得很好。我的拿手菜是番茄炒蛋。
+
+* Vậy lần tới bạn làm cho tôi ăn nhé.
++ 那你下一次做给我吃。
+
+* Bạn có muốn ở nhà làm một bà nội trợ không?
++ 你愿意在家做全职太太吗?
+
+* Sau khi cưới, bạn có đồng ý ở nhà làm một bà nội trợ không?
++ 婚后, 你愿意当全职太太吗?
+
+* Ăn nhiều vào.
++ 多吃点。
+
+* Món này hơi mặn.
++ 这菜有点咸。
+
+* Cho anh bát nữa.
++ 再给我一碗。
+
+* Cơm mẹ nấu ăn ngon nhất.
++ 妈妈做的菜最好吃了。
+
+* Phải ăn sáng thôi.
++ 该吃早饭了。
+
+* Khi nào chúng ta ăn cơm?
++ 我们什么时候吃饭？
+ 
+* Bữa tối ăn món gì?
++ 晚饭吃什么？
+
+* Cơm tối sắp làm xong rồi.
++ 晚饭快要做好了。
+
+* Đến giờ ăn cơm rồi.
++ 吃饭时间到了。
+
+* Cơm tối chuẩn bị xong rồi.
++ 晚饭准备好了。
+
+* Cho anh thêm ít thức ăn được không?
++ 请给我添点菜，行吗？
+
+* Có ăn thêm món này nữa không?
++ 这个菜再来一点吗？
+ 
+* Cho anh thêm ít tương ớt được không?
++ 那个辣椒酱再来点好吗？
+
+* Coi chừng, món này còn nóng lắm.
++ 小心，这很烫。
+
+* Anh đi bày bàn ăn được không?
++ 你去摆餐桌好吗？
+
+* Ngồi vào đi, cơm tối làm xong rồi.
++ 去坐下，晚饭做好了。
+
+* Tôi bị dị ứng (với) ___. Món này có ___ không?
++ 我对____过敏。这里包含____吗？
+
+* Tôi bị tiểu đường. Món này có đường hay carbohydrate không?
++ 我有糖尿病。这个里面含糖或者碳水化合物吗？
+
+* Cho tôi xin một cốc nữa.
++ 我想要加菜，谢谢。
+
+* Chúc bạn ăn ngon miệng!
++ 祝您就餐愉快！
+
+* Bàn ghế đã được bố trí xong hết rồi, mời ông vào, ông Lý
++ 李先生，桌子已经摆上了，您里边请。
+
+* Anh thích uống loại rượu nào ?
++ 您喜欢喝什么酒？
+
+* Uống bia vậy.
++ 啤酒吧。
+
+* Anh thử món này xem mùi vị của nó thế nào ?
++ 您尝尝这个菜，味道怎么样？
+
+* Ngon thật đấy. Rất hợp với khẩu vị của tôi
++ 做得真好吃，非常适合我的口味。
+
+* Vậy thì anh đừng khách sáo, dùng nhiều vào. 
++ 那你别客气，多尝一点。
+
+* Nghe nói anh là người sành ăn và còn rất giỏi nấu ăn có phải không ?
++ 听说您对饮食非常讲究，而且挺会做菜。
+
+* Nào có chuyện đó. Chỉ là nấu được vài món ăn gia đình thôi.
++ 哪里，只是会做一些家常便菜而已。
+
+* Kìa, sao anh không ăn đi ?
++ 诶，您怎么不吃了？
+
+* Tôi ăn no rồi, mọi người cứ từ từ mà ăn.
++ 吃饱了，你们慢吃。
+
+* Cậu chưa đi ăn cơm trưa à?
++ 你没去吃午饭吗？
+
+* Tớ đã ăn tạm 1 ít rồi, tớ có mua 1 cái bánh trứng gà ở bên đường.
++ 我凑合吃了一点儿，在街边买了一个鸡蛋灌饼。
+
+* Cậu ăn cơm ở đâu vậy?
++ 你在哪儿吃的？
+ 
+* Nhà ăn sinh viên.
++ 学生食堂。
+
+* Thấy thế nào, ăn quen không?
++ 怎么样，习惯吗?
+
+* Cũng được, rẻ, ăn 1 bữa cơm chưa đến 5 tệ.
++ 还行，便宜，吃一顿饭还不到5块钱。
+
+* Chỉ có điều đông người quá, phải đứng xếp hàng cả buổi.
++ 就是人太多，得排半天队。
+ 
+* Ý tớ là đồ ăn có hợp khẩu vị cậu không?
++ 我问的是饭菜合不合你的口味？
+
+* Lúc đầu ăn đồ Trung Quốc thấy cứ có gì đó không quen lắm.
++ 吃中餐，开始的时候总是有点儿不太习惯。
+
+* Cậu biết không? 
++ 你知道吗？
+
+* Trong nhà ăn sinh viên cũng có đồ ăn Tây đấy.
++ 学生食堂也有西餐。 
+
+* Nhưng món ăn Trung Quốc chính cống vẫn ngon hơn.
++ 不过，正宗的中餐，可好吃了。
+ 
+* Hôm nào bọn mình cũng đi ăn đồ Trung Quốc đi, thế nào?
++ 哪天我们一起去一顿正宗的中餐，怎么样？
+
+* Được thôi. 
++ 好啊。
+
+* Xung quanh trường có rất nhiều nhà hàng, chúng ta sẽ ăn thử hết từng cái 1. 
++ 学校四周有很多餐馆，咱们一家一家地吃。
+
+* Ăn hết tất cả rồi chúng ta sẽ biết đồ ăn Trung Quốc là như thế nào.
++ 等都吃遍了，你就知道什么是中餐了。
+ 
+* Thế chẳng phải chúng ta sẽ biến thành nhà ẩm thực rồi sao.
++ 那我们不就成了美食家了。
+
+* Tiểu Phượng, mau dọn bát đũa ra đi, há cảo sắp chín rồi. 
++ 小风，快把碗筷摆好，饺子马上就煮好了。
+
+* Mã Lương, George ngồi ghế đầu đi.
++ 马良，乔治上座，上座。
+ 
+* Thầy Vương, ngồi đầu là sao ạ?
++ 王老师，什么是上座？
+ 
+* Ngồi đầu chính là chỗ ngồi đối diện với phía cửa.
++ 上座就是脸潮门的那个座位。
+ 
+* Thưa thầy Vương, thầy là người lớn, ghế đầu đương nhiên phải để cho thầy ngồi chứ, thầy không ngồi sao chúng em dám ngồi.
++ 王老师，您是长者，这上座当然是您的了，您不坐我们怎么坐呀。
+ 
+* Các bạn là khách, đừng có khách sáo.
++ 你们是客人，别客气了。
+
+* Mã Lương, không ngờ là tiếng Trung của anh lại tốt như thế.
++ 马良，想不到你的中文还真不错呢。
+
+* Nào, ngồi đầu đi.
++ 来，上座。
+
+* Đây là đũa, đây là đĩa, đây là giấm để chấm há cảo, đây là tỏi.
++ 这是筷子，这是碟子，这是饺子醋，这是大蒜。
+
+* Cám ơn em, anh không ăn tỏi. 
++ 谢谢，我不吃蒜。
+
+* Ăn tỏi nặng mùi lắm.
++ 吃蒜太味儿了。
+ 
+* George thì sao?
++ 乔治呢？
+ 
+* Em không sao ạ, có thể ăn 1 chút.
++ 我还行，能吃一点儿。
+ 
+* Tùy ý, tùy ý. 
++ 随意，随意。
+
+* Mau nếm thử há cảo nhà tự gói nào, ngon hơn nhiều so với há cảo đông lạnh. 
++ 来尝尝家里包的饺子，比速冻饺子可好吃多了。
+
+* Tiểu Phượng, đưa giấm qua đây cho bố, bố rót cho họ 1 chút để chấm. 
++ 小风，把醋递给我，我给他们倒一点儿醋。
+
+* Tiểu Phượng đưa giấm qua cho bố.
++ 小风把醋递给爸爸。
+ 
+* Để em tự làm, để em tự làm đi ạ.
++ 我自己来，我自己来。
+
+* Thế nào, mùi vị khác chứ?
++ 怎么样，味道不一样吧？
+
+* Ngon lắm, cực kỳ ngon ạ.
++ 好吃。棒极了。
+
+* Đây là món há cảo ngon nhất mà em từng được ăn kể từ khi đến Trung Quốc đến giờ. 
++ 这是我到中国以后，吃到的最好吃的饺子。
+
+* Vỏ mỏng nhân lại to.
++ 薄皮大馅儿。
+ 
+* Ngon thì ăn nhiều thêm 1 chút, đừng khách sáo.
++ 好吃就多吃一点儿，别客气。
+
+* Em ăn no rồi, mọi người tiếp tục ăn đi nhé.
++ 我吃饱了，你们慢用。
+
+* George, đừng khách sáo, tiếp tục ăn đi.
++ 乔治，别放筷子，接着吃。
+ 
+* Em thật sự là không ăn được nữa, chắc chết mất.
++ 我实在吃不下了，撑死了。
+
+* Làm cả ngày trời, ăn lại ít thế. 
++ 干了半天，吃这么少。
+
+* Thêm 1 cái nữa đi.
++ 再来一个。
+ 
+* Thật sự là no rồi cô ạ.
++ 真的吃饱了，老师。
+
+* Em không phải là khách sáo đâu.
++ 我不客气。
+
+* Món ăn Việt Nam có ngon không?
++ 越南菜好吃不好吃？
+
+* Rất ngon.
++ 很好吃。
+
+* Cậu có thể giới thiệu cho tớ không?
++ 你能给我介绍一下儿吗？
+
+* Người Việt Nam chúng tôi có 4 sở thích:
++ 我们越南人有四种爱好：
+
+* Thích ăn đồ tươi.
++ 喜欢吃鲜味的。
+ 
+* Thích ăn các loại rau thơm.
++ 喜欢吃各种香味。
+  
+*  Rất thích ăn nhiều loại đồ chấm. 
++ 喜欢吃很多种蘸酱。  
+ 
+* Đại bộ phận thích ăn cay, không thích ăn quá béo.
++ 大多数人喜欢吃辣的，不喜欢吃得过腻（肥）。
+ 
+* Món ăn nào kèm rau thơm, nước chấm gì là cả 1 tri thức đấy.
++ 什么菜馋食什么香菜、什么蘸酱是一种学问。
+ 
+* Thành phố Hồ Chí Minh cách biển không xa, đồ biển tươi nhất định rất phong phú nhỉ?
++ 胡志明市离海不远，海鲜一定很丰富吧？
+ 
+* Đúng vậy, cậu có thể thưởng thức cua biển.
++ 是的，你可以尝尝海蟹。
+ 
+* Thủy sản nổi tiếng có loại nào?
++ 有名的水产有哪些？
+ 
+* Có ếch.
++ 有青蛙。
+
+* Cá biển và cá nước ngọt rất nhiều.
++ 好吃的咸水鱼和淡水鱼多得很。
+
+* Ở chỗ cậu có loại rượu nào nổi tiếng?
++ 你们这里有名的酒是什么酒？
+ 
+* Rượu nếp cẩm.
++ 有红糯米酒。
+
+* Bia Sài Gòn
++ 西贡牌啤酒                   
+
+* Cho hỏi các anh đi mấy người?
++ 请问几位？
+
+* 2 người.
++ 两位。
+
+* Ngồi đây đi.
++ 坐这儿吧。
+ 
+* Chúng tôi có thể ngồi kia không?
++ 我们能坐那儿吗？
+
+* Bàn bên cạnh cửa sổ đó?
++ 靠窗户的那张桌子？
+ 
+* Được. 
++ 可以。
+
+* Đây là thực đơn.
++ 这是菜单。
+ 
+* Cậu xem trước đi, có muốn ăn gì không?
++ 你先看看，有什么想吃的。
+ 
+* Cho tôi 2 chai bia trước nhé.
++ 先来两瓶啤酒。
+
+* Loại ướp lạnh hay để nguyên?
++ 要冰镇的还是普通的？
+
+* Loại ướp lạnh.
++ 要冰镇的。
+
+* Bia của hãng nào?
++ 什么牌子的？
+
+* Thanh Đảo, Yến Kinh hay Tuyết Hoa?
++ 青岛的，燕京的，还是雪花的？
+ 
+* Bia Tuyết Hoa đi, loại này tôi chưa uống bao giờ, hôm nay thử xem uống thế nào.
++ 要雪花啤酒，这种牌子我还没喝过，今天尝尝怎么样？
+
+* Được, vậy cho 1 chai bia Tuyết Hoa, 1 chai Yến Kinh. 
++ 好，那就一瓶雪花啤酒，一瓶燕京啤酒。
+
+* Tớ nghe nói bia Yến Kinh uống cũng được lắm.
++ 我听说燕京啤酒不错。
+ 
+* Các anh chọn món gì ạ?
++ 你们点些什么菜？
+ 
+* 乔治，你常下馆子，是老手。
++ George, cậu thường đi ăn nhà hàng, quen rồi. 
+
+* Hôm nay cậu chọn món đi.
++ 今天还是你点菜吧。
+ 
+* Được. Cho tôi 1 canh cá, 1 sườn xào chua ngọt, 1 cần tây bách hợp, 1 gà chiên, 1...
++ 行。点一个水煮鱼，一个糖醋里脊，一个西芹百合，一个宫爆鸡丁，一个。。。
+
+* Đủ rồi đủ rồi, không ăn hết được nhiều món thế đâu.
++ 够了够了，吃不了那么多菜。
+ 
+* Không sao, tớ mời mà. Ăn không hết thì gói đem về.
++ 没事儿，我请客。吃不了打包带回去。
+ 
+* Đừng làm thế, chúng ta chia đôi tiền đi.
++ 别这样，咱们AA制。
+ 
+* Thế thì cho tôi chọn 2 món trước thôi, 2 món phái sau không cần nữa. 
++ 那点两个菜就够了，后两个菜就不要了。
+
+* Cho thêm 1 suất cơm rang trứng nhé.
++ 再要一个蛋炒饭。
+
+* Có cần thêm gì nữa không ạ?
++ 不要别的了吗？
+
+* Không cần nữa.
++ 不要了。
+
+* Vâng, xin chờ 1 chút, bia lập tức sẽ mang đến cho anh đây ạ.
++ 好的，请稍等，啤酒马上就给您送来。
+
+* Thế mà còn muốn làm nhà ẩm thực gia, cơm ở đây có khác gì ở căn-tin sinh viên đâu.
++ 还想当美食家呢，这跟在学生食堂吃饭没什么两样。
+ 
+* Haiz, sau này ngày tháng còn dài, chúng ta cứ từ từ thưởng thức.
++ 咳，以后日子长着呢，咱们慢慢来嘛。
+
+* Phục vụ, tính tiền.
++ 服务员，买单。
+
+* Tổng cộng là 68 tệ.
++ 一共68块。
+
+* Đây, cô xuất giúp tôi hóa đơn nhé.
++ 给你，开张发票。
+ 
+* Cho cá nhân hay cho đơn vị?
++ 个人还是单位？
+
+* Cá nhân.
++ 个人。
+ 
+* Sao cậu lại phải lấy hóa đơn?
++ 干嘛要发票？
+ 
+* Cái này cậu không biết rõ rồi, có thể trúng thưởng đấy.
++ 这你就老外了，能刮奖呀！
+ 
+* Ồ, thật chứ?
++ 哦，是吗？
+ 
+* Đây là tiền dư của anh, còn đây là hóa đơn.
++ 这是找您的钱，还有发票。
+ 
+* Xem thử xem có thưởng không?
++ 看看有奖吗？
+ 
+* Lâu quá không gặp rồi, gần đây anh có bận không?
++ 好久不见，最近忙不忙?
+ 
+* Haiz, tôi vẫn cứ bận rộn liên miên.
++ 咳,还是瞎忙。
+ 
+* Nào, anh xem có món nào hợp khẩu vị không.
++ 来，看看有什么合口味的。
+
+* Không cần đâu, anh xem rồi chọn món đi, tôi sao cũng được. 
++ 不用了，你看着点吧，我随便。
+ 
+* Vậy thì cung kính không bằng tuân lệnh. 
++ 那我恭敬不如从命。
+
+* Anh có món nào ăn kiêng không?
++ 你有什么忌口没有？
+ 
+* Không có, tôi ăn cái gì cũng được.
++ 没有，我吃什么都可以。
+
+* Chúng ta quay lại chủ đề chính nha. 
++ 咱们言归正传吧。
+
+* Hôm nay tôi mời anh đến đây là có chuyện muốn nhờ giúp đỡ.
++ 今天请你来，我是有事相求。
+
+* Tôi cũng biết anh “không có việc gì quan trọng thì không dám làm phiền”. 
++ 我就知道你“无事不登三宝殿”。
+
+* Anh có chuyện gì nào?
++ 有什么事？
+ 
+* Hai công ty chúng ta đã hợp tác với nhau vài năm nay, chúng tôi luôn nhập hàng từ công ty bên anh, chúng tôi cũng chưa bao giờ thiếu tiền hàng cả, đúng không?
++ 咱们两家公司已经合作好几年了，我们一直从你那里进货，在货款上我们一直没有拖欠过，对不对？
+ 
+* Đúng thế, trong các khách hàng thì uy tín bên công ty bên anh là tốt nhất.
++ 这倒是，你们公司在我的客户里信誉是最好的。
+
+* Dạo gần đây công ty chúng tôi đang tiến hành một hạng mục tương đối lớn, tiền vốn luân chuyển gặp vài vấn đề, anh xem có thể kéo dài một khoảng thời gian trả tiền hàng tháng này cho bên tôi hay không?
++ 最近我们公司正在进行一个比较大的项目，资金周转有些紧张，你看能不能把这个月的货款账期延长一段时间？
+ 
+* Kéo dài khoảng thời gian bao lâu chứ?
++ 延长多长时间呢？
+ 
+* Hai tuần là được, sau hai tuần chúng tôi sẽ có đủ số tiền vốn này.
++ 两周就行，两周以后我们有笔资金到账，资金就充裕了。
+
+* Chúng ta đã quen biết nhau lâu như vậy, tôi cũng tin tưởng cách sống của anh. 
++ 咱们认识这么长时间了，你的为人我还是信得过的。
+
+* Đây không phải là một chuyện to tát gì, không thành vấn đề đâu.
++ 这不是什么大事，没问题。
+ 
+* Cảm ơn anh nhiều lắm.
++ 太谢谢了。
+
+* Sau này cần giúp đỡ gì, anh cứ nói với tôi.
++ 将来有需要帮忙的，尽管开口。
+ 
+* Ngày mai tôi sẽ nói một tiếng với nhân viên phụ trách, anh cứ yên tâm đi.
++ 明天我就和负责业务员说一下，你就放心吧。
+
+* Nào, tôi mời anh một ly.
++ 来，我敬你一杯。
+ 
+* Anh với tôi cần gì khách sáo chứ, nào, cạn ly!
++ 你跟我客气什么，来，干杯！
+
+* Các nguyên liệu chuẩn bị.
++ 原料准备。
+
+* 250g thịt bò thái lát mỏng.
++ 250克切成薄片的牛肉。
+
+* 15ml rượu trắng.
++ 15ml白葡萄酒。
+
+* Gừng, tỏi mỗi thứ 1 củ băm nhỏ.
++ 生姜，大蒜1根剁碎。
+
+* 1 muỗng cà phê bột năng hoặc bột bắp.
++ 1茶匙木薯粉或玉米淀粉。
+
+* 30ml nước.
++ 30毫升水。
+
+* 22ml nước tương.
++ 22毫升酱油。
+
+* 8g đường.
++ 8克糖。
+
+* 12g hạt vừng.
++ 12克芝麻。
+
+* 10ml dầu mè.
++ 10毫升香油。
+
+* Cách làm bò sốt vừng.
++ 如何制作芝麻酱。
+
+* Thịt bò cho vào bát đựng, thêm rượu, gừng và tỏi băm, bột năng vào trộn đều lên.
++ 将牛肉倒入碗中，加入葡萄酒，生姜和蒜末，木薯粉拌匀。
+
+* Cho nước, nước tương, đường ở 1 bát khác vào cũng trộn đều và để riêng.
++ 在另一个碗中加入水，酱油，糖，搅拌均匀。
+
+* Cho vừng vào chảo rang, đảo đều đến khi chuyển mài nâu vàng là lúc vừng chín thì trút ra.
++ 将芝麻放入烤盘中，搅拌至金黄色转变，芝麻成熟时倒出。
+
+* Cho dầu mè vào chảo rồi thêm thịt bò vào xào qua sau đó cho hỗn hợp nước tương đã pha vào. 
++ 将芝麻油放入锅中，将牛肉翻炒，然后加入酱油混合物。
+
+* Đun sôi hỗn hợp và đảo đều đến khi nước sánh đặc và bao toàn miếng thịt là được. 
++ 将混合物煮沸并搅拌直至液体变稠并覆盖整块肉。
+
+* Thêm vừng rang hạt vào trộn đều rối tắt bếp.
++ 加入烤芝麻，将其与炉子混合均匀。
+
+* Bạn chỉ cần cho thịt bò sốt vừng lên cơm nóng và thưởng thức nhé.
++ 你只需要在热米饭上芝麻牛肉，享受。
+
+* Cách làm phở xào thịt bò thơm ngon mà không hề khó.
++ 如何用牛肉制作美味的炒Pho并不困难。
+
+* Thịt thăn bò tươi - 200gr.
++ 新鲜的牛里脊肉 -  200gr。
+
+* Hành tây - 1 củ.
++ 洋葱 -  1个灯泡。
+
+* Giá đỗ tươi - 1 lạng.
++ 新鲜的豆芽 -  1 tael。
+
+* Tương nhạt - 1 muỗng canh.
++ 淡酱油 -  1汤匙。
+
+* Nước tương đen - 1 muỗng cà phê.
++ 黑酱油 -  1茶匙。
+
+* Dầu lạc - 1 muỗng canh.
++ 花生油 -  1汤匙。
+
+* Tương nhạt - 2 muỗng cà phê.
++ 淡酱油 -  2茶匙.
+
+* Rượu nấu - 2 muỗng cà phê.
++ 熟酒 -  2茶匙。
+
+* Dầu mè - 2 muỗng cà phê.
++ 芝麻油 -  2茶匙。
+
+* Hành tây cắt lái múi cau mỏng.
++ 洋葱切薄的槟榔区。
+
+* Ướp thịt bò: Thịt bò thái miếng mỏng rồi ướp cùng gia vị gồm: 2 muỗng cà phê tương nhạt; 2 muỗng cà phê rượu nấu; 1 muỗng cà phê đường; 2 muỗng cà phê dầu mè.
++ 腌制牛肉：牛肉切成薄片，用香料腌制，包括：2茶匙淡酱油; 2茶匙煮熟的酒精; 1茶匙糖; 2茶匙芝麻油。
+
+* Ướp trong vòng 15-20 phút để thịt ngấm đều gia vị.
++ 腌15-20分钟，让肉类注入。
+
+* Phi thơm tỏi trong chảo dầu nóng rồi cho thịt bò vào xào trước.
++ 在热油锅中炒大蒜，先将牛肉翻炒。
+
+* Khi thấy miếng thịt bò đã chín tương đối thì cho bánh phở vào xào cùng. Bánh phở chín khá nhanh, giảm lửa vừa và xào đều tay để để phở tơi, không bị cuộn vào với nhau.
++ 当你看到牛肉片相对熟时，然后在面条中搅拌并翻炒。 面条煮得很快，将热量减少到中等，搅拌均匀，使面条不会卷起来。
+
+* Có thể thêm chút nước nếu khô quá, nêm nếm lại gia vị cho vừa vặn vị bánh phở và thịt bò.
++ 如果太干，可以加少许水，再次尝一尝面条和牛肉。
+
+* Sau đó, xào đến cạn nước thì rắc hành và múc ra đĩa.
++ 然后，炒至水，撒上洋葱，舀出盘子。
+
+* Cách làm phở xào ngon như ngoài hàng.
++ 如何在店外制作美味的炒饭。
+
+* Cuối cùng, bạn đã hoàn thành món phở xào thịt bò nóng hổi thơm ngon hấp dẫn như ngoài hàng.
++ 最后，你已经完成了餐厅里的美味热牛肉面汤。
+
+* Chúc các bạn thành công và ngon miệng với món ăn này nhé !
++ 祝你吃这道菜成功美味！
+
+* Cách làm bò nướng sa tế siêu ngon không cưỡng nổi.
++ 如何使烤沙爹超级美味不可抗拒。
+
+* Thịt bò phi lê - 600gr.
++ 牛肉片 -  600gr。
+
+* Sả băm nhỏ - 2 cây.
++ 柠檬草切碎 -  2株植物。
+
+* Hành tím - 4 nhánh băm nhỏ.
++ 青葱 -  4个切碎的树枝。
+
+* Tỏi - 4 nhánh băm nhỏ.
++ 大蒜 -  4个切碎的树枝。
+
+* Ớt băm - Tùy ý.
++ 哈希辣椒 - 可选。
+
+* Ngò rí băm - Tùy ý.
++ 香菜切碎 - 可选。
+
+* Ớt bột - Tùy ý.
++ 辣椒片 - 可选。
+
+* Sữa ông thọ.
++ 他的牛奶是长寿的。
+
+* Hạt nêm, bột ngọt, đường, nước tương, nước mắm.
++ 调味料，调味料，糖，酱油，鱼露。
+
+* Ớt chuông xanh đỏ thái tầm 2 đốt ngón tay - Tùy thích.
++ 2个手指的绿色红色甜椒范围 - 可选。
+
+* Thịt thăn bò thái thành các miếng dày tầm  1 cm.
++ 牛里脊切成1厘米厚的块。
+
+* Ướp thịt bò với 1 muỗng cà phê bột ngọt, 1 muỗng cà phê hạt nêm, 1/2 muỗng canh nước tương, 1/2 muỗng canh nước mắm. 
++ 用1茶匙味精，1茶匙调味料，1/2汤匙酱油，1/2汤匙鱼露腌制牛肉。
+
+* Trộn đều thịt bò và để ít nhất 30 phút cho thịt bò ngấm đều gia vị.
++ 将牛肉混合均匀，静置至少30分钟。
+
+* Chuẩn bị một chảo dầu nóng.
++ 准备一锅热油。
+
+* Cho vào chảo hỗn hợp: 2 thìa canh hành tím băm, 2 thìa canh tỏi băm, 2 thìa canh sả băm, 2 thìa canh ớt băm.
++ 加入锅中：2汤匙切碎的青葱，2汤匙切碎的大蒜，2汤匙切碎的柠檬草，2汤匙切碎的辣椒。
+
+* Đảo đều tay đến khi hỗn hợp sôi, chín.
++ 搅拌直至混合物沸腾沸腾。
+
+* Cho tiếp vào chảo 2 thìa canh ngò rí băm, 1 thìa cà phê ớt bột, đảo đều rồi tắt bếp.
++ 加入2汤匙切碎的香菜，1茶匙辣椒粉，搅拌并关闭加热。
+
+* Đổ hỗn hợp vào một cái bát sạch.
++ 将混合物倒入干净的碗中。
+
+* Cho thịt bò lên chảo dầu nóng rồi áp chảo.
++ 将牛肉放在热油锅上，然后平底锅。
+
+* Dùng chổi chuyên dụng quét 1 lớp sa tế(lớp hỗn hợp ở bước 2) trên trên bề mặt của thịt bò.
++ 使用特殊的刷子在牛肉表面涂上一层沙爹（步骤2中的混合层）。
+
+* Quét thêm 1 lớp sữa ông thọ lên để cho thịt thơm, ngậy mùi hấp dẫn.
++ 扫描另一层牛奶，使肉味和味道鲜美。
+
+* Chuẩn bị khay nướng rồi xếp thịt bò lên trên. Rắc sả đều lên trên bề mặt thịt bò.
++ 准备一个烤盘，然后将牛肉放在上面。 将柠檬草均匀地撒在牛肉表面。
+
+* Làm nóng lò nướng ở 180 độ C trong khoảng 10 phút.
++ 将烤箱预热至180摄氏度约10分钟。
+
+* Cho khay nướng vào lò nướng, nướng ở nhiệt độ 180 độ C từ 20 – 30 phút.
++ 将托盘放入烤箱，在180摄氏度的温度下烘烤20-30分钟。
+
+* Canh lò, sau 20-30 phút thịt chín bỏ ra ngoài cắt thành từng miếng nóng hổi. 
++ 汤锅，经过20-30分钟的熟肉切成热片。
+
+* Có thể cho ớt chuông xanh đỏ thái tầm 2 đốt ngón tay vào nướng lò ở 5-10 phút cuối, rồi ăn kèm thịt bò rất ngon.
++ 您可以将红色和绿色的青椒放在2左右，在烤箱中将手指烧干最后5-10分钟，然后吃非常美味的牛肉。
+
+* Như vậy, là bạn đã hoàn thành món bò nướng sa  tế thơm ngon nóng hổi.
++ 因此，您已经完成了美味的热沙爹牛肉菜。
+
+* Chúc các bạn thành công và ngon miệng với món bò nướng sa tế này nhé.
++ 我祝愿你的沙爹烤牛肉菜成功美味。

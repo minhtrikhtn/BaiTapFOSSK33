@@ -1,3 +1,6 @@
+﻿* Gia đình quan trọng nhất trên đời.
++ 世界上最重要的家庭。
+
 * Nhà của anh ở đâu?.
 + 你家住在哪？。
 
@@ -324,3 +327,95 @@
 
 * Mong có tướng quân lại lập công, để có người mới vượt người trước.
 + 但愿将军重立功，更有新人胜于汝。
+<<<<<<< HEAD
+=======
+
+* Tất cả vinh quang và niềm tự hào trên thế giới đến từ người mẹ.
++ 世界上的一切光荣和骄傲，都来自母亲。
+
+* Cánh tay dịu êm của mẹ chính là cánh tay giúp con có một giấc ngủ bình yên.
++ 慈母的胳膊是由爱构成的，孩子睡在里面怎能不香甜?。
+
+* Cuộc sống của tôi bắt đầu bằng việc mở mắt và yêu khuôn mặt của mẹ tôi.
++ 我的生命是从睁开眼睛，爱上我母亲的面孔开始的。
+
+* Nhưng chỉ có tình yêu của mẹ là trường tồn theo thời gian.
++ 而一个母亲内心的希望比它们都要长久。
+
+* Một người mẹ tốt có giá trị bằng một trăm giáo viên.
++ 一位好母亲抵得上一百个教师。
+
+* Đó chính là tình mẹ.
++ 那就是母亲的爱。
+
+* Người đã luôn yêu thương , luôn bảo vệ ta.
++ 她就一直深爱着，保护着你 。
+
+* Nhưng làm cho người con trai mà mình yêu thành công ,mới là bản lĩnh của phụ nữ.
++ 让自己所爱的男人成功,才是女人的本领。
+
+* Không nên oán trách Cha Mẹ cho chúng ta được bao nhiêu.
++ 不要抱怨父母给我们的多少。
+
+* Chúng ta nên hỏi chúng ta cho Cha Mẹ được bao nhiêu.
++ 我们该问我们能给父母多少。
+
+* Cha Mẹ có thể nuôi chúng ta khi chúng ta còn đang bất lực.
++ 父母能在我们无能为力时养我们。
+
+* Vậy chúng ta có thể nuôi họ khi họ bất lực không?.
++ 我们能否在他们无能为力时养他们呢？。
+
+* Không gia đình buồn lắm ai ơi.
++ 一家人不是很伤心。
+
+* Không gia đình bất hạnh lắm thay.
++ 不是很不开心的家庭。
+
+* Gia đình luôn chứa ngọt ngào.
++ 这家人总是甜蜜的。
+
+* Về gia đình sẽ có niềm vui.
++ 回家会玩得很开心。
+
+* Hãy nhớ về bến đổ gia đình.
++ 记住家庭码头。
+
+* Hãy ghi nhớ mẹ cha sinh.
++ 记住生父。
+
+* Hãy trân quý công trình dưỡng nhi.
++ 请珍惜儿科工作。
+
+* Gia đình vẫn cứ đêm ngày đợi con.
++ 家人每晚都在等孩子。
+
+* Khi rời xa mới biết ý nghĩa của gia đình.
++ 离开时要知道家庭的意义。
+
+* Mới biết hạnh phúc phải đâu nào xa xỉ.
++ 知道幸福不奢华的地方。
+
+* Giữ mãi gia đình trong một góc riêng.
++ 让家人永远留在私人角落。
+
+* Xin nỗi buồn đừng hằn trên mặt mẹ.
++ 请不要对母亲的脸悲伤。
+
+* Và nụ cười đừng chia cách môi cha.
++ 而微笑并没有分开他的嘴唇。
+
+* Gia đình thân thương trong hình bóng quê nhà.
++ 亲爱的家人在家里的剪影。
+
+* Nơi có mẹ cha có ông bà anh chị.
++ 父亲和母亲有祖父母的地方。
+
+* Gia đình hòa lạc.
++ 和平的家庭。
+
+* Gia đình cho tốt.
++ 家庭为善。
+
+* Gia đình mỹ mãn.
++ 完美的家庭。

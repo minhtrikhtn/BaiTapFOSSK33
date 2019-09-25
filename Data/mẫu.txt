@@ -12,3 +12,711 @@
 
 * Việc hôm nay thì nên hoàn thành trong hôm nay.
 + 今天的事必须今天完成。
+
+* Tôi là người Việt Nam.
++ 我是越南人。
+
+* Bạn biết nói tiếng Anh không?	
++ 你会说英语吗？
+
+* Tôi đói rồi.	 
++ 我饿了。
+
+* Ăn cơm	 
++ 吃饭。
+
+* Cái này bao nhiêu tiền	
++ 这个多少钱。
+
+* Ðắt quá	
++ 那么贵）	
+
+* Rẻ một chút	
++ 便宜一点
+
+* Túi nào là của bạn?	
++ 哪个是你的包？
+
+* Trước khi ra về các bạn hãy nộp luận văn.	
++ 请在离开前将论文交上。
+
+* Trên bàn kìa.	
++ 在桌上。
+
+* Tôi vào được chứ?	
++ 我能进来吗？
+
+* Tôi thật sự không biết.	
++ 我真不知道。
+
+* Tôi tên là Thomas.	
++ 我叫汤姆斯。
+
+* Tôi phải đi đây.	
++ 我必须走了。
+
+* Tôi là nông dân.	
++ 我是个农民。
+
+* Tôi giảng bài các bạn đã hiểu chưa?	
++ 我讲明白了吗？
+
+* Tôi điểm danh đầu giờ.	
++ 课前我要点名。
+
+* Tôi cũng rất khỏe.	
++ 我也很好。
+
+* Tôi chẳng biết một chút gì cả.	
++ 我一点都不知道。
+
+* Rất vui quen biết bạn.	
++ 很高兴认识你。
+
+* Rất khỏe, cảm ơn, thế còn bạn?	
++ 很好，谢谢，你呢？
+
+* Quyển sách mới của bạn màu gì?	
++ 你的新书是什么颜色的？
+
+* Quen biết bạn tôi cũng rất vui.	
++ 认识你我也很高兴。
+
+* Phiên âm thế nào?	
++ 怎么拼？
+
+* Phải, tôi cũng cho là vậy.	
++ 是的，我认为是。
+
+* Phải, là của tôi.	
++ 是的，是我的。
+
+* Ở kia kìa.	
++ 在那边。
+
+* Những quyển sách này toàn bộ đều là của bạn phải ko?	
++ 这些书全是你的吗？
+
+* Người đàng kia là ai thế?	
++ 那边那个人是谁？
+
+* Năm nay là năm nào?	
++ 今年是哪一年？
+
+* Một phần là của tôi.	
++ 一部分是我的。
+
+* Mời vào.	
++ 请进。
+
+* Mỗi người đã có có tài liệu trên tay chưa?	
++ 每个人都拿到材料了吗？
+
+* Mời ngồi.	
++ 请坐。
+
+* Mai gặp lại nhé.	
++ 明天见。
+
+* Là chiếc bút.	
++ 是支笔。
+
+* Kích thước nào là đúng?	
++ 哪个尺码是对的？
+
+* Kia là một chiếc xe con phải không?	
++ 那是一辆小汽车吗？
+
+* Không, nó không là của tôi. Vâng, nó là của tôi.	
++ 不，它不是。/ 是的，它是。
+
+* Không, đó là một chiếc xe buýt.	
++ 不，那是一辆公共汽车。
+
+* Không, cô ta không phải học sinh.	
++ 不，她不是。
+
+* Không phải, bút của tôi màu xanh lam cơ.	
++ 不是。我的是蓝的。
+
+* Hôm nay thứ mấy?	
++ 今天星期几？
+
+* Hôm nay thứ hai.	
++ 今天是星期一。
+
+* Hôm nay giảng đến đây thôi.	
++ 今天就讲到这里。
+
+* Để tôi giới thiệu bản thân tôi chút.
++ 让我自己介绍一下。
+
+* Đây là điều hòa.	
++ 这是空调。
+
+* Đây là của bạn à?	
++ 这是你的吗？
+
+* Đây là chiếc túi xách của bạn à?	
++ 这是你的手提包吗？
+
+* Đây là cái gì?	
++ 这是什么？
+
+* Đây là bút của bạn phải ko? Tôi nhặt được dưới gầm bàn.	
++ 这是你的笔吗？我在桌下捡的。
+
+* Cuối tuần này bạn làm gì?	
++ 这周末你干什么？
+
+* Công ty đó ở đâu?	
++ 那个公司在哪儿？
+
+* Con mèo này tên là gì?	
++ 这猫叫什么名字？
+
+* Con đường này dài bao xa?	
++ 这条街有多长？
+
+* Có vấn đề gì không?	 
++ 有什么问题吗？
+
+* Có ý kiến không đồng ý không?	
++ 有不同意见吗？
+
+* Có thể cô ta là tài xế.	
++ 她可能是个司机吗？
+
+* Có thể cho tôi biết tên của bạn không?	
++ 能告诉我你的名字吗？
+
+* Cô ta rất khỏe, cảm ơn.	
++ 她很好，谢谢。
+
+* Cô mặc bộ trắng kia là ai?	
++ 穿白衣服的那位小姐是谁？
+
+* Cô bé kia là học sinh phải không?	
++ 那个女孩是学生吗？
+
+* Chút nữa gặp nhé.	
++ 待会儿见。
+
+* Chiếc kính của tôi đâu rồi?	
++ 我的眼镜在哪儿？
+ 
+* Chào buổi sáng, buổi chiều, buổi tối!	
++ 早晨（下午/晚上）好！
+
+* Chắc chắn cô ta là người mẫu, phải vậy không?	
++ 她一定是个模特，不是吗？
+
+* Căn phòng rộng bao nhiêu?	
++ 你的房子有多大？
+ 
+* Cái to hơn là của tôi.	
++ 大些的那个。
+ 
+* Cái này trong Tiếng Anh nói như thế nào?	
++ 这个用英语怎么说？
+ 
+* Cái kia ở bên phải bạn.	
++ 你右边的那个。
+
+* Các bạn có theo kịp được tôi giảng bài không?	
++ 你们跟上我讲的了吗？
+
+* Bây giờ là tháng mấy?	 
++ 现在是几月？
+
+* Bây giờ là tháng mười hai.	
++ 现在是十二月。
+
+* Bắt đầu vào học rồi.	
++ 上课时间到了。
+
+* Bạn tên là gì?	
++ 你叫什么名字？
+
+* Bạn làm nghề gì?	
++ 你是做什么的？
+
+* Bạn là ai?	
++ 你是谁？
+
+* Bạn khỏe không?	
++ 你好吗？
+ 
+* Bạn hoặc Vợ, Chồng bạn khỏe không?	
++ 爱米好吗？/你妻子好吗, 你丈夫好吗？
+ 
+* Bạn họ gì?	
++ 你姓什么？
+
+* Bạn có thể nói lại một lần nữa được không?	
++ 你能再说一遍吗？
+
+* Bạn có thể giới thiệu tôi cho cô ta không?	
++ 你能把我介绍给她吗？
+ 
+* Bạn biết chiếc kính tôi để đâu không?	
++ 你知道我把眼镜搁哪儿了吗？
+
+* Anh ta làm nghề gì?	
++ 他是干什么的？
+
+* Anh ta là giám đốc.	
++ 他是个经理。
+
+* Quen biết anh tôi rất vui.  
++ 认识你，我很高兴。
+
+* Anh có bận không? 
++ 你忙吗？	
+
+* Không bận lắm. 
++ 不太忙。
+
+* Bạn đi mua thức ăn à? 
++ 你买菜吗？	
+
+* Vâng, tôi đi mua thức ăn.  
++ 是，我去买菜。
+
+* Đã lâu không gặp, dạo này anh khỏe không?   
++ 好久不见，你最近好吗？
+
+* Cảm ơn, rất khỏe, còn anh? 
++ 谢谢，很好，你呢？
+
+* Tôi cũng rất khỏe. 
++ 我也很好。	
+
+* Gia đình anh thế nào? 
++ 你家怎么样？
+
+* Rất tốt! 
++ 很好！
+
+* Nhờ phước của ông, mọi người đều khỏe cả. 
++ 托尼的副全都过得很好。
+ 
+* Chào bạn. Kỳ nghỉ hè có vui vẻ không? 
++ 你好，暑假过得愉快吗？
+
+* Rất tuyệt. Tôi cảm thấy khỏe hơn sau kỳ nghỉ hè.  
++ 好极了，我觉得比暑假前健康多了。
+
+* Tôi cũng rất vui được quen với bạn.  
++ 认识你，我也很高兴。
+
+* Bạn năm nay bao nhiêu tuổi?  
++ 你今年多大？
+
+* Tôi năm nay 22 tuổi.  
++ 我今年二十二岁。
+
+* Bạn sinh năm nào? 
++ 你哪年出生？
+
+* Bây giờ mấy giờ rồi? 
++ 现在几点？
+ 
+* Bây giờ là 10h. 
++ 现在十点。
+
+* Cậu mấy giờ đến phòng học? 
++ 你什么时候去教室？
+
+* Tôi 8h kém 15 đến phòng học. 
++ 我差一刻八点去教室。
+
+* Cậu dậy lúc mấy giờ?  
++ 你几点起床？
+
+* Tôi dậy lúc 7 giờ. 
++ 我七点起床。
+
+* Xin lỗi cho tôi hỏi tôi đang ở chỗ nào vậy? 
++ 对不起，请问我现在在什么地方?
+
+* Tôi thấy không khỏe .  
++ 我不舒服。 
+
+* Thấy khó chịu chỗ nào? 
++ 哪儿不舒服？
+
+* Tôi luôn bị sổ mũi. 
++ 我总是流鼻涕。
+ 
+* Anh cặp nhiệt độ thử đi. 
++ 你试试表吧。
+
+* Anh bị sốt (cao). 
++ 你发（高）烧。
+ 
+* Tôi sẽ kê đơn thuốc cho anh. 
++ 我会给你开了药方。
+
+* Xin lỗi, bà ấy ra ngoài rồi. Xin hỏi bà là ai? 
++ 对不起，她先在出去了。请问您是谁？
+
+* Bà có nhắn gì không? 
++ 你要留话吗？
+
+* Vậy nhờ ông nói với bà ấy rằng tôi gọi điện đến là được rồi. 
++ 那，只要请你告诉她我打电话来就好了。
+
+* Hãy giữ im lặng 1 chút. 
++ 安靜一點。
+
+* Phấn khởi lên nào. 
++ 振作起來。
+
+*Làm tốt lắm. 
++ 做得好。
+
+* Chơi vui vẻ. 
++ 玩得開心。
+
+* Tôi về rồi. 
++ 我回來了。
+
+* Tôi lạc đường rồi. 
++ 我迷路了。
+
+* Tôi đãi , tôi mời. 
++ 我請客。
+
+* Mời đi lối này. 
++ 這邊請。
+
+* Đi theo tôi. 
++ 跟我来。
+
+* Tôi bảo đảm. 	
++ 我保證。
+
+* Tôi nghi lắm. 
++ 我懷疑。
+
+* Tôi là người độc thân thành đạt. 
++ 我是單身貴族。
+
+* Tôi là fan( người hâm mộ) của anh ấy.  
++ 我是他的影迷。
+
+* Bạn chắc chắn không ? 
++ 你肯定嗎？ 
+
+* Tôi đang ăn kiêng. 
++ 我在節食。
+
+* Tôi có thể giúp bạn gì không ? 
++ 我能幫你嗎?
+
+* Tôi sẽ lưu ý. 
++ 我會留意的。
+
+* Tôi đang vội lắm.  
++ 我在趕時間。
+
+* Bạn nợ tôi một việc.	
++ 你欠我一個人情。
+
+* Bạn đùa à ?
++ 你在開玩笑吧?
+
+* Tôi sẽ sắp xếp cho anh. 	
++ 我會幫你打點。
+
+* Anh ấy thiếu dũng khí.  
++ 她缺乏勇氣。
+
+* Tôi không có sự lựa chọn. 
++ 我別無選擇。
+
+* Tôi thích ăn kem. 
++ 我喜歡吃冰淇淋。
+
+* Tôi sẽ cố gắng hết sức. 
++ 我盡力而為。
+
+* Bạn dạo này thế nào? 
++ 你近来过的怎麼樣？
+
+* Bận không? 
++ 忙嗎？
+
+* Cũng tốt. 
++ 還好。
+
+* Chỉ tàm tạm,bình thường.  
++ 馬馬虎虎。
+
+* Anh yêu em. 
++ 我愛你
+
+* Anh ấy cùng tuổi với tôi. 
++ 他和我同歲。
+
+* Không có gì. 
++ 不要緊。
+
+* Thế đó! 
++ 就這樣!
+
+* Có tin tức gì mới không? 
++ 有什麼新鮮事嗎?
+
+* Tin tôi đi. 
++ 算上我。
+
+* Đừng lo lắng. 
++ 別擔心。
+
+* Thấy đỡ hơn chưa? 
++ 好點了嗎?
+
+* Bạn thì sao? 
++ 你呢?
+
+* Ngày nào đó sẽ làm. 
++ 哪一天都行夕。
+
+* Chúc mừng bạn. 
++ 祝賀你!
+
+* Tôi sẽ giúp bạn. 
++ 我會幫你打點的。
+
+* Của bạn đây. 
++ 給你。
+
+* Đừng vội vàng (căng thẳng). 
++ 別緊張。
+
+* Tiếc quá! 
++ 太遺憾了!
+
+* Còn gì nữa không?
++ 還要別的嗎? 
+
+* Cẩn thận!
++  一定要小心!
+
+* Giúp tôi một việc, được không? 
++ 幫個忙，好嗎?
+
+* Xin lỗi ngài, xin lỗi bạn! 
++ 先生，對不起!
+
+* Giúp tôi một tay! 	
++ 幫幫我!
+
+* Mọi việc thế nào? 	
++ 怎麼樣?
+
+* Tôi không biết. 
++ 我沒有頭緒。
+
+* Tôi đã làm được rồi! 
++ 我做到了!
+
+* Tôi không muốn nghe nữa. 
++ 我不想聽。
+
+* Đó là chuyên môn của cô ta. +
++ 這是她的本行。 
+
+* Nó phụ thuộc vào bạn. 
++ 由你決定。
+
+* Thật tuyệt vời! 
++ 簡直太棒了!
+
+* Đừng khách sáo, đừng khách khí. 
++ 別客氣。
+
+* Tuyệt vời. 
++ 好棒。
+
+* Giữ liên hệ nhé. 
++ 保持聯絡。
+
+* Thời gian là vàng bạc. 
++ 時間就是金錢。
+
+* Ai gọi đó? 
++ 是哪一位?
+
+* Bạn đã làm đúng. 
++ 你做得對。
+
+* Đồ ngốc, ngu ngốc. 	
++ 笨蛋。
+
+* Cút đi, xéo đi. Biến đi ngay. 
++ 滾開。
+* Cẩn thận một chút. 
++ 小心一點。
+
+* Đừng cử động. Đứng yên, đừng nhúc nhích. 
++ 別動。
+
+* Đừng đi.
++ 別走。
+
+* Gì thế!
++ 幹嘛!
+
+* Đàn ông, nam nhân. 
++ 男人。
+
+* Xin hỏi anh muốn mua gì? 
++ 请问，你想买什么？
+
+* Cho tôi tờ báo bóng đá ngày hôm nay. 
++ 给我今天的足球报。
+
+* Được ạ, anh còn muốn mua thứ gì nữa không? Tạp chí tuần, tiểu thuyết, truyện tranh, sách báo… 
++ 好的，你还需要其他的吗？周干杂志，小说，漫画，书报等等。
+
+* Có tạp chí gì hay không? 
++ 杂志有什么好看的？
+
+* Có tạp chí gia đình cuộc sống, viết về những việc chúng ta thường gặp trong cuộc sống, giải quyết như thế nào, ví dụ như chồng ngoại tình…; tạp chí thời trang đều là những mốt quần áo mới nhất; tạp chí ô tô; tạp chí bóng đá.
++ 有生活家庭杂志，写着我们生活中常遇到的事情，怎么解决，比如老 公搞外遇等；时装杂志都是最新最潮的服装；汽车杂志；足球杂志。
+
+* Ồ những thứ này tôi đều có thể xem trên mạng mà, chúng đều có bản điện tử.
++ 哦这些我可以在网上看啊，他们都有电子版。
+
+* Hay là giới thiệu cho tôi vài quyển sách, để đọc trước khi đi ngủ. 
++ 还是介绍给我几本书，我晚上睡之前读书。
+
+* Anh có thể đọc tiểu thuyết tình yêu hoặc sách về những doanh nhân thế giới. 
++ 你可以读爱情小说或者世界名人书。
+
+* Được, để tôi từ từ xem, sách yoga thì sao? 
++ 行，我慢慢看吧，瑜伽的书呢？
+
+* Ở đây này, cửa hàng của chúng tôi sách gì cũng có. 
++ 在这里，我们店什么书都有？
+
+* Xin hỏi chị cần gì?  
++ 请问你需要什么？
+
+* Con trai tôi sắp vào tiểu học, tôi muốn mua đồ dùng học sinh. 
++ 我儿子今年上小学，我想买学生文具呢。
+
+* Vâng, chị chọn cặp sách trước nhé, trẻ con thường thích có hình con cừu con.
++ 好的，你先选择书包吧，小孩一般喜欢有喜羊羊图案的。
+
+* Cho chị cái kẹp tài liệu, giấy ghi nhớ nhé.
++  给我文件夹，便利贴。
+
+* Vâng, chị đợi một lát.
++ 好的，稍等我一会儿。
+
+* Xin chào, tôi chuẩn bị kết hôn nên muốn hỏi 1 chút về đồ nội thất. 
++ 你好，我准备结婚了，想问一下室内装饰品。
+
+* Cô nói rõ hơn được không? 
++ 你说清楚点好吗？
+
+* Ồ hóa ra là như vậy, tôi thích phong cách hiện đại.
++ 哦原来如此，我喜欢现代风格。
+
+* Ở phòng khách tôi còn muốn đặt thêm tủ trang trí, kệ giầy và dùng thảm cơ.
++ 在客厅我还想摆放装饰柜，鞋柜和用地毯呢。
+
+* Xin chào, mời anh vào trong xem, hôm nay toàn bộ cửa hàng giảm giá 50%. 
++ 你好，请你进屋里看看，今天全场打五折。
+
+* Tôi muốn mua đồ dùng trong nhà, không biết chất liệu nào tốt chút nhỉ?
++ 我想买家具，不知道哪种材质好点啊？
+
+* Tôi cũng thích dùng gỗ tự nhiên đấy, tất cả tủ, bàn, giường trong nhà đều là gỗ tự nhiên đi.
++ 我也喜欢实木，家里所有的柜子，桌子，床都是实木吧。
+
+* Còn đệm anh nên dùng đệm cao su, bàn trà có loại làm bằng kính ạ. 
++ 还有床垫你改用乳胶的，茶几有玻璃的呢。
+
+* Xin hỏi anh đến Việt Nam du lịch lần thứ mấy rồi? 
++ 请问你是第几次来越南旅游？
+
+* Lần thứ hai. 
++ 第二次。
+
+* Nhiều nhỉ, cửa hàng chúng tôi còn có những sản phẩm khác, anh muốn xem không? 
++ 好多啊，我们店还有其他的，你要看吗？
+
+* Muốn, nhanh giới thiệu cho tôi, lần này tôi muốn mua những đồ khác nữa.  
++ 要啊，快介绍给我，这次我要买其他的。
+
+* Ồ, tôi muốn mua áo dài quốc phục nước bạn tặng bạn gái tôi, còn nữa không? 
++ 哦，我想买你们国服长袍送给我的女朋友，还有吗？
+
+* Ồ, rất hay, cho tôi xem ngọc thạch của Việt Nam đi. 
++ 哦不错，给我看越南的石玉吧。
+
+* Ngày mai tôi ra nước ngoài, tôi muốn mua mấy thứ đồ lưu niệm nhỏ nhỏ, đáng yêu để tặng bạn bè. 
++ 明天我出国了，我想买几个纪念品送给朋友们，小小的、可爱的。
+
+* Anh có thể mua móc chìa khóa ô tô, hộp đựng bút, hộp trang sức… 
++ 你可以买汽车钥匙扣，笔筒，首饰盒等。
+
+* Đồ trang sức? Loại nào đặc biệt chút nhỉ?
++ 首饰？哪种特别点呢？
+
+* Đồ trang sức hình các con giáp thế nào?
++ 对啊，好主意，有意思的，快给我看吧。
+
+* Anh muốn bằng bạc đúng không?
++ 你要银的吗？
+
+* Cửa hàng có bán kính cận thị không? 
++ 你们有没有卖近视眼镜？
+
+*Có ạ, rất nhiều gọng kính thời thượng, anh tùy ý xem nhé. 
++ 有，很多时尚的镜架，你可以随便看看
+
+* Còn với mắt kính, anh muốn loại cao cấp hay loại vừa vừa ạ?
++ 对于镜片，你要高档产品还是中档产品？
+
+* Loại cao cấp. 
++ 高档的。
+
+* Vâng, đây là mắt kính mặt cầu bằng PULAIS loại A, loại mắt kính cận thị này mặt xanh cứng chắc chống bức xạ.
++ 好，这是 A级普莱斯非球面镜片，防辐射加硬绿膜近视眼镜镜片。
+
+* Ồ, cũng được, còn có nữa không?
++ 哦很不错，还有吗？
+
+* Được rồi, đều rất tốt, tôi không biết dùng loại nào nữa. 
++ 好啊，都很好用吧，我不知道用哪儿种呢。
+
+* Nếu như vậy thì anh nên dùng loại chống bức xạ, loại này rất rõ nét, rất mỏng.
++ 这样的话你该用防辐射的吧，这种好，清晰，好薄的。
+
+* Ồ, tôi thích kính râm hình ếch nhái, có những màu nào thế?
++ 哦，我喜欢蛤蟆墨镜，有什么颜色呢？
+
+* Được, tôi mua, tôi muốn gọng màu bạc, các phụ kiện kèm theo thì sao?
++ 好，我买，我想银色的镜架，附属配件呢？
+
+* Khăn lau kính, hộp kính, sách hướng dẫn tôi không quên đưa cho anh đâu.
++ 镜布，镜盒，说明书我不会忘给你的。
+
+* Xin hỏi bác muốn mua đồng hồ nam hay đồng hồ nữ ạ?
++ 请问你想买男士手表还是女士手表呢？
+
+* Đồng hồ nam.
++ 男士手表。
+
+* Đồng hồ rất đắt giá, ngoài để đo thời gian ra, chính là để thể hiện thân phận, địa vị.
++ 手表非常昂贵，除了计时以外，主要是被用来炫耀身份地位的。
+
+* Có sản phẩm cao cấp không?
++ 有高档产品吗？
+

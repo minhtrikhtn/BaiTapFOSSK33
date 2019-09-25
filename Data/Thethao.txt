@@ -1,5 +1,137 @@
-* Tôi rất thích bơi lội.
+﻿* Tôi rất thích bơi lội.
 + 我喜欢游泳。
 
 * Chị tôi là vận động viên điền kinh.
 + 我妹妹是运动员。
+
+* Môn thể thao yêu thích của bạn là gì?
++ 你最喜欢什么运动?
+
+* Bạn có thể chơi bóng đá không?
++ 你 会 踢 足球 吗？
+
+* Jim, cậu ở đâu thế?
++ Jim，你在哪里？ 
+
+* Mình đang ở quán bar xem thi đấu bóng rổ.
++ 我现在在酒吧看篮球比赛。
+
+* Quán bar ở đâu? Mình cũng muốn đi.
++ 酒吧在哪里？我也想去。 
+
+* Số 44 đường Quang Hóa, khu Triều Dương.
++ 朝阳区光华路44号。 
+
+*  Có thể cho mình số điện thoại của quán đó không?
++ 可以告诉我那里的电话号码吗？
+
+* Được chứ, 65017501.
++ 当然可以，65017501. 
+
+* Trận bóng rổ này hay quá!
++ 这场篮球赛太精彩了！
+
+* Thật không? Hay như thế nào?
++ 噢，真的吗？如何精彩？
+
+* Có một cầu thủ đã lấy lại được phong độ trước kia.
++ 其中有一个球员，恢复他过去快动作的水准。
+
+* Ném 8 lần thì trúng 6 lần.
++ 投罚球八次命中六次。  
+
+* Hơn nữa, tối mai còn trận cuối, Trung Quốc đấu với Mỹ.
++ 另外，明天晚上是最后一场比赛，中国队挑战美国队。
+
+* Ồ, đó sẽ là một trận đấu nảy lửa.
++ 噢，那将会是一场激烈的比赛。
+
+* Đúng vậy, vé xem đã bán hết rồi.
++ 是的，球票都已经售完。
+
+* Khi nào thì trận đấu bóng rổ bắt đầu?
++ 篮球比赛将在什么时候举行? 
+
+* Ai sẽ tham gia trận đấu?
++ 谁参加比赛？
+
+* Đội Bắc Kinh đấu với đội Thượng Hải.
++ 北京队对上海队。
+
+* Tôi muốn xem trận chung kết bóng rổ.
++ 我想看篮球决赛。
+
+* Bạn có biết ở đâu bán vé xem trận chung kết không?
++ 知道那里有卖决赛门票的？ 
+
+* Vé vào cửa bao nhiêu tiền?
++ 门票是多少？
+
+* Không cần vé, vào cửa miễn phí.
++ 不需要票免费入场。 
+
+* Cho hỏi, đây có phải số điện thoại đặt vé không?
++ 请问这是订票电话吗？ 
+
+* Xin hỏi đây có phải hàng ghế 35 khán đài Nam không?
++ 请问这里是南看台35排吗？ 
+
+* Bạn có thể nói cho tôi biết diễn biến trận đấu không?
++ 你可以告诉我关于比赛的情况吗？
+
+* Xin hỏi đây có phải hiệp đầu không?
++ 请问这是上半场吗？ 
+
+* Trận bóng đá này thật tuyệt vời.
++ 这场足球赛太精彩了。 
+
+* Bạn có chơi cờ không?
++ 你下棋吗? 
+
+* Môn thể thao nào được yêu chuộng ở nước bạn ?
++ 在你国家，哪个运动最受欢迎？
+
+* Có những nhà vô địch nào trong số các vận động viên của nước bạn ?
++ 你们国家的运动员里有哪些是世界冠军？
+
+* Thành viên của đội bóng đá nước bạn là những ai?
++ 你们国家的足球队成员是哪些？
+
+* Sân vận động chính tên là gì ?
++ 主要的运动场叫什么？
+
+* Chúng tôi muốn xem một trận đấu bóng đá. 
++ 我们想看一场足球比赛。
+
+* Thành phố của bạn có bao nhiêu sân vận động?
++ 你们城市有几个运动场？
+
+* Nó chứa đươc bao nhiêu khá giả ?
++ 它能容纳多少人？
+
+* Cuộc đua ngựa sẽ diễn ra ở đâu?
++ 这场赛马在哪里举办？
+
+* Còn vé hôm nay không?
++ 还有今天的票吗？
+
+* Ai đã ghi bàn thắng?
++ 谁攻入 了？
+
+* Tỉ số là bao nhiêu?
++ 比分是多少？
+
+* Ai có kết quả tốt nhất?
++ 谁的成绩最好?
+
+* Ai thắng ?
++ 谁赢？ 
+
+* Ai thua ?
++ 谁 输？ 
+
+* Ai đã đạt được thời gian tốt nhất ?
++ 谁达到了最好时间？
+
+
+
