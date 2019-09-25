@@ -40,12 +40,12 @@ namespace ChuanHoaDuLieuNN
             //   fileName = dlg.FileName;
             //MessageBox.Show(fileName);
             //}
-            OpenFileDialog oFile = new OpenFileDialog();
-            oFile.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
-            if (oFile.ShowDialog() == DialogResult.OK)
-            {
-                lblFileName.Text = oFile.FileName;
-            }
+            //OpenFileDialog oFile = new OpenFileDialog();
+            //oFile.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            //if (oFile.ShowDialog() == DialogResult.OK)
+           // {
+               // lblFileName.Text = oFile.FileName;
+            //}
 
         }
 
