@@ -327,8 +327,6 @@
 
 * Mong có tướng quân lại lập công, để có người mới vượt người trước.
 + 但愿将军重立功，更有新人胜于汝。
-<<<<<<< HEAD
-=======
 
 * Tất cả vinh quang và niềm tự hào trên thế giới đến từ người mẹ.
 + 世界上的一切光荣和骄傲，都来自母亲。
