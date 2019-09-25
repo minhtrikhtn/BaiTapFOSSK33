@@ -28,12 +28,7 @@ namespace ChuanHoaDuLieuNN
         {
 
             openFileDialog1 = new OpenFileDialog();
-            {
-                openFileDialog1.FileName = "Select a text file",
-                openFileDialog1.Filter = "Text files (*.txt)|*.txt",
-                openFileDialog1.Title = "Open text file"
-            };
-
+            openFileDialog1.Filter = "Text files (*.txt)|*.txt";
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
                 lblFileName.Text = openFileDialog1.FileName;
 
@@ -57,11 +52,7 @@ namespace ChuanHoaDuLieuNN
         private void btnChonFileKQ_Click(object sender, EventArgs e)
         {
             openFileDialog2 = new OpenFileDialog();
-            {
-                openFileDialog2.FileName = "Select a text file",
-                openFileDialog2.Filter = "Text files (*.txt)|*.txt",
-                openFileDialog2.Title = "Open text file"
-            }
+            openFileDialog2.Filter = "Text files (*.txt)|*.txt";
             if (openFileDialog2.ShowDialog() == DialogResult.OK)
                 lblFileResults.Text = openFileDialog2.FileName;
         }
