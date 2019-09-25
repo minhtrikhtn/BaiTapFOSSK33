@@ -11,6 +11,7 @@ using System.Windows.Forms;
 using System.Globalization;
 using System.Text.RegularExpressions;
 using System.IO;
+using System.Security;
 
 namespace ChuanHoaDuLieuNN
 {
@@ -25,6 +26,7 @@ namespace ChuanHoaDuLieuNN
 
         private void btnSelectFiles_Click(object sender, EventArgs e)
         {
+
             openFileDialog1 = new OpenFileDialog();
             {
                 openFileDialog1.FileName = "Select a text file",
@@ -34,6 +36,22 @@ namespace ChuanHoaDuLieuNN
 
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
                 lblFileName.Text = openFileDialog1.FileName;
+
+            // OpenFileDialog dlg = new OpenFileDialog();
+            //if (dlg.ShowDialog() == DialogResult.OK)
+            //{
+            //   string fileName;
+
+            //   fileName = dlg.FileName;
+            //MessageBox.Show(fileName);
+            //}
+            OpenFileDialog oFile = new OpenFileDialog();
+            oFile.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+            if (oFile.ShowDialog() == DialogResult.OK)
+            {
+                lblFileName.Text = oFile.FileName;
+            }
+
         }
 
         private void btnChonFileKQ_Click(object sender, EventArgs e)
@@ -52,6 +70,12 @@ namespace ChuanHoaDuLieuNN
         {
             if(lblFileName.Text == "" || lblFileResults.Text == "")
                 MessageBox.Show("Hãy nhập tệp nguồn/tệp đích");
+        }
+
+
+        private void lblFileName_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
