@@ -230,6 +230,99 @@
 * Vali du lịch.
 + 旅行箱。
 
-* .
-+ 。
+*这次休假去哪里。
++Kỳ nghỉ phép lần này anh đi đâu.
+
+*想和家人一起去旅游。
++Tôi muốn đi du lịch cũng người thân.
+
+*去哪里。
++Đi đâu?
+
+*打算去国外旅行。
++Tôi định đi du lịch ở nước ngoài.
+
+*我想去一趟中国。
++Tôi muốn sang Trung Quốc một chuyến.
+
+*你没有去过吗。
++Anh chưa đến đó à?
+
+*我去过了。
++Tôi đến rồi.
+
+*孩子们没有去过。
++Bọn trẻ vẫn chưa được đi.
+
+*可能去个6天5夜吧。
++Chắc là đi 1 chuyến 6 ngày 5 đêm.
+
+*打算去北京和西安。
+Tôi định đến Bắc Kinh và Tây An.
+
+*4天3夜的话，就只能去北京了。
++Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
+
+*时间不够吧。
++Không đủ thời gian à?
+
+*想把北京看完都比较难。
++Muốn đi tham quan hết Bắc Kinh thì hơi khó.
+
+*中国要看的地方太多了。
++Trung Quốc có rất nhiều nơi nên đến tham quan.
+
+*我也想去西藏看看。
++Tôi cũng muốn đến thăm Tây Tạng.
+
+*我也想去少林寺看看。
++Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
+
+*我想去济州岛看看。
++Tôi muốn đến thăm đảo Jeju.
+ 
+*计划夫妻俩一起去。
++Hai vợ chồng dự định cùng đi.
+
+*回来后再休息一下。
++Khi về còn nghỉ ngơi nữa.
+
+*我去年去欧洲旅行了。
++Năm ngoái tôi đi du lịch châu Âu rồi.
+
+*我想明天去。
++Tôi muốn để sang năm mới đi.
+
+*大概。
++Khoảng.
+
+*下车。
++Xuống xe.
+
+*停。
++Dừng.
+
+*等。
++Đợi.
+
+*后备箱。
++Cốp sau.
+
+*计价器。
++Đồng hồ tính tiền (taxi).
+
+*收据。
++giấy biên nhận.
+
+*零钱。
++tiền lẻ.
+
+*地址
++địa chỉ.
+
+*快。
++nhanh.
+
+*慢。
++chậm.
 
