@@ -1,6 +1,44 @@
 ﻿* Đây là công đoạn quan trọng trước khi làm khô cá.
 + 这是晒鱼前的一个重要步骤。
 
+* Tôi có thể xem thực đơn không?
++ 我可以看一下菜单吗?
+
+* Tôi gọi suất ăn thứ 2.
++ 我要二号套餐。
+
+* Tôi muốn sủi cảo nhân tôm, vằn thắn và bánh bao trứng sữa.
++ 我想要一些虾饺,馄饨和一个奶黄包。
+
+* Cho một bát canh trứng cà chua.
++ 来一碗西红柿鸡汤。
+
+* Tôi thích đồ ăn nhanh.
++ 我喜欢吃快餐。
+
+* Quả xoài vừa chua vừa ngọt.
++ 芒果又酸又甜。
+
+* Sầu riêng có mùi vị rất đặc biệt.
++ 榴莲有特别的味道。
+
+* Bạn đi ăn cơm với tôi đi.
++ 你跟我一起去吃饭吧。
+
+* Chỗ chúng tôi có hơn 50 món, đây là thực đơn.
++ 我们有50多种款式的菜，这是菜单。
+
+* Tôi muốn một chút rượu nếp cẩm.
++ 我想要一些有红糯米酒。
+
+* Cho mình thêm ít tương ớt được không?
++ 那个辣椒酱再来点好吗?
+
+* Cá kho với tiêu rất ngon.
++ 红烧鱼加胡椒味道好。
+=======
+=======
+>>>>>>> 86f05b98be0278b613ee315ccde3b4d60ea5c2b2
 * Tôi thích ăn món vừa chua vừa ngọt.
 + 我喜欢吃又酸又甜的。 
  
@@ -451,6 +489,8 @@
 * Cho món canh trứng nấu cà chua.
 + 来一碗西红柿炒鸡汤。
 
+<<<<<<< HEAD
+=======
 * Bạn cẩn bao nhiêu thịt?
 + 你需要多少肉? 
 
@@ -1347,6 +1387,9 @@
 + 因此，您已经完成了美味的热沙爹牛肉菜。
 
 * Chúc các bạn thành công và ngon miệng với món bò nướng sa tế này nhé.
+<<<<<<< HEAD
++ 我祝愿你的沙爹烤牛肉菜成功美味。
+=======
 + 我祝愿你的沙爹烤牛肉菜成功美味。
 
 * Cách làm thịt bò băm bọc nấm lạ miệng đưa cơm.
@@ -4703,3 +4746,4 @@
 
 
 
+>>>>>>> c0c52adc43136e803da63af1519ef880cf82e478
