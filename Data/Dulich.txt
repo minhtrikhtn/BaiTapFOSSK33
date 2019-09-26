@@ -230,99 +230,121 @@
 * Vali du lịch.
 + 旅行箱。
 
-*这次休假去哪里。
-+Kỳ nghỉ phép lần này anh đi đâu.
+*Kỳ nghỉ phép lần này anh đi đâu.
++这次休假去哪里。
 
-*想和家人一起去旅游。
-+Tôi muốn đi du lịch cũng người thân.
 
-*去哪里。
-+Đi đâu?
+*Tôi muốn đi du lịch cũng người thân.
++想和家人一起去旅游。
 
-*打算去国外旅行。
-+Tôi định đi du lịch ở nước ngoài.
 
-*我想去一趟中国。
-+Tôi muốn sang Trung Quốc một chuyến.
+*Đi đâu?
++去哪里。
 
-*你没有去过吗。
-+Anh chưa đến đó à?
 
-*我去过了。
-+Tôi đến rồi.
+*Tôi định đi du lịch ở nước ngoài.
++打算去国外旅行。
 
-*孩子们没有去过。
-+Bọn trẻ vẫn chưa được đi.
 
-*可能去个6天5夜吧。
-+Chắc là đi 1 chuyến 6 ngày 5 đêm.
+*Tôi muốn sang Trung Quốc một chuyến.
++我想去一趟中国。
 
-*打算去北京和西安。
-Tôi định đến Bắc Kinh và Tây An.
 
-*4天3夜的话，就只能去北京了。
-+Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
+*Anh chưa đến đó à?
++你没有去过吗。
 
-*时间不够吧。
-+Không đủ thời gian à?
 
-*想把北京看完都比较难。
-+Muốn đi tham quan hết Bắc Kinh thì hơi khó.
+*Tôi đến rồi.
++我去过了。
 
-*中国要看的地方太多了。
-+Trung Quốc có rất nhiều nơi nên đến tham quan.
+*Bọn trẻ vẫn chưa được đi.
++孩子们没有去过。
 
-*我也想去西藏看看。
-+Tôi cũng muốn đến thăm Tây Tạng.
 
-*我也想去少林寺看看。
-+Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
+*Chắc là đi 1 chuyến 6 ngày 5 đêm.
++可能去个6天5夜吧。
 
-*我想去济州岛看看。
-+Tôi muốn đến thăm đảo Jeju.
+
+*Tôi định đến Bắc Kinh và Tây An.
++打算去北京和西安。
+
+
+*Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
++4天3夜的话，就只能去北京了。
+
+
+*Không đủ thời gian à?
++时间不够吧。
+
+
+*Muốn đi tham quan hết Bắc Kinh thì hơi khó.
++想把北京看完都比较难。
+
+
+*Trung Quốc có rất nhiều nơi nên đến tham quan.
++中国要看的地方太多了。
+
+
+*Tôi cũng muốn đến thăm Tây Tạng.
++我也想去西藏看看。
+
+
+*Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
++我也想去少林寺看看。
+
+
+*+Tôi muốn đến thăm đảo Jeju.
++我想去济州岛看看。
+
  
-*计划夫妻俩一起去。
-+Hai vợ chồng dự định cùng đi.
+*Hai vợ chồng dự định cùng đi.
++计划夫妻俩一起去。
 
-*回来后再休息一下。
-+Khi về còn nghỉ ngơi nữa.
 
-*我去年去欧洲旅行了。
-+Năm ngoái tôi đi du lịch châu Âu rồi.
+*Khi về còn nghỉ ngơi nữa.
++回来后再休息一下。
 
-*我想明天去。
-+Tôi muốn để sang năm mới đi.
 
-*大概。
-+Khoảng.
+*Năm ngoái tôi đi du lịch châu Âu rồi.
++我去年去欧洲旅行了。
 
-*下车。
-+Xuống xe.
 
-*停。
-+Dừng.
+*Tôi muốn để sang năm mới đi.
++我想明天去。
 
-*等。
-+Đợi.
 
-*后备箱。
-+Cốp sau.
+*Khoảng.
++大概。
 
-*计价器。
-+Đồng hồ tính tiền (taxi).
 
-*收据。
-+giấy biên nhận.
+*Xuống xe.
++下车。
 
-*零钱。
-+tiền lẻ.
+*Dừng.
++停。
 
-*地址
-+địa chỉ.
+*Đợi.
++等。
 
-*快。
-+nhanh.
+*Cốp sau.
++后备箱。
 
-*慢。
-+chậm.
+*Đồng hồ tính tiền (taxi).
++计价器。
+
+*giấy biên nhận.
++收据。
+
+*tiền lẻ.
++零钱。
+
+*địa chỉ.
++地址。
+
+*nhanh.
++快。
+
+*chậm.
++慢。
+
 
