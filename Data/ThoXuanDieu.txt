@@ -748,20 +748,481 @@
 * Vô tình ôm ấp bao di tích.
 + 意外拥抱文物。
 
-* .
-+ 。
+* Của những tình thương bị hững hờ.
++ 淡漠的爱。
 
-* .
-+ 。
+* Giở lạnh rồi đây! Sắp nhớ nhung.
++ 现在很冷！即将错过天鹅绒。
 
-* .
-+ 。
+* Sương the lãng đãng bạc cây tùng.
++ 雾野生银松树。
 
-* .
-+ 。
+* Từng nhà mở cửa tương tư nắng.
++ 每个房子都向阳。
 
-* .
-+ 。
+* Sắp sửa lòng ta để lạnh lùng.
++ 让我心冷。
+
+* Mùa cúc năm nay sắc đã già.
++ 菊花的季节今年老。
+
+* Ai tìm ta hộ dáng thu qua.
++ 在秋季系列中寻找我们的人。
+
+* Những buồn xưa cũ, nay đâu mất.
++ 老伤心，无处可去。
+
+* Ôi! Phượng bao giờ lại nở hoa.
++ 天哪！潘永不开花。
+
+* Có một bận em ngồi xa anh quá.
++ 一个忙碌的孩子离他太远了。
+
+* Anh bảo em ngồi xích lại gần hơn.
++ 我叫你坐近一点。
+
+* Em xích gần thêm một chút: anh hờn.
++ 你放松了一点：我恨你。
+
+* Em ngoan ngoãn xích gần thêm chút nữa.
++ 我乖乖地移近了一点。
+
+* Anh vui liền, nhưng bỗng lại buồn ngay.
++ 他立即感到高兴，但突然感到悲伤。
+
+* Vì anh nghĩ: thế vẫn còn xa lắm.
++ 因为他想：那还很远。
+
+* Đôi mắt của người yêu, ôi vực thẳm.
++ 情人的眼睛，深渊。
+
+* Ôi trời xa, vừng trán của người yêu.
++ 哦，天哪，芝麻情人的额头。
+
+* Ta thấy gì đâu sau sắc yêu kiều.
++ 可爱的色彩之后我们什么也看不到。
+
+* Mà ta riết giữa đôi tay thất vọng.
++ 我们知道沮丧的双手之间。
+
+* Dầu tin tưởng: chung một đời, một mộng.
++ 石油信任：一生一梦。
+
+* Em là em, anh vẫn cứ là anh.
++ 
+你是我，你还是我。
+
+* Có thể nào qua Vạn Lí Trường Thành.
++ 是否可以通过长城。
+
+* Của hai vũ trụ chứa đầy bí mật.
++ 两个宇宙充满秘密。
+
+* Thương nhớ cũ trôi theo ngày tháng mất.
++ 怜悯怀念过去的日子。
+
+* Quá khứ anh, anh không nhắc cùng em.
++ 我的过去，我没有提醒你。
+
+* Linh hồn ta u ẩn tựa ban đêm.
++ 我的灵魂在夜里潜伏。
+
+* Ta chưa thấu, nữa là ai thấu rõ.
++ 我没有理解，谁更清楚。
+
+* Kiếm mãi, nghi hoài, hay ghen bóng gió.
++ 永远搜寻，怀疑或嫉妒的提示。
+
+* Anh muốn vào dò xét giấc em mơ.
++ 我想调查你的梦想。
+
+* Nhưng anh giấu em những mộng không ngờ.
++ 但是我隐藏了你意想不到的梦想。
+
+* Cũng như em giấu những điều quá thực.
++ 就像你隐藏真实的东西一样。
+
+* Hãy sát đôi đầu! Hãy kề đôi ngực.
++ 让我们闭上头！闭上你的胸部。
+
+* Hãy trộn nhau đôi mái tóc ngắn dài.
++ 混合你的长短发。
+
+* Những cánh tay! Hãy quấn riết đôi vai.
++ 武器！保持肩膀紧绷。
+
+* Hãy dâng cả tình yêu lên sóng mắt.
++ 献上您的爱。
+
+* Hãy khăng khít những cặp môi gắn chặt.
++ 嘴唇紧贴。
+
+* Cho anh nghe đôi hàm ngọc của răng.
++ 让我听见翡翠的牙齿。
+
+* Trong say sưa, anh sẽ bảo em rằng.
++ 醉了，我会告诉你。
+
+* Anh đã giết em, anh chôn em vào trái tim anh.
++ 我杀了你，我把你埋在心里。
+
+* Từ đây anh không được yêu em ở trong sự thật.
++ 从此以后，你无法在真理上爱我。
+
+* Một cái gì đã qua, một cái gì đã mất.
++ 事情已经过去，某些事情已经丢失。
+
+* Ta nhìn nhau, bốn mắt biết làm sao.
++ 我们互相看着，四只眼睛知道该怎么办。
+
+* Ôi! Em mến yêu! Em vẫn là người anh yêu mến nhất.
++ 天哪！孩子们喜欢！你仍然是我最喜欢的人。
+
+* Cho đến bây giờ ruột anh vẫn thắt.
++ 直到现在，他的肠子仍然收缩。
+
+* Tim anh vẫn đập như vấp thời gian.
++ 他的心脏仍然像跌跌撞撞的时间一样跳动。
+
+* Nhớ bao nhiêu yêu mến nồng nàn.
++ 记住多少热情的爱。
+
+* Nhớ đoạn đời hai ta rạng rỡ.
++ 记住我们光辉的两个人生。
+
+* Nhớ trời đất cho anh mở.
++ 记得天地让他打开。
+
+* Muôn thuở thần tiên.
++ 永生不朽。
+
+* Ôi! Xa em, anh rơi vào vực không cùng.
++ 天哪！远离你，我掉入深渊。
+
+* Đời anh không em, lạnh lùng tê buốt.
++ 我的生活不是你，冷冷。
+
+* Nhưng còn anh, còn em, mà đôi ta đã khác.
++ 但是你和我，但是我们是不同的。
+
+* Ta: hai người xa lạ – phải đâu ta.
++ 我：两个陌生人-我在哪里。
+
+* Anh đã giết em, anh chôn em vào trái tim anh.
++ 我杀了你，我把你埋在心里。
+
+* Đêm nào anh cũng đi quanh em mà khóc.
++ 每天晚上我到处哭。
+
+* Anh vẫn ước được em tha thứ.
++ 
+我仍然希望你被原谅。
+
+* Anh vẫn yêu em như thuở ban đầu.
++ 一开始我还是爱你。
+
+* Thế mà tại sao ta vẫn xa nhau.
++ 但是为什么我们仍然分开。
+
+* Tại em cố chấp.
++ 因为我坚持。
+
+* Tại anh đã mất.
++ 因为他走了。
+
+* Con đường đi tới trái tim em.
++ 我的心路。
+
+* Anh đã giết em rồi, anh vẫn ngày đêm yêu mến.
++ 我杀了你，我日夜仍然爱着你。
+
+* Em đã giết anh rồi, em vứt xác anh đâu.
++ 我已经杀了他，我丢下了他的尸体。
+
+* Một ít nắng, vài ba sương mỏng thắm.
++ 有点阳光，稀薄的露水。
+
+* Mấy cành xanh, năm bảy sắc yêu yêu.
++ 绿枝，爱七种颜色。
+
+* Xuân đã sẵn trong lòng tôi lai láng.
++ 春天不仅是三个月的春天。
+
+* Xuân là khi nắng rạng đến tình cờ.
++ 春天是偶然的阳光。
+
+* Chim trên cành há mỏ hót ra thơ.
++ 树枝上的鸟儿张大嘴唱诗。
+
+* Xuân là lúc gió về không định trước.
++ 春天是风无意的时候。
+
+* Đông đang lạnh bỗng một hôm trở ngược.
++ 东突然有一天回来很冷。
+
+* Mây bay đi để hở một khung trời.
++ 云飞走开天空。
+
+* Như được nắm một bàn tay son trẻ.
++ 好像握着小儿子的手。
+
+* Xuân ở giữa mùa đông khi nắng hé.
++ 春天是冬天的中间，太阳正在分开。
+
+* Giữa mùa hè khi trời biếc sau mưa.
++ 雨后的夏天中旬。
+
+* Giữa mùa thu khi gió sáng bay vừa.
++ 中秋时分，微风拂面。
+
+* Lùa thanh sắc ngẫu nhiên trong áo rộng.
++ 在宽松衬衫上随意滑动。
+
+* Nếu lá úa trên cành bàng không rụng.
++ 如果鹰的树枝上的叶子没有掉下来。
+
+* Mà hoa thưa ửng máu quá ngày thường.
++ 稀疏的花朵流失了平常的一天。
+
+* Nếu vườn nào cây nhãn bỗng ra hương.
++ 如果有花园桂圆树香气。
+
+* Bình minh quá, mỗi khi tình lại hứa.
++ 也是黎明，每一次爱的承诺。
+
+* Xuân ơi xuân vĩnh viễn giữa lòng ta.
++ 我亲爱的春天永远。
+
+* Khi những em gặp gỡ giữa đường qua.
++ 当你遇到路中间。
+
+* Ngừng mắt lại, để trao cười, bỡ ngỡ.
++ 停下眼睛，微笑，惊讶。
+
+* Ấy là máu báo tin lòng sắp nở.
++ 这是告诉心脏何时开花的血液。
+
+* Ấy là hồn giăng rộng khắp không gian.
++ 是灵魂散布在整个空间。
+
+* Để đánh lưới những duyên hờ mới mẻ.
++ 抓住新机会。
+
+* Ấy những cánh chuyển trong lòng nhẹ nhẹ.
++ 机翼轻轻地移动。
+
+*Nghe xôn xao rờn rợn đến hay hay .
++ 听起来不错而且令人毛骨悚然。
+
+* Ấy là thư hồi hộp đón trong tay.
++ 这是一封激动人心的信。
+
+* Ấy dư âm giọng nói đã lâu ngày.
++ 她的声音早已消失。
+
+* Một sớm tim bỗng dịu dàng đồng vọng.
++ 突如其来的心突然被期待。
+
+* Miễn trời sáng, mà lòng ta dợn sóng.
++ 只要早晨晴朗，我的心就荡漾。
+
+* Kể chi mùa, thời tiết, với niên hoa.
++ 告诉季节，天气和花年。
+
+* Tình không tuổi, và xuân không ngày tháng.
++ 爱情不会老，春天不会约会。
+
+* Lá bàng non ngon lành như ăn được.
++ 幼鹰可食用。
+
+* Trời tạnh mà lá mới ướt như mưa.
++ 天空停了下来，但叶子像雨一样湿。
+
+* Nhựa bàng đỏ còn thắm đầu lá biếc.
++ 红尾葫芦叶濒危。
+
+* Gió rào rào tốc áo lá còn thưa.
++ 风障仍然稀疏。
+
+* Một dẫy cây bàng tuổi còn trẻ lắm.
++ 一排年轻的杏仁树。
+
+* Biết gió đùa nên cây lại đùa hơn.
++ 知道笑话，树木笑话更多。
+
+* Những chồi nhọn vui tươi châm khoảng thắm.
++ 顽皮的嫩芽微薄。
+
+* Cành lao xao chuyền ánh lá xanh rờn.
++ 炒树枝和绿叶。
+
+* Tôi đi giữa buổi đầu ngày, đi giữa.
++ 我在清晨中途去。
+
+* Buổi đầu xuân – đi giữa buổi đầu tiên.
++ 早春-在第一节课的中间。
+
+* Như sáng nay cuộc đời vừa mới mở.
++ 今天早晨生活刚刚开始。
+
+* Và ban đầu cây với gió cười duyên.
++ 最初，这棵树带着优雅的微笑。
+
+* Mùa xuân về trong tiếng ca chim.
++ 春天来了鸟鸣。
+
+* Trên nước xanh sông, trong liễu rèm.
++ 在蔚蓝的河水上，在柳帘中。
+
+* Chưa hái được hoa mang tặng em.
++ 还没摘花带给你。
+
+* Nên một cành thơ em tạm đem.
++ 所以我暂时带了一首诗。
+
+* Ánh xuân mỗi sớm hồng tươi mướt.
++ 春天的阳光明媚。
+
+* Những ống khói cao bèn nhận trước.
++ 高烟囱首先获得。
+
+* Ruộng xanh đã cấy đến châi trời.
++ 绿色的田野已经移植到天堂。
+
+* Lóng lánh mạ soi mình xuống nước.
++ 闪闪发光的水。
+
+* Chưa hái được hoa mang tặng em.
++ 还没摘花带给你。
+
+* Nên một cành thơ anh tạm đem.
++ 所以他有一首诗。
+
+* Cây trồng – ta chẳng trồng nêu tết.
++ 作物-我们不种植春节。
+
+* Những lá đầu tiên vừa nhú biếc.
++ 刚出现的第一片叶子。
+
+* Người đi chợ búa tiếng chân ran.
++ 人们去市场踩脚。
+
+* Quần láng mới thâm còn sột soạt.
++ 新裤子仍然沙沙作响。
+
+* Chưa hái được hoa mang tặng em.
++ 还没摘花带给你。
+
+* Nên một cành thơ anh tạm đem.
++ 所以他有一首诗。
+
+* Trên cảnh đồng quê thấy xếp hàng.
++ 在乡村现场看到排队。
+
+* Chạy dài như tận cuối không gian.
++ 运行到空间尽头。
+
+* Những dàn sắt dựng như ren sắt.
++ 铁棍像铁线一样竖立。
+
+* Dẫn điện chuyền đi xây hạnh phúc.
++ 引导线建立幸福。
+
+* Chưa hái được hoa mang tặng em.
++ 还没摘花带给你。
+
+* Nên một cành thơ anh tạm đem.
++ 所以他有一首诗。
+
+* Anh muốn mời em bước xuống thuyền.
++ 我想邀请你上船。
+
+* Thuyền của đôi ta vào hiện thực.
++ 我们的船变成现实。
+
+* Dựa thế đêm tan, ngày sáng rực.
++ 基于棕褐色的夜晚，明亮的一天。
+
+* Thuyền ta đi dựng lấy thần tiên.
++ 我的船去抓精灵。
+
+* Đây một cành thơ anh tạm đem.
++ 这是我暂时带来的一首诗。
+
+* Như nước xanh sông, như liễu rèm.
++ 像河水，像柳帘。
+
+* Một ngày xuân xanh tươi như mắt biếc.
++ 春日绿如蓝眼。
+
+* Gió biển Đông phơ phất thổi lên rừng.
++ 东风在森林里飘扬。
+
+* Cũng thêu thùa những đường nắng mênh mông.
++ 还绣有广阔的太阳线。
+
+* Tôi bước đi trên những đường phá vỡ.
++ 我走在断线上。
+
+* Lắng tai nghe kháng chiến hát mơ hồ.
++ 听阻力歌含糊不清地唱歌。
+
+* Mùi chiến thắng gieo trong không khí nở.
++ 盛开的空气中弥漫着胜利的气息。
+
+* Chèo lá nhỏ xuôi xuôi buông thả mái.
++ 将叶子划下来，放开屋顶。
+
+* Gió đem tơ đi nối những chân trời.
++ 风将丝绸带入地平线。
+
+* Những tay trẻ ôm tròn vòng thế giới.
++ 年轻人拥抱世界。
+
+* Tự đâu về? Trái đất nổi bài vui.
++ 去哪地球在玩。
+
+* Chàng vệ quốc súng mang đi rảo bước.
++ 国防佬带走枪支。
+
+* Ngựa giao thông nghiêng đầu ngoạm cỏ xanh.
++ 交通马歪头抓绿草。
+
+* Cầu khấp khểnh toé lên đôi ánh nước.
++ 这座桥被水偷偷摸摸。
+
+* Quán cửa nhìn hàng lụa mắt long lanh.
++ 这家店看起来闪闪发光的丝绸眼睛。
+
+* Đàng xa ấy chắc lượn vòng tha thiết.
++ 那个距离肯定会认真地徘徊。
+
+* Ta là mình, mà anh cũng là tôi.
++ 我是我自己，你也是我。
+
+* Máu tươi chảy ba năm trời chiến sĩ.
++ 鲜血流兵三年。
+
+* Có hôm nay một buổi sớm mai đời.
++ 今天是明天清晨。
+
+* Muôn cổ họng chim trời kêu ríu rít.
++ 天空的鸟鸣叫声。
+
+* Khiến mặt trời bối rối cả đường tơ.
++ 让阳光迷茫的丝绸之路。
+
+* Trời xanh thế! Hàng cây thơ biết mấy.
++ 好蓝！几行诗。
+
+* Vườn non sao! Đường cỏ mộng bao nhiêu.
++ 年轻的花园明星！多少梦幻之路。
+
+* Hỡi năm tháng vội đi làm quá khứ.
++ 过去五年匆忙上班。
+
+* Trời về đây! Và đem trở về đây.
++ 天堂来了！并带回这里。
 
 * .
 + 。
