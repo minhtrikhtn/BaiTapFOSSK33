@@ -1675,68 +1675,605 @@
 * Nửa ngày xinh đẹp đã tiêu tan.
 + 美丽的半天不见了。
 
-* .
-+ 。
+* Trốn nỗi buồn vô cớ.
++ 隐藏无聊的悲伤。
 
-* .
-+ 。
+* Sao anh chẳng vui đi.
++ 你为什么不开心。
 
-* .
-+ 。
+* Tôi ráng tìm hạnh phúc.
++ 我试图找到幸福。
 
-* .
-+ 。
+* Song chẳng biết chờ chi.
++ 宋不知道该等什么。
 
-* .
-+ 。
+* Xa xăm ru mộng tưởng.
++ 远没有梦想。
 
-* .
-+ 。
+* Anh có thể phiêu lưu.
++ 您可以冒险。
 
-* .
-+ 。
+* Tạo hoá không tình cảm.
++ 创作者不深情。
 
-* .
-+ 。
+* Sinh ra, tôi đã nghèo.
++ 天生，我很穷。
 
-* .
-+ 。
+* Anh hãy là thi nhân.
++ 成为诗人。
 
-* .
-+ 。
+* Hát nỗi buồn vô cố.
++ 唱无数的悲伤。
 
-* .
-+ 。
+* Tôi không biết làm thơ.
++ 我不会写诗。
 
-* .
-+ 。
+* Thơ không làm bớt khổ.
++ 诗歌不能减轻痛苦。
 
-* .
-+ 。
+* Nghĩ ngợi đến tình nương.
++ 想着爱。
 
-* .
-+ 。
+* Anh sung sướng hơn nhiều.
++ 他更快乐。
 
-* .
-+ 。
+* Nghèo nàn và nhút nhát.
++ 可怜又害羞。
 
-* .
-+ 。
+* Tôi chưa từng được yêu.
++ 我从未恋爱过。
 
-* .
-+ 。
+* Tôi là một kẻ điên cuồng.
++ 我是疯子。
 
-* .
-+ 。
+* Yêu những ái tình ngây dại.
++ 爱无辜的爱。
 
-* .
-+ 。
+* Tôi cứ bắt lòng tôi đau đớn mãi.
++ 我一直让我的心永远痛。
 
-* .
-+ 。
+* Đau vô duyên, đau không để làm gì.
++ 无痛，一无所有。
 
-* .
-+ 。
+* Không có một giờ yên ổn.
++ 没有和平时刻。
+
+* Nếu bỏ được trải lòng cho gió cuốn.
++ 如果你放开风。
+
+* Đem vứt đi, như là trái chua cay.
++ 像酸果一样扔掉。
+
+* Nếu một chiều có thể rải tung bay.
++ 如果一种方法可以传播飞​​行。
+
+* Tất cả linh hồn thổn thức.
++ 所有的灵魂都在哭泣。
+
+* Nhưng mỗi lần đưa tay lên nén ngực.
++ 但是每次他拉着手压胸部。
+
+* Lại nghe tình nhiều hơn số ngón tay.
++ 聆听爱胜于手指。
+
+* Với mi kia, mắt nọ, với môi này.
++ 用那只眼睛，那只眼睛，这只嘴唇。
+
+* Với chuỗi tên người liên tiếp.
++ 随着人的名字顺序连续。
+
+* Của khúc ca nào vừa cắt, vừa say.
++ 哪首歌刚刚被剪下来喝醉了。
+
+* Lòng tôi lạnh lẽo, đêm nay.
++ 今晚我的心很冷。
+
+* Theo một con đường mấy nẻo.
++ 遵循某种方式。
+
+* Và đêm nay, lòng tôi lạnh lẽo.
++ 今晚，我的心很冷。
+
+* Như sáng trăng trên mặt nước thu lờ.
++ 随着月光在水面上隐约可见。
+
+* Tôi là một kẻ bơ vơ.
++ 我被遗弃了。
+
+* Yêu những ái tình quạnh quẽ.
++ 爱孤独的爱。
+
+* Có nhiều lúc gió kêu thê thiết quá.
++ 有时候，风叫得那么厉害。
+
+* Như gió đau một nỗi khổ vô hình.
++ 风刮伤了无形的痛苦。
+
+* Như bao điều ảo não của nhân sinh.
++ 就像人类生活中的许多虚拟事物一样。
+
+* Đã in vết ở nơi hồn của gió.
++ 印在风的灵魂上。
+
+* Gió vừa chạy, vừa rên, vừa tắt thở.
++ 风跑、,吟，呼吸停止。
+
+* Đem trái tim làm uất cả không gian.
++ 尽心占用所有空间。
+
+* Gợi bóng hình những thân thể cơ hàn.
++ 让人联想到焊接的身体部位。
+
+* Với môi tím, với cảnh nghèo vạc mặt.
++ 嘴唇紫色，脸色差。
+
+* Trong khung xám của mùa đông bằng sắt.
++ 在铁冬天的灰框里。
+
+* Gió qua rồi còn lưu lại tiếng ngân.
++ 风过去了，它仍然绕着。
+
+* Cây bên đường trụi lá, đứng tần ngần.
++ 路边的树木光秃秃的，站着不动。
+
+* Khắp xương nhánh chuyển một luồng tê tái.
++ 脊柱骨转换麻木流。
+
+* Và giữa vườn im, hoa run sợ hãi.
++ 在花园中间，花朵因恐惧而颤抖。
+
+* Bao nỗi pha phôi, khô héo, rụng rời.
++ 多少个胚胎相凋谢。
+
+* Và mưa kia là nước mắt gió rơi.
++ 那雨是风和风的眼泪。
+
+* Và sương ấy là mồ hôi gió rớt.
++ 那露水是汗水汗水落下。
+
+* Trong lúc vội vàng, trên cành thưa thớt.
++ 赶紧在稀疏的树枝上。
+
+* Ấy nỗi buồn kêu xé của ngày qua.
++ 过去的悲伤。
+
+* Hay lời tham rền rĩ của đêm xa.
++ 或遥远夜晚的贪婪。
+
+* Ấy là tiếng những âm binh tan tác.
++ 这些是破碎的士兵的声音。
+
+* Hay là giọng những âm hồn lưu lạc.
++ 还是灵魂的声音在空中徘徊。
+
+* Trong phổi của người u uất vô cùng.
++ 在人们的肺部极度不开心。
+
+* Bữa nay lạnh, mặt trời đi ngủ sớm.
++ 今天天冷，太阳早起了。
+
+* Không gì buồn bằng những buổi chiều êm.
++ 没有什么比安静的下午难过的了。
+
+* Mà ánh sáng đều hoà cùng bóng tối.
++ 那光与黑暗混合。
+
+* Gió lướt thướt kéo mình qua cỏ rối.
++ 柔和的风把我拉过纠结的草丛。
+
+* Vài miếng đêm u uất lẩn trong cành.
++ 树枝上有几夜漆黑的夜晚。
+
+* Mây theo chim về dãy núi xa xanh.
++ 云儿跟随鸟儿到遥远的蓝山。
+
+* Từng đoàn lớp nhịp nhàng và lặng lẽ.
++ 每个班级有节奏且安静。
+
+* Không gian xám tưởng sắp tan thành lệ.
++ 灰色空间即将融入实践。
+
+* Thôi hết rồi, gió gác với trăng thềm.
++ 就是这样，守卫在月球上。
+
+* Với sương lá rụng trên đầu gần gũi.
++ 露水的叶子落在他们的头上。
+
+* Thôi đã hết hờn ghen và giận tủi.
++ 戒掉所有的嫉妒和愤怒。
+
+* Anh một mình, nghe tất cả buổi chiều.
++ 他一个人，整个下午都在听。
+
+* Vào chậm chậm ở trong hồn hiu quạnh.
++ 在寂寞的灵魂里慢慢融入。
+
+* Anh nhớ anh của ngày tháng xa khơi.
++ 从前我想念你。
+
+* Nhớ đôi môi đang cười ở phương trời.
++ 记住嘴唇在天空中微笑。
+
+* Nhớ đôi mắt đang nhìn anh đăm đắm.
++ 记住眼睛盯着他。
+
+* Gió bao lần từng trận gió thương đi.
++ 风吹了多少次。
+
+* Mà kỷ niệm, ôi, còn gọi ta chi.
++ 哪些回忆，哦，也叫我志。
+
+* Nói chi nữa tiếng buồn ghê gớm ấy.
++ 不只是那可怕的悲伤。
+
+* Để lòng tôi sung sướng muốn tiêu tan.
++ 让我高兴地消散。
+
+* Tất cả tôi run rẩy tựa dây đàn.
++ 我都像弦一样颤抖。
+
+* Nghe thỏ thẻ chính điều tôi giấu kĩ.
++ 听我隐藏的主要内容。
+
+* Sợ đôi mắt điềm nhiên và diễm lệ.
++ 害怕平静而迷人的眼睛。
+
+* Vâng, nói chi để khêu lại nguồn sầu.
++ 是的，更别提悲伤了。
+
+* Tôi ngỡ đã cạn hẳn trong bấy lâu.
++ 我以为它已经用了这么久了。
+
+* Để lại nhóm cho cháy thêm ngọn lửa.
++ 离开团体。
+
+* Tôi vẫn biết rằng tôi chẳng xứng người.
++ 我仍然知道我不值得别人去做。
+
+* Mùa xuân tôi chưa hề có hoa tươi.
++ 春天我从来没有鲜花。
+
+* Tôi như chiếc thuyền hư, không bến đỗ.
++ 我就像一条破船，没有泊位。
+
+* Tôi là một con chim không tổ.
++ 我是没有巢的鸟。
+
+* Lòng cô đơn hơn một đứa mồ côi.
++ 比孤儿更寂寞。
+
+* Tôi chỉ sống để hoài hoài tưởng nhớ.
++ 我只是活着记住和记住。
+
+* Mãi mãi yêu nhưng giấu giếm luôn luôn.
++ 永远爱，但总是隐瞒。
+
+* Mà người thì, lơ đãng, giậm trên buồn.
++ 还有一些人心不在,，为悲伤而烦恼。
+
+* Bận đi hái những cành vui xanh thắm.
++ 忙着去捡绿色的乐趣。
+
+* Tôi biết lắm, trời ơi, tôi biết lắm.
++ 我知道，我的上帝，我知道。
+
+* Hỡi lòng dạ sâu xa như vực thẳm.
++ 深渊的深渊啊。
+
+* Tôi biết rằng người nói vậy cười chơi.
++ 我知道说那个的人笑了。
+
+* Tiếng đã làm tôi tê tái cả người.
++ 声音使我全身麻木。
+
+* Tim ngừng đập, để thu hồn nghe lắng.
++ 我的心停止跳动，使我的灵魂平静下来。
+
+* Máu ngừng chạy, để cho lòng bớt nặng.
++ 血液停止运转，使心脏不那么沉重。
+
+* Tôi biết rằng, chỉ cách một ngày sau.
++ 我知道，只有一天后。
+
+* Cây bên đường sẽ trông thấy tôi sầu.
++ 路边的树会让我伤心。
+
+* Đi thất thểu, đi lang thang, đi quạnh quẽ.
++ 虚弱，徘徊，徘徊。
+
+* Vì vội kiếm tìm nhau, tôi sẽ.
++ 因为匆忙寻找对方，我会。
+
+* Chỉ thấy người thương nhưng chẳng thấy tình thương.
++ 只是看到爱而没有爱。
+
+* Và như màu, theo nắng nhạt, như hương.
++ 和作为颜色，根据阳光，像香。
+
+* Theo gió mất, tình người đà tản mác.
++ 顺着风，人民的气势散开。
+
+* Tôi sẽ trốn, thẫn thờ, ngơ ngác.
++ 我会躲藏，迷惑，迷惑。
+
+* Trái tim buồn như một bãi tha ma.
++ 悲伤的心像墓地。
+
+* Dầu không tin, tôi càng cứ yêu nhiều.
++ 尽管我不相信，但我越来越喜欢它。
+
+* Khi người nói, tiếng người êm ái quá.
++ 当他讲话时，他的声音是如此柔和。
+
+* Có lúc tưởng, chỉ để rơi tàn lửa.
++ 有时我想，只是让大火燃烧。
+
+* Tay vô tình gieo một đám cháy to.
++ 他的手不小心放了大火。
+
+* Người tưởng buông chỉ đôi tiếng hẹn hò.
++ 人们以为放手约会只有几个小时。
+
+* Tôi hưởng ứng bằng vạn lời say đắm.
++ 我用热情的话回应。
+
+* Đang rạo rực, thì thào, rối rắm.
++ 燃烧，低语，困惑。
+
+* Ngập lòng tôi – Mà ai ngó tới đâu.
++ 淹没了我的心-但是谁看向哪里。
+
+* Tôi điên cuồng, tất nhiên phải khổ đau.
++ 我很生气，当然要受苦。
+
+* Tôi biết lắm, trời ơi, tôi biết lắm.
++ 我知道，我的上帝，我知道。
+
+* Vậy trót lỡ, tôi sẽ đành lẳng lặng.
++ 所以，如果我想念，我会保持沉默。
+
+* Chịu mối tình gây lại bởi tay ai.
++ 遭受由谁的手造成的爱。
+
+* Không cầu xin, không trách móc, vì – ôi.
++ 没有恳求，没有责备，因为-哦。
+
+* Tôi chẳng biết làm cho lòng người cứng cỏi.
++ 我不知道如何使人苦。
+
+* Cứ như thế cho đến giờ đen tối.
++ 就这样直到黑夜。
+
+* Hoa ái tình chung phận đoá hồng khô.
++ 曼联喜欢普通的玫瑰干花。
+
+* Mà trái tim đã ghê dáng hững hờ.
++ 但是内心不感兴趣。
+
+* Sẽ chung phận của tro tàn bếp lạnh.
++ 将命运灰归结于厨房。
+
+* Tôi giấu sẵn một linh hồn hiu quạnh.
++ 我隐藏了寂寞的灵魂。
+
+* Cho nên, liền chiều đó, tôi hết vui.
++ 所以，那天下午，我不开心。
+
+* Không thấy người bằng không thấy mặt trời.
++ 不见人等于不见太阳。
+
+* Tôi ôm ngực thử tìm xem biên giới Của sầu tủi.
++ 我捧着胸膛试图找到边界悲伤。
+
+* Nhưng hỡi người yêu hỡi.
++ 但是我的爱人。
+
+* Nó mênh mông, vô ảnh, bủa vây tôi.
++ 这是巨大的，看不见的，包围了我。
+
+* Yên ổn đi, thắc mắc đến đây rồi.
++ 安静点，您的问题在这里。
+
+* Mơ ước tới, mà chán chường cũng lại.
++ 梦想来了，但也无聊。
+
+* Và mơn trớn cả một kho ân ái.
++ 抚摸着整个性生活。
+
+* Tôi một mình đối diện với tình không.
++ 我一个人面对无爱。
+
+* Để lắng nghe tiếng khóc mất trong lòng.
++ 听我心中的哭泣。
+
+* Trong vườn đêm ấy nhiều trăng quá.
++ 那天晚上花园里有那么多月亮。
+
+* Ánh sáng tuôn đầy các lối đi.
++ 灯光泛滥到过道。
+
+* Tôi với người yêu qua nhẹ nhẹ.
++ 我和我的爱人轻轻地。
+
+* Im lìm, không dám nói năng chi.
++ 闭嘴，不敢说话。
+
+* Bâng khuâng chân tiếc giậm lên vàng.
++ 在黄金上不愉快地飘动。
+
+* Tôi sợ đường trăng tiếng dậy vang.
++ 我怕月亮升起。
+
+* Ngơ ngác hoa duyên còn núp lá.
++ 迷惑，迷人，仍在躲藏着叶子。
+
+* Và làm sai lỡ nhịp trăng đang.
++ 想念月亮。
+
+* Dịu dàng đàn những ánh tơ xanh.
++ 蓝色丝绸温柔的羊群。
+
+* Cho gió du dương điệu múa cành.
++ 为了悠扬的风在树枝上跳舞。
+
+* Cho gió đượm buồn, thôi náo động.
++ 因为风很伤心，别再被打扰了。
+
+* Linh hồn yểu điệu của đêm thanh.
++ 酒吧之夜的优雅灵魂。
+
+* Chúng tôi lặng lẽ bước trong thơ.
++ 我们默默地走诗。
+
+* Lạc giữa niềm êm chẳng bến bờ.
++ 在虚无之中迷失了。
+
+* Trăng sáng, trăng xa, trăng rộng quá.
++ 月亮很明亮，月亮很远，月亮那么宽。
+
+* Hai người nhưng chẳng bớt bơ vơ.
++ 两人但也不少无奈。
+
+* Trăng trên Hắc Hải rạng ngà.
++ 黑海辐射的月亮。
+
+* Biển như hồ rộng bao la mới kì.
++ 海洋就像一个广阔的新湖。
+
+* Ngút ngàn sóng lượn li ti.
++ 数以千计的小浪。
+
+* Sao con đôi chấm nghĩ chi trên trời.
++ 你为什么在天空中思考。
+
+* Khuya không ngủ được ra ngồi.
++ 没睡到晚坐。
+
+* Tựa bao lơn ngắm trùng khơi một mình.
++ 标题阳台看同样的大海。
+
+* Nếu như không có ân tình.
++ 没有爱。
+
+* Thì anh lạnh đến ghê mình, em ơi.
++ 宝贝，我对你很冷。
+
+* Nhưng hồn anh sáng anh vui.
++ 但是他的灵魂使他快乐起来。
+
+* Anh nghe đây đó cuộc đời gần quanh.
++ 我听到附近的生活。
+
+* Có em: ấm cả trời xanh.
++ 你在那里：温暖整个天空。
+
+* Sóng bên chân khẽ cùng anh chuyện trò.
++ 浪涛静静地与他交谈。
+
+* Nếu anh tả biển bây giờ.
++ 如果你现在形容大海。
+
+* Tả đêm tả cát sao bằng.
++ 用星沙描述夜晚。
+
+* Tả anh thương nhớ lòng giăng vạn trùng.
++ 描述他，他想念一切。
+
+* Thì trăng kia cũng đợi chờ tả trăng.
++ 然后月亮也在等待月亮的描述。
+
+* Anh đứng cửa sổ trước.
++ 他站在前窗。
+
+* Thấy cành gió đưa nhau.
++ 看风把树枝放在一起。
+
+* Anh đứng cửa sổ sau.
++ 他站在后窗。
+
+* Thấy cây long não sáng.
++ 看樟树明亮。
+
+* Biết là trăng giữa cỏ.
++ 知道是草间的月亮。
+
+* Rải những cọng rơm vàng.
++ 分散的黄色稻草。
+
+* Biết là trăng trên trời.
++ 知道天空中的月亮。
+
+* Đang rắc hoa liền cánh.
++ 将花洒在翅膀上。
+
+* Những khi em ở gần.
++ 当你在附近。
+
+* Hai ta vui ngày tháng.
++ 我们两个人的快乐时光。
+
+* Anh mải thơ quên trăng.
++ 他忘了月亮的诗歌。
+
+* Em nhắc anh: “Trăng sáng”.
++ 我提醒你：“明月”。
+
+* Anh bồi hồi vui sướng.
++ 他高兴地康复了。
+
+* Hiểu tình em vẫn đầy.
++ 了解你的爱依然充满。
+
+* Vẫn nhớ trăng hò hẹn.
++ 还是想念月亮。
+
+* Vẫn một vầng đắm say.
++ 仍然充满激情。
+
+* Nay em đang ở xa.
++ 我现在很远。
+
+* Anh nhắc em: “Trăng sáng”.
++ 我提醒你：“明月”。
+
+* Anh gọi em: “Trăng ngà”.
++ 我叫你：“象牙月亮”。
+
+* Đứng bồi hồi canh vắng.
++ 坐立不安。
+
+* Em là một ngôi sao mới băng.
++ 我是新流星。
+
+* Xuống đây, đi với anh đêm trăng.
++ 下来，跟我一起去月球。
+
+* Hai con mắt dễ thương dễ ghét.
++ 两只可爱的眼睛容易讨厌。
+
+* Đôi mắt, nguồn mặn nồng tha thiết.
++ 眼睛，咸源认真认真。
+
+* Em đưa anh vào trong bóng trăng.
++ 我带你上了月球。
+
+* Anh đưa em cành liễu thung thăng.
++ 他给了我柳树枝。
+
+* Đường Láng thơm bạc hà, canh giới.
++ 郎朗遍布薄荷和全世界。
+
+* Ôi trăng soi trên lá xà cừ.
++ 哦，月亮照在珍珠母身上。
+
+* Anh với em bên bờ đêm biếc.
++ 你和我在深夜。
+
+* Những xóm mờ mến thương quen biết.
++ 深情的邻居知道。
+
+* Trăng như sương trên ruộng lúa xanh.
++ 月亮像绿色稻田上的露珠。
 
 * .
 + 。
