@@ -5,11 +5,3 @@ C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN
 C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.csproj.GenerateResource.Cache
 C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.exe
 C:\Chuong trinh\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.pdb
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.exe
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.pdb
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\bin\Debug\ChuanHoaDuLieuNN.exe
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\bin\Debug\ChuanHoaDuLieuNN.pdb
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.csprojResolveAssemblyReference.cache
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.Form1.resources
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.Properties.Resources.resources
-C:\Users\Dell\Documents\GitHub\BaiTapFOSSK33\ChuanHoaDuLieuNN\ChuanHoaDuLieuNN\obj\x86\Debug\ChuanHoaDuLieuNN.csproj.GenerateResource.Cache
