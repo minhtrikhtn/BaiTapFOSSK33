@@ -1,1 +1,23 @@
-tjgjbvjdb
+*Tôi là học sinh.
++我是学生.
+
+*Tôi là học sinh của thầy Trương.
++我是张老师的学生.
+
+
+*Tôi là học sinh của thầy Lý.
++我是李老师的学生.
+
+*Tôi là học sinh của cô Lưu.
++我是刘老师的学生.
+
+*Tôi là lưu học sinh.
++我 是留 学生。
+
+*Tôi là học sinh đến từ Việt Nam.
++我是越南的学生.
+
+*Tôi là học sinh đến từ nước Anh.
++
+
+*Tôi là học sinh đến từ nước Mỹ.
