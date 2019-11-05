@@ -4,7 +4,6 @@
 *Tôi là học sinh của thầy Trương.
 +我是张老师的学生.
 
-
 *Tôi là học sinh của thầy Lý.
 +我是李老师的学生.
 
@@ -14,10 +13,37 @@
 *Tôi là lưu học sinh.
 +我 是留 学生。
 
-*Tôi là học sinh đến từ Việt Nam.
+*Tôi là học sinh người Việt Nam.
 +我是越南的学生.
 
-*Tôi là học sinh đến từ nước Anh.
-+
+*Tôi là học sinh người Anh.
++我是英国的学生.
 
-*Tôi là học sinh đến từ nước Mỹ.
+*Tôi là học sinh người Mỹ.
++我是美国学生.
+
+*Tôi là học sinh người Úc.
++我是来自澳大利亚的学生.
+
+*Tôi là học sinh người Canada.
++我是加拿大的学生.
+
+*Tôi là học sinh của cô Trần.
++我是陈老师的学生.
+
+*Tôi là học sinh của thầy Hồng.
++ 我是洪老师的学生.
+
+*Tôi là giáo viên tiếng Anh.
++我是英语老师.
+
+
+
+
+
+
+
+
+
+
+
