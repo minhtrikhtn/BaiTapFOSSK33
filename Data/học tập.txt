@@ -37,6 +37,107 @@
 *Tôi là giáo viên tiếng Anh.
 +我是英语老师.
 
+*Tôi là học sinh của thầy Vương.
++我是王老师的学生.
+
+*Tôi là học sinh của cô Dương.
++我是杨老师的学生.
+
+*Tôi là học sinh của cô Ngô.
++我是吴老师的学生.
+
+*Tôi là học sinh đến từ nước Nhật.
++我是日本的学生.
+
+*Tôi là học sinh đến từ Trung Quốc.
++我是中国学生。
+
+*Tôi là người Trung Quốc.
++我是中国人.
+
+*Tôi là người Việt Nam.
++我是越南人.
+
+*Tôi là người Nhật Bản.
++我是日本人.
+
+*Bạn có phải là học sinh không?
++你是学生吗?
+
+*Bạn có biết thầy đó không?
++你认识老师吗?
+
+*Bạn có thích học cô giáo đó không?
++你想学习那个老师吗？
+
+*Hôm nay bạn có đến trường không?
++你今天上学吗？
+
+*Hôm nay bạn có đi học sớm không?
++ 你今天早点上学吗？
+
+*Hôm nay bạn học môn gì?
++你今天在学什么学科？
+
+*Bạn học môn nào tốt nhất?
++你最好的科目是什么？
+
+*Hôm qua thầy Hứa có đến không?
++昨天 华 老师  来 吗?
+
+*Ngày mai bạn có gặp cô Lí không?
++你明天见李小姐吗？
+
+*Môn học nào bạn thích nhất?
++你最喜欢的科目是什么？
+
+*Bạn có thích học tiếng Trung không?
++你喜欢学中文吗？
+
+*Bạn có thích học tiếng Anh không?
++你喜欢学英语吗？
+
+*Bạn có thích học tiếng Việt không?
++你喜欢学越南语吗？
+
+*Bạn học giỏi tiếng Anh không?
++你学英语好吗？
+
+*Bạn học giỏi tiếng Trung không?
++你会说中文吗？
+
+*Bạn học môn Toán giỏi không?
++你擅长数学吗？
+
+*Bạn học môn ngữ văn giỏi không?
++你擅长文学吗？
+
+*Bạn học môn hóa giỏi không?
++你擅长化学吗？
+
+*Bạn có phải là học sinh giỏi không?
++你是好学生吗？
+
+*Bạn có thể làm thơ không?
++你会写诗吗？
+
+*Tiếng Anh của bạn rất tốt đó!
++你的英语很好！
+
+*Tiếng Hán của bạn rất tốt đó!
++的的汉语很好！
+
+*Thơ của bạn  rất hay!
++你的诗很好!
+
+*Bạn học rất tốt!
++你学得很好！
+
+*Họ của bạn là gì?
++你姓什么?
+
+*Bạn tên gọi là gì?
++你叫什么名字?
 
 
 
