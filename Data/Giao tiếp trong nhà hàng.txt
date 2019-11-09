@@ -210,3 +210,60 @@
 
 * Cảm ơn quý khách, lần sau lại tới ạ.
 + 谢谢光临，下次再来。
+
+* Xin chào, Khách sạn Đông Phương xin nghe. 
++ 您好,这里是东方宾馆。
+
+* Chào cô, tôi muốn đặt một phòng.
++ 你好,我要预定一个房间。
+
+* Xin hỏi, anh muốn phòng đơn hay phòng đôi ạ ?
++ 请问,您要单人间还是双人间?
+
+* Tôi cần một phòng đôi.
++ 我要一个双人间。
+
+* Bao nhiêu tiền một ngày ?
++ 多少钱一天?
+
+* Một ngày nhân dân tệ, bao gồm bữa sáng.
++ 一天一百八十元,包早餐。
+
+* Anh muốn ở bao lâu ạ ?
++ 您要住多久?
+
+* Xin hỏi chừng nào anh check in ?
++ 请问您什么时候入住呢?
+
+* Hôm qua có đặt trước phòng với cô.
++ 昨天跟你预定了房间。
+
+* Mời anh điền vào tờ đơn này, viết tên anh và số hộ chiếu.
++ 请填一下这张单子,写上您的姓名和护照号码。
+
+* Thang máy ở ngay bên trái quầy lễ tân. 
++ 电梯就在柜台的左边。
+
+* Tiện thể xin hỏi một chút, gần đây có nơi nào hay không ?
++ 顺便问一下,这附近有什么好玩儿的地方吗?
+
+* Dạ có, ra khỏi cửa đi thẳng khoảng km chính là phố đi bộ Bắc Kinh, ở đó có rất nhiều cửa hàng và đồ ăn ngon.
++ 有,出门往前走大概公里左右就是北京步行街,那儿有很多商店和美食。
+
+* Hay quá, vậy phiền cô nhờ nhân viên giúp tôi mang hành lý lên nhé.
++ 太好了,麻烦请工作人员帮我把行李搬上去。
+
+* Vâng, không có vấn đề gì.
++ 好,没问题。
+
+* Tôi muốn trả phòng.
++ 我要退房。
+
+* Đây là thẻ phòng.
++ 这是房卡。
+
+* Có thể dùng thẻ tín dụng thanh toán không ?
++ 可以用信用卡结账吗?
+
+* Được ạ, Alipay cũng được.
++ 可以,支付宝也行。
