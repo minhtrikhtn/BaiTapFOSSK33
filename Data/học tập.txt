@@ -139,9 +139,124 @@
 *Bạn tên gọi là gì?
 +你叫什么名字?
 
+*Bạn có ở ký túc xá không?
++您是否在尊重？
 
+*Bạn có quen với cô giáo kia không?
++你熟悉老师吗？
 
+*Các bạn hãy học hành chăm chỉ nhé!
++请努力学习！
 
+*Sóng lớn âm thầm bao phủ lấy màn đêm sâu thẳm.
++海浪無聲將夜幕深深淹沒.
+
+*Lan tràn đến tận góc trời xa xăm.
++漫過天空盡頭的角落.
+
+*Đại ngư len lỏi bơi qua khe hở giấc mộng.
++大魚在夢境的縫隙裡游過.
+
+*Ngắm nhìn em ngủ say.
++凝望你沉睡的輪廓.
+
+*Nhìn trời biển một màu.
++看海天一色.
+
+*Nghe gió thổi mưa rơi.
++聽風起雨落.
+
+*Cùng nắm tay thổi tan sóng vỗ mênh mang.
++執子手吹散蒼茫茫煙波.
+
+*Đôi cánh của đại ngư từ lúc nào đã vô cùng rộng lớn.
++大魚的翅膀 已經太遼闊.
+
+*Em khẽ buông sợi dây thời gian.
++我鬆開時間的繩索.
+
+*Sợ anh bay xa mà đi.
++怕你飛遠去.
+
+*Sợ anh rời em mà đi.
++怕你離我而去.
+
+*Lại càng sợ anh vĩnh viễn dừng lại nơi đây.
++更怕你永遠停留在這裡.
+
+*Mỗi một giọt nước mắt đều chảy về phía anh.
++每一滴淚水 都向你流淌去.
+
+*Rơi ngược vào đáy biển nơi trời cao.
++倒流進天空的海底.
+
+*Lan tràn đến tận góc trời xa xăm.
++漫過天空盡頭的角落.
+
+*Ngắm nhìn em ngủ say.
++凝望你沉睡的輪廓.
+
+*Cùng nắm tay thổi tan sóng vỗ mênh mang.
++執子手吹散蒼茫茫煙波.
+
+*Hóa ra người sinh ra để thuộc về đất trời bao la.
++更怕你永遠停留在這裡.
+
+*Ngược trở về lúc ban đầu gặp gỡ.
++倒流回最初的相遇.
+
+*Chúng ta đã cùng khóc.
++ 我們哭了.
+
+*Chúng ta đã cùng cười.
++我們笑著.
+
+*Chúng ta đã từng ngẩng đầu nhìn bầu trời.
++我們抬頭望天空.
+
+*Những vì sao vẫn lấp lánh trên cao.
++星星還亮著幾顆.
+
+*Chúng ta đã cùng hát.
++我們唱著.
+
+*Bài hát của thời gian.
++時間的歌.
+
+*Vậy mới hiểu được cái ôm.
++才懂得相互擁抱.
+
+*Cuối cùng là vì điều gì?
++到底是為了什麼?
+
+*Bởi vì anh đã gặp em đúng lúc.
++因為我剛好遇見你.
+
+*Nên mới có thể lưu giữ những ký ức tươi đẹp.
++留下足跡才美麗.
+
+*Gió thổi, hoa rơi, nước mắt như mưa.
++風吹花落淚如雨.
+
+*Chỉ vì không muốn chia tay.
++因為不想分離.
+
+*Lưu giữ mười năm chờ đợi.
++留下十年的期許.
+
+*Nếu như có gặp lại nhau.
++如果再相遇.
+
+*Có lẽ anh vẫn sẽ nhớ em.
++我想我會記得你.
+
+*Anh nhớ em.
++我想你.
+
+*Anh rất nhớ em.
++我真的很想你.
+
+*
 
 
 
