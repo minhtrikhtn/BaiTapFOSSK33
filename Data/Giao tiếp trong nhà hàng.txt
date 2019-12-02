@@ -1,0 +1,269 @@
+* Tạm biệt, hoan nghênh lần tới ghé thăm! 
++ 再见，欢迎下次再来!
+
+* Ông đi cẩn thận, cảm ơn đã ghé thăm. 
++ 慢走，感谢您的光临.
+
+* Xin chờ một chút!
++ 请稍等!
+
+* Xin lượng thứ!
++ 请原谅!
+
+* Xin lỗi, để anh chờ lâu!
++ 对不起，让您久等了!
+
+* Xin hỏi các anh có mấy người?
++ 请问您有几位？
+
+* Xin mời đi lối này.
++ 请这边走。
+
+* Xin hỏi quý danh của chị?
++ 请问您贵姓？
+
+* Xin hỏi chị uống trà gì?
++ 请问您喝什么茶？
+
+* Xin hỏi anh có đặt bàn trước không?
++ 请问您有预订吗？
+
+* Anh xem ngồi ở đây được không?
++ 您看坐在这里可以吗？
+
+* Anh muốn ăn gì?
++ 你要吃什么？
+
+* Anh muốn gọi món gì?
++ 你要点些什么菜？	
+
+* Anh đã gọi đồ chưa? 
++ 你点过菜了吗？
+
+* Anh giới thiệu một vài món ngon được không?
++ 请你推荐一些好菜好吗？ 
+
+* Anh thích ăn đồ điểm tâm gì?
++ 你喜欢吃点什么点心？
+
+* Vâng, tôi đi lấy ngay.
++ 好的，我去拿来。
+
+* Thưa anh, có gì cần tôi giúp không?
++ 先生，有什么需要我帮忙的吗？
+
+* Chúng tôi đang vội.
++ 我们要赶时间。
+
+* Anh mau mang đồ chúng tôi đã gọi ra nhé.
++ 我们点的菜请快送来。
+
+* Tôi cần một suất bò bít tết.
++ 我就要份牛排。
+
+* Anh thích bít tết chín hay tái?
++ 你喜欢的牛排是熟一些还是生的？
+
+* Uống một ly nhé?
++ 喝一杯怎样？
+
+* Cạn Ly!
++ 干杯!
+
+* Chúc anh mạnh khỏe!
++ 祝你健康!
+
+* Hãy đưa tôi quyển thực đơn?
++ 请给我一从菜单好吗？
+
+* Thưa anh, thực đơn ở đây. 
++ 先生，菜单就在这儿。
+
+* Vị món này rất ngon.
++ 它的味道很好。
+
+* Đồ ăn mặn quá!
++ 菜太咸了!
+
+* Tôi khát nước.
++ 我口渴了。
+
+* Xin cho tôi một cốc nước mát.
++ 请给我一杯冷水。
+
+* Anh muốn uống chút gì?
++ 你要喝点儿什么？	
+
+* Tôi cần cốc trà chanh.
++ 我想要柠檬茶。
+
+* Anh muốn ăn thêm đồ khác nữa không?
++ 你还要吃别的东西吗？
+
+* Không cần, cảm ơn! Tôi đã ăn no rồi!
++ 不用，谢谢.我已经吃饱了!
+
+* Cho tôi thêm một chút bánh mỳ.
++ 请再给我一些面包。
+
+* Anh thích ăn gì thì cứ ăn thoải mái.
++ 你喜欢什么随便吃。
+
+* Xin đưa cho tôi muối và hạt tiêu.
++ 请把盐和胡椒递给我。
+
+* Thưa anh, đồ ăn của anh đã mang ra đủ rồi.
++ 先生您的菜已经上齐了。
+
+* Anh còn muốn ăn chút hoa quả hay đồ trang miệng gì không?
++ 还要点水果和甜品吗？
+
+* Hãy mau mang đồ ra.
++ 请尽快服务。
+
+* Hãy đưa tôi hóa đơn.
++ 请把账单给我。
+
+* Đây ạ! Xin mời tới quầy thanh toán.
++ 这就是，请到柜台付账。
+
+* Chúng ta của ai trả của người ấy.
++ 我们各付各的。
+
+* Không, lần này tôi mời.
++ 不，这次我请客。
+
+* Xin hỏi anh cần thêm đá không?
++ 请问需要加冰块吗？
+
+* Xin hỏi anh cần đồ uống lạnh hay nóng?
++ 请问需要冷饮还是热饮?
+
+* Mời dùng trà!
++ 请用茶!
+
+* Mời dùng khăn ướt!
++ 请用香巾!
+
+* Chúc anh bữa trưa (bữa tối) vui vẻ!
++ 祝您午餐（晚餐）愉快!
+
+* Xin lỗi, tôi có thể dọn đĩa này đi không?
++ 对不起，我能把这个盘子撤走吗？
+
+* Cho tôi một cốc bia trước được không?
++ 您先来杯啤酒好吗？
+
+* Xin lỗi ông muốn dùng đũa hay dao dĩa.
++ 先生您喜欢用筷子还是刀叉。
+
+* Xin hỏi nhà vệ sinh ở đâu?
++ 请问卫生间在哪里？
+
+*Phục vụ, tôi muốn thanh toán.
++ 服务员我想买单。
+
+* Tổng cộng là đồng, xin hỏi anh trả bằng tiền mặt hay thẻ tín dụng?
++ 一共是元，请问您付现金还是信用卡？
+
+* Chỗ chúng tôi không nhận tiền boa, nhưng tôi vẫn rất cảm ơn anh.
++ 我们这儿不收小费，但是我仍很感谢您。
+
+* Xin chờ một chút, tôi lập tức tới dọn dẹp.
++ 请稍等，我马上来收拾。
+
+* Cảm ơn ý kiến quý báu của anh.
++ 谢谢您提出的宝贵意见。
+
+* Chai rượu này bao nhiêu tiền?
++ 这瓶酒多少钱？
+
+* Không cần nữa, cảm ơn.
++ 不要了，谢谢。
+
+* Xin lỗi, xin ông nói lại lần nữa.
++ 对不起，请再重复一遍。
+
+* Xin mời thanh toán.
++ 请结帐。
+
+* Có thể thanh toán ở đây không?
++ 可以在这儿付帐吗？
+
+* Anh muốn gói đồ thừa mang về không?
++ 你要打包带回家吗?
+
+* Các món ăn của chúng tôi đều ngon.
++ 我们这儿什么菜都好吃啊。
+
+* Xin lỗi, tôi sẽ đổi lại đồ ăn cho ông.
++ 对不起，我给你换一下。
+
+* Ông thử xem món này thế nào.
++ 你尝尝这个怎么样。
+
+* Đây là tiền thừa ạ.
++ 这是剩下的钱。
+
+* Cảm ơn ông, nhưng nhà hàng chúng tôi quy định không được nhận tiền bo.
++ 谢谢，但是我们店规定不能收小费。
+
+* Cảm ơn quý khách, lần sau lại tới ạ.
++ 谢谢光临，下次再来。
+
+* Xin chào, Khách sạn Đông Phương xin nghe. 
++ 您好,这里是东方宾馆。
+
+* Chào cô, tôi muốn đặt một phòng.
++ 你好,我要预定一个房间。
+
+* Xin hỏi, anh muốn phòng đơn hay phòng đôi ạ ?
++ 请问,您要单人间还是双人间?
+
+* Tôi cần một phòng đôi.
++ 我要一个双人间。
+
+* Bao nhiêu tiền một ngày ?
++ 多少钱一天?
+
+* Một ngày nhân dân tệ, bao gồm bữa sáng.
++ 一天一百八十元,包早餐。
+
+* Anh muốn ở bao lâu ạ ?
++ 您要住多久?
+
+* Xin hỏi chừng nào anh check in ?
++ 请问您什么时候入住呢?
+
+* Hôm qua có đặt trước phòng với cô.
++ 昨天跟你预定了房间。
+
+* Mời anh điền vào tờ đơn này, viết tên anh và số hộ chiếu.
++ 请填一下这张单子,写上您的姓名和护照号码。
+
+* Thang máy ở ngay bên trái quầy lễ tân. 
++ 电梯就在柜台的左边。
+
+* Tiện thể xin hỏi một chút, gần đây có nơi nào hay không ?
++ 顺便问一下,这附近有什么好玩儿的地方吗?
+
+* Dạ có, ra khỏi cửa đi thẳng khoảng km chính là phố đi bộ Bắc Kinh, ở đó có rất nhiều cửa hàng và đồ ăn ngon.
++ 有,出门往前走大概公里左右就是北京步行街,那儿有很多商店和美食。
+
+* Hay quá, vậy phiền cô nhờ nhân viên giúp tôi mang hành lý lên nhé.
++ 太好了,麻烦请工作人员帮我把行李搬上去。
+
+* Vâng, không có vấn đề gì.
++ 好,没问题。
+
+* Tôi muốn trả phòng.
++ 我要退房。
+
+* Đây là thẻ phòng.
++ 这是房卡。
+
+* Có thể dùng thẻ tín dụng thanh toán không ?
++ 可以用信用卡结账吗?
+
+* Được ạ, Alipay cũng được.
++ 可以,支付宝也行。

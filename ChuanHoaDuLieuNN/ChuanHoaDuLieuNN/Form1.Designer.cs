@@ -43,10 +43,9 @@
             // 
             this.lblKetQua.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblKetQua.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.lblKetQua.Location = new System.Drawing.Point(151, 437);
-            this.lblKetQua.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblKetQua.Location = new System.Drawing.Point(113, 355);
             this.lblKetQua.Name = "lblKetQua";
-            this.lblKetQua.Size = new System.Drawing.Size(557, 28);
+            this.lblKetQua.Size = new System.Drawing.Size(418, 23);
             this.lblKetQua.TabIndex = 75;
             this.lblKetQua.Text = "label2";
             this.lblKetQua.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -54,10 +53,9 @@
             // btnChuanhoa
             // 
             this.btnChuanhoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnChuanhoa.Location = new System.Drawing.Point(340, 363);
-            this.btnChuanhoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnChuanhoa.Location = new System.Drawing.Point(255, 295);
             this.btnChuanhoa.Name = "btnChuanhoa";
-            this.btnChuanhoa.Size = new System.Drawing.Size(183, 52);
+            this.btnChuanhoa.Size = new System.Drawing.Size(137, 42);
             this.btnChuanhoa.TabIndex = 74;
             this.btnChuanhoa.Text = "Chuan hoa";
             this.btnChuanhoa.UseVisualStyleBackColor = true;
@@ -66,20 +64,18 @@
             // lblFileResults
             // 
             this.lblFileResults.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFileResults.Location = new System.Drawing.Point(261, 287);
-            this.lblFileResults.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblFileResults.Location = new System.Drawing.Point(196, 233);
             this.lblFileResults.Name = "lblFileResults";
-            this.lblFileResults.Size = new System.Drawing.Size(532, 53);
+            this.lblFileResults.Size = new System.Drawing.Size(399, 43);
             this.lblFileResults.TabIndex = 73;
             this.lblFileResults.Text = "Result File Name";
             // 
             // btnChonFileKQ
             // 
             this.btnChonFileKQ.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnChonFileKQ.Location = new System.Drawing.Point(76, 278);
-            this.btnChonFileKQ.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnChonFileKQ.Location = new System.Drawing.Point(57, 226);
             this.btnChonFileKQ.Name = "btnChonFileKQ";
-            this.btnChonFileKQ.Size = new System.Drawing.Size(177, 38);
+            this.btnChonFileKQ.Size = new System.Drawing.Size(133, 31);
             this.btnChonFileKQ.TabIndex = 71;
             this.btnChonFileKQ.Text = "Chọn file kết quả";
             this.btnChonFileKQ.UseVisualStyleBackColor = true;
@@ -88,21 +84,18 @@
             // lblFileName
             // 
             this.lblFileName.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFileName.Location = new System.Drawing.Point(261, 218);
-            this.lblFileName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblFileName.Location = new System.Drawing.Point(196, 177);
             this.lblFileName.Name = "lblFileName";
-            this.lblFileName.Size = new System.Drawing.Size(532, 53);
+            this.lblFileName.Size = new System.Drawing.Size(399, 43);
             this.lblFileName.TabIndex = 72;
             this.lblFileName.Text = "Source File Name";
-            this.lblFileName.Click += new System.EventHandler(this.lblFileName_Click);
             // 
             // btnSelectFiles
             // 
             this.btnSelectFiles.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSelectFiles.Location = new System.Drawing.Point(76, 210);
-            this.btnSelectFiles.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSelectFiles.Location = new System.Drawing.Point(57, 171);
             this.btnSelectFiles.Name = "btnSelectFiles";
-            this.btnSelectFiles.Size = new System.Drawing.Size(177, 38);
+            this.btnSelectFiles.Size = new System.Drawing.Size(133, 31);
             this.btnSelectFiles.TabIndex = 69;
             this.btnSelectFiles.Text = "Chọn file nguồn";
             this.btnSelectFiles.UseVisualStyleBackColor = true;
@@ -112,10 +105,9 @@
             // 
             this.label1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(124, 33);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(93, 27);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(629, 90);
+            this.label1.Size = new System.Drawing.Size(472, 73);
             this.label1.TabIndex = 70;
             this.label1.Text = "CHUẨN HÓA DỮ LIỆU NGÔN NGỮ";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -123,29 +115,27 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(621, 503);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(466, 409);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(239, 17);
+            this.label2.Size = new System.Drawing.Size(178, 13);
             this.label2.TabIndex = 76;
             this.label2.Text = "(C) 2019 Lớp Quản trị Thông tin K33";
             // 
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(285, 107);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(214, 87);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(309, 34);
+            this.label3.Size = new System.Drawing.Size(232, 28);
             this.label3.TabIndex = 76;
             this.label3.Text = "越南 - 华语正常化";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(871, 530);
+            this.ClientSize = new System.Drawing.Size(653, 431);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lblKetQua);
@@ -155,7 +145,6 @@
             this.Controls.Add(this.lblFileName);
             this.Controls.Add(this.btnSelectFiles);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Vietnamese - Chinese Data Normalization";
