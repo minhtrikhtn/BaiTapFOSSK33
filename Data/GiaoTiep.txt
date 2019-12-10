@@ -58,7 +58,6 @@
 * 我是他的影迷  
 +  Nó là của bạn à?  
 * 这是你的吗? 
-* 这很好.
 + Bạn có chắc không?  
 * 你肯定吗? 
 +Tôi có phải không? 
