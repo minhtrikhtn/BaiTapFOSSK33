@@ -52,6 +52,318 @@
 + 我也很好.	
 * Rất tốt! 
 + 很好！
++Anh yêu em 
+ *我爱你!
++Tôi là fan hâm mộ của anh ý.
+* 我是他的影迷 . 
++ Nó là của bạn à?  
+* 这是你的吗? 
++Bạn có chắc không?  
+*你肯定吗? 
++Tôi có phải không? 
+* 非做不可吗? 
++Anh ấy cùng tuổi với tôi .
+*他和我同岁.
++Không có gì.   
+*不要紧.
++Không vấn đề gì. 
+*没问题! 
++Thế đó.   
+*就这样! 
++Hết giờ.   
+*时间快到.
++Có tin tức gì mới không ?
+*有什么新鲜事吗? 
++Tin tôi đi.  
+*算上我.
+*Đừng lo lắng.   
+*别担心.
++Thấy đỡ hơn chưa?
+*好点了吗? 
++Bạn thì sao? 
+*你呢? 
++Bạn nợ tôi đó.  
+*你欠我一个人情.
++Không có gì .
+*不客气.
++Ngày nào đó sẽ làm. 
+ * 哪一天都行夕. 
++Bạn đùa à?  
+*你在开玩笑吧?
++Chúc mừng bạn.
+* 祝贺你! 
++Tôi không chịu nổi.  
+* 我情不自禁.
++Tôi không có ý đó. 
+* 我不是故意的.
++Tôi sẽ giúp bạn.   
+* 我会帮你打点的.
++Của bạn đây.  
+* 给你.
++Không ai biết. 
+*没有人知道.
++Đừng vội vàng.
+*紧张.
++Cẩn thận. 
+* 一定要小心!
++văn phòng.
+*办公室.
++đồng nghiệp.
+*同事.
++đi làm.
+*上班.
++tan làm.
+*下班. 
++xin nghỉ.
+*请假.
++cuộc hẹn.
+*约会.
++dự họp.
+*出席.
++phân bổ.
+*分配.
++nhiệm vụ.
+*任务.
++kế hoạch.
+*计划.
++tài liệu.
+*证件.
++công bố.
+*公报. 
++báo cáo định kỳ.
+*定期报告书. 
++ lịch làm việc.
+*行事历.
++ghi chú.
+*便条.
++sổ ghi nhớ.
+*便笺.
++thư kí.
+*秘书. 
++nhân viên đánh máy.
+*打字员.
++máy photocopy.
+*复印机.
++phục chế.
+*复制.
++bản sao.
+*副本. 
++tốc kí.
+*速记. 
++thiết kế.
+*设计. 
++sắp xếp.
+*归档. 
++kiểm tra.
+*检测.
++giám thị.
+*监视. 
++đổi ca.
+*换班.
++luân phiên.
+*轮班.
++trực ban.
+*值班. 
++nghỉ hưu.
+*退休.
+*Chào giá	.
++询盘.	
+*Hỏi giá.
++发盘.	
+*Người chào giá.
++实盘.	
+*Công ty.
++公司.	
+*Thị trường.
++市场.	
++Xí nghiệp, doanh nghiệp.	
++企业.	
+*Ngân hàng.	
++银行.	
++Đô la Mỹ.
++美元.	
+*Vốn.
++资金.	
+*Kinh doanh, nghiệp vụ.
++业务.	
+*Tăng trưởng.
++增长.	
+*Sản phẩm.
++产品.	
+*Giá.
++价格.	
+*Quản trị, quản lý.
++管理.	
+*Nền kinh tế.
++经济.	
+*Rủi ro.
++风险.	
+*Khoản vay.
++贷款.	
+*Vốn lớn, vốn hoá lớn.
++大盘.
+*Ngành.
++行业.	
+*Quỹ, ngân quỹ.
++基金.	
+*Tài chính.
++金融.	
+*Sản xuất.
++生产.	
+*Kinh doanh, quản lý.
++经营.	
+*Kinh tế tài chính.
++财经.	
+*Khách hàng.
++客户.	
+*Phát hành .
++上市.	
+*Công ty niêm yết trên thị trường chứng khoán.
++上市公司.	
+*Giao dịch.
++交易.
+*Trông nom, giám sát.
++监管.	
+*Tăng lên	.
++上涨.	
+*Bán.
++销售.	
+*Xu hướng.
++走势.	
+*Cổ phiếu.
++股票.	
+*Cổ phần riêng lẻ.
++个股.
+*Phát hành.
++发行.	
+*Vốn.
++资产.	
+*Thương hiệu, nhãn hiệu.
++品牌.
+*Bảo hiểm.
++保险.
+*Giá thị trường.
++行情.	
+*Mất, rớt (giá).
++下跌.	
+*Nhân dân tệ.
++人民币	.
+*Biên độ lớn.
++大幅.	
+*Cải cách.
++改革.	
+*Toàn cầu.
++全球.
+*Khách hàng.
++消费者.
+*Công nghiệp.
++产业.	
+*Cơ cấu tài chính, tổ chức tài chính.
++金融机构.	
+*Hồi phục.
++反弹.	
+*Lợi nhuận.
++利润.	
+*Thông tin.
++信息.	
+*Giá cổ phiếu.
++股价.	
+*Chi phí, giá thành.
++成本.	
+*Đàm phán giá cả.
++价格谈判.	
+*Đơn đặt hàng.
++定单.	
+*Đơn đặt hàng dài hạn.
++长期定单.	
+*Đơn đặt hàng tơ lụa.
++丝绸定货单.	
+*Hợp đồng mua hàng.
++购货合同.	
+*Hợp đồng tiêu thụ ,hợp đồng bán.
++销售合同.	
+*Hợp đồng tương hỗ.
++互惠合同.	
+*Ký kết hợp đồng.
++合同的签定.	
+*Vi phạm hợp đồng	.
++合同的违反.	
+*Đình chỉ hợp đồng.
++合同的终止.	
+*Tờ khai hàng hóa,danh sách hàng hóa.
++货物清单.	
+*Bảng kê khai hàng hóa ,manifest.
++舱单.
+*Vận chuyển hàng hóa bằng container.
++集装箱货运.
+*Giao hàng tại xưởng.
++工厂交货.	
+*Giao dọc mạn tàu.
++( 启运港)船边交货.	
+*Giao hàng trên tàu.
++船上交货.	
+*Giao cho người vận tải.
++货交承运人(指定地点).	
+*Giao hàng tại kho.
++仓库交货.	
+*Giao tai biên giới.
++边境交货.	
+*Giao hàng vào thời gian gần ,giao hạn gần.
++近期交货.	
+*Giao hàng về sau, giao sau.
++远期交货.	
+*Giao hàng định kỳ.
++定期交货.	
+*Thời gian giao hàng.
++交货时间.	
+*Địa điểm giao hàng.
++交货地点.	
+*Phương thức giao hàng.
++交货方式.	
+*Phí vận chuyển hàng hóa.
++货物运费.	
+*Phí bảo quản hàng hóa.
++货物保管费.	
++Vận đơn .
++提(货)单.	
+*Vận đơn liên hiệp.
++联运提单.	
+*Phiếu vận chuyển.
++(承运人的)发货通知书,托运单.	
+*Chứng nhận bảo hiểm.
++保险单,保单.	
+*Chứng nhận xuất xứ.
++产地证书,原产地证明书.	
+*Chứng nhận chất lượng.
++( 货物) 品质证明书.	
+*Danh sách đóng gói.
++装箱单,包装清单,花色码单.	
+*Đòi bồi thường.
++索赔.	
+*Thời hạn.
++索赔期	.
+*Phiếu đòi bồi thường.
++索赔清单.	
+*Bồi thường.
++赔偿.	
+*Kết toán.
++结算.	
+*Phương thức kết toán.
++结算方式.	
+*Kết toán tiền mặt.
++现金结算.	
+*Kết toán song phương.
++双边结算.	
+*Kết toán đa phương.
++多边结算	
+*Kết toán quốc tế.
++国际结算.	
+*Tiền đã kết toán.
++结算货币.	
+*Chi trả.
++支付.
+*Phương thức chi trả.
++支付方.
 
 
 
