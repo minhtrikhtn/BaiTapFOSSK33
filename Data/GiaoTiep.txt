@@ -54,58 +54,118 @@
 + 很好！
 +Anh yêu em 
  *我爱你!
-+Tôi là fan hâm mộ của anh ý  
-* 我是他的影迷  
++Tôi là fan hâm mộ của anh ý.
+* 我是他的影迷 . 
 + Nó là của bạn à?  
 * 这是你的吗? 
 +Bạn có chắc không?  
 *你肯定吗? 
 +Tôi có phải không? 
 * 非做不可吗? 
-+Anh ấy cùng tuổi với tôi 
++Anh ấy cùng tuổi với tôi .
 *他和我同岁.
-+Không có gì   
++Không có gì.   
 *不要紧.
-+Không vấn đề gì 
++Không vấn đề gì. 
 *没问题! 
-+Thế đó   
++Thế đó.   
 *就这样! 
-+Hết giờ   
++Hết giờ.   
 *时间快到.
-+Có tin tức gì mới không 
++Có tin tức gì mới không ?
 *有什么新鲜事吗? 
-+Tin tôi đi  
++Tin tôi đi.  
 *算上我.
-*Đừng lo lắng   
+*Đừng lo lắng.   
 *别担心.
 +Thấy đỡ hơn chưa?
 *好点了吗? 
 +Bạn thì sao? 
 *你呢? 
-+Bạn nợ tôi đó  
-*你欠我一个人情。
-+Không có gì 
-*不客气。
-+Ngày nào đó sẽ làm 
- * 哪一天都行夕 
++Bạn nợ tôi đó.  
+*你欠我一个人情.
++Không có gì .
+*不客气.
++Ngày nào đó sẽ làm. 
+ * 哪一天都行夕. 
 +Bạn đùa à?  
-*你在开玩笑吧! 
-+Chúc mừng bạn
+*你在开玩笑吧?
++Chúc mừng bạn.
 * 祝贺你! 
-+Tôi không chịu nổi  
++Tôi không chịu nổi.  
 * 我情不自禁.
-+Tôi không có ý đó  
++Tôi không có ý đó. 
 * 我不是故意的.
-+Tôi sẽ giúp bạn   
++Tôi sẽ giúp bạn.   
 * 我会帮你打点的.
-+Của bạn đây  
++Của bạn đây.  
 * 给你.
-+Không ai biết 
++Không ai biết. 
 *没有人知道.
-+Đừng vội vàng 
++Đừng vội vàng.
 *紧张.
-+Cẩn thận 
++Cẩn thận. 
 * 一定要小心!
++văn phòng.
+*办公室.
++đồng nghiệp.
+*同事.
++đi làm.
+*上班.
++tan làm.
+*下班. 
++xin nghỉ.
+*请假.
++cuộc hẹn.
+*约会.
++dự họp.
+*出席.
++phân bổ.
+*分配.
++nhiệm vụ.
+*任务.
++kế hoạch.
+*计划.
++tài liệu.
+*证件.
++công bố.
+*公报. 
++báo cáo định kỳ.
+*定期报告书. 
++ lịch làm việc.
+*行事历.
++ghi chú.
+*便条.
++sổ ghi nhớ.
+*便笺.
++thư kí.
+*秘书. 
++nhân viên đánh máy.
+*打字员.
++máy photocopy.
+*复印机.
++phục chế.
+*复制.
++bản sao.
+*副本. 
++tốc kí.
+*速记. 
++thiết kế.
+*设计. 
++sắp xếp.
+*归档. 
++kiểm tra.
+*检测.
++giám thị.
+*监视. 
++đổi ca.
+*换班.
++luân phiên.
+*轮班.
++trực ban.
+*值班. 
++nghỉ hưu.
+*退休.
 
 
 
