@@ -1,0 +1,265 @@
+*Tôi là học sinh.
++我是学生.
+
+*Tôi là học sinh của thầy Trương.
++我是张老师的学生.
+
+*Tôi là học sinh của thầy Lý.
++我是李老师的学生.
+
+*Tôi là học sinh của cô Lưu.
++我是刘老师的学生.
+
+*Tôi là lưu học sinh.
++我 是留 学生。
+
+*Tôi là học sinh người Việt Nam.
++我是越南的学生.
+
+*Tôi là học sinh người Anh.
++我是英国的学生.
+
+*Tôi là học sinh người Mỹ.
++我是美国学生.
+
+*Tôi là học sinh người Úc.
++我是来自澳大利亚的学生.
+
+*Tôi là học sinh người Canada.
++我是加拿大的学生.
+
+*Tôi là học sinh của cô Trần.
++我是陈老师的学生.
+
+*Tôi là học sinh của thầy Hồng.
++ 我是洪老师的学生.
+
+*Tôi là giáo viên tiếng Anh.
++我是英语老师.
+
+*Tôi là học sinh của thầy Vương.
++我是王老师的学生.
+
+*Tôi là học sinh của cô Dương.
++我是杨老师的学生.
+
+*Tôi là học sinh của cô Ngô.
++我是吴老师的学生.
+
+*Tôi là học sinh đến từ nước Nhật.
++我是日本的学生.
+
+*Tôi là học sinh đến từ Trung Quốc.
++我是中国学生。
+
+*Tôi là người Trung Quốc.
++我是中国人.
+
+*Tôi là người Việt Nam.
++我是越南人.
+
+*Tôi là người Nhật Bản.
++我是日本人.
+
+*Bạn có phải là học sinh không?
++你是学生吗?
+
+*Bạn có biết thầy đó không?
++你认识老师吗?
+
+*Bạn có thích học cô giáo đó không?
++你想学习那个老师吗？
+
+*Hôm nay bạn có đến trường không?
++你今天上学吗？
+
+*Hôm nay bạn có đi học sớm không?
++ 你今天早点上学吗？
+
+*Hôm nay bạn học môn gì?
++你今天在学什么学科？
+
+*Bạn học môn nào tốt nhất?
++你最好的科目是什么？
+
+*Hôm qua thầy Hứa có đến không?
++昨天 华 老师  来 吗?
+
+*Ngày mai bạn có gặp cô Lí không?
++你明天见李小姐吗？
+
+*Môn học nào bạn thích nhất?
++你最喜欢的科目是什么？
+
+*Bạn có thích học tiếng Trung không?
++你喜欢学中文吗？
+
+*Bạn có thích học tiếng Anh không?
++你喜欢学英语吗？
+
+*Bạn có thích học tiếng Việt không?
++你喜欢学越南语吗？
+
+*Bạn học giỏi tiếng Anh không?
++你学英语好吗？
+
+*Bạn học giỏi tiếng Trung không?
++你会说中文吗？
+
+*Bạn học môn Toán giỏi không?
++你擅长数学吗？
+
+*Bạn học môn ngữ văn giỏi không?
++你擅长文学吗？
+
+*Bạn học môn hóa giỏi không?
++你擅长化学吗？
+
+*Bạn có phải là học sinh giỏi không?
++你是好学生吗？
+
+*Bạn có thể làm thơ không?
++你会写诗吗？
+
+*Tiếng Anh của bạn rất tốt đó!
++你的英语很好！
+
+*Tiếng Hán của bạn rất tốt đó!
++的的汉语很好！
+
+*Thơ của bạn  rất hay!
++你的诗很好!
+
+*Bạn học rất tốt!
++你学得很好！
+
+*Họ của bạn là gì?
++你姓什么?
+
+*Bạn tên gọi là gì?
++你叫什么名字?
+
+*Bạn có ở ký túc xá không?
++您是否在尊重？
+
+*Bạn có quen với cô giáo kia không?
++你熟悉老师吗？
+
+*Các bạn hãy học hành chăm chỉ nhé!
++请努力学习！
+
+*Sóng lớn âm thầm bao phủ lấy màn đêm sâu thẳm.
++海浪無聲將夜幕深深淹沒.
+
+*Lan tràn đến tận góc trời xa xăm.
++漫過天空盡頭的角落.
+
+*Đại ngư len lỏi bơi qua khe hở giấc mộng.
++大魚在夢境的縫隙裡游過.
+
+*Ngắm nhìn em ngủ say.
++凝望你沉睡的輪廓.
+
+*Nhìn trời biển một màu.
++看海天一色.
+
+*Nghe gió thổi mưa rơi.
++聽風起雨落.
+
+*Cùng nắm tay thổi tan sóng vỗ mênh mang.
++執子手吹散蒼茫茫煙波.
+
+*Đôi cánh của đại ngư từ lúc nào đã vô cùng rộng lớn.
++大魚的翅膀 已經太遼闊.
+
+*Em khẽ buông sợi dây thời gian.
++我鬆開時間的繩索.
+
+*Sợ anh bay xa mà đi.
++怕你飛遠去.
+
+*Sợ anh rời em mà đi.
++怕你離我而去.
+
+*Lại càng sợ anh vĩnh viễn dừng lại nơi đây.
++更怕你永遠停留在這裡.
+
+*Mỗi một giọt nước mắt đều chảy về phía anh.
++每一滴淚水 都向你流淌去.
+
+*Rơi ngược vào đáy biển nơi trời cao.
++倒流進天空的海底.
+
+*Lan tràn đến tận góc trời xa xăm.
++漫過天空盡頭的角落.
+
+*Ngắm nhìn em ngủ say.
++凝望你沉睡的輪廓.
+
+*Cùng nắm tay thổi tan sóng vỗ mênh mang.
++執子手吹散蒼茫茫煙波.
+
+*Hóa ra người sinh ra để thuộc về đất trời bao la.
++更怕你永遠停留在這裡.
+
+*Ngược trở về lúc ban đầu gặp gỡ.
++倒流回最初的相遇.
+
+*Chúng ta đã cùng khóc.
++ 我們哭了.
+
+*Chúng ta đã cùng cười.
++我們笑著.
+
+*Chúng ta đã từng ngẩng đầu nhìn bầu trời.
++我們抬頭望天空.
+
+*Những vì sao vẫn lấp lánh trên cao.
++星星還亮著幾顆.
+
+*Chúng ta đã cùng hát.
++我們唱著.
+
+*Bài hát của thời gian.
++時間的歌.
+
+*Vậy mới hiểu được cái ôm.
++才懂得相互擁抱.
+
+*Cuối cùng là vì điều gì?
++到底是為了什麼?
+
+*Bởi vì anh đã gặp em đúng lúc.
++因為我剛好遇見你.
+
+*Nên mới có thể lưu giữ những ký ức tươi đẹp.
++留下足跡才美麗.
+
+*Gió thổi, hoa rơi, nước mắt như mưa.
++風吹花落淚如雨.
+
+*Chỉ vì không muốn chia tay.
++因為不想分離.
+
+*Lưu giữ mười năm chờ đợi.
++留下十年的期許.
+
+*Nếu như có gặp lại nhau.
++如果再相遇.
+
+*Có lẽ anh vẫn sẽ nhớ em.
++我想我會記得你.
+
+*Anh nhớ em.
++我想你.
+
+*Anh rất nhớ em.
++我真的很想你.
+
+*
+
+
+
+
+
+
