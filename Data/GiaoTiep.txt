@@ -364,8 +364,122 @@
 +支付.
 *Phương thức chi trả.
 +支付方.
++Chi trả bằng tiền mặt.
+*现金支付.
++Chi trả bằng tín dụng.
+*信用支付.
++Chi trả bằng đổi hàng.
+*易货支付.
++Tiền đã chi trả.
+*支付货币.
++Hóa đơn.
+*发票,发单,装货清单. 
++Hóa đơn thương mại.
+*商业发票. 
++ Hóa đơn tạm.
+*临时发票.
++Tuyệt đối không phải.
+*绝对不是.
++Nhanh nhất có thể.
+*尽快.
++Bạn tưởng thật à?
+*你当真？
++Bạn cần không?
+*你要吗？
++ Đừng làm điều đó
+*不要做. 
++Đừng khoe khoang.
+*不要夸张. 
++Hãy giúp tôi một chút.
+*帮我一下. 
++Đi thẳng về phía trước.
+*一直往前走. 
++Bạn làm xong chưa?
+*你做完了吗？
++ Bạn muốn ở lại bao lâu?
+*你要呆多久？
++Tôi phát cuồng vì cô ấy rồi.
+*我对她着迷了.
++Tôi đang lãng phí thời gian.
+*我在浪费时间.
++Tôi có thể làm được.
+*我能做. 
++Không thể tin nổi.
+*我简直不能相信.
+*Tôi hy vọng là như vậy	.
++我希望如此.	
+*Tôi muốn nói chuyện với anh ấy.
++我想跟他说话.	
+*Cho tôi một cốc cà phê.
++请给我一杯咖啡.	
+*Tôi phải đi rồi.
++我要走.
 
 
-
-
-
+	
+*Tôi sẽ nhớ bạn.
++我会想念你的.	
+* Để tôi xem thử.
++我试试看.	
+*Tôi rất buồn.
++我很无聊.
+*Tôi rất bận.
++我很忙.
+*Tôi chơi rất là vui.
++我玩得很开心.	
+*Thật là khó tin!.
++真是难以置信！.	
+*Có xa không?.
++很远吗？
+*Không có gì..
++ 没关系.	
+*Mùi rất là thơm.
++闻起来很香.	
+*Đã đến lúc rồi.
++ 是时候了.
+*Không sao.
++没事儿.
+* Rất dễ.
++很容易.	
+*Rất tốt.
++很好.	
+*Gần ngay đây.
++离这很近.	
+*Đến lúc đi rồi.
++该走了.	
+*Cái đó không giống.
++那是不同的.	
+*Không thể thế được.
++那是不可能的.	
+* Không khó.
++不难.	
+*Rất rõ ràng.
++很明显.
+*Vẫn như vậy.
++还是一样的.
+*Đến lượt bạn rồi.
++轮到你了.	
+*Thư giãn đi!.
++放松！	
+*Hẹn gặp lại ngày mai.
++明天见	.
+*Cô ấy là bạn tốt nhất của tôi.
++她是我最好的朋友.	
+*Cô ấy thật thông minh.
++她真聪明.	
+*Chậm một chút!
++慢点儿！
+*Nói cho tôi.
++告诉我.
+*Đa tạ.
++多谢.	
+*Việc như này thường xuyên xảy ra.
++这样的事情经常发生.	
+*Đủ rồi!
++够了.	
+*Rất thú vị.
++ 很有趣.	
+*Ở đây rất đông người.
++这里人很多.	
+*Họ quý mến lẫn nhau.
+*他们互相倾慕.
