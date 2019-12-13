@@ -734,4 +734,304 @@
 
 *Ngã dục nhân chi tráng tâm phách.
 +我欲因之壯心魄。
+*Hán gia Tần địa nguyệt.
++漢家秦地月。
+
+*Lưu ảnh chiếu Minh Phi.
++流影照明妃。
+
+*Nhất thướng Ngọc Quan đạo.
++一上玉關道。
+
+*Thiên nhai khứ bất quy.
++天涯去不歸。
+
+*Hán nguyệt hoàn tòng Đông Hải xuất.
++漢月還從東海出。
+
+*Minh Phi tây giá vô lai nhật.
++明妃西嫁無來日。
+
+*Yên Chi trường hàn tuyết tác hoa.
++燕支長寒雪作花。
+
+*Nga mi tiều tuỵ một Hồ sa.
++蛾眉憔悴沒胡沙。
+
+*Sinh phạp hoàng kim uổng đồ hoạ.
++生乏黃金枉圖畫。
+
+*Tử lưu thanh trủng sử nhân ta.
++死留青冢使人嗟。
+
+*Chiêu Quân phủi yên ngọc.
++昭君拂玉鞍。
+
+*Lên ngựa, đấng má hồng nức nở.
++上馬啼紅頰。
+
+*Hôm nay là người trong cung Hán.
++今日漢宮人。
+
+*Sáng mai đã thành tì thiếp ở đất Hồ.
++明朝胡地妾。
+
+*Núi Thiên Môn đứt giữa, sông Sở mở ra.
++天門中斷楚江開。
+
+*Nước biếc chảy về đông đến đây quay lại.
++碧水東流至此迴。
+
+*Hai bên bờ núi xanh cùng đối nhau.
++兩岸青山相對出。
+
+*Một cánh buồm con ở bên trời đến.
++孤帆一片日邊來
+
+*Vọng phu thạch.
++望夫石。
+
+*Tưởng tợ dung mạo xưa.
++仿佛古容儀。
+
+*Ôm sầu dưới nắng mai.
++含愁帶曙輝。
+
+*Rêu xanh áo năm trước.
++露如今日淚。
+
+*Sương móc lệ hôm nay.
++苔似昔年衣。
+
+*Không nói như phi Sở.
++有恨同湘女。
+
+*Gái Tương chia hận nầy.
++無言類楚妃。
+
+*Tịch mịch mù thơm thấm.
++寂然芳靄內。
+
+*Chờ chồng đứng buồn ngây.
++猶若待夫歸。
+
+*Vọng nguyệt hữu hoài.
++望月有懷。
+
+*Hàng thông thưa thớt soi bóng bên dòng suối trong.
++清泉映疏松。
+
+*Cảnh này không biết đã có từ bao nhiêu ngàn năm.
++不知幾千古。
+
+*Làn sóng trong lay vỡ bóng trăng in trên mặt nước.
++寒月搖清波。
+
+*Ánh trăng lăn tăn lọt qua song vào nhà.
++流光入窗戶。
+
+*Trước cảnh đó ngâm suông một bài dài.
++對此空長吟。
+
+*Nghĩ tới ông không biết ý ông sâu xa thế nào.
++思君意何深。
+
+*Không nhân tố nào thấy yên ổn.
++無因見安道。
+
+*Hứng thú hết, lòng người thấy buồn.
++興盡愁人心。
+
+*Ở phía đông nam rặng Lư Sơn có năm ngọn núi già.
++廬山東南五老峰。
+
+*Như từ rặng núi xanh nhô lên đoá hoa sen vàng.
++青山削出金芙蓉。
+
+*Vẻ đẹp của đất Cửu Giang đúc kết ở đây.
++九江秀色可攬結。
+
+*Ta sẽ về nơi đây ở ẩn.
++吾將此地巢雲松。
+
+*Liễu bên sông ở Hán Dương.
++漢陽江上柳。
+
+*Nhớ khách (ở miền đông) mọc ra những cành phía đông.
++望客引東枝。
+
+*Hoa nở như tuyết trên nhiều cây.
++樹樹花如雪。
+
+*Bay loạn xạ giống như tơ.
++紛紛亂若絲。
+
+*Gió xuân hãy truyền (đến người) ý nghĩ của tôi.
++草木別前知。
+
+*Thảo mộc cũng biết trước sự chia cách.
++寄謝弦歌宰。
+
+*Gửi bài ca của Tạ Huyền đến Tể.
++西來定未遲。
+
+*Hãy đến miền tây như định trước cũng chưa muộn.
++春風傳我意。
+
+*Chuyện xưa trên sông Cửu giang.
++昔在九江上。
+
+*Xa trông thấy chín ngọn núi Cửu Hoa.
++遙望九華峰。
+
+*Sông trời treo dòng nước biếc.
++天河掛綠水。
+
+*Cảnh đẹp sinh ra chín đoá phù dung.
++秀出九芙蓉。
+
+*Ta muốn đưa tay ra vẫy.
++我欲一揮手。
+
+*Ai là người sẽ đến cùng đây.
++誰人可相從。
+
+*Ông là chủ phương Đông.
++君為東道主。
+
+*Đến đấy ở ẩn dưới cây tùng.
++於此臥雲松。
+
+*Vọng Chung Nam sơn ký Tử Các ẩn giả.
++望終南山寄紫閣隱者。
+
+*Ra cửa gặp ngay núi Nam sơn.
++出門見南山。
+
+*Ý tưởng đến với ta không ngừng.
++引領意無限。
+
+*Cái tên không nói lên hết được vẻ đẹp.
++引領意無限。
+
+*Núi, cỏ xanh biêng biếc chói loà ánh mặt trời.
++秀色難為名。
+
+*Có lúc mây trắng đùn đến từng mảng.
++蒼翠日在眼。
+
+*Trời bỗng như mở ra những khoảng riêng.
++有時白雲起。
+
+*Tâm nằm ở trong chốn tự nhiên.
++天際自舒捲。
+
+*Nâng cao hứng như không bao giờ cạn.
++心中與之然。
+
+*Cảnh như thế sao lại có người ở ẩn.
++托興每不淺。
+
+*Đến nơi dừng chân cũng xoá vết tích trên núi cao.
++滅跡棲絕巘。
+
+*Trông ra bãi Anh Vũ nhớ Nễ Hành.
++望鸚鵡洲懷禰衡。
+
+*Vua Nguỵ trấn giữ tám cõi.
++蟻觀一禰衡。
+
+*Coi bằng kiến, chỉ có một Nễ Hành.
++黃祖斗筲人。
+
+*Hoàng Tổ đấu với tên trộm.
++殺之受惡名。
+
+*Giết hắn để mang tiếng xấu.
++吳江賦鸚鵡。
+
+*Sông Ngô viết bài phú Anh Vũ.
++落筆超群英。
+
+*Bút hạ xuống vượt mọi người tài.
++鷙鶚啄孤鳳。
+
+*Từng tiếng, từng tiếng như tiếng ngọc vàng rung.
++千春傷我情。
+
+*Từng câu, từng câu như bay như hót.
++五嶽起方寸。
+
+*Chim chí ngạc mổ chim phượng đi lẻ.
++隱然詎可平。
+
+*Nghìn xuân làm xót tình ta.
++才高竟何施。
+
+*Núi Ngũ Nhạc nổi lên ở phương trời hụt,.
++寡識冒天刑。
+
+*Dù có giấu mình há được yên.
++至今芳洲上。
+
+*Tài cao làm sao mà thi thố.
++蘭蕙不忍生。
+
+*Thử mượn roi ngọc của đức vua.
++試借君王玉馬鞭。
+
+*Chỉ huy quân sĩ, ngồi chiếu ngọc.
++指揮戎虜坐瓊筵。
+
+*Gió nam thổi sạch bụi bậm giặc Hồ.
++南風一掃胡塵靜。
+
+*Vào Trường An ở phương tây, bên cạnh đức vua.
++西入長安到日邊。
+
+*Vương hiền của hoàng đế vào quan ải đất Sở.
++帝寵賢王入楚關。
+
+*Quét sạch sông Trường Giang và sông Hán, mới ưng trở về.
+.
++掃清江漢始應還。
+
+*Ban đầu xây lầu son nơi đầm Vân Mộng.
++初從雲夢開朱邸。
+
+*Lại thêm tới Kim Lăng làm giả sơn.
++更取金陵作小山。
+
+*Rồng tổ nổi trên biển nhưng không thể làm cầu [lên tiên giới].
++祖龍浮海不成橋。
+
+*Vua Hán Vũ đế tìm cõi tiên bắn suông con long giao.
++漢武尋陽空射蛟。
+
+*Thuyền lầu của Vương ta xem thường thời Tần Hán.
++我王樓艦輕秦漢。
+
+*Không giống vua Văn đế, muốn tiến xa hơn.
++卻似文皇欲渡遼。
+
+*Gió thổi lâu, quân ta kéo buồm lên.
++長風掛席勢難回。
+
+*Khí thế động biển nghiêng núi đi giết giặc khó mà hồi chuyển.
++海動山傾古月摧。
+
+*Các ông hãy coi người con của hoàng đế trên mặt sông hôm đó.
++君看帝子浮江日。
+
+*Thật giống Long Tương xuất quân từ Tam Giáp.
++何似龍驤出峽來。
+
+*Vương ra khỏi Tam Sơn ngăn chặn Ngũ Hồ.
++王出三山按五湖。
+
+*Thuyền lầu ra biển sau đó theo đoàn về [Nam] đô.
++樓船跨海次陪都。
+
+*Chiến hạm san sát vây bắt giặc dữ.
++戰艦森森羅虎士。
 
