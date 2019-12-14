@@ -3435,3 +3435,2522 @@ Kiếm Các hiểm ải bắc Thục môn.
 
 *Tình chàng cùng ý thiếp.
 +君情與妾意。
+
+*Bắt chước ý xưa kỳ 5.
++擬古其五。
+
+*Sống như khách bộ hành qua đường.
++生者為過客。
+
+*Chết giống như người trở về.
++死者為歸人。
+
+*Trời đất khác chi quán trọ trần gian.
++天地一逆旅。
+
+*Cùng chịu đau khổ như đám bụi trần.
++同悲萬古塵。
+
+*Con thỏ trong trăng mãi nghiền thuốc.
++月兔空搗藥。
+
+*Dâu xanh đã hoá thành củi khô.
++扶桑已成薪。
+
+*Xương trắng âm thầm biết nói gì.
++白骨寂無言。
+
+*Cây thông xanh nào biết đến mùa xuân.
++青松豈知春。
+
+*Mọi việc trước sau gì cũng thở than.
++前後更嘆息。
+
+*Công danh phú quý nào đâu bền vững, có đáng chi.
++浮榮安足珍。
+
+*Bài ca trăng núi Nga My tiễn Thục tăng tên Yến lên kinh đô.
++峨眉山月歌送蜀僧晏入中京。
+
+*Nhìn trăng phía tây nhớ Nga Mi.
++我在巴東三峽時。
+
+*Từ núi Nga Mi trăng soi biển.
++西看明月憶峨眉。
+
+*Trên đường vạn dặm theo người đi.
++月出峨眉照滄海。
+
+*Trước lầu Hoàng Hạc trắng hoa trăng.
++與人萬里長相隨。
+
+*Nơi đây gặp khách Nga Mi quen.
++黃鶴樓前月華白。
+
+*Tiễn anh trăng Nga Mi về lại.
++此中忽見峨眉客。
+
+*Nẽo Trường An gió thổi đến chăng.
++峨眉山月還送君。
+
+*Trường An đường lớn ngáng ngang trời.
++風吹西到長安陌。
+
+*Đất Tần trăng chiếu sáng nơi nơi.
++長安大道橫九天。
+
+*Có sư tử vàng trên cao tọa.
++峨眉山月照秦川。
+
+*Bạch Ngọc, Vĩ, Huyền nói chuyện chơi.
++黃金獅子乘高座。
+
+*Tôi như mây nổi trụy Việt Ngô.
++白玉麈尾談重玄。
+
+*Anh gặp vua hiền du đế đô.
++我似浮雲殢吳越。
+
+*Danh lớn rồi sẽ vang cung khuyết.
++君逢聖主遊丹闕。
+
+*Đến một ngày kia khi chán việc.
++一振高名滿帝都。
+
+*Về Nga Mi đùa trăng với tôi.
++歸時還弄峨眉月。
+
+*Trăng lên đầu núi Nga My.
++峨嵋山月。
+
+*Nga Mi trăng núi nửa vầng thu.
++峨嵋山月半輪秋。
+
+*Soi bóng Bình Khương lấp lánh trôi.
++影入平羌江水流。
+
+*Thanh Khê chảy hướng về Tam Giáp.
++夜發清溪向三峽。
+
+*Ở tại Du Châu vẫn ngóng người.
++思君不見下渝州。
+
+*Gửi vợ khi đày xuống nam Dạ Lang.
++南流夜郎寄內。
+
+*Ngoài cõi Dạ Lang oán phận đày.
++夜郎天外怨離居。
+
+*Lầu trăng tin tức có đâu hay.
++明月樓中音信疏。
+
+*Xuân về nhạn bắc xem chừng hết.
++北雁春歸看欲盡。
+
+*Nam đến Dự Chương chẳng có thư.
++南來不得豫章書。
+
+*Từ biệt các con để vào kinh đô.
++南陵別兒童入京。
+
+*Rượu vừa ngấu ta về nhà núi.
++白酒新熟山中歸。
+
+*Gà đang ăn ngô lúa thảnh thơi.
++黃雞啄黍秋正肥。
+
+*Kêu con nấu món uống chơi.
++呼童烹雞酌白酒。
+
+*Các con nắm áo vui cười với ta.
++兒女嬉笑牽人衣。
+
+*Cất cao giọng ngâm nga an ủi.
++高歌取醉欲自慰。
+
+*Rút kiếm ra múa với mặt trời.
++起舞落日爭光輝。
+
+*Trăm ngàn mong đợi vua vời.
++游說萬乘苦不早。
+
+*Cầm roi lên ngựa chân trời ruổi rong.
++著鞭跨馬涉遠道。
+
+*Mãi Thần vợ khinh trong huyện Cối.
++會稽愚婦輕買臣。
+
+*Ta cũng đi vào cõi Tần tây.
++余亦辭家西入秦。
+
+*Cả cười ngửa mặt trông trời.
++仰天大笑出門去。
+
+*Đời ta há chẳng vốn người phiêu lưu.
++我輩豈是蓬蒿人。
+
+*Mơ đi chơi núi Thiên Mụ, làm thơ để lại lúc từ biệt.
++夢遊天姥吟留別。
+
+*Chỉ riêng người ở Chiết Giang.
++海客談瀛洲。
+
+*Biết hòn Thiên Mụ chắn ngang chân trời.
++煙濤微茫信難求。
+
+*Ráng mờ thấp thoáng ngoài khơi.
++越人語天姥。
+
+*Thế hơn Ngũ Nhạc vượt nơi Xích Thành.
++雲霓明滅或可睹。
+
+*Thiên Đài cao tận trời xanh.
++天姥連天向天橫。
+
+*So cùng Thiên Mụ hoá thành lệch ngang.
++勢拔五嶽掩赤城。
+
+*Từ đây mơ trẩy về nam.
++天台四萬八千丈。
+
+*Một đêm thoắt đã bay ngang Kính Hồ.
++對此欲倒東南傾。
+
+*Dưới trăng sóng nước nhấp nhô.
++我欲因之夢吳越。
+
+*Bóng ta ánh nước đua xô chân trời.
++一夜飛渡鏡湖月。
+
+*Diễm Khê dưa thẳng tới nơi.
++湖月照我影。
+
+*Ngày xưa ông Tạ thảnh thơi chốn này.
++送我至剡溪。
+
+*Suối trong xah ngắt vươn mây.
++謝公宿處今尚在。
+
+*Vượn kêu lanh lảnh gọi bầy thiết tha.
++淥水蕩漾清猿啼。
+
+*Ngại chi vách đá cao xa.
++腳著謝公屐。
+
+*Khoác giày ông Tạ theo đà vượt non.
++身登青雲梯。
+
+*Lưng chừng sườn núi chon von.
++半壁見海日。
+
+*Ánh dương rãng toả nỉ non tiếng gà.
++空中聞天雞。
+
+*Loanh quanh chẳng rõ lối ra.
++千巖萬壑路不定。
+
+*Núi cao bao lớp lũng hoa bao tầng.
++迷花倚石忽已暝。
+
+*Tựa lưng vách đá tần ngần.
++熊咆龍吟殷巖泉。
+
+*Phút chốc bóng đã xịch gần hoàng hôn.
++慄深林兮驚層巔。
+
+*Gấu kêu rồng thét suối dồn.
++雲青青兮欲雨。
+
+*Rừng cây run sợ núi non hãi hùng.
++水澹澹兮生煙。
+
+*Mây xanh khói nước mông lung.
++列缺霹靂。
+
+*Ầm ầm chớp giật sét rung vang trời.
++邱巒崩摧。
+
+*Núi gò sụt lở nơi nơi.
++洞天石扇。
+
+*Bỗng nhiên cửa đá vang trời mở toang.
++訇然中開。
+
+*Trời cao thăm thẳm mênh mang.
++青冥浩蕩不見底。
+
+*Dưới trời lầu tía gác vàng sáng trông.
++日月照耀金銀臺。
+
+*Thần mây ráng áo cầu vồng.
++霓為衣兮風為馬。
+
+*Gió đưa làm ngựa bềnh bồng xuống chơi.
++雲之君兮紛紛而來下。
+
+*Gảy đàn hổ sát theo nơi.
++虎鼓瑟兮鸞回車。
+
+*CHim loan đưa đón tiên cười dạo quanh.
++仙之人兮列如麻。
+
+*Mắt nhìn trông thấy mà kinh.
++忽魂悸以魄動。
+
+*Hoàng hồn tỉnh dậy thấy mình nằm trơ.
++怳驚起而長嗟。
+
+*Còn đâu cảnh đẹp trong mơ.
++惟覺時之枕席。
+
+*Cuộc đời vui thú ngẩn ngơ thế này.
++失向來之煙霞。
+
+*Từ xưa muôn cuộc tỉnh say.
++世間行樂亦如此。
+
+*Sóng tuôn biển cả chẳng hay quay về.
++古來萬事東流水。
+
+*Giã anh chẳng hẹn ngày về.
++別君去兮何時還。
+
+*Tạm cùng hươu trắng mải mê đá ghềnh.
++且放白鹿青崖間。
+
+*Núi non danh thắng hoan nghênh.
++須行即騎訪名山。
+
+*Phải chi quỳ gối khom mình bọn ranh.
++安能摧眉折腰事權貴。
+
+*Khiến ta mất mặt sao đành.
++使我不得開心顏。
+
+*Người gội tắm.
++沐浴子。
+
+*Tắm hoa áo quấn mình.
++浴蘭莫振衣。
+
+*Xông hương đừng bỏ mũ.
++沐芳莫彈冠。
+
+*Xử thế kỵ thanh bạch.
++處世忌太潔。
+
+*Gặp người đừng khoe danh.
++志人貴藏暉。
+
+*Sóng biếc ông câu cá.
++滄浪有釣叟。
+
+*Ta bạn một ý chung.
++吾與爾同歸。
+
+*Tặng người đẹp trên đường.
++陌上贈美人。
+
+*Tuấn mã kiêu hùng đi giẫm trên những đoá hoa rụng.
++駿馬驕行踏落花。
+
+*Buông roi xuống đánh một cái vào chiếc xe ngũ vân.
++垂鞭直拂五雲車。
+
+*Người đẹp mỉm cười, vén rèm châu lên.
++美人一笑褰珠箔。
+
+*Chỉ tay về phía xa, nói lầu hồng đấy là nhà thiếp.
++遙指紅樓是妾家。
+
+*Bài hát núi Lư gửi thị ngự Lư Hư Chu.
++廬山謠寄盧侍御虛舟。
+
+*Đi tìm núi Ngũ Nhạc chẳng quản xa xôi.
++我本楚狂人。
+
+*Suốt đời thích vào chơi núi non nổi tiếng.
++鳳歌笑孔丘。
+
+*Ta vốn kẻ điên cuồng nước Sở.
++手持綠玉杖。
+
+*Vổ kiếm ca cười cả Khổng Khâu.
++朝別黃鶴樓。
+
+*Sớm từ lầu Hạc rời mau.
++朝別黃鶴樓。
+
+*Chống cây gậy biếc sáng màu ngọc xanh.
++五嶽尋仙不辭遠。
+
+*Non Ngũ Nhạc xa xôi nào quản.
++一生好入名山遊。
+
+*Cả một đời thanh thản núi non.
++廬山秀出南斗傍。
+
+*Lư Sơn Nam Đẩu chập chờn.
++屏風九疊雲錦張。
+
+*"Bình phong cửu điệp" mây ngàn gấm thêu.
++影落明湖青黛光。
+
+*Mây lững thững in soi đáy nước.
++金闕前開二峰長。
+
+*Mặt hồ thu óng mượt sáng xanh.
++銀河倒挂三石梁。
+
+*Non cao một dãy hoàng thành.
++香爐瀑布遙相望。
+
+*Cầu treo lơ lững bến tình sông Ngân.
++迴崖沓障淩蒼蒼。
+
+*Ngọn Bộc Bố Hương Lư tương vọng.
++翠影紅霞映朝日。
+
+*Vách cheo leo gió lộng đỉnh cao.
++鳥飛不到吳天長。
+
+*Cầu vòng buổi sớm bảy màu.
++登高壯觀天地間。
+
+*Chim bay chẳng vượt trời Ngô muôn trùng.
++大江茫茫去不黃。
+
+*Trèo lên đỉnh Lư Sơn nhìn lại.
++黃雲萬里動風色。
+
+*Nước đại giang trôi mãi không về.
++白波九道流雪山。
+
+*Mây vàng muôn dặm sơn khê.
++好為廬山謠。
+
+*Sóng cuồng chín nẻo bốn bề tuyết tan.
++興因廬山。
+
+*Ta thích thú hứng thời cảm tác.
++閑窺石鏡清我心。
+
+*Viết cho đời khúc hát Lư sơn.
++謝公行處蒼苔沒。
+
+*Cảnh nhàn Thạch Kính tịnh tâm.
++早服還丹無世情。
+
+*Tạ Linh lối cũ xanh trùm rêu phong.
++琴心三疊道初成。
+
+*Ngày sương sớm linh đơn tiên luyện.
++遙見仙人彩雲裡。
+
+*Vận ngũ hành tâm chuyển vô vi.
++手把芙蓉朝玉京。
+
+*Thoáng xa ngọc nữ nhu mì.
++先期汗漫九垓上。
+
+*Đón Lư ẩn sĩ viếng trời Thái Thanh.
++願接盧敖遊太清。
+
+*Bài ca nước trong.
++淥水曲。
+
+*Nước biếc bóng trăng soi.
++淥水明秋月。
+
+*Hồ Nam hái tần tươi.
++南湖採白蘋。
+
+*Hoa sen xinh cất tiếng.
++荷花嬌欲語。
+
+*Say lòng khách dạo chơi.
++愁殺蕩舟人。
+
+*Bài hát núi Lư gửi thị ngự Lư Hư Chu.
++廬山謠寄盧侍御虛舟。
+
+*Ngã bản Sở cuồng nhân.
++我本楚狂人。
+
+*Cuồng ca tiếu Khổng Khâu.
++鳳歌笑孔丘。
+
+*Thủ trì lục ngọc trượng.
++手持綠玉杖。
+
+*Triêu biệt Hoàng Hạc lâu.
++朝別黃鶴樓。
+
+*Ngũ Nhạc tầm sơn bất từ viễn.
++五嶽尋仙不辭遠。
+
+*Nhất sinh hiếu nhập danh sơn du.
++一生好入名山遊。
+
+*Lư Sơn tú xuất Nam Đẩu bàng.
++廬山秀出南斗傍。
+
+*Bình phong cửu điệp vân cẩm trướng.
++屏風九疊雲錦張。
+
+*Ảnh lạc minh hồ thanh đại quang.
++影落明湖青黛光。
+
+*Kim khuyết tiền khai nhị phong trường.
++金闕前開二峰長。
+
+*Ngân hà đảo quải tam thạch lương.
++銀河倒挂三石梁。
+
+*Hương Lư Bộc Bố dao tương vọng.
++香爐瀑布遙相望。
+
+*Hồi nhai đạp chướng lăng thương thương.
++迴崖沓障淩蒼蒼。
+
+*Thuỷ ảnh hồng hà ánh triêu nhật.
++翠影紅霞映朝日。
+
+*Điểu phi bất đáo ngô thiên trường.
++鳥飛不到吳天長。
+
+*Đăng cao tráng quan thiên địa gian.
++登高壯觀天地間。
+
+*Đại giang mang mang khứ bất hoàn.
++大江茫茫去不黃。
+
+*Hoàng vân vạn lý động phong sắc.
++黃雲萬里動風色。
+
+*Bạch ba cửu đạo lưu tuyết sơn.
++白波九道流雪山。
+
+*Hảo vi Lư Sơn dao.
++好為廬山謠。
+
+*Hứng nhân Lư Sơn phát.
++興因廬山發。
+
+*Nhàn khuy Thạch Kính thanh ngã tâm.
++閑窺石鏡清我心。
+
+*Tạ Công hành xứ thương đài một.
++謝公行處蒼苔沒。
+
+*Tảo phục hoàn đan vô thế tình.
++早服還丹無世情。
+
+*Cầm tâm tam điệp đạo sơ thành.
++琴心三疊道初成。
+
+*Dao kiến tiên nhân thái vân lý.
++遙見仙人彩雲裡。
+
+*Thủ bả phù dung triều Ngọc Kinh.
++手把芙蓉朝玉京。
+
+*Tiên kỳ mãn hạn cửu cai thượng.
++先期汗漫九垓上。
+
+*Nguyện tiếp Lư Ngao du Thái Thanh.
++願接盧敖遊太清。
+
+*Uống đã mấy ngày chưa đi được.
++醉別復幾日。
+
+*Lại rong chơi lầu gác ao chuôm.
++登臨遍池臺。
+
+*Hôm nay tới núi Thạch Môn.
++何時石門路。
+
+*Lại làm chầu nữa khi còn bên nhau.
++重有金樽開。
+
+*Sóng thu nổi trắng phau sông Tứ.
++秋波落泗水。
+
+*Núi Tồ Lai nét rõ cuối trời.
++海色明徂徠。
+
+*Ta như thân cỏ sắp rời.
++飛蓬各自遠。
+
+*Rượu nồng đang có, ta thời cạn nao.
++且盡手中杯。
+
+*Hát lúc lâm chung.
++臨路歌。
+
+*Đại bàng bay tám phương lừng lẫy.
++大鵬飛兮振八裔。
+
+*Nhưng giữa trời cánh gẫy, than ôi.
++中天摧兮力不濟。
+
+*Chỉ còn phong cách để đời.
++餘風激兮萬世。
+
+*Cây phù tang tới trút hơi cuối cùng.
++遊扶桑兮掛石袂。
+
+*Đời sau ai có cảm thông.
++後人得之傳此。
+
+*Trọng Ni đã khuất, lệ hồng ai rơi.
++仲尼亡兮誰為出涕。
+
+*Bài ca đình Lao Lao.
++勞勞亭歌。
+
+*Gió hiu hắt thổi nhuốm sầu bạch dương.
++金陵勞勞送客堂。
+
+*Khi tôi mới bước lên thuyền.
++蔓草離離生道旁。
+
+*Tuy vui nhưng đã vấn vương tâm tình.
++古情不盡東流水。
+
+*Sương bay theo tiếng thơ ngâm.
++此地悲風愁白楊。
+
+*Bến xưa Ngưu Chử vọng âm như còn.
++我乘素舸同康樂。
+
+*Nào đâu Tạ Thượng, Viên Hoằng.
++朗詠清川飛夜霜。
+
+*Tiếng ai như muốn lay trăng thu tàn.
++昔聞牛渚吟五章。
+
+*Đêm nay một bóng trên thuyền.
++今來何謝袁家郎。
+
+*Mộng dài theo giấc cô miên nhập về.
++苦竹寒聲動秋月。
+
+*Người đời đau khổ dường bao.
++天下傷心處。
+
+*Là nơi tiễn khách Lao Lao đình này.
++勞勞送客亭。
+
+*Gió xuân như cũng thấu hay.
++春風知別苦。
+
+*Không cho cành liễu điểm đầy xanh non.
++不遣柳條青。
+
+*Soi gương viết nỗi lòng.
++覽鏡書懷。
+
+*Trước tới nay chưa hề thành đạt.
++得道無古今。
+
+*Thất bại rồi thân xác suy tàn.
++失道還衰老。
+
+*Soi gương mà tự cười khan.
++自笑鏡中人。
+
+*Sương pha mái tóc trắng lan khắp đầu.
++白髮如霜草。
+
+*Tự xét lòng nỗi đau cam chịu.
++捫心空嘆息。
+
+*Bóng khô khan vẫn níu mà thôi.
++問影何枯槁。
+
+*Lý đào đâu nói tiếng người.
++問影何枯槁。
+
+*Núi nam rút cuộc thân tôi ông già.
++終成南山皓。
+
+*Chiều tối nhớ trong núi.
++落日憶山中。
+
+*Sau cơn mưa thành xanh cảnh khói.
++雨後煙景綠。
+
+*Trời trong veo ráng cũng tan rồi.
++晴天散餘霞。
+
+*Gió đông theo dáng xuân tươi.
++東風隨春歸。
+
+*Làm hoa đua nở vui cười trên cây.
++發我枝上花。
+
+*Nhưng hoa rụng lúc ngày vừa hết.
++花落時欲暮。
+
+*Làm người than cho kiếp hoa tàn.
++見此令人嗟。
+
+*Nguyện vào thăm chốn núi non.
++愿遊名山去。
+
+*Tìm thày học cách bay còn luyện đan.
++學道飛丹沙。
+
+*Gửi Vương Hán Dương.
++寄王漢陽。
+
+*Trăng thu hồ miền nam trắng xoá.
++南湖秋月白。
+
+*Quan họ Vương cũng có cùng chơi.
++王宰夜相邀。
+
+*Thuyền sang quan bác say rồi.
++錦帳郎官醉。
+
+*Vũ công áo lụa tuyệt vời vẻ xinh.
++羅衣舞女嬌。
+
+*Tiếng sáo rộn cả vùng Miện Ngạc.
++笛聲喧沔鄂。
+
+*Lời ca bay tới lớp mây trời.
++歌曲上雲霄。
+
+*Giã từ ta cũng buồn thôi.
++別後空愁我。
+
+*Nhớ vùng sông nước xa xôi mịt mờ.
++相思一水遙。
+
+*Gửi đi xa kỳ 11.
++寄遠其十一。
+
+*Yêu ai, phù dung thướt tha ngời ngợi sắc.
++愛君芙蓉嬋娟之艷色。
+
+*Sắc lấy được chừ nan tái đắc.
++色可餐兮難再得。
+
+*Thương ai, ngọc lạnh trong màu soi sáng tâm.
++憐君冰玉清迥之明心。
+
+*Tình vô cùng chừ ý thâm trầm.
++情不極兮意已深。
+
+*Sáng ngọc lang can rồi lộc lụa.
++朝共琅軒之綺食。
+
+*Đêm hợp uyên ương lại gấm chăn.
++夜同鴛鴦之錦衾。
+
+*Ân tình quyến luyến sinh ly biệt.
++恩情婉孌忽為別。
+
+*Để người không lẫn loạn sầu tâm.
++使人莫錯亂愁心。
+
+*Loạn sầu tâm lệ như tuyết.
++亂愁心，涕如雪。
+
+*Đèn lạnh mộng thôi hồn muốn tuyệt.
++寒燈厭夢魂欲絕。
+
+*Tương tư chợt đến sinh tóc bạc.
++覺來相思生白發。
+
+*Sông Hán cuồn cuộn như sông Việt.
++盈盈漢水若可越。
+
+*Đáng tiếc sóng băng trôi rời rạc.
++可惜凌波步羅襪。
+
+*Mỹ nhân mỹ nhân chừ về đi thôi.
++美人美人兮歸去來。
+
+*Đừng đem triêu vân mộ vũ chừ bay Dương Đài.
++莫作朝雲暮雨兮飛陽台。
+
+*Gửi đi xa.
++寄遠。
+
+*Khi người đẹp ở đây, hoa nở đầy nhà.
++美人在時花滿堂。
+
+*Khi người đẹp đi rồi, chỉ còn dư cái giường không.
++美人去後餘空床。
+
+*Trên giường chăn gấm đã cuốn lại không ai nằm.
++床中繡被卷不寢。
+
+*Nay đã ba năm còn nghe mùi hương thừa lại.
++至今三載聞餘香。
+
+*Hương cũng rốt cuộc không bay đi hết.
++香亦竟不滅。
+
+*Người thì cũng rốt cuộc không trở lại.
++人亦竟不來。
+
+*Nhớ nhung lá vàng đã rụng hết.
++相思黃葉落。
+
+*Sương trắng làm ướt rêu xanh.
++白露濕青苔。
+
+*Qua cầu Dĩ đất Hạ Bì nhớ Trương Tử Phòng.
++經下邳圯橋懷張子房。
+
+*Tử Phòng hùm chửa thét.
++子房未虎嘯。
+
+*Sản nghiệp tiêu chẳng màng.
++破產不為家。
+
+*Thương Hải gặp tráng sĩ.
++滄海得壯士。
+
+*Chuỳ đánh Tần Thỉ Hoàng.
++椎秦博浪沙。
+
+*Thù nước chưa báo được.
++報韓雖不成。
+
+*Đất trời rền tiếng vang.
++天地皆振動。
+
+*Hạ Bì ngầm đến dạo.
++潛匿遊下邳。
+
+*Trí dũng há sao không.
++豈曰非智勇。
+
+*Cầu Dĩ nay tới đó.
++我來圯橋上。
+
+*Chuyện cũ ngợi anh hùng.
++懷古欽英風。
+
+*Nước biếc một dòng chảy.
++惟見碧流水。
+
+*Đâu rồi Hoàng Thạch Công.
++曾無黃石公。
+
+*Than tiếc người xưa khuất.
++嘆息此人去。
+
+*Thành cũ giờ vắng không.
++蕭條徐泗空。
+
+*Lưu biệt quán rượu ở Kim Lăng.
++金陵酒肆留別。
+
+*Quán ngạt ngào hương gió liễu bay.
++風吹柳花滿店香。
+
+*Cô hàng rượu đẹp ép người say.
++吳姬壓酒喚客嘗。
+
+*Kim Lăng bạn trẻ ra đưa tiễn.
++金陵子弟來相送。
+
+*Kẻ ở người đi cạn chén đầy.
++欲行不行各盡觴。
+
+*Nhờ ai hỏi nước Trường Giang thử.
++請君試問東流水。
+
+*Nước ấy tình kia ai vắn dài.
++別意與之誰短長。
+
+*Bài ca về người kỹ nữ ở Kim Lăng.
++金陵子詞。
+
+*Con ai phía đông Kim Lăng thành.
++金陵城東誰家子。
+
+*Trộm nghe tiếng cầm sau cửa xanh.
++竊聽琴聲碧窗裏。
+
+*Đẹp như cánh hoa từ trời rụng.
++落花一片天上來。
+
+*Theo người qua sông Tây giang thanh.
++隨人直渡西江水。
+
+*Giọng Ngô chưa chuẩn bài Sở ca.
++楚歌吳語嬌不成。
+
+*Đa tình thánh thót cách ngân nga.
++似能未能最有情。
+
+*Kỹ nữ Đông Sơn theo Ông Tạ.
++謝公正要東山妓。
+
+*Dắt tay đi khắp chốn giang hà.
++攜手林泉處處行。
+
+*Ngâm thơ dưới trăng lầu tây thành Kim Lăng.
++金陵城西樓月下吟。
+
+*Đêm Kim Lăng lặng yên gió má.
++金陵夜寂涼風發。
+
+*Cả một vùng Ngô Việt ngắm trông.
++獨上高樓望吳越。
+
+*Mây và thành quách bóng lồng.
++白雲映水搖空城。
+
+*Móc như châu báu từ trăng rơi vào.
++白露垂珠滴秋月。
+
+*Ta trầm ngâm khá lâu thú vị.
++月下沉吟久不歸。
+
+*Ý người xưa trùng với người nay.
++古來相接眼中稀。
+
+*"Sông trong, lụa trắng, sạch thay!".
++解道澄江淨如練。
+
+*Ngâm rồi ta nhớ người thày Huyền Huy.
++令人長憶謝玄暉。
+
+*Sáu triều hưng thịnh rồi suy.
++六代興亡國。
+
+*Vì anh ba chén rượu này hát vui.
++三杯為爾歌。
+
+*Đất Tần hoa cỏ ít oi.
++苑方秦地少。
+
+*Lạc Dương nầy núi nọ đồi ngổn ngang.
++山似洛陽多。
+
+*Điện Ngô xưa cỏ ngập tràn.
++古殿吳花草。
+
+*Vắng thiu cung Tấn buông màn lẻ loi.
++深宮晉綺羅。
+
+*Đời người rồi cũng qua thôi.
++併隨人事滅。
+
+*Biển đông sóng biếc tìm chơi chốn nầy.
++東逝與滄波。
+
+*Ở Kim Hương tiễn Vi tám đi Tây Kinh.
++金鄉送韋八之西京。
+
+*Từ Trường An khách đến.
++客自長安來。
+
+*Nhắm Trường An khách về.
++還歸長安去。
+
+*Lòng tôi như gió bão.
++狂風吹我心。
+
+*Hàm Dương cây phủ che.
++西挂咸陽樹。
+
+*Xa nhau gặp lại không.
++此情不可道。
+
+*Tình ấy để trong lòng.
++此別何時遇。
+
+*Ngóng theo người chẳng thấy.
++望望不見君。
+
+*Sương núi phủ mênh mông.
++連山起煙霧。
+
+*Nước trôi hút tận biên thuỳ.
++流水去絕國。
+
+*Mây bay từ tạ chuỗi ngày ải xưa.
++浮雲辭故關。
+
+*Nước còn lưu luyến bến bờ.
++水或戀前浦。
+
+*Mây rồi có lúc lững lơ núi nhà.
++雲猶歸舊山。
+
+*Hận chàng đến bãi Lưu Sa.
++恨君流沙去。
+
+*Nở lòng bỏ thiếp lạc bờ Ngư Dương.
++棄妾漁陽間。
+
+*Đêm đêm mộng nhớ thương chàng.
++玉箸夜垂流。
+
+*Châu sa đũa ngọc, má hồng phôi phai.
++雙雙落朱顏。
+
+*Cùng hoàng oanh, nổi u hoài.
++黃鳥坐相悲。
+
+*Nay ai vin cánh liễu ngời biếc xanh.
++綠楊誰更攀。
+
+*Dệt hoa gấm, xót khuê tình.
++織錦心草草。
+
+*Đèn khuya hiu hắt lunh linh giọt sầu.
++挑燈淚斑斑。
+
+*Khuê phòng đối ảnh mà đau.
++窺鏡不自識。
+
+*Chàng về có lẻ nhìn nhau giụa giàn.
++況乃狂夫還。
+
+*Khốc Tuyên Thành thiện nhưỡng Kỷ tẩu.
++哭宣城善釀紀叟。
+
+*Ông lão Kỷ đã xuống suối vàng.
++紀叟黃泉裏。
+
+*Vẫn còn cất rượu lão xuân.
++還應釀老春。
+
+*Ở dưới đó không có Lý Bạch.
++夜臺無李白。
+
+*Vậy lão bán rượu cho ai.
++沽酒與何人。
+
+*Khóc Triều Khanh Hành.
++哭晁卿衡。
+
+*Ông Triều Khanh người Nhật từ giã đế đô.
++日本晁卿辭帝都。
+
+*Cánh buồm đi xa cứ quanh quẩn mãi ở đảo Bồng Hồ.
++征帆一片繞蓬壺。
+
+*Trăng sáng không theo ông về biển xanh.
++明月不歸沉碧海。
+
+*Mây trắng buồn vương khắp núi Thương Ngô.
++白雲愁色滿蒼梧。
+
+*Đọc tặng ông trưng quân Lư Hồng khi bị vua vời.
++口號贈徵君廬鴻此公時被召。
+
+*Đào Tiềm từ chức lệnh Bành Thạch.
++陶令辭彭澤。
+
+*Lương Hồng vào Cối Kê.
++梁鴻入會稽。
+
+*Ta tìm truyện các danh nhân.
++我尋高士傳。
+
+*Thấy ông với người xưa giống nhau.
++君與古人齊。
+
+*Mây lơ lửng trên hang núi đỏ.
++雲臥留丹壑。
+
+*Chiếu vua vời với dấu ấn tía gửi tới.
++天書降紫泥。
+
+*Không biết truyện Dương Bá Khởi.
++不知楊伯起。
+
+*Sớm muộn gì ông cũng trở về Quan Tây.
++早晚向關西。
+
+*Thơ làm nơi đất khách.
++客中作。
+
+*Rượu ngon đất Lan Lăng thơm mùi hoa uất kim.
++蘭陵美酒鬱金香。
+
+*Đựng trong chén ngọc sáng màu hổ phách.
++玉碗盛來琥珀光。
+
+*Nếu như chủ nhân biết làm cho khách say.
++但使主人能醉客。
+
+*Thì còn biết nơi nào là tha hương.
++不知何處是他鄉。
+
+*Gã đan tất.
++結襪子。
+
+*Tráng sĩ miền nam nước Yên và hào kiệt đất Ngô.
++燕南壯士吳門豪。
+
+*Dấu dao cùn trong đàn trúc, dấu đao trong bụng cá.
++築中置鉛魚隱刀。
+
+*Cảm ơn vua nên đem tính mạng đền ơn.
++感君恩重許君命。
+
+*Gieo núi Thái Sơn nhẹ như lông chim hồng.
++太山一擲輕鴻毛。
+
+*Người đàn bà hái sen bên hồ.
++湖邊採蓮婦。
+
+*Cô em dệt gai trắng.
++小姑織白紵。
+
+*Chưa biết nói với người.
++未解將人語。
+
+*Chị dâu hái phù dung.
++大嫂采芙蓉。
+
+*Khe hồ ngàn vạn lá.
++溪湖千萬重。
+
+*Anh lớn đi chẳng về.
++長兄行不在。
+
+*Đừng để người ngoài gặp.
++莫使外人逢。
+
+*Nguyện học vợ Thu Hồ.
++願學秋胡婦。
+
+*Trung trinh như tùng cổ.
++貞心比古松。
+
+*Khúc hát sông Hoành kỳ 1.
++橫江詞其一。
+
+*Người bảo sông Hoành hiền hoà.
++人道橫江好。
+
+*Người bảo sông Hoành hiểm ác.
++儂道橫江惡。
+
+*Một trận gió thổi ba ngày nghiêng núi.
++一風三日吹倒山。
+
+*Sóng trắng cao như gác Ngoã Quan.
++白浪高於瓦官閣。
+
+*Về nam triều biển vượt Tầm Dương.
++海朝南去過尋陽。
+
+*Ngưu Chử hãy còn hiểm Mã Đương.
++牛渚由來險馬當。
+
+*Muốn vượt Hoàng Giang ghê sóng gió.
++橫江欲渡風波惡。
+
+*Nước dâng muôn dặm nỗi sầu thương.
++一水牽愁萬里長。
+
+*Hoành giang tây vọng trở tây Tần.
++橫江西望阻西秦。
+
+*Hán thuỷ đông liên Dương Tử tân.
++漢水東連揚子津。
+
+*Bạch lãng như sơn na khả độ.
++白浪如山那可渡。
+
+*Cuồng phong sầu sát tiễu phàm nhân.
++狂風愁殺峭帆人。
+
+*Hải thần cuộn gió từ Đông.
++海神東過惡風迴。
+
+*Sóng nhồi vách đá muốn tông cửa trời.
++浪打天門石壁開。
+
+*Triêt giang đã tháng tám rồi.
++浙江八月何如此。
+
+*Sóng cao như núi tuyết phơi bọt ngầu.
++濤似連山噴雪來。
+
+*Trước quán Hoành Giang lính đón ta.
++橫江館前津吏迎。
+
+*Phía đông tay trỏ biển mây nhoà.
++向余東指海雲生。
+
+*Sang sông nay bác làm chi đó .
++郎今欲渡緣何事。
+
+*Sóng gió dường này khó nỗi qua.
++如此風波不可行。
+
+*Thuyền gỗ sa đường, lái mộc lan.
++木蘭之枻沙棠舟。
+
+*Hai đầu sáo ngọc hoạ tiêu vàng.
++玉簫金管坐兩頭。
+
+*Nghìn bình rượu quí trên thuyền sẵn.
++美酒樽中置千斛。
+
+*Theo sóng ca nhi chở mấy nàng.
++載妓隨波任去留。
+
+*Cỡi hạc người xưa khuất đã lâu.
++仙人有待乘黃鶴。
+
+*Quên đời khách biển dõi chim âu.
++海客無心隨白鷗。
+
+*Khuất Bình từ phú đời lưu lại.
++屈平詞賦懸日月。
+
+*Vua Sở lâu đài đống cỏ khâu.
++楚王臺榭空山丘。
+
+*Bút hứng khi say chuyển núi non.
++興酣落筆搖五嶽。
+
+*Tiếng thơ ngạo nghễ vượt bên cồn.
++詩成笑傲凌滄洲。
+
+*Công danh phú quí như còn mãi.
++功名富貴若長在。
+
+*Hán Thuỷ sông kia chẩy ngược dòng.
++漢水亦應西北流。
+
+*Trên sông tiễn nữ đạo sĩ Trữ Tam Thanh đi chơi Nam Nhạc.
++江上送女道士褚三清遊南嶽。
+
+*Nàng là đạo sĩ Ngô Giang.
++吳江女道士。
+
+*Làm khi hầu vua đi chơi nghỉ lại cung có suối nước nóng.
++侍從遊宿溫泉宮作。
+
+*Vũ Lâm mười hai tướng.
++羽林十二將。
+
+*Uy nghi tựa sao trời.
++羅列應星文。
+
+*Sương đêm vầng nguyệt rạng.
++霜仗懸秋月。
+
+*Mây tối bóng cờ bay.
++霓旌卷夜雲。
+
+*Ngàn hộ canh nghiêm mật.
++嚴更千戶肅。
+
+*Chín tầng vang nhạc hay.
++清樂九天聞。
+
+*Vẻ lành ngời vầng nhật.
++日出瞻佳氣。
+
+*Rực rỡ đón vua tài.
++蔥蔥繞聖君。
+
+*Suối Thanh Khê làm ta lòng sáng.	
++清溪清我心。
+
+*Sắc nước đây không giống nước nào.	
++借問新安江。
+
+*Tân An thử hỏi xem sao.	
++見底何如此？
+
+*Đáy trong có được phần nào đáy đây.	
++人行明鏡中。
+
+*Người đi bóng chiếu ngay trên kính.
++烏度屏風里。
+
+*Chim phong bay trong cảnh giống bình.	
++向晚猩猩啼。
+
+*Chiều về hú vượn tinh tinh.	
++空悲遠游子。
+
+*Khách du bỗng thấy chạnh lòng sầu bi.	
++水色異諸水。
+
+*Bài hành cho Thanh Khê.
++清溪行。
+
+*Mấy gái hái sen ven suối Nhược.
++若耶溪旁採蓮女。
+
+*Trong hoa cười nói vang lên trước.
++笑隔荷花共人語。
+
+*Gió lay tà áo thoáng trên không.
++日照新粧水底明。
+
+*Nắng dọi phấn son lồng ánh nước.
++風飄香袂空中舉。
+
+*Con cái nhà ai giống lẳng lơ.
++岸上誰家遊冶郎。
+
+*Mấy chàng trên bến liễu buông tơ.
++三三五五映垂楊。
+
+*Đường hoa ngựa tía thong dong hí.
++紫騮嘶入落花去。
+
+*Thấy cảnh dùng dằng dạ ngẩn ngơ.
++見此踟躕空斷腸。
+
+*Mặt tưởng là hoa. áo ngỡ mây.
++雲想衣裳花想容。
+
+*Hiên sương phơ phất gió xuân bay.
++春風拂檻露華濃。
+
+*Nếu không gặp gỡ trên Quần Ngọc.
++若非群玉山頭見。
+
+*Dưới nguyệt Dao Đài sẽ gặp ai.
++會向瑤臺月下逢。
+
+*Một nhánh hồng tươi. móc đọng sương.
++一枝紅艷露凝香。
+
+*Mây mưa Vu giúp uổng sầu thương.
++雲雨巫山枉斷腸。
+
+*Hỏi nơi cung Hán ai người giống.
++借問漢宮誰得似。
+
+*Phi Yến còn nhờ mới điểm trang.
++可憐飛燕倚新粧。
+
+*Hoa trời. sắc nước thảy đều vui.
++名花傾國兩相歡。
+
+*Luôn được vua trông với nụ cười.
++長得君王帶笑看。
+
+*Mối hận gió xuân bay thoảng hết.
++解釋春風無限恨。
+
+*Bên đình. thơ thẩn tựa hiên chơi.
++沉香亭北倚闌幹。
+
+*Tiếng sáo ai “Mai Hoa” réo rắt.
++羌笛梅花引。
+
+*Bên suối Ngô trong vắt Lũng sông.
++吳溪隴水清。
+
+*Núi thu bến nước vầng trăng.
++寒山秋浦月。
+
+*Cảm thương ải Ngọc nỗi lòng chinh nhân.
++腸斷玉關情。
+
+*Quân tiểu bích ma thiên.	
++群峭碧摩天。
+	
+*Bát vân tầm cổ đạo.	
++逍遙不記年。
+	
+*Hoa noãn thanh ngưu ngoạ.	
++撥雲尋古道。
+	
+*Ngữ lai giang sắc mộ.	
++倚石聽流泉。
+	
+*Tiêu dao bất kế niên.	
++花暖青牛臥。
+	
+*Ỷ thụ thích lưu tuyền.	
++松高白鶴眠。
+	
+*Tùng cao bạch hạc miên.	
++語來江色暮。
+	
+*Độc tự há hàn yên.	
++獨自下寒煙。
+
+*Tặng Uông Luân.
++贈汪倫。
+
+*Lý Bạch cưỡi thuyền sắp sửa ra đi.
++李白乘舟將欲行。
+
+*Bỗng trên bờ giếng có tiếng chân nhảy nhịp và hát.
++忽聞岸上踏歌聲。
+
+*Nước đầm đào hoa sâu hàng ngàn thước.
++忽聞岸上踏歌聲。
+
+*Không bằng tình Uông Luân tiễn ta.
++不及汪倫送我情。
+
+*Tặng ngài Trọng Tuấn chùa Linh Nguyên ở Tuyên Châu.
++贈宣州靈源寺仲浚公。
+
+*Mây trắng Kính đình bay.
++敬亭白雲氣。
+
+*Vẻ đẹp trải Thương Ngô.
++秀色連蒼梧。
+
+*Nước Song Khê phản chiếu.
++下映雙溪水。
+
+*Trời in bóng gương hồ.
++如天落鏡湖。
+
+*Núi này nhiều long tượng.
++此中積龍象。
+
+*Tuấn Công đứng nhất thôi.
++獨許浚公殊。
+
+*Phong vận trùm Giang Tả.
++風韻逸江左。
+
+*Văn chương động góc trời.
++文章動海隅。
+
+*Quán tâm như thuỷ nguyệt.
++觀心同水月。
+
+*Cởi áo được minh châu.
++解領得明珠。
+
+*Ngày nay gặp Chi Độn.
++今日逢支遁。
+
+*Bàn luận vượt hữu vô.
++高談出有無。
+
+*Tặng trưng quân Tiền Thiếu Dương.
++贈錢徵君少陽。
+
+*Rượu kèo chén ngọc lưng lưng.
++白玉一杯酒。
+
+*Cành dương xanh biếc khoảng chừng tháng ba.
++綠楊三月時。
+
+*Xuân còn mấy buổi thì qua.
++春風餘幾日。
+
+*Đầu xanh hai mái tóc đà thành tơ.
++兩鬢各成絲。
+
+*Châm đèn hãy uống say sưa.
++秉燭唯須飲。
+
+*Buông câu có lúc cũng chưa chậm chầy.
++投竿也未遲。
+
+*Người săn bến Vị có ngày.
++如逢渭川獵。
+
+*Gặp nhau thì cũng đáng thầy đế vương.
++猶可帝王師。
+
+*Đưa cho vợ.
++贈內。
+
+*Ba trăm sáu chục bấy nhiêu ngày.
++三百六十日。
+
+*Nối tiếp ngày ngày ngất ngưởng say.
++日日醉如泥。
+
+*Cứ ngẫm mà so bà Lí Bạch.
++雖為李白婦。
+
+*Vợ chàng Chu Trạch khác gì nhau.
++何異太常妻。
+
+*Tặng Lô tư hộ.
++贈盧司戶。
+
+*Chẳng xa gần dáng thu vẫn thế.
++秋色無遠近。
+
+*Mở cửa đi tới kế chùa Hàn.
++出門盡寒山。
+
+*Cõi xa mây trắng từng quen.
++白雲遙相識。
+
+*Đợi ta ở núi Thương gần nơi đây.
++待我蒼梧間。
+
+*Hỡi Lô chim hạc ham chơi.
++借問盧躭鶴。
+
+*Phương tây bay mãi tới ngày nào lui.
++西飛幾歲還。
+
+*Tặng ông bảy phán quan Hà Xương Hạo.
++贈何七判官昌浩。
+
+*Có lúc ta bỗng nhiên buồn bã.
++有時忽惆悵。
+
+*Ngồi ngay cho tới quá nửa đêm.
++匡坐至夜分。
+
+*Sáng ra huýt sáo huyên thuyên.
++平明空嘯吒。
+
+*Tâm tư muốn gỡ rối trên cõi đời.
++思欲解世紛。
+
+*Tâm theo gió trời đi xa vút.
++心隨長風去。
+
+*Vạn dặm dài mây thoắt thổi tan.
++吹散萬里雲。
+
+*Thẹn thư sinh đất Tế Nam.
++羞作濟南生。
+
+*Chín mươi tuổi vẫn còn ham sách đèn.
++九十誦古文。
+
+*Nên ung dung đứng lên phủi kiếm.
++不然拂劍起。
+
+*Ra sa trường quyết lập chiến công.
++沙漠收奇勛。
+
+*Chết già bờ ruộng bên đường.
++老死阡陌間。
+
+*Lấy gì mà để tiếng thơm cho đời.
++何因揚清芬。
+
+*Ông nay như người xưa Quản, Nhạc.
++夫子今管樂。
+
+*Là anh tài nổi bật trong quân.
++英才冠三軍。
+
+*Cuối cùng rũ áo từ quan.
++終與同出處。
+
+*Há như Trở, Nịch ta làm bạn thân.
++豈將沮溺群。
+*Đầu xuân gửi Vương Hán Dương.
++早春寄王漢陽
+
+* Nghe nói xuân về chưa quen biết.
++走傍寒梅訪消息。
+
+*Lại xem mai mới được tin nhau.
++昨夜東風入武陽。
+
+* Vũ Dương xuân sắc đã vào
++陌頭楊柳黃金色。
+
+*.Liễu dương đầu phố hoa màu vàng phô.
++碧水浩浩雲茫茫。
+
+*Nước mênh mông mây trôi man mác.
++ 美人不來空斷腸。
+
+*Lặng lẽ buồn người đẹp chia tay.
++預拂青山一片石。
+
+*Tính lên phủi phiến đá này.
++與君連日醉壺觴。
+
+*Nhà Đại Hán mưu chước không giỏi.
++大漢無中策。
+
+*Quân Hung Nô phạm đến Vị Kiều.
++匈奴犯渭橋。
+
+*Gò Ngũ Nguyên cỏ thu xanh.
++五原秋草綠。
+
+*Ngựa rợ Hồ sao hung hăng quá thế.
++胡馬一何驕。
+
+*Sai tướng đi đánh miền Tây cực.
++命將征西極。
+
+*Hoành hành bên núi Âm Sơn.
++橫行陰山側。
+
+*Núi Yên Chi rơi vào quân nhà Hán.
++燕支落漢家。
+
+*Đàn bà con gái không còn tươi đẹp.
++婦女無華色。
+
+*Thiên Sơn, tháng năm tuyết.
++五月天山雪。
+
+*Không hoa, rét cóng người.
++無花祇有寒。
+
+*Sáo thổi bài “Chiết liễu”.
++笛中聞折柳。
+
+*Mùa xuân chưa tới nơi.
++春色未曾看。
+
+*Trận sớm theo hiệu trống.
++曉戰隨金鼓。
+
+*Đêm ngủ ôm yên ngồi.
++宵眠抱玉鞍。
+
+*Xin vung thanh gươm quí.
++願將腰下劍。
+
+*Lâu Lan chém chết tươi.
++直為斬樓蘭。
+
+*Binh trời sang cõi Bắc.
++天兵下北荒。
+
+*Ngựa Hồ uống sông Nam.
++胡馬欲南飲。
+
+*Cầm giáo, đánh trăm trận.
++橫戈從百戰。
+
+*Ơn dầy vua đã ban.
++直為銜恩甚。
+
+*Tuyết lạnh, tay vốc uống.
++握雪海上餐。
+
+*Bới cát ngủ làm chăn.
++拂沙隴頭寢。
+
+*Giặc dữ khi nào phá.
++何當破月氏。
+
+*Gối cao, yên chí nằm.
++然後方高枕。
+
+*Tuấn mã chạy như gió.
++駿馬如風飆。
+
+*Thét ra roi thẳng Vị Kiều.
++鳴鞭出渭橋。
+
+*Giương cung từ tạ trăng Hán.
++彎弓辭漢月。
+
+*Mũi tên cắm lông bắn phá giặc trời.
++插羽破天驕。
+
+*Trận tan, tia sáng trên sao tắt.
++陣解星芒盡。
+
+*Doanh vắng, khói biển tiêu tan.
++營空海霧銷。
+
+*Lập công được vẽ tượng trên gác Kỳ Lân.
++功成畫麟閣。
+
+*Chỉ có quan Phiêu Diêu họ Hoắc.
++獨有霍嫖姚。
+
+*Ngựa trắng phi ải Vàng.
++白馬黃金塞。
+
+*Mộng theo làn mây cát.
++雲砂繞夢思。
+
+*Trời xấu mấy gian nan.
++那堪愁苦節。
+
+*Ải ngoài thương trẻ nít.
++遠憶邊城兒。
+
+*Thu về đom đóm bay.
++螢飛秋窗滿。
+
+*Buồng khuê trăng quấn quít.
++月度霜閨遲。
+
+*Tàn rụng lá ngô đồng.
++摧殘梧桐葉。
+
+*Cây gãy cành xơ xác.
++蕭颯沙棠枝。
+
+*Trông ngóng tin thường bặt.
++無時獨不見。
+
+*Một mình lệ lặng tuôn.
++淚流空自知。
+
+*Gặp tiết thu giặc ngoài ải tràn xuống.
++塞虜乘秋下。
+
+*Binh trời ra từ nhà Hán.
++天兵出漢家。
+
+*Tướng quân chi ấn hổ trúc.
++將軍分虎竹。
+
+*Binh sĩ nằm lăn trên bãi Bạch Lonh Đôi.
++戰士臥龍沙。
+
+*Trăng ngoài ải theo lẩn bóng cung.
++邊月隨弓影。
+
+*Sương đất Hồ thấm ướt lưỡi kiếm.
++胡霜拂劍花。
+
+*Ngọc Quan chưa vào được.
++玉關殊未入。
+
+*Vợ trẻ chớ nên than dài.
++少婦莫長嗟。
+
+*Khói lửa rung động ngoài sa mạc.
++烽火動沙漠。
+
+*Soi đến tận mây Cam Tuyền.
++連照甘泉雲。
+
+*Vua Hán chống kiếm dậy.
++漢皇按劍起。
+
+*Lại vời Lý tướng quân.
++還召李將軍。
+
+*Khí quân tụ cả trên trời.
++兵氣天上合。
+
+*Tiếng trống vang dậy ngoài cõi.
++鼓聲隴底聞。
+
+*Tung hoành đầy khí thế.
++橫行負勇氣。
+
+*Yêu quái một trận dẹp tan.
++一戰靜妖氛。
+
+*Đình ông Tạ.
++謝公亭。
+
+*Đây nơi xưa họ Tạ tiễn khách thơ.
++謝公離別處。
+
+*Phong cảnh cũ nhìn đâu cũng gợi sầu.
++風景每生愁。
+
+*Khách đã xa, trăng vẫn sáng xanh màu.
++客散青天月。
+
+*Nước biếc vẫn xuôi dòng bên non vắng.
++山空碧水流。
+
+*Trong ao xuân hoa vẫn tươi trong nắng.
++池花春映日。
+
+*Trúc reo thu bên song cửa hoang tàn.
++窗竹夜鳴秋。
+
+*Xưa và nay vẫn nối tiếp một hàng.
++今古一相接。
+
+*Thơ ngâm mãi nhớ thương về chuyến cũ.
++長歌懷舊遊。
+
+*Hỏi thăm lên núi việc gì.
++問余何意棲碧山。
+
+*Thảnh-thơi ta chẳng nói chi, mỉm cười.
++笑而不答心自閑。
+
+*Hoa đào theo nước chảy xuôi.
++桃花流水杳然去。
+
+*Đất trời riêng biệt, cõi đời thẳm xa.
++別有天地在人間。
+
+*Ở trong núi cùng người ẩn dật uống rượu.
++山中與幽人對酌。
+
+*Trên non đối ẩm, hoa kế bên,.
++兩人對酌山花開。
+
+*Chén nầy, chén nữa, lại chén thêm.
++一杯一杯復一杯。
+
+*Ta say muốn ngủ, ông xuống nhé.
++我醉欲眠卿且去。
+
+*Có tình, mai sớm vác đàn lên.
++明朝有意抱琴來。
+
+*Vừa rời Kim Môn tìm Vương thị ngự không gặp, vịnh con vẹt vẽ trên tường.
++初出金門尋王侍御不遇詠壁上鸚鵡。
+
+*Lông xơ xác giã từ điện ngọc.
++孤鳴吒繡衣。
+
+*Thân cô đơn kêu khóc áo thêu.
++落羽辭金殿。
+
+*Có tài rốt cuộc cũng tiêu.
++能言終見棄。
+
+*Lũng Tây bay thẳng phiêu diêu sông hồ.
++還向隴西飛。
+
+*Đôi én rời nhau.
++雙燕離。
+
+*Nhởn nhơ cặp én bay đôi.
++雙燕復雙燕。
+
+*Bay đôi quấn quít cho người mến yêu.
++雙飛令人羨。
+
+*Lầu vàng gác ngọc song thêu.
++玉樓珠閣不獨棲。
+
+*Khi mai chắp cánh, khi chiều sóng vai.
++金窗繡戶長相見。
+
+*Lửa đâu cháy Bách Lương đài.
++柏梁失火去。
+
+*Cung Ngô tưởng được là nơi ở bền.
++因入吳王宮。
+
+*Lửa Ngô phút lại bừng lên.
++吳宮又焚蕩。
+
+*Con tan, tổ vỡ biến thiên chẳng ngờ.
++雛盡巢亦空。
+
+*Chiếc thân én góa bơ vơ.
++憔悴一身在。
+
+*Nhớ chồng biết đến bao giờ cho khuây .
++孀雌憶故雄。
+
+*Mong chi chắp cánh cùng bay.
++雙飛難再得。
+
+*Lòng ta ảo não thương mày, én ơi.
++傷我寸心中。
+
+*Dưới thành Sa Khâu gửi Đỗ Phủ.
++沙丘城下寄杜甫。
+
+*Đến đây bận việc gì đâu.
++我來竟何事。
+
+*Ta nằm khểnh chốn Sa Khâu.
++高臥沙丘城。
+
+*Ngoài thành hàng cây cổ thụ.
++城邊有古樹。
+
+*Suốt ngày xào xạc tiếng thu.
++日夕連秋聲。
+
+*Không say rượu chua nước Lỗ.
++魯酒不可醉。
+
+*Cũng chẳng ưa chi ca Tề.
++齊歌空復情。
+
+*Nhớ bạn tình như sông vấn.
++思君若汶水。
+
+*Chảy xuôi về nam tràn trề.
++浩蕩寄南征。
+
+*Bài ca về nhà binh.
++軍行。
+
+*Ngựa mới cưỡi, yên viền ngọc trắng.
++騮馬新跨白玉鞍。
+
+*Giao tranh xong trăng lạnh lùng soi.
++戰罷沙場月色寒。
+
+*Đầu thành trống động chưa nguôi.
++城頭鐵鼓聲猶震。
+
+*Đao vàng trong vỏ còn tươi máu thù.
++匣裏金刀血未乾。
+
+*Trăng quan san.
++關山月。
+
+*Trăng sáng mọc trên núi Thiên San.
++明月出天山。
+
+*Trong cảnh mênh mông giữa mây và biển.
++蒼茫雲海間。
+
+*Gió bay mấy ngàn dặm về.
++長風幾萬里。
+
+*Thổi đến cửa ải Ngọc Môn.
++吹度玉門關。
+
+*Nhà Hán đồn binh ở lộ Bạch Đăng.
++漢下白登道。
+
+*Rợ Hồ ngấp nghé ở vũng Thanh Hải.
++胡窺青海灣。
+
+*Xưa nay vẫn là bãi chiến trường.
++由來征戰地。
+
+*Không thấy có ai được trở về.
++不見有人還。
+
+*Người lính thú nhìn đăm đăm cảnh sắc xa xa.
++戍客望邊色。
+
+*Lòng nhớ nhà gương mặt lộ vẻ buồn khổ.
++思歸多苦顏。
+
+*Đêm nay có ai đang ngồi trên lầu cao.
++高樓當此夜。
+
+*Hẳn phải than thở mà không dám nhàn nhã.
++嘆息未應閒。
+
+*Xem săn bắn.
++觀獵。
+
+*Thái thú rạng oai danh.
++太守耀清威。
+
+*Chiều nhân phút thanh nhàn.
++乘閑弄晚暉。
+
+*Ngựa săn phi dọc cát.
++江沙橫獵騎。
+
+*Lửa núi đốt vây quanh.
++山火遶行圍。
+
+*Tên vút chim hồng rớt.
++箭逐雲鴻落。
+
+*Cánh ưng bay theo trăng.
++鷹隨月兔飛。
+
+*Không hay ngày chóng tối.
++不知白日暮。
+
+*Đêm về, lòng hân hoan.
++歡賞夜方歸。
+
+*Quan Hồ nhân xuy địch.
++觀胡人吹笛。
+
+*Người Hồ thổi sáo buồn ơi.
++胡人吹玉笛。
+
+*Âm thanh nửa đoạn chơi vơi điệu Tần.
++一半是秦聲。
+
+*Tháng mười những sáng bâng khuâng.
++十月吳山曉。
+
+*Hoa mai rụng núi Kính Đình đất Ngô.
++梅花落敬亭。
+
+*Khúc "Xuất ải" buồn làm sao.
++愁聞出塞曲。
+
+*Lệ đầy mắt kẻ thần cô đi đày.
++淚滿逐臣纓。
+
+*Trường An khuất nẻo ai bày.
++卻望長安道。
+
+*Lòng ai còn mãi luyến say cựu tình.
++空懷戀舊情。
+
+*Qua thuỷ đình của ông Thôi tám.
++過崔八丈水亭。
+
+*Nhà lầu cao đẹp hoành tráng.
++高閣橫秀氣。
+
+*Thanh tịnh và u nhàn tất cả là nhờ bàn tay của cụ.
++清幽並在君。
+
+*Nước suối Uyển như bay trước thềm.
++簷飛宛溪水。
+
+*Qua cửa sổ thấy mây thấp trên núi Kính Đình.
++窗落敬亭雲。
+
+*Tiếng vượn hú vừa dứt trong gió.
++猿嘯風中斷。
+
+*Lại nghe tiếng bác chài hát trong ánh trăng.
++漁歌月裏聞。
+
+*Cứ cất bước nhàn tản theo đàn chim âu.
++閑隨白鷗去。
+
+*Rốt cuộc quây quần với nhau trên bãi cát.
++沙上自為群。
+
+*Bài ca về hào sĩ Phù Phong.
++扶風豪士歌。
+
+*Người Lạc Dương bao nỗi oán than.
++洛陽三月飛胡沙。
+
+*Thiên Tân ba thước máu tràn.
++洛陽城中人怨嗟。
+
+*Chất chồng xương trắng tựa ngàn gốc mai.
++天津流水波赤血。
+
+*Nước Ngô ta chạy dài mới tới.
++白骨相撐如亂麻。
+
+*Đường thì xa mây nổi tứ bề.
++我亦東奔向吳國。
+
+*Quạ kêu nắng chói đầu khe.
++浮雲四塞道路賒。
+
+*Cửa thành ai đó quét hoa sớm ngày.
++東方日出啼早鴉。
+
+*Giếng vàng lá ngô bay trước gió.
++城門人開掃落花。
+
+*Thành Lạc Dương tháng ba cát bụi.
++梧桐楊柳拂金井。
+
+*Ta say nhà hào sĩ Phù Phong.
++來醉扶風豪士家。
+
+*Con người kỳ lạ vô song.
++扶風豪士天下奇。
+
+*Núi nghiêng ý chí giót trong một người.
++意氣相傾山可移。
+
+*Quyền quan tướng cũng thôi chẳng dựa.
++作人不倚將軍勢。
+
+*Triều đình coi cũng nhỏ khi say.
++飲酒豈顧尚書期。
+
+*Rượu ngon nhắm tốt sẵn bày.
++雕盤綺食會眾客。
+
+*Ca Ngô múa Triệu gió đầy hương thơm.
++吳歌趙舞香風吹。
+
+*Hỡi Nguyên Lăng Xuân Thường lục quốc.
++原嘗春陵六國時。
+
+*Nỗi lòng ư ta thuộc từ lâu.
++開心寫意君所知。
+
+*Nhà nghìn kẻ sĩ thiếu đâu.
++堂中各有三千士。
+
+*Mà khi khốn khó kẻ nào đền ơn.
++明日報恩知是誰。
+
+*Gươm đã vỗ mày đã giương.
++撫長劍一揚眉。
+
+*Nước xanh đá trắng đẹp dường cõi tiên.
++清水白石何離離。
+
+*Hướng về bạn huyên thuyên cười cợt.
++脫吾帽向君笑。
+
+*Hát vì anh say khướt vì anh.
++飲君酒為君吟。
+
+*Trương Lương chưa đến Xích Tùng.
++張良未逐赤松去。
+
+*Mà ông Hoàng Thạch trong lòng đã hay.
++橋邊黃石知我心。
+
+*Thăm đạo sĩ ở núi Đới Thiên không gặp.
++訪戴天山道士不遇。
+
+*Chó sủa trong tiếng nước chảy.
++犬吠水聲中。
+
+*Hoa đào còn đẫm nước mưa (thơm) nồng.
++桃花帶露濃。
+
+*Trong rừng sâu, mới thấy có hươu.
++樹深時見鹿。
+
+*Buổi trưa ngoài khe nước không nghe tiếng chuông.
++溪午不聞鐘。
+
+*Bụi tre hoang chia đám mây xanh.
++野竹分青靄。
+
+*Suối chảy lửng trên tầng ngọn núi.
++飛泉掛碧峰。
+
+*Không ai biết đi đâu.
++無人知所去。
+
+*Buồn bã dựa vào hai ba gốc cây tùng.
++愁倚兩三松。
+
+*Khúc hát quạ đậu.
++烏棲曲。
+
+*Khi đàn quạ đậu mái Cô Tô.
++姑蘇台上烏棲時。
+
+*Vua với Tây Thi ở điện Ngô.
++吳王宮裡醉西施。
+
+*Múa Sở, ca Ngô vui chửa tắt.
++吳歌楚舞歡未畢。
+
+*Mặt trời ngậm nửa non xanh ngắt.
++青山欲含半邊日。
+
+*Bình vàng tên bạc nước dần hao.
++銀箭金壺漏水多。
+
+*Trông ánh trăng thu toả sóng xao.
++起看秋月墜江波。
+
+*Bóng nắng cao rồi, vui mãi sao.
++東方漸高奈樂何。
+
+*Quạ kêu đêm.
++烏夜啼。
+
+*Đám mây vàng bên thành, quạ muốn đậu.
++黃雲城邊烏欲棲。
+
+*Bay về rền rĩ trên cành cây.
++歸飛啞啞枝上啼。
+
+*Cô gái Tần Xuyên dệt gấm bên khung cửi.
++機中織錦秦川女。
+
+*Vải biếc như làn khói ngoài song cửa, cùng với tiếng nói.
++碧紗如煙隔窗語。
+
+*Dừng thoi, thẫn thờ nhớ người đi xa.
++停梭悵然憶遠人。
+
+*Trong phòng không một mình, lệ như mưa.
++獨宿孤房淚如雨。
+
+*Oán tình.
++怨情。
+
+*Người đẹp cuốn rèm châu.
++美人捲珠簾。
+
+*Ngồi yên, đôi mày trau.
++深坐顰蛾眉。
+
+*Mắt kia rung ướt lệ.
++但見淚痕濕。
+
+*Lòng biết hận về đâu.
++不知心恨誰。
+
+*Mặt trời mọc rồi lặn.
++日出入行。
+
+*Nơi phương đông như tự đất thăng.
++日出東方隈。
+
+*Qua một ngày, xuống tây phương.
++似從地底來。
+
+*Sáu rồng kéo nó theo đường nào ngơi.
++曆天又復入西海。
+
+*Sự mọc lặn chưa hồi ngưng nghỉ.
++六龍所舍安在哉。
+
+*Con người không nguyên khí tự nhiên.
++其始與終古不息。
+
+*Như trăng sao vốn do thiên.
++人非元氣。
+
+*Lấy chi mọc lặn theo duyên mặt trời.
++安得與之久徘徊。
+
+*Cỏ không ơn xanh tươi nhờ gió.
++草不謝榮于春風。
+
+*Cây không than khi lá rụng rơi.
++木不怨落于秋天。
+
+*Bốn mùa ai khiến xoay hoài.
++誰揮鞭策驅四運。
+
+*Đều do tạo hoá, chẳng ai điều hành.
++萬物興歇皆自然。
+
+*Hỡi Hy Hoà! Nhân danh thần thánh.
++羲和！羲和。
+
+*Sao bị chìm dưới sóng xanh rì.
++汝奚汩沒于荒淫之波。
+
+*Lỗ Dương lấy phước đức chi.
++魯陽何德。
+
+*Chiều rồi phất mác, tức thì trời cao.
++駐景揮戈。
+
+*Những việc này ngược bao đạo lý.
++逆道違天。
+
+*Sự thực sai và trái vô cùng.
++矯誣實多。
+
+*Thơ đưa vũ trụ túi trong.
++吾將囊括大塊。
+
+*Hạo nhiên, minh hãnh cũng cùng một khoa.
++浩然與溟涬同科。
+
+*Một mình uống rượu dưới trăng kỳ 1.
++月下獨酌其一。
+
+*Vườn hoa với bầu rượu.
++花間一壺酒。
+
+*Không bạn, uống mình ta.
++獨酌無相親。
+
+*Mời trăng cùng nâng chén.
++舉杯要明月。
+
+*Với bóng nữa thành ba.
++對影成三人。
+
+*Trăng nào đâu biết uống.
++月既不解歡。
+
+*Bóng theo ta mặn mà.
++影徒隨我身。
+
+*Cùng trăng bên cạnh bóng.
++暫伴月將影。
+
+*Vui xuân thật thiết tha.
++行樂須及春。
+
+*Trăng mơ nhìn ta hát.
++我歌月徘徊。
+
+*Ta múa, bóng nghiêng qua.
++我舞影零亂。
+
+*Cùng vui khi tỉnh rượu.
++醒時同交歡。
+
+*Hết say người chia xa.
++醉後各分散。
+
+*Kết thân tình thắm thiết.
++永結無情遊。
+
+*Hò hẹn bến Ngân qua.
++相期邈雲漢。
+
+*Nếu trời không thích rượu.
++天若不愛酒。
+
+*Sao Rượu ở chi trời.
++酒星不在天。
+
+*Nếu đất không thích rượu.
++地若不愛酒。
+
+*Suối rượu ở chi đời.
++地應無酒泉。
+
+*Trời đất đã thích rượu.
++天地既愛酒。
+
+*Thích rượu không thẹn trời.
++愛酒不愧天。
+
+*Đã nghe trong tựa thánh.
++已聞清比聖。
+
+*Lại nói đục như hiền.
++復道濁如賢。
+
+*Thánh hiền đều uống rượu.
++賢聖既已飲。
+
+*Cầu mà chi thần tiên.
++何必求神仙。
+
+Ba ly hiểu đạo lớn
++三杯通大道。
+
+*Một đấu hợp tự nhiên.
++一斗合自然。
+
+*Chỉ mong được thú say.
++但得酒中趣。
+
+*Kẻ tỉnh mặc ai khen.
++勿為醒者傳。
+
+*Sầu lớn nghìn muôn mối.
++窮愁千萬端。
+
+*Ba trăm chén rượu ngon.
++美酒三百杯。
+
+*Sầu nhiều, rượu tuy ít.
++愁多酒雖少。
+
+*Rượu nghiêng sầu phải bon.
++酒傾愁不來。
+
+*Sở dĩ biết rượu thánh.
++所以知酒聖。
+
+*Rượu say mơ lòng son.
++酒酣心自開。
+
+*Bá Di không nhận thóc.
++辭粟臥首陽。
+
+*Nhan Hồi đói chết mòn.
++屢空飢顏回。
+
+*Thời ấy không thích uống.
++當代不樂飲。
+
+*Hư danh sao vẫn còn.
++虛名安用哉。
+
+*Cua tôm là châu báu.
++蟹螯即金液。
+
+*Gò nem là cõi Bồng.
++糟丘是蓬萊。
+
+*Và cần uống rượu tốt.
++且須飲美酒。
+
+*Gác cao cưỡi trăng tròn.
++乘月醉高台。
+
+*Đêm trăng đi trên sông gửi viên ngoại Thôi Tông Chi.
++月夜江行寄崔員外宗之。
+
+*Gió trên sông thổi nhè nhẹ.
++飄飄江風起。
+
+*Mùa thu những cây hải thụ xác xơ.
++蕭颯海樹秋。
+
+*Lên thuyền trong đêm trong sáng.
++登艫美清夜。
+
+*Treo chiếu lên để thuyền nhẹ đi.
++挂席移輕舟。
+
+*Trăng theo núi xanh di chuyển.
++月隨碧山轉。
+
+*Nước cùng trời cũng di chuyển theo.
++水合青天流。
+
+*Giải ngân hà bằn bặt trên cao.
++杳如星河上。
+
+*Chỉ cảm thấy rừng mây lặng lẽ.
++但覺雲林幽。
+
+*Trông hướng về mênh mông.
++歸路方浩浩。
+
+*Theo sông thuyền đi dằng dặc.
++徂川去悠悠。
+
+*Buồn nhiều vì hoa cỏ đã tàn.
++徒悲蕙草歇。
+
+*Lại nghe được những bài ca của người hái củ ấu.
++復聽菱歌愁。
+
+*Ngạn khúc mê hậu phố.
++岸曲迷后浦。
+
+*Sa minh nhìn xuống tiền châu.
++沙明瞰前洲。
+
+*Nhớ anh nhưng không gặp được.
++懷君不可見。
+
+*Ở xa làm tăng thêm nỗi buồn biệt ly.
++望遠增離憂。
+
+*Người múa dở say ở điện Ngô vương.
++吳王美人半醉。
+
+*Gió lộng hồ sen ngát điện hương.
++風動荷花水殿香。
+
+*Cô Tô vui mở tiệc Ngô vương.
++姑蘇臺上宴吳王。
+
+*Tây Thi say múa thân mềm mại.
++西施醉舞嬌無力。
+
+*Cười tựa bên song ngả xuống giường.
++笑倚東窗白玉床。
+
+*Bài ngâm bầu rượu ngọc.
++玉壺吟。
+
+*Kẻ sĩ cương gõ bầu rượu ngọc.
++烈士擊玉壺。
+
+*Tâm anh hùng còn tiếc lúc già.
++壯心惜暮年。
+
+*Uống ba chén rút kiếm ra.
++三杯拂劍舞秋月。
+
+*Dưới trăng múa kiếm, khóc oà vịnh xưa.
++忽然高詠涕灑漣。
+
+*Chiếu phụng hoàng ấn vua mực tía.
++鳳凰初下紫泥詔。
+
+*Dự tiệc hoa thết phía hoàng cung.
++謁帝稱觴登御筵。
+
+*Ngợi ca thiên tử chín tầng.
++揄揚九重萬乘主。
+
+*Chủ xe sang trọng, bỡn cùng đồng liêu.
++謔浪赤墀青瑣賢。
+
+*Cưỡi Phi long nhập triều yên gấm.
++朝天數挽飛龍馬。
+
+*Vua còn ban roi cẩn san hô.
++敕賜珊瑚白玉鞭。
+
+*Đông Phương Sóc, ai biết cho.
++世人不識東方朔。
+
+*Cùng tiên đất trích chỉ là một ta.
++大隱金門是謫仙。
+
+*Tây Thi lúc chau mi lại đẹp.
++西施宜笑復宜顰。
+
+*Người xấu rồi bắt chước luỵ thân.
++丑女效之徒累身。
+
+*Nhưng dù vua có ban ân.
++君王雖愛蛾眉好。
+
+*Trong cung khó tránh được ngầm ghét ghen.
++無奈宮中妒殺人。
+
+*Nỗi oán nơi thềm ngọc.
++玉階怨。
+
+*Sương trắng phơi trên thềm.
++玉階生白露。
+
+*Đêm khuya lan dép lụa.
++夜久侵羅襪。
+
+*Toan rủ bức rèm thưa.
++欲下水晶簾。
+
+*Ngắm trăng thu sáng tỏ.
++玲瓏望秋月。
+
+*Công chúa Ngọc Chân xa quán trời mưa nhiều tặng Vệ Uý Trương Khanh kỳ 1.
++玉真公主別館苦雨贈衛尉張卿其一。
+
+*Thu ngồi quán Kim Trương.
++秋坐金張館。
+
+*Nhạc dịu chưa bắt đầu.
++繁陰晝不開。
+
+*Màu mưa pha khói loãng.
++空煙迷雨色。
+
+*Lặng lẽ hướng trung châu.
++蕭颯望中來。
+
+*Cung vắng chiều mơ màng.
++翳翳昏墊苦。
+
+*Mênh mông buồn lắng sâu.
++沉沉憂恨催。
+
+*Thu xanh không an ủi.
++清秋何以慰。
+
+*Rượu trắng tràn ly bôi.
++白酒盈吾杯。
+
+*Ca ngâm nhớ đàn sáo.
++吟詠思管樂。
+
+*Người ấy đã đi rồi.
++此人已成灰。
+
+*Một mình gắng chuốc rượu.
++獨酌聊自勉。
+
+*Tài kinh luân nay đâu.
++誰貴經綸才。
+
+*Đàn kiếm ơn công tử.
++彈劍謝公子。
+
+*Không nói chỉ buồn thôi.
++無魚良可哀。
