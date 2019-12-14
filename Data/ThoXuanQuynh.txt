@@ -1,17 +1,95 @@
-* Em sẽ kể anh nghe.
-+ 我会告诉你的。
+* Cây bút gẫy trong tay
++ 笔在他手中折断了
 
-* Chuyện con thuyền và biển.
-+ 船与海的故事
+* Cặn mực khô đáy lọ
++ 瓶底的干墨浮渣
 
-* Có một thời vừa mới bước ra.
-+ 曾经有一段时间刚出来。
+* Ánh điện tắt trong phòng
++ 房间里没有灯
 
-* Mùa xuân đã gọi mời trước cửa.
-+ 春天已经邀请了门。
+* Anh về từ đường phố
++ 他从街上回来
 
-* Chẳng ngoái lại vết chân trên cỏ.
-+ 没有回头的脚步在草地上。
+* Anh về từ trận gió
++ 他从风中回来
+
+* Anh về từ cơn mưa
++ 他从雨中回来
+
+* Từ những ngày đã qua
++ 从过去的日子
+
+* Từ những ngày chưa tới
++ 从未来的日子
+
+* Từ lòng em nhức nhối…
++ 从我的心痛...
+
+* Thôi đừng buồn nữa anh
++ 请不要再难过了
+
+* Tấm rèm cửa màu xanh
++ 蓝色的窗帘
+
+* Trang thơ còn viết dở
++ 诗页也写不好
+
+* Tách nước nóng trên bàn
++ 杯热水在桌子上
+
+* Và lòng em thương nhớ…
++ 我想念你...
+
+* Ở ngoài kia trời gió
++ 它在风中
+
+* Ở ngoài kia trời mưa
++ 外面正在下雨
+
+* Cây bàng đêm ngẩn ngơ
++ 愚蠢的夜鹰
+
+* Nước qua đường chảy xiết
++ 水迅速流过这条路
+
+* Tóc anh thì ướt đẫm
++ 他的头发湿了
+
+* Lòng anh thì cô đơn
++ 我的心很寂寞
+
+* Anh cần chi nơi em
++ 我需要你的东西
+
+* Sao mà anh chẳng nói
++ 你为什么不说
+
+* Anh, con đường xa ngái
++ 你，路很远
+
+* Anh, bức vẽ không màu
++ 你，无色的画
+
+* Anh, nghìn nỗi lo âu
++ 你，成千上万的焦虑
+
+* Anh, dòng thơ nổi gió…
++ 你，著名的诗歌...
+
+* Mà em người đời thường
++ 是你这个普通人
+
+* Biết là anh có ở!
++ 知道你在里面！
+
+* Có một thời vừa mới bước ra
++ 曾经有一段时间他刚走出去
+
+* Mùa xuân đã gọi mời trước cửa
++ 天已经邀请了门
+
+* Chẳng ngoái lại vết chân trên cỏ
++ 不要在草地上退后脚步
 
 * Vườn hoa nào cũng ở phía mình đi.
 + 每个花园都在我身边。
@@ -19,407 +97,779 @@
 * Đường chẳng xa, núi không mấy cách chia.
 + 路不远，山不分开。
 
-* Trong đáy mắt trời xanh là vĩnh viễn.
-+ 在蓝天底下是永远的。
+* Trong đáy mắt trời xanh là vĩnh viễn
++ 在蓝天的深处是永远的
 
-* Trang nhật ký xé trăm lần lại viết.
-+ 日记页被撕成数百遍。
+* Trang nhật ký xé trăm lần lại viết
++ 日记页撕成数百遍
 
 * Tình yêu nào cũng tha thiết như nhau.
 + 每次爱情都一样。
 
-* Có một thời ngay cả nỗi đau.
-+ 曾经有一段时间甚至痛苦。
+* Có một thời ngay cả nỗi đau
++ 曾经有一段时间甚至痛苦
 
-* Cũng mạnh mẽ ồn ào không giấu nổi.
-+ 也强大而嘈杂。
+* Cũng mạnh mẽ ồn ào không giấu nổi
++ 强大又吵
 
-* Mơ ước viễn vông, niềm vui thơ dại.
-+ 梦想的梦想，诗歌的喜悦。
+* Mơ ước viễn vông, niềm vui thơ dại
++ 梦想的梦想，诗歌的欢乐
 
-* Tuổi xuân mình tưởng mãi vẫn tươi xanh.
+* Tuổi xuân mình tưởng mãi vẫn tươi xanh
 + 我觉得春天还是绿色的
 
-* Và tình yêu không ai khác ngoài anh.
-+ 爱就是他。
+* Và tình yêu không ai khác ngoài anh
++ 爱就是他
 
-* Người trai mới vài lần thoáng gặp.
-+ 新家伙见了几次。
+* Người trai mới vài lần thoáng gặp
++ 新人见过几次
 
-* Luôn hy vọng để rồi luôn thất vọng.
-+ 总是希望，然后总是失望。
+* Luôn hy vọng để rồi luôn thất vọng
++ 总是希望，然后总是失望
 
-* Tôi đã cười đã khóc những không đâu.
-+ 我笑着哭了，但没有。
+* Tôi đã cười đã khóc những không đâu
++ 我笑着哭了但没有
 
-* Một vầng trăng niên thiếu ở trên đầu.
-+ 头顶上有一个男孩的月亮。
+* Một vầng trăng niên thiếu ở trên đầu
++ 头顶上有一个男孩的月亮
 
-* Một vạt đất cỏ xanh rờn trước mặt.
-+ 一片绿草在你的面前。
+* Một vạt đất cỏ xanh rờn trước mặt…
++ 一片绿草在我面前脱颖而出...
 
-* Mái tóc xanh bắt đầu pha sợi bạc.
-+ 蓝色的头发开始与银混合。
+* Mái tóc xanh bắt đầu pha sợi bạc
++ 蓝发开始与银混合
 
-* Nỗi vui buồn cũng khác những ngày xưa.
-+ 悲伤与过去也有所不同。
+* Nỗi vui buồn cũng khác những ngày xưa
++ 悲伤与过去也有所不同
 
-* Chi chút thời gian từng phút từng giờ.
-+ 每分钟和每小时花费一些时间。
+* Chi chút thời gian từng phút từng giờ
++ 每分钟和每小时花费一些时间
 
-* Như kẻ khó tính từng hào keo kiệt.
-+ 就像一个曾经st的挑剔的人。
+* Như kẻ khó tính từng hào keo kiệt
++ 就像一个曾经st的挑剔的人
 
-* Tôi biết chắc mùa xuân rồi cũng hết.
-+ 我知道春天会结束。
+* Tôi biết chắc mùa xuân rồi cũng hết
++ 我知道春天会结束
 
 * Hôm nay non, mai cỏ sẽ già.
 + 今天年轻，明天将是老草。
 
-* Tôi đã đi mấy chặng đường xa.
-+ 我走了很长一段路。
+* Tôi đã đi mấy chặng đường xa
++ 我走了很长一段路
 
-* Vượt mấy núi mấy rừng qua mấy biển.
-+ 在几片森林上的几座山。
+* Vượt mấy núi mấy rừng qua mấy biển
++ 几座森林上的几座山
 
-* Niềm mơ ước gửi vào trang viết.
-+ 梦想发送到页面。
+* Niềm mơ ước gửi vào trang viết
++ 梦想发送到页面
 
-* Nỗi đau buồn dồn xuống đáy tâm tư.
-+ 悲伤涌入我的心底。
+* Nỗi đau buồn dồn xuống đáy tâm tư
++ 悲伤涌入我的心底
 
-* Em yêu anh hơn cả thời xưa.
+* Em yêu anh hơn cả thời xưa
 + 我爱你胜过过去
 
-* Cái thời tưởng chết vì tình ái.
-+ 死时想起爱。
+* (Cái thời tưởng chết vì tình ái)
++ 死时想起爱）
 
-* Em chẳng chết vì anh, em chẳng đổi.
-+ 我没有为你而死，我没有改变。
+* Em chẳng chết vì anh, em chẳng đổi
++ 我没有为你而死，我没有改变
 
-* Em cộng anh vào với cuộc đời em.
-+ 我将您加入我的生活。
+* Em cộng anh vào với cuộc đời em
++ 我将你加入我的生活
 
-* Em biết quên những chuyện đáng quên.
-+ 我知道忘记的事情值得忘记。
+* Em biết quên những chuyện đáng quên
++ 我知道忘记的事情值得忘记
 
-* Em biết nhớ những điều em phải nhớ.
-+ 我知道我要记住的。
+* Em biết nhớ những điều em phải nhớ
++ 我知道我要记住的
 
-* Hoa cúc tím trong bài hát cũ.
-+ 旧歌中的紫色雏菊。
+* Hoa cúc tím trong bài hát cũ
++ 老歌中的紫色雏菊
 
-* Dẫu vẫn là cung bậc của ngày xưa.
-+ 虽然仍然是过去的等级制度。
+* Dẫu vẫn là cung bậc của ngày xưa
++ 虽然仍然是过去的等级制度
 
-* Quá khứ đáng yêu, quá khứ đáng tôn thờ.
-+ 美好的过去，值得崇拜的过去。
+* Quá khứ đáng yêu, quá khứ đáng tôn thờ
++ 美好的过去，值得敬拜的过去
 
 * Nhưng đâu phải là điều em luyến tiếc.
 + 但这不是我后悔的事情。
 
-* Lời ru ẩn nơi nào.
-+ 任何地方的摇篮曲。
+* “Cỏ dại quen nắng mưa
++ “杂草习惯了日晒雨淋
 
-* Giữa mênh mang trời đất.
-+ 在天地之间。
+* Làm sao mà giết được
++ 怎么杀
 
-* Khi con vừa ra đời.
-+ 我出生的时候
+* Tới mùa nước dâng
++ 水季来了
 
-* Lời ru về mẹ hát.
-+ 关于母亲唱歌的摇篮曲。
+* Cỏ thường ngập trước
++ 草经常先被淹
 
-* Lúc con nằm ấm áp.
-+ 当我躺在温暖的时候。
+* Sau ngày nước rút
++ 冲刺结束后
 
-* Lời ru là tấm chăn.
-+ 摇篮曲是毯子。
+* Cỏ mọc đầu tiên”
++ 草先长成”
 
-* Trong giấc ngủ êm đềm.
-+ 在宁静的睡眠中。
+* Câu thơ nào trong ý nghĩ vụt lên
++ 思想中的什么诗句闪过
 
-* Lời ru thành giấc mộng.
-+ 摇篮曲变成了梦。
+* Khi tôi bước giữa một rừng cỏ dại
++ 当我走在杂草丛中
 
-* Khi con vừa tỉnh giấc.
-+ 当我醒来。
+* Không nhà cửa. không bóng cây. Tim lối
++ 无家可归。没有树的轮廓。心入口
 
-* Thì lời ru đi chơi.
-+ 然后摇篮曲出去。
+* Cứ cường hào rẽ cỏ mà đi.
++ 快去草。
 
-* Lời ru xuống ruộng khoai.
-+ 词淡淡地变成了红薯。
+* Người dân quân tì súng lắng nghe
++ 军人听枪
 
-* Ra bờ ao rau muống.
-+ 去菠菜池。
+* Bài hát nói về khu vườn đầy trái
++ 这首歌是关于一个充满水果的花园
 
-* Và khi con đến lớp.
-+ 当我上课时。
+* Anh bỗng nghĩ đến một vùng cỏ dại
++ 他突然想到杂草
 
-* Lời ru ở cổng trường.
-+ 在学校门口的摇篮曲。
+* Nỗi nhớ đầu anh nhớ quê anh
++ 怀旧他的头想念他的家乡
 
-* Lời ru thành ngọn cỏ.
-+ 摇篮曲进入草丛。
+* Mảnh đạn bom và chất lân tinh
++ 炸弹弹片和磷
 
-* Đón bước bàn chân con.
-+ 站起来
+* Đã phá sạch không còn chi nữa
++ 没什么了
 
-* Mai rồi con lớn khôn.
-+ 明天你长大。
+* Chỉ có sắt chỉ còn có lửa
++ 只有铁只有火
 
-* Trên đường xa nắng gắt.
-+ 在远离阳光的道路上。
+* Và cuối cùng còn có đất mà thôi
++ 最后只有土地
 
-* Lời ru là bóng mát.
-+ 摇篮曲是阴影。
+* Thù trong lòng và cây súng trên vai
++ 敌对和枪在他的肩上
 
-* Lúc con lên núi thẳm.
-+ 当我去山上
+* Cùng đồng đội anh trở về làng cũ
++ 与队友一起回到老村庄
 
-* Lời ru cũng gập ghềnh.
-+ 催眠曲也很坎bump。
+* Anh nhận thấy trước tiên là cỏ
++ 他首先注意到草
 
-* Khi con ra biển rộng.
-+ 当你去海边。
+* Sự sống đầu anh gặp ở quê hương
++ 他在祖国遇到的第一人生
 
-* Lời ru thành mênh mông.
-+ 摇篮曲
+* Có một lần anh tìm đến bà con
++ 一旦他来找亲戚
 
-* Này đây lá của cành tơ phơ phất.
-+ 树枝在这里​​挥舞着叶子。
+* Khi xúm xít quanh anh thăm hỏi
++ 当法西斯主义者聚集在他身边打听时
 
-* Của yến anh này đây khúc tình si.
-+ 这燕窝是情歌。
+* Giữa câu chuyện có điều này đau nhói:
++ 在故事的中间，有这样的动静：
 
-* Và này đây ánh sáng chớp hàng mi.
-+ 睫毛的光芒来了。
+* Đất quê mình cỏ đã mọc lên chưa?
++ 你的草地发芽了吗？
 
-* Mỗi sáng sớm, thần vui hằng gõ cửa.
-+ 每天早晨，欢乐之神总是敲门。
+* Trong cuộc đời bình yên tựa nghìn xưa
++ 一千多岁的和平生活
 
-* Tháng giêng ngon như một cặp môi gần.
-+ 一月如闭唇。
+* Gần gũi nhất vẫn là cây lúa
++ 最近的还是米饭
 
-* Tôi không chờ nắng hạ mới hoài xuân.
-+ 我不等春天永远恢复。
+* Trưa nắng khát ước về vườn quả
++ 向往果园的阳光中午
 
-* Xuân đang tới, nghĩa là xuân đang qua.
-+ 春天来了，这意味着春天结束了。
+* Lúc xa nhà nhớ một dáng mây
++ 记得远离云雾的家
 
-* Xuân còn non, nghĩa là xuân sẽ già.
-+ 春天还年轻，意味着春天会老。
+* Một dòng sông, ngọn núi, rừng cây
++ 河，山，森林
 
-* Mà xuân hết, nghĩa là tôi cũng mất.
-+ 但是整个春天，这意味着我也死了。
+* Một làn khói, một mùi hương trong gió…
++ 冒烟，风中有气味...
 
-* Lòng tôi rộng, nhưng lượng trời cứ chật.
-+ 我的心很开阔，但是天空很紧。
+* Có mấy ai nhớ về ngọn cỏ
++ 有多少人记得草
 
-* Không cho dài thời trẻ của nhân gian.
-+ 不久之后，世界青年。
+* Mọc vô tình trên lối ta đi
++ 意外地在我们的路上发芽
 
-* Nói làm chi rằng xuân vẫn tuần hoàn.
-+ 说春天还在循环。
+* Dẫu nhỏ nhoi không đáng nhớ làm chi
++ 即使是一个小小的，令人难忘的
 
-* Nếu đến nữa không phải rằng gặp lại.
-+ 如果再来一次，那不是我们再次见面。
+* Không nghĩ đến nhưng mà vẫn có.
++ 没有考虑但仍然有。
 
-* Còn trời đất, nhưng chẳng còn tôi mãi,.
-+ 天地间，但永远没有我。
+* Với vết chân của bầy dã thú
++ 随着野兽的足迹
 
-* Nên bâng khuâng tôi tiếc cả đất trời.
-+ 如此渴望我后悔整个天空。
+* In trên nền gạch cũ trước lăng vua
++ 印刷在国王墓前的旧砖背景上
 
-* Mùi tháng, năm đều rớm vị chia phôi.
-+ 几个月和几年的气味非常不同。
+* Với dòng sông như không chảy bao giờ
++ 像河一样永不流淌
 
-* Khắp sông, núi vẫn than thầm tiễn biệt.
-+ 纵贯河水，这座山仍在哀悼。
+* Vẫn mờ ảo ngàn năm màu sương khói
++ 仍然朦胧成千上万的烟雾
 
-* Cơn gió xinh thì thào trong lá biếc.
-+ 美丽的风在树叶中窃窃私语。
+* Tà áo trắng bay về đâu vời vợi
++ 白衬衫在哪里飘飘
 
-* Phải chăng hờn vì nỗi phải bay đi.
-+ 价格合理，因为它必须飞走。
+* Con thuyền khuya trăng gọi phía nguồn xa
++ 月亮的船在月亮的尽头呼唤
 
-* Chim rộn ràng bỗng đứt tiếng reo thi.
-+ 熙熙birds的小鸟突然大喊大叫。
+* Màu nắng in trong mắt tự ngàn xưa
++ 远古时代的眼睛印着阳光的颜色
 
-* Phải chăng sợ độ phai tàn sắp sửa.
-+ 实惠的恐惧即将消失。
+* Căn nhà cũ, mảnh vườn hương ngày cũ
++ 老房子，老花园片段
 
-* Chẳng bao giờ, ôi! Chẳng bao giờ nữa.
-+ 永远不要！再也不会。
+* Dẫu hiện tại mà như quá khứ
++ 虽然现在是过去
 
-* Mau đi thôi! Mùa chưa ngả chiều hôm.
-+ 快去！季节还没到。
+* Là quê hương dù không phải quê hương.
++ 故乡，尽管不是故乡。
 
-* Ta muốn ôm.
-+ 我要抱抱。
+* Dường như đây, tôi có nỗi buồn
++ 好像我很伤心
 
-* Cả sự sống mới bắt đầu mơn mởn.
-+ 全新的生活开始增长。
+* Có hạnh phúc, có một thời thơ bé
++ 有幸福，有童年
 
-* Ta muốn riết mây đưa và gió lượn.
-+ 我想带云和风。
+* Có khát vọng những năm còn rất trẻ
++ 有年轻的愿望
 
-* Ta muốn say cánh bướm với tình yêu.
-+ 我想用爱说蝴蝶的翅膀。
+* Tôi thuộc từ ngọn cỏ đến nhành cây
++ 我从草地到树枝
 
-* Ta muốn thâu trong một cái hôn nhiều.
-+ 我想再拍一个吻。
+* Tôi thương về vời vợi những trời mây
++ 我爱云
 
-* Và non nước, và cây, và cỏ rạng.
-+ 还有年轻的国家，树木和草。
+* Nhịp tim đập tiếng chuông ngày nắng xế.
++ 心跳敲响了晴天的钟声。
 
-* Cho chếnh choáng mùi thơm, cho đã đầy ánh sáng.
-+ 香气扑鼻，光线充足。
+* Đường xa ngái cho lòng da diết thế
++ 这么长的路要被皮肤杀死
 
-* Cho no nê thanh sắc của thời tươi.
-+ 充满新鲜时光的美丽。
+* Con nước nào ra bể chiều nay
++ 今天下午有水出来
 
-* Hỡi xuân hồng, ta muốn cắn vào ngươi.
-+ 春天，我要咬你。
+* Đến nao lòng là giờ phút chia tay
++ 振作起来是时候分手了
 
-* Rặng liễu đìu hiu đứng chịu tang.
-+ 柳柳站着哀悼。
+* Con sông cũ mảnh vườn xưa ngày cũ
++ 老河老花园一块老
 
-* Tóc buồn buông xuống lệ ngàn hàng.
-+ 悲伤的头发流下了千泪。
+* Như vĩnh biệt tuổi thơ và quá khứ
++ 告别童年和过去
 
-* Đây mùa thu tới – mùa thu tới.
-+ 即将到来的秋天-明年秋天。
+* Bạn bè ơi dẫu tôi sẽ quay về
++ 我的朋友们，尽管我会回来的
 
-* Với áo mơ phai dệt lá vàng.
-+ 褪色的杏编织金箔。
+* Nhưng chắc rằng tất cả chẳng như xưa
++ 但是肯定所有的都不一样
 
-* Hơn một loài hoa đã rụng cành.
-+ 一朵以上的花落下了枝。
+* Tôi sẽ khác, cố đô rồi cũng khác.
++ 我将与众不同，古都将与众不同。
 
-* Trong vườn sắc đỏ rũa màu xanh.
-+ 在花园里，红色的阴影是绿色的。
+* Đi qua đường là phải trông xe
++ 过马路就是照顾车子
 
-* Những luồng run rẩy rung rinh lá.
-+ 颤抖的树叶颤抖。
+* Chị biết Quỳnh rất hay vô ý
++ 她经常或无意中认识Quynh
 
-* Đôi nhánh khô gầy xương mỏng manh.
-+ 细，干，易碎的树枝。
+* Bao giờ chị cũng dặn em thế
++ 我总是这样告诉你
 
-* Thỉnh thoảng nàng trăng tự ngẩn ngơ.
-+ 有时月亮会被弄糊涂。
+* Chăm cho em từng việc hàng ngày
++ 每天照顾我
 
-* Non xa khởi sự nhạt sương mờ.
-+ 离开始薄雾不远。
+* Chị trách em – khi nắm cổ tay:
++ 她责怪我-握住手腕：
 
-* Đã nghe rét mướt luồn trong gió.
-+ 闻风寒。
+* Quỳnh gầy thế chẳng chịu ăn gì cả!
++ Quynh太瘦了，不能吃任何东西！
 
-* Đã vắng người sang những chuyến đò.
-+ 没有人去轮渡。
+* Thấy em buồn chị buồn hơn nỗi buồn của chị
++ 看到你比我的难过我难过
 
-* Mây vẩn từng không, chim bay đi.
-+ 云仍然是空的，鸟儿飞走了。
+* Thấy em vui chị vui hơn nỗi vui của em
++ 看到你快乐比我快乐更有趣
 
-* Khí trời u uất hận chia ly.
-+ 愤怒与分离的气氛。
+* Lớn rồi mà chị chẳng tin
++ 我长大了，但我不相信
 
-* Ít nhiều thiếu nữ buồn không nói.
-+ 或多或少的悲伤的女孩没有说。
+* Chị vẫn coi em như ngày còn bé
++ 我还是把你当成孩子
 
-* Tựa cửa nhìn xa, nghĩ ngợi gì.
-+ 头枕移开，想一想。
+* Em đã lớn vượt xa điều chị nghĩ
++ 我已经超越了你的想象
 
-* Người ta khổ vì thương không phải cách.
-+ 人们受苦是因为爱不是路。
+* Khổ hơn nhiều cái khổ chị lo
++ 遭受的苦难不止于她
 
-* Yêu sai duyên, và mến chẳng nhằm người.
-+ 爱是错误的，爱不是故意的。
+* Vui hơn nhiều cái vui chị cho
++ 比姐姐好玩得多
 
-* Có kho vàng nhưng tặng chẳng tuỳ nơi.
-+ 有黄金商店，但不取决于哪里。
+* Trên đường đi bước thành bước bại
++ 在途中，一步一步失败了
 
-* Người ta khổ vì xin không phải chỗ.
-+ 人们受苦是因为他们不在地方。
+* Nhưng mỗi bận em buồn, chị hỏi
++ 但是每一个忙碌的你都难过，她问
 
-* Đường êm quá, ai đi mà nhớ ngó.
-+ 道路如此平坦，每个人都会记得。
+* Em bảo rằng: “em mệt chút thôi”.
++ 我说：“我有点累。”
 
-* Đến khi hay, gai nhọn đã vào xương.
-+ 好的时候，尖刺已经进入骨头了。
+* Khi đi xa giữa bom đạn tơi bời
++ 在炸弹袭击中离开时
 
-* Người ta khổ vì lui không được nữa.
-+ 人们受苦是因为他们无法回去。
+* Thư em viết: “nơi này yên tĩnh quá”.
++ 我的信写道：“这个地方太安静了。”
 
-* Những mắt cạn cũng cho rằng sâu chứa.
-+ 浅色的眼睛还认为蠕虫含有。
+* Em thương chị bao lâu rồi vất vả
++ 我爱你多长时间
 
-* Những tim không mà tưởng tượng tràn đầy.
-+ 心是不可想象的。
+* Đêm soạn bài, ngôi trường gió hoang sơ
++ 准备夜，原始风学校
 
-* Muôn ngàn đời tìm cớ dõi sương mây.
-+ 成千上万的生活找到借口看云。
+* Giữa tiếng bom thù và dưới những báo mưa
++ 在敌人的炸弹和雨中
 
-* Dấn thân mãi để kiếm trời dưới đất.
-+ 始终致力于寻找天地。
+* Cơn sốt cháu võ vàng đôi mắt chị
++ 孙子发烧和她的金色眼睛
 
-* Người ta khổ vì cố chen ngõ chật.
-+ 人们因为试图挤在拥挤的车道而受苦。
+* Nên vui buồn mà em vẫn có
++ 好开心又难过，我仍然有
 
-* Cửa đóng bưng nên càng quyết xông vào.
-+ 门是关着的，所以更加下定决心。
+* Bao nhọc nhằn em đã từng qua
++ 我经历过多少困难
 
-* Rồi bị thương, người ta giữ gươm dao.
-+ 然后受伤，人们握剑。
+* Chỉ bạn bè em viết và thơ.
++ 只有我的朋友才写诗。
 
-* Không muốn chữa, không muốn lành thú độc.
-+ 不想治愈，不想治愈有毒的动物。
+* Em đã viết những điều em đã sống
++ 我写了我曾经生活过的东西
 
-* Yêu, là chết ở trong lòng một ít.
-+ 爱，死在里面一点。
+* Mà trước chị em lại thường im lặng
++ 但在你常常沉默之前
 
-* Vì mấy khi yêu mà chắc được yêu.
-+ 因为有时候爱，但可能是爱。
+* Nên chẳng bao giờ chị hiểu em
++ 所以我从来不了解你
 
-* Cho rất nhiều, song nhận chẳng bao nhiêu.
-+ 付出很多，但收到的却不多。
+* Ai nói gì về em chị cũng không tin
++ 谁说姐姐的话都不相信
 
-* Người ta phụ, hoặc thờ ơ, chẳng biết.
-+ 人辅助，或冷漠，不知道。
+* Vì chị nghĩ chị hiểu em hơn tất cả
++ 因为我想我对你的了解比什么都重要
 
-* Phút gần gũi cũng như giờ chia biệt.
-+ 数分钟和数小时的分离。
+* Ngàn cây non phần phật lá bên đường
++ 数千棵幼树与佛叶在路上
 
-* Tưởng trăng tàn, hoa tạ với hồn tiêu.
-+ 想着月亮的衰落，枯萎的花朵和胡椒的灵魂。
+* Lòng như sóng lại oà lên như gió
++ 内心又像风一样荡漾
 
-* Vì mấy khi yêu mà chắc được yêu.
-+ 因为有时候爱，但可能是爱。
+* Giữa phố đông, nghẹn ngào như trẻ nhỏ
++ 在拥挤的街道中间，像孩子一样cho死
 
-* Yêu, là chết ở trong lòng một ít.
-+ 爱，死在里面一点。
+* Trong say mừng, trong dồn dập nhớ thương
++ 在醉酒中，在压倒性地错过
 
-* Họ lạc lối giữa u sầu mù mịt.
-+ 他们迷失在黑暗的忧郁中。
+* Như tháng năm dài nhen ủ mật thơm
++ 只要有芳香气质就可以芳香芳香
 
-* Những người si theo dõi dấu chân yêu.
-+ 那些追随爱情足迹的人。
+* Như mùa gặt bắt đầu từ hạt mạ
++ 从种子开始收获
 
-* Và cảnh đời là sa mạc cô liêu.
-+ 生活现场是沙漠。
+* Chiến thắng hôm nay bắt đầu từ nơi đó
++ 今天的胜利从那个地方开始
 
-* Và tình ái là sợi dây vấn vít.
-+ 而爱是一个螺纹。
+* Một con đường bé nhỏ giữa rừng khuya
++ 深夜里森林中间的一条小路
 
-* Yêu, là chết ở trong lòng một ít.
-+ 爱，死在里面一点。
+* Con đường mòn mang những dấu chân đi
++ 小径上有足迹
 
-* Trăng nhập vào đây cung nguyệt lạnh.
-+ 月亮带着冷月进入这里。
+* Cành củi ướt đêm khuya anh nhóm lửa
++ 深夜柴树枝他点燃了火
 
-* Trăng thương, trăng nhớ, hỡi trăng ngần.
-+ 满月，满月，小月亮。
+* Phá gai góc, mở con đường lịch sử
++ 破荆棘开辟历史道路
 
-* Đàn buồn, đàn lặng, ôi đàn chậm.
-+ 丹难过，安静，慢点。
+* Cho những đoàn quân nối tiếp vượt Trường Sơn
++ 连任部队越过Truong Son
+
+* Từ những năm làng xóm tối đen
++ 从村庄的黑暗岁月
+
+* Đêm “tố cộng” tiếng giầy đinh ghê rợn
++ 夜里“加”音可怕
+
+* Mẹ vẫn giữ trong tim hình ảnh Bác
++ 母亲在我心中仍然保持着何叔叔的形象
+
+* Dõi nhìn sao Bắc Đẩu gọi tên con
++ 看着Bac Dau的星星叫我的名字
+
+* Dưới hầm sâu, dưới động cát nắng chang
++ 深沙坑，沙场下沙场
+
+* Cả chi bộ trầm tư ngồi họp
++ 整个树枝静静地坐下
+
+* Thương đồng chí, nén căm hờn trong ngực
++ 爱心的同志，仇恨在胸前
+
+* Đến từng nhà, thắp sáng những niềm tin
++ 来到每个房子，点燃信念
+
+* Người bạn thân nằm lại ven rừng
++ 我最好的朋友留在森林的边缘
+
+* Cởi chiếc áo cho đồng đội mặc
++ 脱掉队友穿的衬衫
+
+* Giao phần đạn cho người sau đánh tiếp
++ 将子弹传递给下一个人战斗
+
+* Đến hôm nay trùng điệp những đoàn quân
++ 到今天与军队重合
+
+* Tiếng pháo lớn gầm vang
++ 轰鸣声嘶哑
+
+* Đoàn xe tăng tiến vào “dinh tổng thống”
++ 坦克车队进入“总统府”
+
+* Thế chẻ tre, sức ta như thác lớn
++ 劈竹，我的力量像个大瀑布
+
+* Chiến thắng này, chiến thắng của tình yêu
++ 这胜利，爱的胜利
+
+* Tấm lòng sắt son của những má nghèo
++ 可怜的脸颊的铁心
+
+* Tiễn con đến bờ sông, còn dặn:
++ 带我去河岸，告诉我：
+
+* “Con của má, bây giờ con của nước”
++ “我的儿子，现在是水的儿子”
+
+* Phần gạo cuối cùng, má trút cho con
++ 最后的米饭，为孩子们的脸颊发泄
+
+* Em bé đưa tin, cô gái chèo thuyền
++ 使者，划船女孩
+
+* Người bạn tù băng vết thương Anh Trỗi
++ Anh Troi受伤的监狱朋友
+
+* Ai đã gõ vào tường bảo chị Quyên: đừng sợ hãi?
++ 谁敲过墙告诉奎恩：不要害怕吗？
+
+* Ai dán truyền đơn, ai đêm tối đưa đường?
++ 谁张贴传单，谁在晚上上路？
+
+* Triệu anh hùng không thể biết hết tên
++ 赵英雄不知道全名
+
+* Cho hôm nay, giữa Sài Gòn toàn thắng
++ 今天，整个西贡赢得了
+
+* Chiến thắng của nhân dân bất khuất
++ 顽强人民的胜利
+
+* Chiến thắng của niềm tin vô tận
++ 无尽信念的胜利
+
+* Của Việt Nam rực rỡ trái tim người
++ 越南灿烂的人心
+
+* Ngàn cây non phần phật lá bên đường
++ 数千棵幼树与佛叶在路上
+
+* Lòng như sóng lại oà lên như gió
++ 内心又像风一样荡漾
+
+* Giữa phố đông, nghẹn ngào như trẻ nhỏ
++ 在拥挤的街道中间，像孩子一样cho死
+
+* Trong say mừng, trong dồn dập nhớ thương
++ 在醉酒中，在压倒性地错过
+
+* Như tháng năm dài nhen ủ mật thơm
++ 只要有芳香气质就可以芳香芳香
+
+* Như mùa gặt bắt đầu từ hạt mạ
++ 从种子开始收获
+
+* Chiến thắng hôm nay bắt đầu từ nơi đó
++ 今天的胜利从那个地方开始
+
+* Một con đường bé nhỏ giữa rừng khuya
++ 深夜里森林中间的一条小路
+
+* Con đường mòn mang những dấu chân đi
++ 小径上有足迹
+
+* Cành củi ướt đêm khuya anh nhóm lửa
++ 深夜柴树枝他点燃了火
+
+* Phá gai góc, mở con đường lịch sử
++ 破荆棘开辟历史道路
+
+* Cho những đoàn quân nối tiếp vượt Trường Sơn
++ 连任部队越过Truong Son
+
+* Từ những năm làng xóm tối đen
++ 从村庄的黑暗岁月
+
+* Đêm “tố cộng” tiếng giầy đinh ghê rợn
++ 夜里“加”音可怕
+
+* Mẹ vẫn giữ trong tim hình ảnh Bác
++ 母亲在我心中仍然保持着何叔叔的形象
+
+
+* Dõi nhìn sao Bắc Đẩu gọi tên con
++ 看着Bac Dau的星星叫我的名字
+
+* Dưới hầm sâu, dưới động cát nắng chang
++ 深沙坑，沙场下沙场
+
+* Cả chi bộ trầm tư ngồi họp
++ 整个树枝静静地坐下
+
+* Thương đồng chí, nén căm hờn trong ngực
++ 爱心的同志，仇恨在胸前
+
+* Đến từng nhà, thắp sáng những niềm tin
++ 来到每个房子，点燃信念
+
+* Người bạn thân nằm lại ven rừng
++ 我最好的朋友留在森林的边缘
+
+* Cởi chiếc áo cho đồng đội mặc
++ 脱掉队友穿的衬衫
+
+* Giao phần đạn cho người sau đánh tiếp
++ 将子弹传递给下一个人战斗
+
+* Đến hôm nay trùng điệp những đoàn quân
++ 到今天与军队重合+ 轰鸣声嘶哑
+
+* Tiếng pháo lớn gầm vang
++ 听到很大的吼声
+
+* Đoàn xe tăng tiến vào “dinh tổng thống”
++ 坦克车队进入“总统府”
+
+* Thế chẻ tre, sức ta như thác lớn
++ 劈竹，我的力量像个大瀑布
+
+* Chiến thắng này, chiến thắng của tình yêu
++ 这场胜利，爱的胜利
+
+* Tấm lòng sắt son của những má nghèo
++ 可怜的脸颊的铁心
+
+* Tiễn con đến bờ sông, còn dặn:
++ 带我去河岸，告诉我：
+
+* “Con của má, bây giờ con của nước”
++ “我的儿子，现在是水的儿子”
+
+* Phần gạo cuối cùng, má trút cho con
++ 最后的米饭，为孩子们的脸颊发泄
+
+* Em bé đưa tin, cô gái chèo thuyền
++ 使者，划船女孩
+
+* Người bạn tù băng vết thương Anh Trỗi
++ Anh Troi受伤的监狱朋友
+
+* Ai đã gõ vào tường bảo chị Quyên: đừng sợ hãi?
++ 谁敲过墙告诉奎恩：不要害怕吗？
+
+* Ai dán truyền đơn, ai đêm tối đưa đường?
+
++ 谁张贴传单，谁在晚上上路？
+
+* Triệu anh hùng không thể biết hết tên
++ 赵英雄不知道全名
+
+* Cho hôm nay, giữa Sài Gòn toàn thắng
++ 今天，整个西贡赢得了
+
+* Chiến thắng của nhân dân bất khuất
++ 顽强人民的胜利
+
+* Chiến thắng của niềm tin vô tận
++ 无尽信念的胜利
+
+* Của Việt Nam rực rỡ trái tim người
++ 越南灿烂的人心
+
+* Giếng cũ cạn rồi – gần ba tháng nắng
++ 旧井是空的-日照近三个月
+
+* Cổ chúng tôi khô cây cỏ úa vàng
++ 我们的脖子变黄了
+
+* Bốn xung quanh chỉ toàn nước mặn
++ 四周围只有盐水
+
+* Dưới chân người cát bỏng như rang
++ 在沙子的脚下，人们像烤一样燃烧
+
+* Không rừng cây làm sao có nước nguồn
++ 森林里怎么没有水？
+
+* Những dòng sông biển ngăn không tới đảo
++ 海河阻止岛屿
+
+* Đám mây khô trên đầu cũng héo
++ 顶部的云也枯萎了
+
+* Trời hút xanh. Đâu rồi cơn mưa!
++ 蓝烟的天空。雨在哪里！
+
+* Ở chân trời đã sấm chớp rồi kia
++ 地平线上的雷暴
+
+* Mây đen.đến, gió xanh mặt biển
++ 乌云来了，蓝色的风
+
+* Sóng reo mừng, chúng tôi chờ đón
++ 海浪欢呼，我们等待着
+
+* Nhưng mưa chẳng tới đây mưa rất xa
++ 但是下雨不会很远
+
+* Cơn mưa kia nào phải của ta!
++ 雨不是我的！
+
+* Sao mẹ chẳng sinh con ở dưới những cơn mưa
++ 你为什么不下雨
+
+* Lại sinh con nơi đảo khô cằn thế
++ 在干旱的岛屿上生孩子
+
+* Lòng khắc nghiệt đôi khi thầm trách khẽ
++ 有时心在低声窃窃私语
+
+* Nhưng mẹ tôi cũng đang khát kia mà
++ 但是我妈妈也口渴
+
+* Biết nước đâu mà đợi mà chờ
++ 哪里知道在哪里等
+
+* Chỉ có nắng bốn bề nắng… nắng…
++ 只有四个阳光充足的表面...阳光充足的...
+
+* Con đường dưới chân tôi rạn nứt
++ 我脚下的路是裂痕
+
+* Con đường tôi đi từ những bước đầu tiên
++ 我的第一步
+
+* Con đường đi đến tuổi thanh niên
++ 通往青年之路
+
+* Cùng đồng chí, bạn bè thân thuộc
++ 与同志，熟悉的朋友
+
+* Và cây lúa nuôi tôi từ trứng nước
++ 大米从萌芽中喂饱我
+
+* Biết bao năm đội đất nảy mầm
++ 这么多土壤团队发芽
+
+* Giờ úa vàng không kịp trổ bông
++ 在泛黄不能开花
+
+* Dứa dại bao đời chắn bão dông
++ 菠萝风雨无数代
+
+* Cho cuộc sống đảo này yên ổn
++ 给这个岛上的生活和平
+
+* Giờ bàng gai nhìn tôi trách móc
++ 现在荆棘看着我骂
+
+
+* Rặng phi lao chẳng còn reo hát
++ 木麻黄范围不再响
+
+* (Hàng cây mà anh đi dạo cùng em)
++ （我和你一起走的树线）
+
+* Cây giận rồi gió cũng lặng im
++ 树木在生气，风依然寂静
+
+* Biết chạy đâu chạy đâu cho yên
++ 知道在哪里跑，在哪里跑？
+
+* Giữa mảnh đất của mình sinh đẻ
++ 在你的土地中间生
+
+* Tôi chợt nghĩ đến bàn tay và xấu hổ
++ 我想到了我的手，感到很尴尬
+
+* Đã lâu rồi tôi quên có bàn tay!
++ 很久以前我忘了动手！
+
+* Chúng tôi đào, đào suốt đêm ngày
++ 我们整夜都在挖
+
+* Moi đất đá để tìm ra nước
++ 挖石头和土找水
+
+* Đào bằng nỗi đau của con đường rạn nứt
++ 用裂谷之路挖掘
+
+
+* Bằng sự trả ơn cây lúa nuôi mình
++ 通过偿还米饭来养活我
+
+* Bằng màu xanh đời được hồi sinh
++ 借着蓝色的生命复活
+
+* Bằng lời trách cây dứa gai thiếu nước
++ 通过责备缺乏水的菠萝刺
+
+* Bằng nỗi giận hàng phi lao không hát
++ 由于木麻黄愤怒不唱歌
+
+* Chúng tôi đào bằng nỗi khát lòng tin
++ 我们以信仰的渴望来挖掘
+
+* Nước đây rồi ơi bạn bè anh em!
++ 这是水，我的朋友们！
+
+* Chúng tôi vục trăm gầu nước mát
++ 我们提了几百桶凉水
+
+* Trận mưa này mưa từ lòng đất
++ 雨从地面下雨
+
+* Trận mưa này, mưa của chúng tôi
++ 这雨，我们的雨
+
+* Đằng xa kia sấm chớp ở chân trời
++ 遥远的雷电在地平线上
+
+* Cơn mưa đến gió xanh mặt biển
++ 雨来到了海风
+
+* Cơn mưa đến – nào cần chi biết
++ 雨来了-不用知道
+
+* Cơn mưa kia không phải của mình.
++ 雨不是我的。
+
+
