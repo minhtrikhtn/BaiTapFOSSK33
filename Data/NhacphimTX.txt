@@ -1,0 +1,551 @@
+* Chúng tôi ổn.
++ 我们很好.
+
+* Đừng mở mắt ra.
++ 先不要张扬 眼前的伤.
+
+* Đừng nói khẽ.
++ 安安静静 不要说话.
+
+* Bạn đi về phía trước, tôi ở phía sau.
++ 你往前走 我在后面.
+
+* Đừng sợ.
++ 别害怕.
+
+* Bóng tối của chúng ta thực sự giống nhau.
++ 我们的黑暗 其实很像.
+
+* Đừng học cách ôm.
++ 没学会拥抱 就得放下.
+
+* Yêu sâu cũng khó.
++ 深爱着 也为难着.
+
+* Đối thủ ồ.
++ 对方 oh.
+
+* Bạn muốn trở nên mạnh mẽ, tôi có thể làm được.
++ 你想坚强 我可以让.
+
+* Bạn phải bướng bỉnh. Tôi sẽ đi cùng bạn.
++ 你要逞强 我陪你装.
+
+* Thời gian không bao giờ là loại tốt.
++ 反正时间 从未善良.
+
+* Tôi không thay đổi, bạn biết đấy.
++ 我没有变 你知道就好.
+
+* Dù thế giới có khó khăn đến đâu, chúng ta cũng không thể trốn thoát.
++ 世界再难 更不能逃.
+
+* Nước mắt nên được lau đi ngay bây giờ.
++ 眼泪现在 就该擦掉.
+
+* Cần bao nhiêu sức mạnh để phát triển chỉ một lần.
++ 只一次成长 花多少力量.
+
+* Đấu tranh.
++ 挣扎.
+
+* Chúng tôi ổn và không cần ai cầu nguyện.
++ 我们很好 不需要 任何人祈祷.
+
+* Viết nó ra khi bạn sở hữu tôi.
++ 当你拥有 我这些 失去才勾销.
+
+* Bạn không thể hạnh phúc.
++ 称不上快乐 算不了烦恼.
+
+* Hãy để tôi dành thời gian với bạn.
++ 让我慢慢陪你耗.
+
+* Chúng tôi không tốt và không yêu cầu ai tha thứ.
++ 我们不好 并不求 任何人原谅.
+
+* Bạn có đau không? Hãy cho tôi biết tại sao cần phải che giấu.
++ 你疼不疼 告诉我 何必要隐藏.
+
+* Một giấc mơ cô đơn luôn có hy vọng.
++ 寂寞的梦想 总得到希望.
+
+* Bạn thắng nhanh, được chứ?
++ 你快赢 好不好.
+
+* Tôi đã không thua.
++ 我就没输掉.
+
+* Thật dễ để cười. Tôi có thể làm được.
++ 笑很轻松 我做得到.
+
+* Hãy thông minh như bạn.
++ 聪明如你 也要记牢.
+
+* Lối thoát tiếp theo không phải là thiên đường.
++ 下个出口 不是天堂.
+
+* Nó không còn quan trọng nữa.
++ 已无关紧要.
+
+* Bạn muốn trở nên mạnh mẽ, tôi có thể làm được.
++ 你想坚强 我可以让.
+
+* Bạn phải bướng bỉnh. Tôi sẽ đi cùng bạn.
++ 你要逞强 我陪你装.
+
+* Thời gian không bao giờ là loại tốt.
++ 反正时间 从未善良.
+
+* Tôi không thay đổi, chỉ biết điều đó một mình.
++ 我没有变 你一个人知道就好.
+
+* Dù thế giới có khó khăn đến đâu, chúng ta cũng không thể trốn thoát.
++ 世界再难 更不能逃.
+
+* Nước mắt nên được lau đi ngay bây giờ.
++ 眼泪现在 就该擦掉.
+
+* Cần bao nhiêu sức mạnh để phát triển chỉ một lần.
++ 只一次成长 花多少力量.
+
+* Đấu tranh.
++ 挣扎.
+
+* Chúng tôi ổn và không cần ai cầu nguyện.
++ 我们很好 不需要 任何人祈祷.
+
+* Viết nó ra khi bạn sở hữu tôi.
++ 当你拥有 我这些 失去才勾销.
+
+* Bạn không thể hạnh phúc.
++ 称不上快乐 算不了烦恼.
+
+* Hãy để tôi dành thời gian với bạn.
++ 让我慢慢陪你耗.
+
+* Chúng tôi không tốt và không yêu cầu ai tha thứ.
++ 我们不好 并不求 任何人原谅.
+
+* Bạn có đau không? Hãy cho tôi biết tại sao cần phải che giấu.
++ 你疼不疼 告诉我 何必要隐藏.
+
+* Một giấc mơ cô đơn luôn có hy vọng.
++ 寂寞的梦想 总得到希望.
+
+* Bạn thắng nhanh, được chứ?
++ 你快赢 好不好.
+
+* Tôi không đếm thua.
++ 我才不算输掉.
+
+* Đừng mở mắt ra.
++ 先不要张扬 眼前的伤.
+
+* Đừng nói khẽ.
++ 安安静静 不要说话.
+
+* Đêm lạnh, phồn hoa rơi xuống đất thành sương.
++ 入夜漸微涼 繁花落地成霜.
+
+* Người trông về phương xa, ánh hoàng hôn kiệt quệ.
++ 你在遠方眺望 耗盡所有暮光.
+
+* Không tưởng niệm, tự thấy chẳng thể quên.
+* 不思量 自難相忘.
+
+* Mơn mởn hoa đào lạnh, chuyện kiếp trước người làm sao buông xuống?
++ 夭夭桃花涼 前世你怎捨下?
+
+* Trái tim mịt mờ này còn giả vờ không đau đớn, không gượng ép.
++ 這一海心茫茫 還故作不痛不癢不牽強.
+
+* Đều là sự giả dối.
++ 都是假象.
+
+* Bóng đêm lạnh vì nỗi tưởng niệm của người thành sông.
++ 涼涼夜色 為你思念成河.
+
+* Hoá thành bùn xuân che chở ta.
++ 化作春泥 呵護著我.
+
+* Năm tháng nhàn nhạt, phất mãn tay áo vợ chồng.
++ 淺淺歲月 拂滿愛人袖.
+
+* Từng chút mùi hương hoa cỏ hoà vào nước.
++ 片片芳菲 入水流.
+
+* Thiên ý lạnh lẽo, người một thân sắc hoa.
++ 涼涼天意 瀲灩一身花色.
+
+* Rơi vào phàm trần, mưu kế thụ thương.
++ 落入凡塵 傷情著我.
+
+* Sinh kiếp dễ dàng, tình kiếp gian nan.
++ 生劫易渡 情劫難了.
+
+* Tâm đã hao mòn, còn mấy phần hận của kiếp trước?
++ 折舊的心 還有幾分前生的恨?
+
+* Cũng từng tóc mai như sương, cũng từng có ánh sáng người trở về.
++ 也曾鬢微霜 也曾因你迴光.
+
+* Năm tháng dài đằng đẵng, sao có thể lãng phí thời gian?
++ 悠悠歲月漫長 怎能浪費時光?
+
+* Gạt đi lưu lạc, không còn thay đổi để trưởng thành.
++ 去流浪 去換成長.
+
+* Rực rỡ hoa đào lạnh, kiếp này càng thêm sôi sục.
++ 灼灼桃花涼 今生愈漸滾燙.
+
+* Một đoá cũng đủ cho hai bóng lưng kết thành vợ chồng.
++ 一朵已放心上 足夠三生三世背影成雙.
+
+* Ơ nơi biển nước.
++ 在水一方.
+
+* Ba đời ba kiếp lạnh lẽo, chợt bừng tỉnh như mộng.
++ 涼涼三生三世 恍然如夢.
+
+* Năm tháng qua đi, hong khô nước mắt.
++ 須臾的年 風幹淚痕.
+
+* Nếu như trong hồi ức lần nữa không thể *** biết nhau.
++ 若是回憶不能再相認.
+
+* Hãy để cho tình cảm rơi xuống cửu trần.
++ 就讓情分 落九塵.
+
+* 涼涼十里 何時還會春盛.
++ Mười *** lạnh lẽo, bao giờ xuân thịnh.
+
+* Lại thấy dưới tàng cây một ngọn gió.
++ 又見樹下 一盞風存.
+
+* Hoa rơi hữu ý, nước chảy vô tình.
++ 落花有意 流水無情.
+
+* Đừng để cho ân oán, yêu hận làm lạnh lẽo sự thuần khiết của hoa.
++ 別讓恩怨愛恨 涼透那花的純.
+
+* Em Đợi Anh Đến Hoa Cũng Tàn.
++ 我等到花儿也谢了.
+
+* Mọi người đều cứ hỏi: "rốt cuộc anh đang đợi cái gì chứ?"
++ 每个人都在问 我到底还在等什么?
+
+* Đợi đến xuân hạ thu đông đã qua rồi, lẽ nào còn chưa đủ sao?
++ 等到春夏秋冬 都过了难道还不够?
+
+* Thật ra là vì lỗ hỏng trong trái tim anh.
++ 其实是因为我的心有一个缺口.
+
+* Đang chờ người mang nó đi có thể trả về cho anh.
++ 等待拿走的人把它还给我.
+
+* Mọi người đều nói với anh rằng: "tình yêu này vốn không có kết quả".
++ 每个人都在说 这种爱情没有结果.
+
+* Anh cũng biết em mãi mãi không thể yêu anh, yêu hết lòng.
++ 我也知道 你永远都不能够爱我..
+
+* Thật ra anh cũng chỉ hi vọng thỉnh thoảng em sẽ nhớ đến anh.
++ 其实我只是希望 你有时想一想我.
+
+* Nhưng em lại cứ dần dần, dần dần im lặng chẳng hề nói gì.
++ 你却已经渐渐渐渐什么都不再说.
+
+* Những khi anh mất ngủ, liệu rằng có ai sẽ bên anh?
++ 我睡不着的时候 会不会有人陪着我?
+
+* Những khi anh đau buồn, liệu rằng có ai sẽ an ủi anh?
++ 我难过的时候 会不会有人安慰我?
+
+* Những khi anh muốn được tâm sự, liệu có ai có thể thấu hiểu anh?
++ 我想说话的时候 会不会有人了解我?
+
+* Những khi anh không thể quên em, liệu em sẽ đến xoa dịu nỗi lòng trong anh chứ?
++ 我忘不了你的时候 你会不会来疼我?
+
+* Này em có biết chăng, này em có hay chăng,
++ 你知不知道, 你知不知道,
+
+* Anh đợi em, đợi đến hoa cũng tàn rồi.
++ 我等到花儿也谢了.
+
+* Này em có biết chăng, này em có hay chăng,
++ 你知不知道, 你知不知道,
+
+* Anh đợi em, đợi đến hoa cũng tàn rồi...
++ 我等到花儿也谢了...
+
+* Người đến từ Triều Châu.
++ 潮州人.
+
+* Lúc không được như ý xin đừng oán trách,
++ 不如意时不要埋怨，
+
+* Khi gặp trắc trở cũng đừng nên nản lòng,
++ 挫折来时不要气馁，
+
+* Sao lại oán trách ông trời,
++ 怎能成天怨对，
+
+* Rồi tủi thân một mình,
++ 孤影自怜，
+
+* Nửa tỉnh nửa mơ cảm thấy mình nhỏ bé tự ti.
++ 半醒半梦消极卑微。
+
+* Đời người gập ghềnh như cơn sóng,
++ 人生仿佛是起落的潮浪，
+
+* Được và mât chỉ nằm trong suy nghĩ mà thôi,
++ 失与得都在转念之间，
+
+* Thành công, thất bại đều nên thản nhiên mà đối mặt,
++ 成功，失败都应该坦然面对，
+
+* Sinh mạng thật đáng quý, đừng bỏ phí những tháng năm, nhưng mong đừng hổ thẹn với lòng.
++ 生命诚可贵，别蹉跎岁月，但求问心无愧。
+
+* Hoa nở năm ấy.
++ 那年花开 .
+ 
+* Em biết không, mưa rồi đó.
++ 知道吗 下雨了.
+
+* Loài hoa em thích đã nở rồi.
++ 你喜欢的花开了.
+
+* Kiên cường như vậy.
++ 如此坚强.
+
+* Chiếc ô treo trên tay nắm cửa.
++ 雨伞在 门把上.
+
+* Cô dâu vừa được rước đi dưới kia cũng xinh đẹp như em.
++ 楼下送走了新娘美丽 就像你一样.
+
+* Tôi đã từng mơ mộng.
++ 我曾如此奢望.
+
+* Có thể cùng em sẻ chia những thăng trầm của đường đời.
++ 一路风霜能与你分享.
+
+* Lại sợ rằng sẽ ỷ lại vào em như vậy.
++ 又害怕会这样 依赖着.
+
+* Cho đến một ngày, chúng ta không còn cuồng điên nữa.
++ 直到有一天 我们不再疯狂.
+
+* Em đừng thất vọng, dù có là một kết thúc nhạt nhòa.
++ 请不要失望 哪怕平淡收场.
+
+* Thanh xuân tưởng chừng hoang đường nhưng sẽ chẳng ai lựa chọn buông xuôi.
++ 青春看似荒唐 没人会选择投降.
+
+* Tôi hiểu sự quật cường của em, em hiểu chí hướng của tôi.
++ 我懂你的倔强 你懂我向往.
+
+* Nếu có một ngày tôi biến mất nơi chân trời xa thẳm.
++ 如果有一天 我消失在远方.
+
+* Xin em đừng đau buồn dù em không thể quên.
++ 请不要悲伤 即使你不能忘.
+
+* Mong rằng hoa vẫn nở như thường và em vẫn sẽ ngẩng đầu cười rạng rỡ.
++ 但愿花开如常 你会笑着抬头望.
+
+* Tôi nguyện hóa thành ánh mặt trời đánh thức em mỗi sáng mai.
++ 我愿化作清晨 那叫醒你的阳光.
+
+* Lấy ảnh làm kẹp sách.
++ 把照片 当书签.
+
+* Mỗi ngày đọc từng trang từng trang đến lúc tôi chìm vào giấc ngủ.
++ 每天读上好几遍 几遍 能让我入眠.
+
+* Tôi đã từng mơ mộng.
++ 我曾如此奢望.
+
+* Có thể cùng em sẻ chia những thăng trầm của đường đời.
++ 一路风霜能与你分享.
+
+* Lại sợ rằng sẽ ỷ lại vào em như vậy.
++ 又害怕会这样 依赖着.
+
+* Cho đến một ngày, chúng ta không còn cuồng điên nữa.
++ 直到有一天 我们不再疯狂.
+
+* Em đừng thất vọng, dù có là một kết thúc nhạt nhòa.
++ 请不要失望 哪怕平淡收场.
+
+* Thanh xuân tưởng chừng hoang đường nhưng sẽ chẳng ai lựa chọn buông xuôi.
++ 青春看似荒唐 没人会选择投降.
+
+* Tôi hiểu sự quật cường của em, em hiểu chí hướng của tôi.
++ 我懂你的倔强 你懂我向往.
+
+* Nếu có một ngày tôi biến mất nơi chân trời xa thẳm.
++ 如果有一天 我消失在远方.
+
+* Xin em đừng đau buồn dù em không thể quên.
++ 请不要悲伤 即使你不能忘.
+
+* Mong rằng hoa vẫn nở như thường và em vẫn sẽ ngẩng đầu cười rạng rỡ.
++ 但愿花开如常 你会笑着抬头望.
+
+* Tôi nguyện hóa thành ánh mặt trời đánh thức em mỗi sáng mai.
++ 我愿化作清晨 那叫醒你的阳光.
+
+* Nếu có một ngày tôi biến mất nơi chân trời xa thẳm.
++ 如果有一天 我消失在远方.
+
+* Xin em đừng đau buồn dù em không thể quên.
++ 请不要悲伤 即使你不能忘.
+
+* Mong rằng hoa vẫn nở như thường và em vẫn sẽ ngẩng đầu cười rạng rỡ.
++ 但愿花开如常 你会笑着抬头望.
+
+* Tôi nguyện hóa thành ánh mặt trời đánh thức em mỗi sáng mai.
++ 我愿化作清晨 那叫醒你的阳光.
+
+* May Mắn Bé Nhỏ .
++ 小幸运.
+
+* Em nghe thấy tiếng mưa rơi trên thảm cỏ xanh.
++ 我听见雨滴落在青青草地.
+
+* Nghe thấy tiếng chuông tan học vang lên nơi phương xa.
++ 我听见远方下课钟声响起.
+
+* Nhưng em lại không nghe thấy tiếng của anh.
++ 可是我没有听见你的声音.
+
+* Đang nghiêm túc gọi to tên em.
++ 认真 呼唤我姓名.
+
+* Khi yêu anh em vẫn chưa biết được lòng mình.
++ 爱上你的时候还不懂感情.
+
+* Xa nhau rồi mới hiểu được thế nào là khắc cốt ghi tâm.
++ 离别了才觉得刻骨 铭心.
+
+* Tại sao lại không phát hiện ra gặp được anh.
++ 为什么没有发现遇见了你.
+
+* Là điều tươi đẹp nhất trong cuộc đời này.
++ 是生命最好的事情.
+
+* Có lẽ khi đó còn mải vui đùa và khóc nhè.
++ 也许当时忙着微笑和哭泣.
+
+* Mải đuổi theo sao băng vụt qua bầu trời.
++ 忙着追逐天空中的流星.
+
+* Người dĩ nhiên sẽ không nhớ.
++ 人理所当然的忘记.
+
+* Là ai luôn âm thầm đứng đó bảo vệ em trong mưa gió.
++ 是谁风里雨里一直默默守护在原地.
+
+* Thì ra anh chính là may mắn mà em muốn giữ lại nhất.
++ 原来你是我最想留住的幸运.
+
+* Thì ra chúng ta đã từng đến gần tình yêu đến vậy.
++ 原来我们和爱情曾经靠得那么近.
+
+* Vậy em sẽ chống lại quyết định của cả thế giới.
++ 那为我对抗世界的决定.
+
+* Vậy hãy cùng em đứng dưới cơn mưa rào này.
++ 那陪我淋的雨.
+
+* Tất cả đều là tấm chân tình không vấy chút bụi trần của anh.
++ 一幕幕都是你 一尘不染的真心.
+
+* Được gặp gỡ anh là điều may mắn đến nhường nào.
++ 与你相遇 好幸运.
+
+* Nhưng em lại đánh mất quyền lợi được rơi nước mắt vì anh.
++ 可我已失去为你泪流满面的权利.
+
+* Chỉ mong rằng ở chân trời nơi em không nhìn thấy.
++ 但愿在我看不到的天际.
+
+* Anh dang rộng đôi cánh của mình.
++ 你张开了双翼.
+
+* Gặp người đã được định trước cho anh.
++ 遇见你的注定..oh..
+
+* Cô ấy sẽ là người may mắn nhất thế gian này.
++ 她会有多幸运.
+
+* Thanh xuân là một chuyến đi đầy trắc trở.
++ 青春是段跌跌撞撞的旅行.
+
+* Mang theo sự nhận thức muộn màng mà tươi đẹp.
++ 拥有着后知后觉的美丽.
+
+* Vẫn chưa kịp nói lời cảm ơn anh đã cho em dũng khí.
++ 来不及感谢是你给我勇气.
+
+* Để em có thể quay lại là chính mình.
++ 让我能做回我自己.
+
+* Tư Mộ.
++ 思慕.
+
+* Gió mở ra xiềng xích kí ức, nhớ tới ngày xưa của hai ta.
++ 風吹開了記憶的鎖 想起舊時的你我.
+
+* Từng tiếc nuối bỏ qua, hoa đào rơi xuống hương thầm giấu khổ sở.
++ 曾相思許諾 曾遺憾錯過 桃花飄落暗香藏苦澀.
+
+* Thiên Địa Vô Sương.
++ 天地无霜.
+
+* Trăng chiếu sáng mười dặm bóng đêm, vứt bỏ tịch mịch nơi đáy mắt.
++ 月染亮十里夜色 勾起眼底的寂寞.
+
+* Khó bỏ qua cho chàng, mặc cho chìm ngập tang thương, ba ngàn năm thất hồn lạc phách.
++ 對你的難捨 任滄桑淹沒 三千流年心失魂落魄.
+
+* Thê lương tưởng niệm, cõi lòng tan nát biết làm sao.
++ 淒淒思慕 心碎到奈何.
+
+* Không ngừng bỏ đi vướng mắc, càng muốn quên lại càng khắc sâu.
++ 剪不斷糾葛 越想忘記越深刻.
+
+* Quên rồi, say rồi, cho rằng bỏ xuống rồi.
++ 忘了醉了 以為放下了.
+
+* Cũng chỉ là mộng sau khi tỉnh lại, nhớ tới chàng lại rơi lệ.
++ 卻在夢醒後 想起你淚滑落.
+
+* Cánh hoa rơi tưởng rằng chàng đã đến, trước mắt lệ ta ướt nhoè.
++ 花紛落以為你來過 我眼前的淚斑駁.
+
+* Không nói được hối hận, đạo vô tận khó bỏ, cô độc cùng yếu ớt bị đau đớn dày vò.
++ 說不清悔過 道不盡難捨 孤獨和脆弱被痛牽扯.
+
+* Khi chàng nói yêu ta lần nữa, khi buồn vui lần nữa đan xen.
++ 當你再次說愛我 當悲歡再次交錯.
+
+* Mới chợt hiểu ra, cố chấp đối với chàng là hơi thở không thể nào dứt bỏ của ta.
++ 才恍然懂了 對你的執著 是我無法割捨的脈搏.
+
+* Hoa nở hoa tàn, vết thương lòng ai vá?
++ 花開花落 心傷誰縫合?
+
+* Không giải được nhân quả ba đời hoa đào dịu dàng.
++ 解不開因果 三生桃花柔情多.
+
+* Tương tư khó bỏ, cảm mến một đoá hoa.
++ 相思難捨 傾心花一朵.
+
+* Nguyện cầm tay đến bạc đầu, ngắm hoa thơm say gió xuân.
++ 願執手白頭 看芳華醉春風.
