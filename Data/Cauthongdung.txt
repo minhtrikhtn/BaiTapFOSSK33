@@ -1,0 +1,316 @@
+﻿* Tôi hiểu rồi.
++ 我明白了
+
+* Tôi không làm nữa.
++ 我不乾了
+ 
+* Tôi cũng vậy.
++ 我也是
+
+* Tôi đồng ý.
++ 我同意
+
+* Cũng được lắm.
++ 還不錯
+
+* Hãy giữ im lặng 1 chút.
++ 安靜一點
+
+* Im miệng.
++ 闭嘴
+
+* Để tôi , để tôi làm.
++ 讓我來
+
+* Phấn khởi lên nào.
++ 振作起來
+
+* Làm tốt lắm.
++ 做得好
+
+* Chơi vui vẻ.
++ 玩得開心
+
+* Tôi về rồi.
++ 我回來了
+
+* Tôi lạc đường rồi.
++ 我迷路了
+
+* Tôi đãi , tôi mời.
++ 我請客
+
+* Tôi cũng thế.
++ 我也一樣
+
+* Mời đi lối này.
++ 這邊請
+
+* Đi theo tôi.
++ 跟我来
+
+* Tôi từ chối.
++ 我拒絕
+
+* Tôi bảo đảm.
++ 我保證
+
+* Tôi nghi lắm.
++ 我懷疑
+
+* Tôi cũng nghĩ như thế.
++ 我也這樣想
+
+* Tôi là người độc thân thành đạt.
++ 我是單身貴族
+
+* Để tôi nghĩ đã.
++ 讓我想想
+
+* Tôi là fan( người hâm mộ) của anh ấy.
++ 我是他的影迷
+
+* Bạn chắc chắn không?.
++ 你肯定嗎？
+
+* Tôi đang ăn kiêng.
++ 我在節食
+
+* Mày bán đứng tao.
++ 你出賣我
+
+* Tôi có thể giúp bạn gì không ?.
++ 我能幫你嗎?
+
+* Tôi làm được rồi.
++ 我做到了
+
+* Tôi làm xong rồi.
++ 我做完了
+
+* Tôi sẽ lưu ý.
++ 我會留意的
+
+* Tôi đang vội lắm.
++ 我在趕時間
+
+* Bạn nợ tôi một việc.
++ 你欠我一個人情
+
+* Bạn đùa à ?.
++ 你在開玩笑吧?
+
+* Tớ không cố ý.
++ 我不是故意的
+
+* Tôi sẽ sắp xếp cho anh.
++ 我會幫你打點
+
+* Anh ấy thiếu dũng khí.
++ 她缺乏勇氣
+
+* Tôi không có sự lựa chọn.
++ 我別無選擇
+
+* Tôi thích ăn kem.
++ 我喜歡吃冰淇淋
+
+* Tôi sẽ cố gắng hết sức.
++ 我盡力而為
+
+* Bạn có khỏe không?.
++ 你好嗎？
+
+* Rất vui được gặp bạn.
++ 见到你很高兴。
+
+* Bạn dạo này thế nào?.
++ 你近来过的怎麼樣？
+
+* Bận không?.
++ 忙嗎？
+
+* Cũng tốt.
++ .還好。
+
+* Rất tốt.
++ 挺好。
+
+* Chỉ tàm tạm,bình thường.
++ .馬馬虎虎
+
+* Anh yêu em.
++ 我愛你
+
+* Nó là của bạn à?.
++ 这是你的嗎?
+
+* Rất tốt.
++ 這很好。
+
+* Bạn có chắc không?.
++ 你肯定嗎?
+
+* Tôi có phải không?.
++ 非做不可嗎?
+
+* Anh ấy cùng tuổi với tôi.
++ 他和我同歲
+
+* Không có gì.
++ 不要緊。
+
+* Không vấn đề gì.
++ 沒問題!
+
+* Thế đó.
++ 就這樣!
+
+* Hết giờ.
++ 時間快到了
+
+* Có tin tức gì mới không.
++ 有什麼新鮮事嗎?
+
+* Tin tôi đi.
++ 算上我。
+
+* Đừng lo lắng.
++ 別擔心
+
+* Thấy đỡ hơn chưa?.
++ 好點了嗎?
+
+* Bạn thì sao?.
++ 你呢?
+
+* Bạn nợ tôi đó.
++ 你欠我一個人情。
+ 
+* Không có gì.
++ 不客氣。
+
+* Ngày nào đó sẽ làm.
++ 哪一天都行夕
+
+* Bạn đùa à.
++ 你在開玩笑吧!
+
+* Chúc mừng bạn.
++ 祝賀你!
+
+* Tôi không chịu nổi. 
++ 我情不自禁。
+
+* Tôi không biết.
++ 我不知道.
+
+* Tôi sẽ giúp bạn.
++ 我會幫你打點的。
+
+* Của bạn đây.
++ 給你。
+
+* Không ai biết.
++ 没有人知道。
+
+* Đừng vội vàng.
++ 別緊張。
+
+* Tiếc quá.
++ 太遺憾了!
+
+* Còn gì nữa không?.
++ 還要別的嗎?
+
+* Cẩn thận.
++ 一定要小心!
+
+* Giúp tôi một việc.
++ 幫個忙，好嗎?
+
+* Xin lỗi ngài, xin lỗi bạn.
++ 先生，對不起
+
+* Giúp tôi một tay.
++ 幫幫我!
+
+* Mọi việc thế nào?.
++ 怎麼樣?
+
+* Tôi không biết.
++ 我沒有頭緒
+
+* Tôi đã làm được rồi.
++ 我做到了!
+
+* Tôi không muốn nghe nữa.
++ 我不想聽
+
+* Tôi không hiểu.
++ 我不懂!
+
+* Đó là chuyên môn của cô ta.
++ 這是她的本行
+
+* Nó phụ thuộc vào bạn.
++ 由你決定
+
+* Thật tuyệt vời.
++ 簡直太棒了!
+
+* Đừng khách sáo, đừng khách khí.
++ 別客氣。
+
+* Tuyệt vời.
++ 好棒 .
+
+* Giữ liên hệ nhé.
++ 保持聯絡。
+
+* Thời gian là vàng bạc.
++ 時間就是金錢。
+
+* Ai gọi đó.
++ 是哪一位?
+
+* Bạn đã làm đúng.
++ 你做得對。
+
+* Đồ ngốc, ngu ngốc
++ 笨蛋
+
+* Cút đi, xéo đi. 
++ 滾開
+
+* Thưởng thức nhé.
++ 祝你玩得開心!
+
+* Cẩn thận một chút.
++ 小心一點
+
+* Đừng cử động.
++ 別動。
+
+* Đừng đi.
++ 別走
+
+* Gì thế.
++ 幹嘛
+ 
+* Tôi là người Mỹ.
++  我是美国人。
+
+* Tôi là người Anh.
++ 我不是英国人。
+
+* Tôi nói tiếng Anh.
++ 我说英语。
+
+* Tôi là học sinh.
++ 我是学生。
+
+* Bắc Kinh là một nơi rất tuyệt
++ 北京是一个好地方。
+
+
