@@ -1,185 +1,89 @@
-﻿*Chào giá.
-+询盘。
+﻿* Chào giá.
++ 询盘。
 
-*Hỏi giá.
-+发盘。
+* Hỏi giá.
++ 发盘。
 
-*Người chào giá.
-+实盘。
+* Người chào giá.
++ 实盘。
 
-*Công ty.
-+公司。
+* Công ty.
++ 公司。
 
-*Thị trường.
-+市场。
+* Thị trường.
++ 市场。
 
-*Xí nghiệp, doanh nghiệp.
-+企业。
+* Xí nghiệp, doanh nghiệp.
++ 企业。
 
-*Đầu tư.
-+投资。
+* Đầu tư.
++ 投资。
 
-*Ngân hàng.
-+银行。
+* Ngân hàng.
++ 银行。
 
-*Đô la Mỹ.
-+美元。
+* Đô la Mỹ.
++ 美元。
 
-*Vốn.
-+资金。
+* Vốn.
++ 资金。
 
-*Kinh doanh, nghiệp vụ.
-+业务。
+* Kinh doanh, nghiệp vụ.
++ 业务。
 
-*Tăng trưởng.
-+增长。
+* Tăng trưởng.
++ 增长。
 
-*Sản phẩm.
-+产品。
+* Sản phẩm.
++ 产品。
 
-*Giá.
-+价格。
+* Giá.
++ 价格。
 
-*Quản trị, quản lý.
-+管理。
+* Quản trị, quản lý.
++ 管理。
 
-*Nền kinh tế.
-+经济。
+* Nền kinh tế.
++ 经济。
 
-*Rủi ro.
-+风险。
+* Rủi ro.
++ 风险。
 
-*Khoản vay.
-+贷款。
+* Khoản vay.
++ 贷款。
 
-*Vốn lớn, vốn hoá lớn.
-+大盘。
+* Vốn lớn, vốn hoá lớn.
++ 大盘。
 
-*Ngành.
-+行业。
+* Ngành.
++ 行业。
 
-*这次休假去哪里。
-+Kỳ nghỉ phép lần này anh đi đâu.
+* Thương mại hàng đổi hàng, mậu dịch trao đổi hàng.
++ 易货贸易。
 
-*想和家人一起去旅游。
-+Tôi muốn đi du lịch cũng người thân.
+* Thương mại tương hỗ, buôn bán đối lưu mậu dịch hàng đổi hàng.
++ 互惠贸易。
 
-*去哪里。
-+Đi đâu?
+* Thương mại đa phương.
++ 多边贸易。
 
-*打算去国外旅行。
-+Tôi định đi du lịch ở nước ngoài.
+* Thương mại song phương.
++ 双边贸易。
 
-*我想去一趟中国。
-+Tôi muốn sang Trung Quốc một chuyến.
+* Thương mại chuyển khẩu.
++ 转口贸易。
 
-*你没有去过吗。
-+Anh chưa đến đó à?
+* Thương mại xuất khẩu.
++ 转口贸易。
 
-*我去过了。
-+Tôi đến rồi.
+* Thương mại nhập khẩu.
++ 进口贸易。
 
-*孩子们没有去过。
-+Bọn trẻ vẫn chưa được đi.
+* Khu vực tự do mậu dịch.
++ 自由贸易区。
 
-*可能去个6天5夜吧。
-+Chắc là đi 1 chuyến 6 ngày 5 đêm.
+* Tự do thương mại.
++ 自由贸易。
 
-*打算去北京和西安。
-Tôi định đến Bắc Kinh và Tây An.
-
-*4天3夜的话，就只能去北京了。
-+Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
-
-*时间不够吧。
-+Không đủ thời gian à?
-
-*想把北京看完都比较难。
-+Muốn đi tham quan hết Bắc Kinh thì hơi khó.
-
-*中国要看的地方太多了。
-+Trung Quốc có rất nhiều nơi nên đến tham quan.
-
-*我也想去西藏看看。
-+Tôi cũng muốn đến thăm Tây Tạng.
-
-*我也想去少林寺看看。
-+Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
-
-*我想去济州岛看看。
-+Tôi muốn đến thăm đảo Jeju.
- 
-*计划夫妻俩一起去。
-+Hai vợ chồng dự định cùng đi.
-
-*回来后再休息一下。
-+Khi về còn nghỉ ngơi nữa.
-
-*我去年去欧洲旅行了。
-+Năm ngoái tôi đi du lịch châu Âu rồi.
-
-*我想明天去。
-+Tôi muốn để sang năm mới đi.
-
-*大概。
-+Khoảng.
-
-*下车。
-+Xuống xe.
-
-*停。
-+Dừng.
-
-*等。
-+Đợi.
-
-*后备箱。
-+Cốp sau.
-
-*计价器。
-+Đồng hồ tính tiền (taxi).
-
-*收据。
-+giấy biên nhận.
-
-*零钱。
-+tiền lẻ.
-
-*地址
-+địa chỉ.
-
-*快。
-+nhanh.
-
-*慢。
-+chậm.
-
-*Thương mại hàng đổi hàng, mậu dịch trao đổi hàng.
-+易货贸易。
-
-*Thương mại tương hỗ, buôn bán đối lưu mậu dịch hàng đổi hàng.
-+互惠贸易。
-
-*Thương mại đa phương.
-+多边贸易。
-
-*Thương mại song phương.
-+双边贸易。
-
-*Thương mại chuyển khẩu.
-+转口贸易。
-
-*Thương mại xuất khẩu.
-+转口贸易。
-
-*Thương mại nhập khẩu.
-+进口贸易。
-
-*Khu vực tự do mậu dịch.
-+自由贸易区。
-
-*Tự do thương mại.
-+自由贸易。
-
-*Người nhận hàng.
-+收货人。
+* Người nhận hàng.
++ 收货人。
