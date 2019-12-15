@@ -8012,6 +8012,8 @@
 * Mọi người đều không đủ kiên nhẫn để bàn tán mỗi một vấn đề khi mà nó chỉ mãi dừng lại ở điều mà ai cũng biết. 
 + 当每个问题永远停止在每个人都知道的地方时，每个人都没有足够的耐心谈论每个问题。
 
+*
++
 
 
 
