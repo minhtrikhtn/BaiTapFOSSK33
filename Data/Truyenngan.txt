@@ -7442,194 +7442,577 @@
 * "Mình đi rửa mặt thôi, nhà vệ sinh gần đây mà."
 + “我要洗脸，厕所在附近。”
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* Tôi lấy đại một lí do trả lời cậu rồi đi thẳng vào nhà về sinh.
++ 我给了他一个借口，直接回家生了孩子。
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* Còn cậu vẫn tiếp tục tìm kiếm thứ gì đấy.
++ 而且您仍然在寻找某些东西。
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* Một lúc sau tôi đi ra thấy cậu đang núp sau góc cây nhìn thứ gì đó.
++ 过了一会儿，我出来见他躲在树角后面看着某物。
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* Tôi tiến về phía cô khẽ ho một tiếng, cậu quay lại nhìn tôi và ra hiệu bảo tôi im lặng. 
++ 我走向她，轻轻咳嗽，他转过头看着我，并示意我保持沉默。
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* Tôi nhìn ra phía sau cái cây, không phải là tên lớp kế bên ư.
++ 我在树后面看，不是下一个班级的名字。
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* và hắn ta hình như đang nói chuyện với một cô gái nào đó.
++ 而且他似乎在跟一个女孩说话
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* họ nói chuyện gì thì tôi cũng không rõ nữa, hình như anh ta đang tỏ tình với cô gái đó. 
++ 不管他们怎么说，我都不知道，他似乎是在向那个女孩坦白。
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* Hai người còn đang ôm nhau nữa kìa, khi hai người kia đi mất, tôi nhìn sang cậu, sắc mặt cậu không tốt lắm.
++ 两者仍然互相拥抱，当另外两个消失时，我看着他，他的脸不是很好。
 
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
-*
-+
+* Một giọt lệ từ mắt cậu trào ra, trôi xuống mà và rơi xuống tay tôi. 
++ 他的眼泪落下，落下，落在我的手中。
+
+* Sau giọt đầu tiền đó, nước mắt cậu bắt đầu trào ra như thác.
++ 第一滴水之后，他的眼泪开始好起来。
+
+* Cậu gập người bò xuống đất, cả hai tay úp xuống và bắt đầu kêu khóc quằn quại.
++ 他弯腰着地，双手朝下，开始哭泣和扭动。
+
+* Trong đời tôi, chưa bao giờ tôi thấy cậu khóc dữ dội như thế.
++ 我从未见过他这样的哭泣。
+
+* Tôi vươn tới và đặt một bàn tay lên bờ vai đang run bần bật của cậu, theo bản năng, tôi ôm cậu vào lòng.
++ 我伸出手，将一只手放在他颤抖的肩膀上，本能地，我紧紧抓住了他。
+
+* Cậu nép chặt vào lòng tôi, cơ thể cậu run lên, cậu tiếp tục khóc không ra tiếng.
++ 他紧紧地抱在我的腿上，身体发抖，他继续哭着不说话。
+
+* Sơ-mi tôi ước đẫm, sũng nước mắt cậu và hơi thở nóng hổi của cậu.
++ 我的衬衫希望，能浸透他的眼泪和热气。
+
+* Tôi đưa cậu về đến nhà, cậu vẫn tiếp tục khóc. 
++ 我把他带回家，他继续哭泣。
+
+* Như thường lệ, nhà cậu vẫn không có ai.
++ 和往常一样，他的房子仍然空着。
+
+* Cậu toan nắm tay tôi, giọng cậu run run.
++ 他试图握住我的手，声音发抖。
+
+* "Này, đêm nay cậu ở đây với mình được không."
++ “嘿，你今晚可以和我在一起吗？”
+
+* "Ba mẹ cậu không phiền sao."
++ “你的父母不介意。”
+
+* "Họ đi công tác hết rồi."
++ “他们都去营业了。”
+
+* "Để mình báo với gia đình đã."
++ “让我先告诉家人。”
+
+* Tôi nở một nụ cười với cậu và bước về phía cửa.
++ 我朝他微笑，走向门。
+
+* Đột nhiên, từ phía sau, cậu lao đến ôm chặt lấy tôi.
++ 突然，他从后面冲了过来，紧紧地拥抱我。
+
+* Chẳng mấy chốc những ngón tay cậu chạy khắp cơ thể tôi như đang kiếm tìm một thứ gì đó rất quan trọng vẫn luôn ở đó và chờ đợi cậu.
++ 很快，他的手指穿过我的身体，仿佛正在寻找非常重要的东西，并且还在那儿等着他。
+
+* Tôi quay lại, đỡ bằng tay trái, tôi dùng bàn tay phải vuốt ve mái tóc mềm mại của cậu. 
++ 我转身，用左手支撑着，用右手抚摸着他柔软的头发。
+
+* Tôi hôn cậu, nụ hôn đầu của tôi. 
++ 我吻你，我的初吻。
+
+* Nó như chứa hết mọi tình cảm mà trước giờ tôi dành cho cậu.
++ 就像我以前对你的爱一样。
+
+* Đêm đó tôi và cậu ngủ cùng nhau. 
++ 那天晚上我和你睡在一起。
+
+* Làm vậy có đúng hay không ư? Tôi cũng không biết nữa.
++ 是不是？我也不知道
+
+* Đến bây giờ tôi vẫn không biết đúng hay không, có lẽ sẽ chẳng bao giờ biết được. 
++ 我现在仍然不知道，也许我永远不会知道。
+
+* Nhưng lúc đó, tôi chỉ có thể làm được như vậy thôi. 
++ 但是那时，我只能这样做。
+
+* Cậu thì đang đau khổ tột cùng và cậu muốn tôi giải tỏa nó giúp cậu.
++ 您非常痛苦，您想让我为您释放它。
+
+* Tôi nhẹ nhàng ôm cậu vào lòng.
++ 我轻轻地把他抱在腿上。
+
+* và chẳng mấy chốc đôi vai đã nhấp nhô theo từng nhịp thở có thể nghe thấy được của giấc ngủ. 
++ 很快，他的肩膀随着每一次可闻的睡眠而颤抖。
+
+* Chắc hẳn cậu đã mệt mỏi lắm. 
++ 你一定很累
+
+* Đèn từ dãy phố đầy ắp những của hàng dưới cửa sổ hắt vào một thứ ánh sáng nhè nhẹ, giống như ánh trăng, tràn ngập căn phòng.
++ 满是窗户的街道上满是窗户的街道发出的柔和的光线，像月光一样，照亮了整个房间。
+
+* Cậu ngủ nằm quay lưng về phía tôi, cậu nằm thật im gần như đã đóng băng. 
++ 他背对着我睡觉，他非常安静地躺着，几乎被冻僵了。
+
+* Cúi xuống gần, tôi nghe được từng tiếng thở của cậu. 
++ 弯腰，我能听到他的呼吸。
+
+* Cậu ngủ trông thật yên bình.
++ 他看上去如此平静。
+
+* Trời đã hửng sáng. Tôi pha một ít cà phê tan rồi lấy giấy với bút bi trên bàn viết cho cậu mấy chữ:
++ 已经很亮了。我泡了些速溶咖啡，拿了纸和圆珠笔在桌子上给他写了几句话：
+
+* Ngoài trời đã sáng rồi, mình phải về đây. Tạm biệt.
++ 外面已经是早上了，我必须回到这里。再见
+
+* Sau một hồi lưỡng lự, tôi viết thêm: Trông cậu lúc ngủ thật là xinh.
++ 犹豫了一下之后，我补充说：睡觉时看起来很美。
+
+* Tôi ngắm nhìn bờ vai cậu một hồi lâu, tự nhủ với lòng mình rằng mọi thứ sẽ ổn thôi rồi nhẹ nhàng bước ra ngoài và đóng của lại.
++ 我凝视了他很久的肩膀，告诉自己一切都会好起来的，然后轻轻地走到外面，关上门。
+
+* Nhưng thực sự không có bất kì thứ gì ổn cả.
++ 但是真的没有什么好。
+ 
+* Không có một cuộc gọi nào suốt một tuần lễ trôi qua. 
++ 但是真的没有什么好。
+
+* Cậu cũng không đi học, không có ai ở nhà cậu. 
++ 他也没有上学，家里也没人。
+
+* Người hàng xóm cho biết họ đã dọn đi nơi khác, nhưng không biết họ đã đi đâu. 
++ 邻居说他们已经搬走了，但不知道他们去了哪里。
+
+* Rồi đến đầu tháng bảy tôi nhận được thư của cậu. 
++ 然后在7月初，我收到了您的来信。
+
+* Một lá thư ngắn ngủi, lá thư đầu tiên cậu gửi và cũng là cuối cùng.
++ 一封短信，他发送的第一封信，最后一封。
+
+* Làm ơn tha lỗi cho mình vì đã không nói cho cậu biết sớm hơn.
++ 请原谅我不告诉你。
+
+* Sau một khoảng thời gian dài mình mới có tâm trạng viết cho cậu lá thư này, ít nhất mình cũng viết đi viết lại hàng chục lần.
++ 过了很长时间，我才写了这封信，至少写了一遍又一遍。
+
+* Với mình viết thư là một quá trình cực kì gian khổ.
++ 为我写信是一个极其艰巨的过程。
+
+* Mẹ mình đã quyết định chuyển công tác cách đây một năm.
++ 我母亲一年前决定改行。
+
+* Và có lẽ mình sẽ không bao giờ quay lại đó nữa. 
++ 也许我永远不会再回到那里了。
+
+* Đã có một vài lần mình định nói với cậu, nhưng không biết phải bắt đầu từ đâu. 
++ 我曾经有几次要告诉他，但我不知道从哪里开始。
+
+* Mình sợ việc phải nói ra, sợ phải rời xa cậu.
++ 我怕说，怕离开你。
+
+* Mình rất biết ơn cậu, theo cách riêng của mình, vì những năm tháng qua cậu đã ở cạnh bên mình.
++ 我以自己的方式非常感谢您，这些年来您一直与我在一起。
+
+* Có lần, cậu hỏi mình, giữa bạn thân và người mình yêu mình sẽ chọn ai.
++ 有一次，他问我，在我最好的朋友和我所爱的朋友之间我该选择谁？
+
+* Mình sẽ chọn cả hai bởi vì người mình yêu nhất cũng là bạn thân nhất của mình, và đó chính là cậu.
++ 我会选择两者，因为我爱的人是我最好的朋友，那就是你。
+
+* Cậu không phải nguyên nhân làm mình đau khổ, chính mình đã làm bản thân đau khổ.
++ 他不是痛苦的根源，而是使自己受苦。
+
+* Chính mình là người làm chuyện đó. Mình nghĩ thế.
++ 您是做到这一点的人。我也这么认为
+
+* Dù sao bây giờ mình cũng chưa sẵn sàng gặp lại cậu.
++ 我现在还不准备见你。
+
+* Có lẽ sẽ không bao giờ đủ can đảm gặp lại cậu. Xin lỗi và cảm ơn cậu vì tất cả.
++ 可能再也没有勇气再见到他了。对不起，谢谢你所做的一切。
+
+* Tôi đọc đi đọc lại lá thư của cậu hàng trăm lần, lần nào cũng ngập tràn trong nỗi buồn vô tận, một nỗi buồn theo tôi cả một đời.
++ 我读了他的信数百遍，总是充满无尽的悲伤，这种悲伤一直伴随着我一生。
+
+* Tôi không có cách gì đương đầu với nỗi buồn đó, không biết phải đem nó đi đâu, phải giấu nó vào chỗ nào.
++ 我没有办法应付这种悲伤，不知道该从哪里去藏起来。
+
+* Giống như một cơn gió thoáng qua tâm hồn tôi, tôi không thể chạm vào nó, không thể nhìn thấy nó, cũng không thể quấn nó bên mình. 
++ 就像微风拂过我的灵魂一样，我无法触摸，看不到它，也无法将它包裹起来。
+
+* Nhưng nó vẫn luôn ở đó, bồng bềnh trôi qua ngay bên tôi, theo tôi dai dẳng nhiều năm liền. 
++ 但是它总是在那里，漂浮在我的身边，对我执着多年。
+
+* Tôi vẫn ở đó hy vọng một cuộc điện thoại của cậu, chờ đợi một thứ chẳng hề tồn tại.
++ 我仍然在那里，希望他打来电话，等待着不存在的事情。
+
+* Từ khi ấy cũng đã hơn tám năm trôi qua, tôi giờ đây đã trưởng thành và trở thành một tiểu thuyết gia, thu nhập cũng ổn định và tôi vẫn còn ế. 
++ 从那以后八年多了，我已经长大了，成为一名小说家，收入也很稳定，我仍然一个人。
+
+* Mỗi câu chuyện tôi viết ra đều chứa nỗi nhớ cậu ngập tràn trong đó, tôi vẫn chưa hề quên cậu, không bao giờ quên được.
++ 我写的每个故事都充满了您的怀旧之情，我从未忘记过您，永远不会。
+
+* Rồi vào một ngày thu, tôi vô tình gặp cậu nơi phỗ xá Sài Gòn đông đúc kia. 
++ 然后是秋天的一天，我偶然在拥挤的西贡诊所见了他。
+
+* Tôi nghĩ cậu sẽ nhận ra tôi, nhưng không, cậu lướt nhanh qua tôi như một kẻ xa lạ.
++ 我以为你会认出我，但是不，他像一个陌生人一样把我传递了。
+
+* Cậu vội vã chạy vào vòng tay của kẻ khác không phải tôi, cậu đi cùng với kẻ khác không phải tôi, sẽ chẳng bao giờ là tôi nữa.
++ 他急忙碰到了我以外的人的怀抱，和我以外的人一起走了，那再也不会是我了。
+
+* Năm năm bên nhau, ta đã từng cười khóc, cùng nhau chia sẻ bao hương vị của tuổi trẻ, tất cả giờ chỉ là những điều dĩ vãng. 
++ 在一起的五年中，我们在一起欢笑和哭泣，共享着许多青春的气息，现在一切都已成为过去。
+
+* Cảm ơn cậu vì 5 năm, cảm ơn vì thanh xuân này ta đã từng có nhau.
++ 谢谢您五年，感谢您曾经拥有的这个年轻人。
+
+* Một buổi sáng, người cha làm hai bát mì.
++ 一天早晨，父亲做了两碗面条。
+
+* Một bát có trứng ở trên, một bát không có. Ông hỏi con trai muốn ăn bát nào?
++ 一个碗顶上有鸡蛋，另一个没有。他问儿子要吃饭吗？
+
+* Cậu con trai chỉ vào bát có trứng nói:
++ 儿子指着盛有鸡蛋的碗说：
+
+* Con muốn ăn bát này ạ.
++ 我要吃这个碗。
+
+* Nhường cho bố đi.
++ 送给你爸
+
+* Không, bát mì này là của con.
++ 不，这碗面条是你的。
+
+* Không nhường thật à? Ông bố dò hỏi.
++ 不是真的屈服吗？父亲问。
+
+* Con không nhường! - Cậu bé kiên quyết trả lời rồi đắc ý với quyết định của mình.
++ 我不屈服！ -男孩坚决地回答并同意他的决定。
+
+* Ông bố lặng lẽ nhìn con ăn xong bát mì thì mới bắt đầu ăn bát của mình. 
++ 父亲在我开始自己吃东西之前，默默地看着我把面条做完。
+
+* Đến những sợi mì cuối cùng, người con nhìn thấy rõ ràng trong bát của cha có hai quả trứng.
++ 儿子到了最后的面条，清楚地在父亲的碗里看到了两个鸡蛋。
+
+* Lúc này, ông bố chỉ hai quả trứng trong bát mì, dạy con rằng:
++ 这时，父亲指着一碗面条中的两个鸡蛋，教他的儿子：
+
+* Con phải ghi nhớ điều này, những gì mắt con nhìn thấy có thể chưa đủ, thậm chí không đúng. 
++ 您必须牢记这一点，您的眼睛所看到的可能是不够的，甚至是真实的。
+
+* Nếu con muốn chiếm phần lợi về mình, con sẽ không nhận được những cái lợi lớn hơn.
++ 如果您想利用自己的优势，将不会获得更大的利益。
+
+* Và ngày hôm sau, người cha lại làm hai bát mì trứng, một bát trên có trứng và bát không có trứng. Người cha hỏi:
++ 第二天，父亲做了两碗鸡蛋面，一个是鸡蛋，另一个是鸡蛋。父亲问：
+
+* Con ăn bát nào?
++ 你吃哪碗？
+
+* Rút kinh nghiệm từ lần trước, cậu con trai ngay lập tức chọn bát mì không có trứng.
++ 从先前的经验中学到，儿子立即选择了一碗不带鸡蛋的面条。
+
+* Thật ngạc nhiên, khi cậu bé ăn hết bát mì vẫn không có quả trứng nào.
++ 出乎意料的是，当男孩把面条做完后，仍然没有鸡蛋。
+
+* Trong khi đó, bát mì của người cha không những có quả trứng ở trên mà còn một quả nữa ở dưới đáy.
++ 同时，父亲的面条碗上不仅有一个鸡蛋，而且在底部还有一个鸡蛋。
+
+* Ông chỉ vào bát mì của mình và nói:
++ 他指着碗面说：
+
+* Không phải lúc nào cũng dựa vào kinh nghiệm được đâu con trai à. 
++ 儿子，并非总是基于经验。
+
+* Đôi khi cuộc sống sẽ lừa dối con, tạt gáo nước lạnh vào con khiến con phải chịu thiệt thòi. 
++ 有时生活会欺骗您，向您泼冷水，使您处于不利地位。
+
+* Con không được quá khó chịu hay buồn bã. Hãy xem đó là một bài học.
++ 您一定不要太难过或难过。将此作为教训。
+
+* Một thời gian sau, người cha lại nấu hai bát mì như những lần trước và hỏi con trai chọn bát nào. 
++ 一段时间后，父亲像以前一样同时煮了两碗面条，并要求儿子选一个。
+
+* Lần này, cậu con trai muốn cha chọn trước.
++ 这次，儿子希望父亲先选择。
+
+* Ông bố chọn bát mì có trứng và ăn ngon lành.
++ 父亲选了一碗鸡蛋面，好好吃。
+
+* Cậu con đón lấy bát mì không trứng mà ăn, thần thái lần này bình tĩnh.
++ 儿子拿了碗无蛋面条吃了，这次他的魅力很平静。
+
+* Ăn một lúc cậu chợt phát hiện trong bát của mình có 2 quả trứng.
++ 吃了一会儿，他突然发现他的碗里有两个鸡蛋。
+
+* Người cha mỉm cười nói với cậu con trai:
++ 父亲微笑着对儿子说：
+
+* Con thấy không, khi con nghĩ tốt cho người khác, những điều tốt đẹp sẽ đến với con.
++ 您会发现，当您认为对他人有益时，好事就会来临。
+
+* Khi con không màng đến lợi ích riêng của bản thân, cuộc đời sẽ không để con phải chịu thiệt.
++ 当你不在乎自己的利益时，生活不会让你受苦。
+
+* Nghiệp là gì?
++ 什么是业力？
+
+* Một hôm, Đức Phật đang ngồi cùng các môn đồ thì bỗng có 1 người hỏi Ngài rằng, "Nghiệp là gì?".
++ 有一天，当有人突然问他：“什么是业力？”时，佛陀正与他的门徒坐在一起。
+
+* Đức Phật trả lời: "Để ta kể cho các ngươi một câu chuyện.
++ 佛陀回答说：“让我告诉你一个故事。
+
+* Một vị vua đang cưỡi voi đi thăm thú vương quốc của mình.
++ 国王骑着大象去访问他的王国。
+
+* Đột nhiên ông ta dừng lại trước một cửa hàng ở trong chợ và nói với cận thần của mình: 
++ 突然，他在市场的一家商店前停下来，对他的朝臣们说：
+
+* "Không biết tại sao, nhưng ta muốn treo cổ chủ cửa hàng này".
++ “我不知道为什么，但是我想吊死这家商店的老板。”
+
+* Người cận thần bị sốc. Nhưng trước khi ông ta có thể hỏi rõ lý do tại sao thì nhà vua đã đi tiếp.
++ 朝臣感到震惊。但是在他不能问原因之前，国王继续了下去。
+
+* Hôm sau, người cận thần này tới cửa hàng hôm trước, ăn mặc như một người dân địa phương để tìm gặp chủ cửa hàng.
++ 第二天，朝臣在前一天到店里打扮成本地人，会见店主。
+
+* Ông ta gợi chuyện rồi hỏi xem tình hình buôn bán của cửa hàng ra sao. 
++ 他聊天，然后询问商店的状况。
+
+* Chủ cửa hàng là một thương nhân buôn bán gỗ đàn hương
++ 店主是檀香商人。
+
+* trả lời một cách buồn bã rằng anh ta hầu như chẳng có khách hàng nào.
++ 可悲的回答是他几乎没有客户。
+
+* Người ta cứ đến cửa hàng, ngửi mùi gỗ đàn hương rồi lại bỏ đi.
++ 人们去商店，闻到檀香后离开。
+
+* Thậm chí họ còn khen ngợi chất lượng của gỗ đàn hương, nhưng hiếm khi mua thứ gì.
++ 他们甚至赞扬檀香木的质量，却很少买任何东西。
+
+* Hy vọng duy nhất của anh ta là việc nhà vua sớm qua đời.
++ 他唯一的希望是国王将很快死。
+
+* Có như thế thì người ta mới có nhu cầu mua thật nhiều gỗ đàn hương để phục vụ cho các công đoạn tang lễ. 
++ 这样，人们需要购买大量的檀香来服务the葬阶段。
+
+* Và vì là người bán gỗ đàn hương duy nhất ở đây nên hẳn cái chết của nhà vua sẽ mang lại cơ hội làm giàu rất lớn cho anh ta.
++ 而且由于他是这里唯一的檀香商人，国王的死将给他一个发财的绝好机会。
+
+* Đến lúc này, vị quan cận thần mới hiểu lý do tại sao nhà vua dừng lại trước cửa hàng của ông ta và bày tỏ ý muốn giết người chủ cửa hàng. 
++ 在这一点上，朝臣知道国王为什么在他的商店前停下来，并表示希望杀死商店的老板。
+
+* Có lẽ, ý nghĩ tiêu cực của người chủ cửa hàng, bằng 1 cách siêu nhiên nào đó, đã tác động tới nhà vua.
++ 商店老板的消极想法也许以某种超自然的方式影响了国王。
+
+* và rồi, khiến nhà vua cũng lại có ý nghĩ tiêu cực với anh ta như vậy.
++ 然后，国王再次对他如此消极地思考。
+
+* Vị quan cận thần vốn là một người có trí tuệ thâm sâu, đã ngẫm nghĩ một hồi rồi mới đưa ra quyết định.
++ 朝臣本来就是一个很有才华的人，他在做出决定之前思考了一段时间。
+
+* Ông không nói cho người chủ cửa hàng biết mình là ai, cũng không tiết lộ ý muốn của nhà vua.
++ 朝臣本来就是一个很有才华的人，他在做出决定之前思考了一段时间。
+
+* Ngược lại, ông chỉ nói rằng mình muốn mua một ít gỗ đàn hương.
++ 相反，他只是说他想买一些檀香。
+
+* Nghe thấy vậy, người chủ cửa hàng vô cùng vui mừng.
++ 听到这个消息，店主非常高兴。
+
+* Anh ta gói ghém món hàng rồi giao cho vị quan cận thần.
++ 他收拾了东西，交给了朝臣。
+
+* Khi trở về cung điện, vị quan cận thần đi thẳng đến chỗ của nhà vua và nói rằng người thương nhân có một món quà cho bệ hạ.
++ 当他回到宫殿时，朝臣直奔国王的住所，并说商人给国王for下一份礼物。
+
+* Nhà vua hết sức ngạc nhiên.
++ 国王很惊讶。
+
+* Khi mở gói quà, nhà vua đã thấy vô cùng thích thú và ấn tượng trước màu vàng tinh tế của miếng gỗ và hương thơm kỳ diệu tuyệt vời của nó.
++ 打开包装时，国王对这块木头的淡黄色和奇妙的神奇香气印象深刻。
+
+* Đang trong tâm trạng vui vẻ, nhà vua ra lệnh thưởng cho người thương nhân vài đồng tiền vàng.
++ 国王心情愉快，给了商人几个金币的奖励。
+
+* Trong thâm tâm, ông thầm tự trách mình rằng đã có ý nghĩ xấu khi muốn giết anh ta.
++ 在他的内心，他默默地指责自己想杀死他时思想不周。
+
+* Còn khi người bán hàng nhận được những đồng tiền vàng do nhà vua thưởng cho, anh ta cũng hết sức sửng sốt.
++ 当店员收到国王颁发的金币时，他也感到非常惊讶。
+
+* Anh ta bắt đầu nhận ra nhà vua là một đấng quân vương hào phóng, tốt bụng và đã cứu anh ta thoát khỏi cảnh phá sản.
++ 他开始承认国王是一个慷慨，善良的君主，并使他免于破产。
+
+* Anh ta cũng rất hối hận khi đã trót có ý nghĩ độc ác là mong cho nhà vua băng hà sớm chỉ để có thể bán được nhiều gỗ đàn hương.
++ 他还遗憾地曾邪恶地希望国王尽快死去，以便出售更多的檀香木。”
+
+* "Vậy Nghiệp là gì?", Đức Phật hỏi lại các môn đồ sau khi kết thúc câu chuyện.
++ “那么，业力是什么？”故事结束后，佛陀再次问门徒。
+
+* Nhiều người đã đưa ra các câu trả lời khác nhau, rằng đó là lời nói, là hành động, là cảm xúc của chúng ta.
++ 许多人给出了不同的答案，那就是我们的言语，我们的行动，我们的情感。
+
+* Nhưng Đức Phật đã lắc đầu và nói rằng, "Suy nghĩ của các ngươi chính là Nghiệp đó".
++ 但是佛陀摇了摇头说：“你的想法就是业力。”
+
+* Cần hay không một lời xin lỗi?
++ 是否需要道歉？
+
+* Có những điều, người khác kể, bạn có thể hiểu.
++ 其他人告诉你的事情，你可以理解。
+
+* nhưng chỉ đến khi chính bạn là người trải nghiệm, bạn mới thật sự cảm nhận trọn vẹn cảm xúc nhất.
++ 但是只有当你自己经历时，你才真正感受到最多的情感。
+
+* Có gia đình kia, người cha làm lính cứu hỏa.
++ 还有另一个家庭，父亲是消防员。
+
+* Trong một lần thực hiện nhiệm vụ, đã hi sinh thân mình vì nạn nhân.
++ 在一次任务中，他为受害者牺牲了自己。
+
+* Vụ việc đau buồn chưa dừng lại ở đó. 
++ 患难不止于此。
+
+* Khi truyền thông vào cuộc, họ đã đưa tin rằng vì người đội trưởng lính cứu hỏa – cũng chính là người cha trong gia đình ấy
++ 当媒体介入时，他们报道这是因为消防队长-家庭中的同一位父亲
+
+* vì quyết định sai lầm của mình mới khiến bản thân và cả những người cấp dưới khi ấy cũng bỏ mạng theo.
++ 由于他的错误决定，他和他的下属也死了。
+
+* Mọi người lúc đó đều rất phẫn nộ, gia đình của những người cấp dưới đó đã trực tiếp đến gia đình của ông.
++ 当时每个人都很生气，那些下属的家人直接去了他的家人。
+
+* luôn miệng nói với hai đứa con trai của người trưởng nhóm lính cứu hỏa rằng họ là con của kẻ sát nhân. 
++ 总是告诉两个消防员的儿子，他们是凶手的孩子。
+
+* Người mẹ vì không chịu nổi áp lực dư luận, đã tự tử. Hai đứa con trai sau đó cũng mất tích.
++ 母亲无法承受公共压力，自杀身亡。两个儿子也消失了。
+
+* Vài năm sau, một trong hai đứa con đã minh oan lại được vụ án của cha mình.
++ 几年后，两个孩子中的一个清理了父亲的案子。
+
+* Người đưa tin truyền thông năm đó, đã bị phạt theo quy định. 
++ 当年的媒体播音员根据规定受到处罚。
+
+* Nhưng điều đáng buồn là dư luận, không ai lên tiếng xin lỗi cho những lỗi lầm năm xưa.
++ 但是可悲的是公众舆论，没有人为过去的错误道歉。
+
+* Họ chỉ quan tâm xem người đưa tin sai lúc ấy, bị phạt như thế nào.
++ 他们当时只关心错误的使者，如何受到惩罚。
+
+* Nếu ai đã từng xem phim "Pinochino" của Hàn Quốc, hẳn sẽ biết câu chuyện kể trên chính là nội dung của bộ phim này.
++ 如果有人看过韩国的电影“ Pinochino”，就会知道上面提到的故事是这部电影的内容。
+
+* Thừa Hoan tình cờ biết đến bộ phim này qua cô bạn ở cùng phòng trọ với mình.
++ Thua Hoan偶然通过室友认识了这部电影。
+
+* Khi xem tới khúc đứa con trai gào khóc luôn miệng nói rằng cha mình vô tội, cô đã bật khóc nức nở.
++ 当她看着男孩的那部分哭着告诉父亲他父亲是无辜的时，她哭了起来。
+
+* Nhưng khi xem đến lúc vụ án người cha được minh oan, mặt cô lại không thể hiện một chút cảm xúc gì.
++ 但是当看到父亲的案子被清除的时候，她的脸完全没有情绪。
+
+* Người bạn cùng phòng xem cùng cô khi ấy đã rất ngạc nhiên, vì sao cô đến một chút vui mừng cũng không có?
++ 当时和她一起看的室友很惊讶，为什么她不兴奋呢？
+
+* Cô ấy đâu biết rằng, Thừa Hoan đã xem đến lặng người.
++ 她不知道Thua Hoan看着傻眼了。
+
+* Dường như cô không còn nhớ kết thúc phim như thế nào nữa. 
++ 似乎她不再记得电影是如何结束的。
+
+* Cô chỉ còn đắm chìm trong hồi ức của chính mình.
++ 她只是沉浸在自己的记忆中。
+
+* Năm ấy, cô đã từng đứng ra bảo vệ một người bạn của mình bị bắt nạt.
++ 那年，她曾经站出来保护一个被欺负的朋友。
+
+* Người bắt nạt bạn của cô, ngoại trừ bạn ấy ra còn nhiều người khác nữa, trong đó có một người là bị bắt nạt thảm nhất. 
++ 欺负她朋友的那个人，除了她之外，还有很多其他人，其中包括最受欺负的一个。
+
+* Bạn của Thừa Hoan, sau khi thoát khỏi vòng vây bị bắt nạt.
++ Thua Hoan的朋友在逃离包围后被欺负。
+
+* liền muốn giúp đỡ người bạn kia cũng thoát khỏi vòng vây giống như mình.
++ 立即想帮助另一个朋友摆脱与我相同的包围。
+
+* Tiếc là cậu ta lại không có đủ dũng khí để tự mình làm việc đó.
++ 不幸的是，他没有勇气自己做。
+
+* Câu chuyện sau đó lại lan đến tai mẹ người bạn bị bắt nạt thảm nhất kia.
++ 然后，这个故事传到了最受欺负的朋友的耳中。
+
+* Và rồi người chuyên bắt nạt kẻ khác cũng biết việc này.
++ 然后欺负他人的专家也知道这一点。
+
+* Ngày ấy, trong giới học sinh của Thừa Hoan, điều cấm kỵ nhất là ân oán giữa học sinh với nhau mà lại lôi phụ huynh vào cuộc.
++ 那天，在Thua Hoan的学生中，最忌讳的是学生之间和父母之间的不满。
+
+* Ai làm việc đó, không chỉ bị xem là kẻ mách lẻo, mà còn bị khinh vì hèn nhát.
++ 谁去做，不仅被视作八卦，而且也因胆怯而被鄙视。
+
+* Quá sợ hãi trước khi vụ việc mách lẻo bị bại lộ, người bạn ấy của Thừa Hoan đã chủ động đến gặp kẻ chuyên bắt nạt kia, và bảo rằng chính Thừa Hoan đã làm việc này.
++ 在八卦事件被揭露之前，太害怕了，那个Thua Hoan的朋友主动去见了恶霸，并说Thua Hoan已经做到了。
+
+* Vụ việc sau đó được phát tán rộng khắp cả lớp qua lời truyền miệng của đám học sinh.
++ 然后，事件通过学生的口口相传传播到全班。
+
+* Khi Thừa Hoan biết chuyện, thì mình đã trở thành nữ phản diện hot nhất lớp.
++ 当Thua Hoan发现后，我成为班上最炙手可热的女反派。
+
+* Không ai tin lời Thừa Hoan nói, và rồi Thừa Hoan cũng dần hiểu ai là người đã đổ vấy tội cho mình.
++ 没有人相信Thua Hoan所说的话，然后Thua Hoan逐渐了解谁是自责的人。
+
+* Một người bị chính người bạn thân nhất của mình.
++ 一个是他最好的朋友的人。
+
+* lại là người đã từng là nạn nhân của vụ việc bắt nạt chỉ chứng, không tin người bạn thân ấy của Thừa Hoan thì còn ai?
++ 谁曾经是证书欺凌的受害者，谁不信任Thua Hoan的密友？
+
+* Có ai lại đi làm chứng giúp một người đã bắt nạt mình? Nghĩ tới đã thấy vô lý.
++ 有人向欺负我的人作证吗？想到这是荒谬的。
+
+* Cái cảm giác bỗng dưng trở thành "quái vật" trong mắt người khác, thật sự rất khó chịu. 
++ 突然变成别人眼中的“怪物”的感觉，真的很不舒服。
+
+* Thừa Hoan có thể cảm nhận được mọi sự ghê tởm của mọi người dành cho mình khi đi đến đâu người ta né như né tà đến đó.
++ 当人们走到人们想要避开邪恶的地方时，Thua Hoan就会感到人们的全部厌恶。
+
+* Mọi hành động của Thừa Hoan, đều bị soi mói. Thừa Hoan làm tốt, mọi người sẽ ào ào bảo rằng giả tạo. 
++ Thua Hoan的所有行动均受到严格审查。 Thua Hoan做得好，人们会争先恐后地说假货。
+
+* Còn làm không tốt, sẽ bị nói đây là bản chất.
++ 如果做得不好，就会被告知这是本质。
+
+* Tính Thừa Hoan trước giờ vẫn luôn trầm nay lại càng trầm hơn. 
++ 过度的伯爵夫人一直越来越深。
+
+* Dường như là người câm, không nói chuyện với ai và cũng không muốn nói với ai hết. 
++ 似乎很蠢，不与任何人交谈，也不想与任何人交谈。
+
+* Chỉ còn lại số ít vài người bạn thân thật sự của Thừa Hoan, luôn cố gắng trò chuyện cùng cô.
++ Thua Hoan只有几个真正的朋友，总是想和她聊天。
+
+* Họ sợ cô trầm cảm.
++ 他们担心她的沮丧。
+
+* Nhưng rồi, mọi chuyện dần phai nhạt theo thời gian. 
++ 但是随着时间的流逝，事情逐渐消失了。
+
+* Mọi người đều không đủ kiên nhẫn để bàn tán mỗi một vấn đề khi mà nó chỉ mãi dừng lại ở điều mà ai cũng biết. 
++ 当每个问题永远停止在每个人都知道的地方时，每个人都没有足够的耐心谈论每个问题。
+
+
 
 
 
