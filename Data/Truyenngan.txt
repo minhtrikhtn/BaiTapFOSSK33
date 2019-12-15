@@ -8312,7 +8312,8 @@
 * Hắn nắm chặt cán dao, chuẩn bị tâm lý thật tốt trước khi ra tay.
 + 他握住刀柄，事先做好了准备。
 
-
+*
++
 
 
 
