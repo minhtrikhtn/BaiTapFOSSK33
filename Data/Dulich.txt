@@ -1,5 +1,8 @@
-﻿* Đi đến sân bay hết bao nhiêu tiền?. 
-+ 去机场多少钱。
+﻿* Đi đến sân bay.
++ 去机场。
+
+* hết bao nhiêu tiền?. 
++ 多少钱。
 
 * Cần khoảng bao lâu. 
 + 大概需要多长时间。
@@ -31,8 +34,11 @@
 * Du khách.
 + 游客。
 
-* Tôi muốn theo đuổi công việc du lịch.
-+ 我想从事旅游业的工作。
+* Tôi muốn tham gia vào du lịch.
++ 我想从事旅游。
+
+* công việc.
++ 业的工作。
 
 * Dịch vụ du lịch.
 + 旅游服务。
@@ -72,6 +78,9 @@
 
 * Nơi đến du lịch.
 + 旅行目的地。
+
+* Du lịch là một niềm vui.
++ 旅行是一种乐趣。
 
 * chúng tôi đã đến địa điểm du lịch rồi mới nghỉ ngơi.
 + 我们到达旅行目的地后就休息了。
