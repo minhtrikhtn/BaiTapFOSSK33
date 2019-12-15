@@ -2189,3 +2189,65 @@ Chảy vào cơ thể anh.
 * Một người khóc một người đau.
 + 哭泣的人会受伤.
 
+* Hai triệu năm.
++ 200万年.
+
+* Anh cô đơn giữa tinh không này.
++ 我一个人在天空中
+
+* Muôn con sóng cuốn xô vào đây.
++ 浪涌在这里.
+
+* Em cô đơn giữa mênh mông người.
++ 我在茫茫人海中感到孤独.
+
+* Và ta cô đơn đã hai triệu năm.
++  我已经孤独了200万年.
+
+* Xung quanh anh toàn là nước.
++ 周围都是水.
+
+* Cơ thể anh đang bị ướt.
++ 我的身体湿了.
+
+* Mênh mông toàn là nước.
++ 浩瀚无水.
+
+* Êm ái như chưa từng trước đây.
++ 前所未有的平滑.
+
+* Trăm ngàn con sóng xô.
++ 数十万波.
+
+* Anh lao vào trong biển cả vì em làm anh nóng khô.
++ 我冲进大海是因为你让我变得干热.
+
+* Anh ngâm mình trong làn nước để mặn mòi từ da dẻ.
++ 他从栗子浸入水中变咸.
+
+* Ta cần tình yêu vì tình yêu làm cho ta trẻ.
++ 我们需要爱，因为爱使我们年轻.
+
+* Anh cũng cần em nhưng không biết em sao.
++ 我需要你，但我不认识你.
+
+* Anh không care lắm và anh quyết đem trao.
++ 我不在乎，我决心给它.
+
+* Cho em hết nắng cho em hết đêm sao.
++ 让我整夜都在阳光下为您服务.
+
+* Nhìn mặt anh đi, em nghĩ anh tiếc em sao?
++ 看着我的脸，你认为我为你感到抱歉吗？
+
+* Trăm ngàn con sóng từ mọi nơi mà đổ về.
++ 来自世界各地的数百波.
+
+* Và đây là cách mà anh đi tìm kiếm sự vỗ về.
++ 这就是您寻找舒适感的方式
+
+* Em có quá nhiều bí mật, anh thì không cần gặng hỏi.
++ 您有太多秘密，我不需要问.
+
+* Em sâu như là đại dương, anh thì không hề lặn giỏi.
++ 我和海洋一样深，我不擅长潜水.
