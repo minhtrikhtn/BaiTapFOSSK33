@@ -1,5 +1,5 @@
 ﻿* Đi đến sân bay hết bao nhiêu tiền?. 
-+ 去机场多少钱？。
++ 去机场多少钱。
 
 * Cần khoảng bao lâu. 
 + 大概需要多长时间。
@@ -119,7 +119,7 @@
 * du lịch theo đoàn có hướng dẫn khá tốt.
 + 有导游的旅游比较好。
 
-* Du lịch trọn gói .
+* Du lịch trọn gói.
 + 包价旅行。
 
 * du lịch trọn gói cần tiêu bao nhiêu tiền.
@@ -230,121 +230,98 @@
 * Vali du lịch.
 + 旅行箱。
 
-*Kỳ nghỉ phép lần này anh đi đâu.
-+这次休假去哪里。
+* Kỳ nghỉ phép lần này anh đi đâu.
++ 这次休假去哪里。
 
+* Tôi muốn đi du lịch cũng người thân.
++ 想和家人一起去旅游。
 
-*Tôi muốn đi du lịch cũng người thân.
-+想和家人一起去旅游。
+* Đi đâu?
++ 去哪里。
 
+* Tôi định đi du lịch ở nước ngoài.
++ 打算去国外旅行。
 
-*Đi đâu?
-+去哪里。
+* Tôi muốn sang Trung Quốc một chuyến.
++ 我想去一趟中国。
 
+* Anh chưa đến đó à?
++ 你没有去过吗。
 
-*Tôi định đi du lịch ở nước ngoài.
-+打算去国外旅行。
+* Tôi đến rồi.
++ 我去过了。
 
+* Bọn trẻ vẫn chưa được đi.
++ 孩子们没有去过。
 
-*Tôi muốn sang Trung Quốc một chuyến.
-+我想去一趟中国。
+* Chắc là đi 1 chuyến 6 ngày 5 đêm.
++ 可能去个6天5夜吧。
 
+* Tôi định đến Bắc Kinh và Tây An.
++ 打算去北京和西安。
 
-*Anh chưa đến đó à?
-+你没有去过吗。
+* Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
++ 4天3夜的话，就只能去北京了。
 
+* Không đủ thời gian à?
++ 时间不够吧。
 
-*Tôi đến rồi.
-+我去过了。
+* Muốn đi tham quan hết Bắc Kinh thì hơi khó.
++ 想把北京看完都比较难。
 
-*Bọn trẻ vẫn chưa được đi.
-+孩子们没有去过。
+* Trung Quốc có rất nhiều nơi nên đến tham quan.
++ 中国要看的地方太多了。
 
+* Tôi cũng muốn đến thăm Tây Tạng.
++ 我也想去西藏看看。
 
-*Chắc là đi 1 chuyến 6 ngày 5 đêm.
-+可能去个6天5夜吧。
+* Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
++ 我也想去少林寺看看。
 
-
-*Tôi định đến Bắc Kinh và Tây An.
-+打算去北京和西安。
-
-
-*Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
-+4天3夜的话，就只能去北京了。
-
-
-*Không đủ thời gian à?
-+时间不够吧。
-
-
-*Muốn đi tham quan hết Bắc Kinh thì hơi khó.
-+想把北京看完都比较难。
-
-
-*Trung Quốc có rất nhiều nơi nên đến tham quan.
-+中国要看的地方太多了。
-
-
-*Tôi cũng muốn đến thăm Tây Tạng.
-+我也想去西藏看看。
-
-
-*Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
-+我也想去少林寺看看。
-
-
-*+Tôi muốn đến thăm đảo Jeju.
-+我想去济州岛看看。
-
+* + Tôi muốn đến thăm đảo Jeju.
++ 我想去济州岛看看。
  
-*Hai vợ chồng dự định cùng đi.
-+计划夫妻俩一起去。
+* Hai vợ chồng dự định cùng đi.
++ 计划夫妻俩一起去。
 
+* Khi về còn nghỉ ngơi nữa.
++ 回来后再休息一下。
 
-*Khi về còn nghỉ ngơi nữa.
-+回来后再休息一下。
+* Năm ngoái tôi đi du lịch châu Âu rồi.
++ 我去年去欧洲旅行了。
 
+* Tôi muốn để sang năm mới đi.
++ 我想明天去。
 
-*Năm ngoái tôi đi du lịch châu Âu rồi.
-+我去年去欧洲旅行了。
+* Khoảng.
++ 大概。
 
+* Xuống xe.
++ 下车。
 
-*Tôi muốn để sang năm mới đi.
-+我想明天去。
+* Dừng.
++ 停。
 
+* Đợi.
++ 等。
 
-*Khoảng.
-+大概。
+* Cốp sau.
++ 后备箱。
 
+* Đồng hồ tính tiền (taxi).
++ 计价器。
 
-*Xuống xe.
-+下车。
+* giấy biên nhận.
++ 收据。
 
-*Dừng.
-+停。
+* tiền lẻ.
++ 零钱。
 
-*Đợi.
-+等。
+* địa chỉ.
++ 地址。
 
-*Cốp sau.
-+后备箱。
+* nhanh.
++ 快。
 
-*Đồng hồ tính tiền (taxi).
-+计价器。
-
-*giấy biên nhận.
-+收据。
-
-*tiền lẻ.
-+零钱。
-
-*địa chỉ.
-+地址。
-
-*nhanh.
-+快。
-
-*chậm.
-+慢。
-
-
+* chậm.
++ 慢。
