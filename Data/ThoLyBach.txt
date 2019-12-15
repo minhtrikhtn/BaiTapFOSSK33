@@ -121,7 +121,7 @@
 * Hán há Bạch Đăng đạo.
 + 胡窺青海灣。
 
-* Hồ khuy Thanh Hải loan..
+* Hồ khuy Thanh Hải loan.
 + 由來征戰地。
 
 * Do lai chinh chiến địa.
@@ -500,7 +500,7 @@
 + 舞愛月留人。
 
 * Vĩnh Vương đông tuần ca kỳ 09.
-+ 永王東巡歌其九 。
++ 永王東巡歌其九。
 
 * Rồng tổ nổi trên biển nhưng không thể làm cầu [lên tiên giới].
 + 祖龍浮海不成橋。
@@ -544,7 +544,7 @@
 * Tiểu kỹ Kim Lăng ca Sở thanh.
 + 小妓金陵歌楚聲。
 
-* Gia đồng đan sa học phượng minh..
+* Gia đồng đan sa học phượng minh.
 + 家僮丹砂學鳳鳴。
 
 * Ngã diệc vị quân ẩm thanh tửu.
@@ -554,7 +554,7 @@
 + 君心不肯向人傾。
 
 * Xuất kỹ Kim Lăng tử trình Lư lục kỳ 3.
-+ 出妓金陵子呈盧六其三  。
++ 出妓金陵子呈盧六其三 。
 
 * Đông đạo yên hà chủ.
 + 東道煙霞主。
@@ -569,7 +569,7 @@
 + 日墮曆陽川。
 
 * Xuất kỹ Kim Lăng tử trình Lư lục kỳ 2.
-+ 出妓金陵子呈盧六其二  。
++ 出妓金陵子呈盧六其二 。
 
 * Nam quốc Tân Phong tửu.
 + 南國新豐酒。
@@ -968,7 +968,7 @@
 * Nghìn xuân làm xót tình ta.
 + 才高竟何施。
 
-* Núi Ngũ Nhạc nổi lên ở phương trời hụt,.
+* Núi Ngũ Nhạc nổi lên ở phương trời hụt.
 + 寡識冒天刑。
 
 * Dù có giấu mình há được yên.
@@ -1079,7 +1079,7 @@
 * Cờ mây phấp phới vượt bến Tầm Dương.
 + 雲旗獵獵過尋陽。
 
-* Chồi non chẳng phạm đến vẽ đẹp của Tam Ngô,.
+* Chồi non chẳng phạm đến vẽ đẹp của Tam Ngô.
 + 秋毫不犯三吳悅。
 
 * Ngày xuân từ xa nhìn thấy năm sắc rực rỡ.
@@ -2995,7 +2995,7 @@ Kiếm Các hiểm ải bắc Thục môn.
 * Đôi ta ý hợp vẫn là một thôi.
 + 意合不為殊。
 
-* Ta biết thu dễ hứng,.
+* Ta biết thu dễ hứng.
 + 我覺秋興逸。
 
 * Ai bảo thu dễ buồn.
@@ -3358,11 +3358,11 @@ Kiếm Các hiểm ải bắc Thục môn.
 * Núi xanh chiều chẳng biết.
 + 不覺碧山暮。
 
-* Thu ráng nhượm muôn trùng..
+* Thu ráng nhượm muôn trùng.
 + 秋雲暗幾重。
 
 * Bài hát thiếu niên kỳ 1.
-+ 少年行其一 。
++ 少年行其一。
 
 * Đập vách nhà uống ly rượu quý.
 + 擊筑飲美酒。
@@ -3394,7 +3394,7 @@ Kiếm Các hiểm ải bắc Thục môn.
 * Cưỡi ngựa trắng yên bạc lướt qua gió xuân.
 + 銀鞍白馬度春風。
 
-* Giẫm nát hết hoa, đi đâu chơi đây .
+* Giẫm nát hết hoa, đi đâu chơi đây.
 + 落花踏盡遊何處。
 
 * Vừa cười vừa bước vào quán rượu.
@@ -4588,7 +4588,7 @@ Kiếm Các hiểm ải bắc Thục môn.
 * Phía đông tay trỏ biển mây nhoà.
 + 向余東指海雲生。
 
-* Sang sông nay bác làm chi đó .
+* Sang sông nay bác làm chi đó.
 + 郎今欲渡緣何事。
 
 * Sóng gió dường này khó nỗi qua.
@@ -4965,7 +4965,7 @@ Kiếm Các hiểm ải bắc Thục môn.
 *  Vũ Dương xuân sắc đã vào
 + 陌頭楊柳黃金色。
 
-* .Liễu dương đầu phố hoa màu vàng phô.
+*.Liễu dương đầu phố hoa màu vàng phô.
 + 碧水浩浩雲茫茫。
 
 * Nước mênh mông mây trôi man mác.
@@ -5193,7 +5193,7 @@ Kiếm Các hiểm ải bắc Thục môn.
 * Ở trong núi cùng người ẩn dật uống rượu.
 + 山中與幽人對酌。
 
-* Trên non đối ẩm, hoa kế bên,.
+* Trên non đối ẩm, hoa kế bên.
 + 兩人對酌山花開。
 
 * Chén nầy, chén nữa, lại chén thêm.
@@ -5250,7 +5250,7 @@ Kiếm Các hiểm ải bắc Thục môn.
 * Chiếc thân én góa bơ vơ.
 + 憔悴一身在。
 
-* Nhớ chồng biết đến bao giờ cho khuây .
+* Nhớ chồng biết đến bao giờ cho khuây.
 + 孀雌憶故雄。
 
 * Mong chi chắp cánh cùng bay.
