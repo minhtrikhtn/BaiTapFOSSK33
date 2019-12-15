@@ -1,89 +1,1230 @@
 ﻿* Chào giá.
 + 询盘。
 
+
 * Hỏi giá.
 + 发盘。
+
 
 * Người chào giá.
 + 实盘。
 
+
 * Công ty.
 + 公司。
+
 
 * Thị trường.
 + 市场。
 
+
 * Xí nghiệp, doanh nghiệp.
 + 企业。
+
+* Tăng lên.
+* 上涨。
+
+
+* Bán.
++ 销售。
+
+
+* Xu hướng.
++ 走势。
+
+
+* Cổ phiếu.
++ 股票。
+
+
+* Cổ phần riêng lẻ.
++ 个股。
+
+
+* Phát hành.
++ 发行。
+
+
+* Vốn.
++ 资产。
+
+
+* Thương hiệu, nhãn hiệu.
++ 品牌。
+
+
+* Bảo hiểm.
++ 保险。
+
+
+* Giá thị trường.
++ 行情。
+
+
+* Mất, rớt (giá).
++ 下跌。
+
+
+* Nhân dân tệ.
++ 人民币。
+
+
+* Biên độ lớn.
++ 大幅。
+
+
+* Cải cách.
++ 改革。
+
+
+* Toàn cầu.
++ 全球。
+
+
+* Khách hàng.
++ 消费者。
+
+
+* Công nghiệp.
++ 产业。
+
+
+* Cơ cấu tài chính, tổ chức tài chính.
++ 金融机构。
+
+
+* Hồi phục.
++ 反弹。
+
+
+* Lợi nhuận.
++ 利润。
+
+
+* Thông tin.
++ 信息。
+
+
+* Giá cổ phiếu.
++ 股价。
+
+
+* Chi phí, giá thành.
++ 成本。
+
+
+* Đàm phán giá cả.
++ 价格谈判。
+
+
+* Đơn đặt hàng.
++ 定单。
+
+
+* Đơn đặt hàng dài hạn.
++ 长期定单。
+
+
+* Đơn đặt hàng tơ lụa.
++ 丝绸定货单。
+
+
+* Hợp đồng mua hàng.
++ 购货合同。
+
+
+* Hợp đồng tiêu thụ ,hợp đồng bán.
++ 销售合同。
+
+
+* Hợp đồng tương hỗ.
++ 互惠合同。
+
+
+* Ký kết hợp đồng.
++ 合同的签定。
+
+
+* Vi phạm hợp đồng.
++ 合同的违反。
+
+
+* Đình chỉ hợp đồng.
++ 合同的终止。
+
+
+* Tờ khai hàng hóa,danh sách hàng hóa.
++ 货物清单。
+
+
+* Bảng kê khai hàng hóa ,manifest.
++ 舱单。
+
+
+* Vận chuyển hàng hóa bằng container.
++ 集装箱货运。
+
+
+* Giao hàng tại xưởng.
++ 工厂交货。
+
+
+* Giao dọc mạn tàu.
++ ( 启运港)船边交货。
+
+
+* Giao hàng trên tàu.
++ 船上交货。
+
+
+* Giao cho người vận tải.
++ 货交承运人(指定地点)。
+
+
+* Giao hàng tại kho
++ 仓库交货。
+
+
+* Giao tai biên giới.
++ 边境交货。
+
+
+* Giao hàng vào thời gian gần ,giao hạn gần.
++ 近期交货。
+
+
+* Giao hàng về sau, giao sau.
++ 远期交货。
+
+
+* Giao hàng định kỳ.
++ 定期交货。
+
+
+* Thời gian giao hàng.
++ 交货时间。
+
+
+* Địa điểm giao hàng.
++ 交货地点。
+
+
+* Phương thức giao hàng.
++ 交货方式。
+
+
+* Phí vận chuyển hàng hóa.
++ 货物运费。
+
+
+* Phí bảo quản hàng hóa.
++ 货物保管费。
+
+
+* Vận đơn ( B* L ).
++ 提(货)单。
+
+
+* Vận đơn liên hiệp.
++ 联运提单。
+
+
+* Phiếu vận chuyển.
++ (承运人的)发货通知书,托运单。
+
+
+* Chứng nhận bảo hiểm.
++ 保险单,保单。
+
+
+* Chứng nhận xuất xứ
++ 产地证书,原产地证明书
+
+
+* Chứng nhận chất lượng.
++ ( 货物) 品质证明书。
+
+
+* Danh sách đóng gói.
++ 装箱单,包装清单,花色码单。
+
+
+* Đòi bồi thường.
++ 索赔。
+
+
+* Thời hạn ( kỳ hạn ).
++ 索赔期。
+
+
+* Phiếu đòi bồi thường.
++ 索赔清单。
+
+
+* Bồi thường.
++ 赔偿。
+
+
+* Kết toán.
++ 结算。
+
+
+* Phương thức kết toán.
++ 结算方式。
+
+
+* Kết toán tiền mặt.
++ 现金结算。
+
+
+* Kết toán song phương.
++ 双边结算。
+
+
+* Kết toán đa phương.
++ 多边结算。
+
+
+* Kết toán quốc tế.
++ 国际结算。
+
+
+* Tiền đã kết toán.
++ 结算货币。
+
+
+* Chi trả.
++ 支付。
+
+
+* Phương thức chi trả.
++ 支付方式。
+
+
+* Chi trả bằng tiền mặt.
++ 现金支付。
+
+
+* Chi trả bằng tín dụng.
++ 信用支付。
+
+
+* Chi trả bằng đổi hàng.
++ 易货支付。
+
+
+* Tiền đã chi trả.
++ 支付货币。
+
+
+* Hóa đơn.
++ 发票,发单,装货清单。
+
+
+* Hóa đơn thương mại.
++ 商业发票。
+
+
+* Hóa đơn tạm.
++ 临时发票。
+
+
+* Hóa đơn chính thức.
++ 确定发票。
+
+
+* Hóa đơn chính thức.
++ 最终发票。
+
+
+* Hóa đơn chiếu lệ.
++ 形式发票。
+
+
+* Hóa đơn chiếu lệ.
++ 假定发票。
+
+
+* Hóa đơn lãnh sự.
++ 领事发票。
+
+
+* Hóa đơn lãnh sự.
++ 领事签证发票。
+
+
+* Hối phiếu.
++ 汇票。
+
+
+* Hối phiếu có kỳ hạn.
++ 远期汇票。
+
+
+* Hối phiếu trơn.
++ 光票。
+
+
+* Hối phiếu kèm chứng từ.
++ 跟单汇票。
+
+
++ Hối phiếu trả cho người cầm phiếu.
++ 执票人汇票,执票人票据。
+
+
+* Chấp nhận hối phiếu.
++ 承兑,接受。
+
+
+* Ký hậu hối phiếu.
++ 背书,批单。
+
+
+* Ký hậu để trắng.
++ 空白背书,不记名背书。
+
+
+* Ký hậu hạn chếa。
++ 限制性背书。
+
+
+* Khoản phả trả.
++ 应付帐款。
+
+
+* Khoản phải thu.
++ 应收账款。
+
+
+* Mua lại (công ty).
++ 收购。
+
+
+* Thu nhập sau thuế từ hoạt động kinh doanh.
++ 税后营运收入。
+
+
+* Tỉ lệ lợi nhuận sau thuế.
++ 税后利润率。
+
+
+* Sàn giao dịch chứng khoán Mỹ.
++ 美国股票交易所(美国证交所)。
+
+
+* Khầu hao.
++ 摊销。
+
+
+* Chuyên gia phân tích.
++ 分析员。
+
+
+* Báo cáo thường niên.
++ 年报。
+
+
+* Báo cáo kế toán tài vụ thường niên.
++ 年度财务会计报告。
+
+
+* Mua bán ngoại tệ.
++ 套汇。
+
+
+* Tài sản.
++ 资产。
+
+
+* Hệ số quay vòng tổng tài sản.
++ 资产周转率。
+
+
+* Đánh giá tài sản.
++ 资产估值。
+
+
+* Chuyển nhượng.
++ 转让。
+
+
+* Kiểm toán。
++ 审计。
+
+
+* Báo cáo kiểm toán.
++ 审计报告。
+
+
+* Tỷ lệ tăng trưởng bình quân hàng năm.
++ 年平均增长率。
+
+
+* Nợ xấu.
++ 不良贷款。
+
+
+* Cán cân thanh toán。
++ 国际收支差额。
+
+
+* Cán cân thương mại.
++ 贸易差额。
+
+
+* Bản cân đối kế toán.
++ 资产负债表。
+
+
+* Bảo lãnh ngân hàng.
++ 银行担保,银行保函。
+
+
+* Bảo hiểm ngân hàng.
++ 银行保险。
+
+
+* Phá sản.
++ 破产。
+
+
+* Rủi ro phá sản.
++ 破产风险。
+
+
+* Thị trường theo chiều giá xuống.
++ 熊市, 空头市场。
+
+
+* Người thụ hưởng.
++ 受益者。
+
+
+* Bên thụ hưởng.
++ 受益方。
+
+
+* Người thụ hưởng bảo hiểm.
++ 保险受益人。
+
+
+* Giá mua.
++ 买方出价。
+
+
+* Chênh lệch giá mua chứng khoán.
++ 证券买卖差价。
+
+
+* Trái phiếu.
++ 债券。
+
+
+* Giá trị ghi số.
++ 帐面价值。
+
+
+* Điểm hoà vốn.
++ 收支相抵点。
+
+
+* Hiện tượng bong bóng kinh tế (thị trường).
++ 市场泡沫。
+
+
+* Thị trường theo chiều giá lên.
++ 牛市,多头市场。
+
+
+* Vốn đầu tư.
++ 资本, 资本金。
+
+
+* Tài khoản vốn.
++ 资本账户。
+
+
+* Mô hình định giá tài sản vốn.
++ 资本资产定价模型。
+
+
+* Thị trường vốn.
++ 资本市场。
+
+
+* Chủ nghĩa tư bản.
++ 资本主义。
+
+
+* Tiền mặt.
++ 现金。
+
+
+* Dòng tiền.
++ 现金流量。
+
+
+* Thị trường tiền mặt.
++ 现货市场。
+
+
+* Ngân hàng trung ương.
++ 中央银行。
+
+
+* Tiền gửi tiến kiệm.
++ 存单,存款证。
+
+
+* Quyết đoán, hạch toán.
++ 货币结算。
+
+
+* Giá vốn hàng bán.
++ 已售商品成本。
+
+
+* Thương phiếu.
++ 商业票据。
+
+
+* Hoa hồng.
++ 佣金。
+
+
+* Hàng hoá vật tư sản xuất.
++ 商品。
+
+
+* Chỉ số giá hàng hoá.
++ 消费者物价指数。
+
+
+* Trái phiếu chuyển đổi.
++ 可转换公司债券。
+
+
+* Tài chính doanh nghiệp.
++ 企业融资。
+
+
+* Tín dụng.
++ 信用,信贷。
+
+
+* Thẻ tín dụng.
++ 信用卡。
+
+
+* Đánh giá tín dụng.
++ 信用评级。
+
+
+* Tiền tệ.
++ 货币。
+
+
+* Hợp đồng với tỉ giá cụ thể.
++ 货币期权,外汇期权。
+
+
+* Tài sản ngắn hạn.
++ 流动资产。
+
+
+* Nợ ngắn hạn.
++ 流动负债。
+
+
+* Giá cả hiện thời.
++ 现时价格。
+
+
+* Hệ số khả năng thanh toán ngắn hạn.
++ 流动比率。
+
+
+* Trái khoán.
++ 公司债券。
+
+
+* Bên nợ.
++ 借项,借方。
+
+
+* Nợ.
++ 债务。
+
+
+* Tỷ lệ nợ trên vốn chủ sở hữu.
++ 债务股本比。
+
+
+* Bên nợ.
++ 债务人。
+
+
+* Giảm phát.
++ 通货紧缩。
+
+
+* Tiền gửi.
++ 存款。
+
+
+* Khấu hao.
++ 折旧。
+
+
+* Chứng khoán phái sinh.
++ 衍生证券。
+
+
+* Mất giá.
++ 贬值。
+
+
+* Chiết khấu.
++ 折扣,贴现。
+
+
+* Tỉ lệ chiết khấu.
++ 贴现率。
+
+
+* Cổ tức.
++ 股息。
+
+
+* Tỷ lệ cổ tức trên giá trị cổ phần.
++ 股息率。
+
+
+* Bán phá giá.
++ 倾销。
+
+
+* Lợi nhuận trước khi trả lãi, thuế.
++ 扣除利息及税项前盈利。
+
+
+* Lợi nhuận trước khi trả lãi, thuế và khấu hao.
++ 扣除利息，税项及折扣前盈利。
+
+
+* Thu nhập ròng trên cổ phần.
++ 每股收益。
+
+
+* Cổ phiếu.
++ 股票。
+
+
+* Vốn cổ phần.
++ 股本。
+
+
+* Tỉ giá ngoại hối.
++ 货币外汇汇率。
+
+
+* Ngày đáo hạn.
++ 到期日。
+
+
+* Xuất khẩu.
++ 出口。
+
+
+* Tài sản cố định.
++ 固定资产。
+
+
+* Chi phí cố định.
++ 固定成本。
+
+
+* Lãi suất cố định.
++ 固定利率。
+
+
+* Lãi suất thả nổi.
++ 浮息票据。
+
+
+* Hợp đồng giao dịch trong tương lai.
++ 远期合约。
+
+
+* Hàng hoá kỳ hạn.
++ 期货。
+
+
+* Hợp đồng hàng hoá kỳ hạn.
++ 期货合约。
+
+
+* Thị trường hàng hoá kỳ hạn.
++ 期货市场。
+
+
+* Thị trường hoán đổi ngoại tệ.
++ 外汇。
+
+
+* Tổng giá trị sản phẩm nội địa.
++ 国内生产总值。
+
+
+* Sổ cái kế toán.
++ 总分类账簿。
+
+
+* Tổng sản phẩm quốc gia.
++ 国民生产总值。
+
+
+* Tỷ lệ tăng trưởng.
++ 增长速度。
+
+
+* Giao dịch hàng rào.
++ 对冲交易。
+
+
+* Lệnh gọi vốn của công ty môi giới.
++ 经纪公司催缴通知。
+
+
+* Tài sản vô hình.
++ 无形资产。
+
+
+* Lãi.
++ 利息。
+
+
+* Lãi suất.
++ 利率。
+
+
+* Tỷ lệ tăng trưởng nội bộ.
++ 内部增长率。
+
+
+* Hàng tồn kho.
++ 存货。
+
+
+* Hệ số vòng quay hàng tồn kho.
++ 库存周转率。
+
+
+* Tính thanh toán thị trường.
++ 市场流通性。
+
+
+* Giá trị vốn hoá thị trường.
++ 总市值,市价总额。
+
+
+* Quỹ tương hỗ.
++ 共同基金。
+
+
+* Chỉ số giá trị tài sản thuần.
++ 资产净值。
+
+
+* Thu nhập ròng.
++ 净收入。
+
+
+* Chi phí hoạt động.
++ 营运开支。
+
+
+* Hệ số lợi nhuận hoạt động.
++ 营运利润率。
+
+
+* Hệ số lợi nhuận hoạt động sản xuất kinh doanh.
++ 营业利润率。
+
+
+* Chi phí cơ hội.
++ 机会成本。
+
+
+* Cổ phiếu ưu đãi.
++ 优先股。
+
+
+* Chỉ số giá trên doanh thu.
++ 股价与销售额比率。
+
+
+* Công ty góp vốn tư nhân.
++ 私人股本公司。
+
+
+* Góp vốn tư nhân.
++ 私募股权投资。
+
+
+* Hệ số biên lợi nhuận
++ 利润率
+
+
+* Khả năng thanh toán nhanh.
++ 速动比率。
+
+
+* Hệ số thu nhập trên vốn sử dụng.
++ 已动用资本回报率。
+
+
+* Hệ số thu nhập trên vốn cổ phần.
++ 股本回报率。
+
+
+* Hệ số thu nhập trên vốn đầu tư.
++ 投资资本回报率。
+
+
+* Hệ số thu nhập trên doanh thu.
++ 收入回报率。
+
+
+* Tổng doanh thu.
++ 总收益。
+
+
+* Hệ số thu nhập trên tài sản.
++ 资产收益率。
+
+
+* Hế số thu nhập trên vốn cổ phần.
++ 股本回报率 ， 产权收益率 ， 产权报酬率。
+
+
+* Bán khống.
++ 卖空。
+
+
+* Tài sản cố định hữu hình.
++ 有形资产。
+
+
+* Cố phiếu quỹ.
++ 库存股。
+
+
+* Vốn lưu động.
++ 营运资金。
+
+
+* Xoay vòng vốn lưu động.
++ 营运资金周转率。
+
+
+* Email thương mại không muốn.
++ 商业垃圾邮件, 未经同意的广告邮件。
+
+
+* In thương mại.
++ 商业印刷, 专业印刷。
+
+
+* Khách Thương mại được cấp phép phần mềm.
++ 软件授权商务客户端, 软体授权商业客户。
+
+
+* Ngân hàng thương mại.
++ 商业银行。
+
+
+* Thương mại quốc tế.
++ 国际贸易。
+
+
+* Thương mại tự do.
++ 自由贸易。
+
+
+* Tổ chức thương mại thế giới.
++ 世界贸易组织。
+
+
+* Quản lý hành chính.
++ 行政主管。
+
+
+* Ban quản lý, cục quản lý.
++ 主管 部门。
+
+
+* Chủ tịch.
++ 总裁。
+
+
+* Phó chủ tịch.
++ 副总裁。
+
+
+* Trợ lý chủ tịch.
++ 总裁助理。
+
+
+* Giám đốc điều hành.
++ 总经理。
+
+
+* Trợ lý giám đốc điều hành.
++ 总经理 助理。
+
+
+* Quản lý, quản đốc, giám đốc.
++ 经理。
+
+
+* Phó giám đốc.
++ 副经理。
+
+
+* Ban giám đốc.
+* 经理部门。
+
+
+* Trợ lý giám đốc.
++ 经理助理。
+
+
+* Trưởng ban quản đốc.
++ 董事长。
+
+
+* ủy viên ban quản đốc, ủy viên ban giám đốc.
++ 董事委员。
+
+
+* Đại diện bán hàng, người chào hàng.
++ 业务代表。
+
+
+* Người đại diện thương mại.
++ 贸易代表。
+
+
+* Người đại diện giao dịch, người đại diện đàm phán.
++ 谈判代表。
+
+
+* Người đại diện kinh doanh tiếp thị.
++ 营销代表。
+
+
+* Bộ phận Châu Phi.
++ 非洲部。
+
+
+* Bộ phận Châu Á Thái Bình Dương.
++ 亚太部。
+
+
+* Bộ phận Châu Âu
++ 欧洲部。
+
+
+* Bộ phận Bắc Mĩ.
++ 北美部。
+
+
+* Bộ phận Nam Mĩ.
++ 南 美部。
+
+
+* Bộ phận Mĩ Latinh.
++ 拉美部。
+
+
 
 * Đầu tư.
 + 投资。
 
+
 * Ngân hàng.
 + 银行。
+
 
 * Đô la Mỹ.
 + 美元。
 
+
 * Vốn.
-+ 资金。
++ 资金。 
+
+
 
 * Kinh doanh, nghiệp vụ.
-+ 业务。
++ 业务。 
+
 
 * Tăng trưởng.
-+ 增长。
++ 增长。 
+
 
 * Sản phẩm.
-+ 产品。
++ 产品。 
+
 
 * Giá.
-+ 价格。
++ 价格。 
+
 
 * Quản trị, quản lý.
-+ 管理。
++ 管理。 
+
 
 * Nền kinh tế.
-+ 经济。
++ 经济。 
+
 
 * Rủi ro.
-+ 风险。
++ 风险。 
+
 
 * Khoản vay.
-+ 贷款。
++ 贷款。 
+
 
 * Vốn lớn, vốn hoá lớn.
-+ 大盘。
++ 大盘。 
+
 
 * Ngành.
-+ 行业。
++ 行业。 
 
-* Thương mại hàng đổi hàng, mậu dịch trao đổi hàng.
-+ 易货贸易。
 
-* Thương mại tương hỗ, buôn bán đối lưu mậu dịch hàng đổi hàng.
-+ 互惠贸易。
+* Quỹ, ngân quỹ.
++ 基金。 
 
-* Thương mại đa phương.
-+ 多边贸易。
 
-* Thương mại song phương.
-+ 双边贸易。
+* Tài chính.
++ 金融。 
 
-* Thương mại chuyển khẩu.
-+ 转口贸易。
 
-* Thương mại xuất khẩu.
-+ 转口贸易。
+* Sản xuất.
++ 生产。 
 
-* Thương mại nhập khẩu.
-+ 进口贸易。
 
-* Khu vực tự do mậu dịch.
-+ 自由贸易区。
+* Kinh doanh, quản lý.
++ 经营。 
 
-* Tự do thương mại.
-+ 自由贸易。
 
-* Người nhận hàng.
-+ 收货人。
+* Kinh tế tài chính.
++ 财经。 
+
+
+* Khách hàng.
++ 客户。 
+
+
+* Phát hành (niêm yết một công ty trên thị trường chứng khoán).
++ 上市。
+
+* Ban nhập khẩu.
++ 进口部。
+
+
+* Ban xuất khẩu.
++  出口部。
+
+
+* Ban xuất nhập khẩu.
++  进出口部。
+
+
+* Ban phân phối thị trường.
++  市场销售部。
+
+
+* Ban thống kê mua hàng.
++  购货部。
+
+
+* Ban marketing.
++ 营销部。
+
+
+* Ban thương mại quốc tế.
++  国际贸易部。
+
+
+* Ban tổ chức nhân sự.
++  人事部。
+
+
+* Ban tài vụ.
++ 财务部。
+
+
+* Ban hậu cần.
++  物流部。
+
+
+* Ban công tác quần chúng.
++  公关部。
+
+
+* Xin chiếu cố.
++  请 多 关照。
+
+
+* Phòng ban,khoa.
++  部门。
+
+
+* Ban quốc tế.
++ 国际部。
+
+
+* Bộ phận Châu Á.
++  亚洲部。
+
+
+* Danh thiếp.
++  名片。
+
+
+* Ngưỡng mộ từ lâu.
++  久仰。
+
+
+* Công ty Nike.
++ 耐克公司。
+
+
+* Công ty Intel.
++  英特尔公司。
+
+
+* Đàm phán giá cả.
++ 价格谈判。
+
+
+* Đơn đặt hàng.
++  订单。
+
+
+* Công ty niêm yết trên thị trường chứng khoán.
++ 上市公司。 
+
+
+* Giao dịch.
++ 交易。 
+
+
+* Trông nom, giám sát.
++ 监管。 
