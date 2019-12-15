@@ -6821,54 +6821,6 @@
 * Lòng anh như tự xé.
 + 我的心就像在流泪。
 
-* Trốn nỗi buồn vô cớ.
-+ 隐藏不合理的悲伤。
-
-* Sao anh chẳng vui đi.
-+ 你为什么不开心。
-
-* Tôi ráng tìm hạnh phúc.
-+ 我试图找到幸福。
-
-* Song chẳng biết chờ chi.
-+ 宋不知道该等什么。
-
-* Xa xăm ru mộng tưởng.
-+ 远没有梦想。
-
-* Anh có thể phiêu lưu.
-+ 您可以冒险。
-
-* Tạo hoá không tình cảm.
-+ 创作者不深情。
-
-* Sinh ra, tôi đã nghèo.
-+ 天生，我很穷。
-
-* Anh hãy là thi nhân.
-+ 成为诗人。
-
-* Hát nỗi buồn vô cố.
-+ 唱无数的悲伤。
-
-* Tôi không biết làm thơ.
-+ 我不会写诗。
-
-* Thơ không làm bớt khổ.
-+ 诗歌不能减轻痛苦。
-
-* Nghĩ ngợi đến tình nương.
-+ 想着爱。
-
-* Anh sung sướng hơn nhiều.
-+ 他更快乐。
-
-* Nghèo nàn và nhút nhát.
-+ 可怜又害羞。
-
-* Tôi chưa từng được yêu.
-+ 我从未恋爱过。
-
 * Giơ tay muốn ôm cả trái đất.
 + 举起手拥抱整个地球。
 
@@ -19892,6 +19844,6885 @@
 * Mình chung huỷ tựa cơm đơm bếp hồng.
 + 我们取消了在粉红色厨房中煮熟的米饭的标题。
 
+* Bưng bát cơm đầy, đừng quên em.
++ 装满饭碗，别忘了我。
+
+* Mặc vuông áo ấm, chớ quên em.
++ 穿方形保暖衬衫，别忘了我。
+
+* Vui việc làm, quên mệt chớ quên em.
++ 有趣的工作，忘记不要忘记你。
+
+* Dù gặp nghìn mắt đẹp, chớ quên em.
++ 虽然遇到了成千上万的美丽眼睛，但不要忘记我。
+
+* Muốn quên, chờ sông Khung cạn nước hãy quên.
++ 想忘记，等河水用完了就忘了。
+
+* Muốn quên, chờ núi Tản Viên mòn mới dứt.
++ 想要忘记，等待Tan Vien山耗尽。
+
+* Trồng cây có trái, đợi chờ anh.
++ 果树，在等他。
+
+* Em nhen lửa đỏ, đợi chờ anh.
++ 我放火烧红，等着你。
+
+* Dù bạc vàng uốn lưỡi, đợi chờ anh.
++ 尽管金银缩了他的舌头，等待着他。
+
+* Góp tay thành bão táp, đợi chờ anh.
++ 手在暴风雨中，等待着他。
+
+* Đợi chờ anh, sông Khung không cạn nước bao giờ.
++ 等他，河永远没水了。
+
+* Đợi chờ anh, núi Tản Viên vẫn còn sừng sững.
++ 等待他，谭文山仍然屹立。
+
+* Đêm đêm họ nối sợi tơ đàn.
++ 到了晚上，他们连接了琴弦。
+
+* Để giăng giữa những ngôi sao Nam Bắc.
++ 在北方和南方的星空之中投球。
+
+* Tình núi sông vì họ chứa chan.
++ 热爱这座山，因为它们含有。
+
+* Muôn người cùng với họ thi gan.
++ 有肝病的人。
+
+* Dùng máy này tha hồ mà chết.
++ 使用这台机器变质而死。
+
+* Mua máy này về chết tự do.
++ 购买这台机器可以自由死亡。
+
+* Hãng chúng tôi các ngài chưa biết.
++ 我们公司你不知道。
+
+* Chết tối tân đưa bạn xuống mồ.
++ 现代死亡将您带到了坟墓。
+
+* Nhảy xuống từ những gác chọc trời.
++ 从摩天大楼上跳下来。
+
+* Dùng súng lục hay giây cũng khổ.
++ 用手枪或几秒钟痛苦。
+
+* Bản hiệu xin vừa ý các ngài.
++ 信号请你。
+
+* Trước phong trào tràn lan tự tử.
++ 运动前普遍自杀。
+
+* Người dùng máy sẽ không hồi hộp.
++ 机器用户不会紧张。
+
+* Chết lúc nào chẳng biết, êm ru.
++ 永远知道死亡，顺利茹。
+
+* Xin bảo đảm rằng không sống sót.
++ 请确保不要生存。
+
+* Mua nhầm của giả, không chết đâu.
++ 买错了，别死。
+
+* Mấy công ty đua nhau quảng cáo.
++ 几家公司竞相做广告。
+
+* Ở Nữu Ước và Sicagô.
++ 在纽约和西西里岛。
+
+* Ông chủ bút cho đăng trên báo.
++ 编辑在报纸上写道。
+
+* Ngửi mùi tiền ngào ngạt thơm tho.
++ 闻到香甜的钱。
+
+* Đồng đô la cựa mình trong két.
++ 美元在保险柜中搅动。
+
+* Một ngành kinh doanh mới – ra đời.
++ 一项新业务-诞生了。
+
+* Máy tự tử, mua về mà chết.
++ 自杀，死亡，买来的。
+
+* Văn minh của Mỹ.
++ 美国文明。
+
+* Lạnh ghê người.
++ 好冷。
+
+* Phải sàng ra, phải lọc ra.
++ 必须过滤，过滤。
+
+* Tự mình ta, tự mình ta.
++ 我自己，我自己。
+
+* Nắng miền Nam ta đẹp biết bao.
++ 南方阳光明媚。
+
+* Gió phất phơ như tấm lụa đào.
++ 风像桃丝一样飘动。
+
+* Nhưng chúng nó đi, làm bẩn nắng.
++ 但是他们走了，弄脏了太阳。
+
+* Gió đụng vào chúng nó tanh tao.
++ 风吹到他们，他们把我钓鱼了。
+
+* Hơi biển đậm trộn vào gió nắng.
++ 黑暗的蒸汽在晴朗的风中混杂。
+
+* Cùng hơi sông có vị ngọt ngào.
++ 沿河略带甜味。
+
+* Nhưng chúng nó thở ôi không khí.
++ 但是他们呼吸了空气。
+
+* Mắt bay nhìn xấu xí trời tao.
++ 苍蝇的双眼看起来丑陋的我的天堂。
+
+* Phải sàng ra, ta phải lọc ra.
++ 必须筛分，我们必须过滤掉。
+
+* Sỏi không thể nấu chung với gạo.
++ 鹅卵石不能用米煮熟。
+
+* Đồng của ta, đất đẹp của ta.
++ 我的铜，我美丽的土地。
+
+* Không thể để giày đinh xục xạo.
++ 不能让钉子松动。
+
+* Rắn độc phun, rắn phải dập đầu.
++ 喷射的毒蛇和蛇必须被窒息。
+
+* Quạ đen tới, quạ đen mất xác.
++ 黑乌鸦来了，黑乌鸦失去了身体。
+
+* Hút hoài con đỉa bám ngàn năm.
++ 吸水数千年。
+
+* Rứt nó ra, nghiến vằm dưới đất.
++ 拉出来，下巴接地。
+
+* Bẻ song tù! Dinh trại phá ra.
++ 越狱！宫殿爆发了。
+
+* Chặt chân cầu! móc mắt đèn pha.
++ 砍桥！眼钩钩大灯。
+
+* Người chiến thắng cuối cùng, là Đất.
++ 最终的赢家是地球。
+
+* Đất với Nhân dân là thống nhất.
++ 土地与人民团结在一起。
+
+* Giữ gìn nắng gió mãi thơm tho.
++ 永远保持阳光的芬芳。
+
+* Sông núi chẳng cho ai cướp giật.
++ 河山没有人被抢。
+
+* Sao tôi chỉ có hai bàn tay.
++ 为什么我只有两只手。
+
+* Sao tôi chỉ có trái tim này.
++ 为什么我只有这颗心。
+
+* Tôi muốn hoá thành rừng, thành lửa.
++ 我想变成森林，变成火。
+
+* Thành cơn thịnh nộ đất, đá bay.
++ 进入地面的愤怒，岩石飞扬。
+
+* Đêm xé ra, gối chẳng êm đầu.
++ 夜被撕裂，枕头不顺畅。
+
+* Đến bữa, bưng cơm còn tức tối.
++ 晚餐时，米饭仍然生气。
+
+* Mấy tháng nay – ruột đốt như dầu.
++ 这些个月-肠子像油一样燃烧。
+
+* Tin tức căm hờn làm ngực dội.
++ 新闻恨恨发胸部。
+
+* Chúng nó đến, mang giày đinh mới.
++ 他们来带来新的高峰。
+
+* Châm lỗ trên mặt đất miền Nam.
++ 在南方地面上挖洞。
+
+* Bốt quốc xã những ngày hấp hối.
++ 纳粹靴子垂死。
+
+* Đổi hình, mang dấu Mỹ tàn tham.
++ 改变形象，承受破坏的印记。
+
+* Nó đến kiểm tra, “ta là cố vấn”.
++ 他来检查，“我是顾问”。
+
+* Nó đi nghênh ngang, nó sục xuống làng.
++ 它向侧面倾斜，沉入村庄。
+
+* Nó hất mũ cao bồi trên trán.
++ 它在额头上翻转牛仔帽。
+
+* Cậy máy bay, tin ở túi vàng.
++ 坐飞机，相信黄色的袋子。
+
+* Nó cậy chó – chỉ chó nào mất giống.
++ 他相信狗-只有狗会失去自己的品种。
+
+* Mới đi làm chó, cho Mỹ bố ruồng.
++ 刚开始当狗狗，为了美国而抛弃父亲。
+
+* Cậy thuốc độc, nó đê hèn rải xuống.
++ 部署毒药，这是卑鄙的。
+
+* Trắng vành đai phá hoại lúa cùng nương.
++ 白色传送带毁灭与高地领域的米。
+
+* Tôi còn có lửa trong hơi thở.
++ 我仍然呼吸着火。
+
+* Trong mắt thương yêu có chí người.
++ 在人眼中，有爱。
+
+* Tôi ít nhất cũng đang còn có.
++ 我至少有。
+
+* Một quả lựu đạn, trái tim tôi.
++ 手榴弹，我的心。
+
+* Tôi gắn chặt với Nhân dân, với Đảng.
++ 我依附于人民，党。
+
+* Để thấy mình có ngàn vạn cánh tay.
++ 看到自己怀有成千上万的手臂。
+
+* Góp tay búa chặt bóng đêm từng mảng.
++ 用双手将阴影打成碎片。
+
+* Tôi đang còn uống căm hận như say.
++ 我还在喝醉如恨。
+
+* Ba má hãy cứ nhè đầu mà đánh.
++ 父母只是不断挠头。
+
+* Các anh, các chị, cô bác trong nhà.
++ 家里的兄弟姐妹们。
+
+* Quật cho chúng những đòn thù thẳng cánh.
++ 向他们直击。
+
+* Để, bên dừa, chúng cạp đất quê ta.
++ 为了，用椰子，他们挖了我们的国家。
+
+* Sức xuân vùn vụt đang lên.
++ 春天来了。
+
+* Líu lo chim hót, triền miên suối đàn.
++ 鸟鸣，不断地流淌。
+
+* Mây trời lẫn với mây đan.
++ 乌云密布。
+
+* Mênh mông rừng phủ ngút ngàn áo xanh.
++ 广阔的森林覆盖着成千上万的绿色衬衫。
+
+* Giặc Mỹ can thêm tội ác phá rừng.
++ 敌人入侵了更多的森林砍伐罪。
+
+* Rừng của miền Nam đẹp giàu, trong sạch.
++ 南方的森林丰富而美丽。
+
+* Mỹ thuốc độc, Mỹ vi trùng dịch hạch.
++ 美国毒药，美国瘟疫细菌。
+
+* Giặc Mỹ vào mưu phá sạch rừng Nam.
++ 美国人入侵了越南南部。
+
+* Mơ màng sắc tím cẩm lai.
++ 梦幻般的紫色杂种。
+
+* Giáng hương sực nức không phai mùi trầm.
++ 圣诞香气强烈褪色不褪色。
+
+* Ước ao phản gỗ em nằm.
++ 渴望背叛我的孩子们。
+
+* Cam xe muốn dựa, muốn cầm thau lau.
++ 汽车凸轮要倾斜，要拿黄铜擦拭。
+
+* Đâu là rừng gỗ quí, của trên non.
++ 未成熟的珍贵木材森林在哪里。
+
+* Đâu ở ven rừng những làng sơn cước.
++ 在森林里的村庄。
+
+* Đâu những địa đàng long lanh vườn tược.
++ 美丽的，闪闪发光的花园天堂在哪里，。
+
+* Giặc Mỹ sợ cây bởi nó sợ người.
++ 敌人怕树，因为他怕人。
+
+* Ngoài ta tưới nước che sương.
++ 除了我们浇水雾。
+
+* Ba xuân mầm biếc xanh nương rợp đồi.
++ 春天绿色，春天绿色，山丘上山。
+
+* Cụ già tuổi đã bảy mươi.
++ 老人七十岁。
+
+* Trồng trăm cây quả cho người sau ăn.
++ 种植数百棵果树后吃。
+
+* Xót trong ta thuốc độc Mỹ đê hèn.
++ 仁慈地对待我们卑鄙的美国毒药。
+
+* Cây rụng lá chết ngọn ngành đến gốc.
++ 落叶的树木死于根的顶端。
+
+* Khoai tượt vỏ khoai thối liền trong đất.
++ 土豆皮在地下腐烂。
+
+* Chuối rục mình, rụi mít, héo sầu riêng.
++ 香蕉烂了，揉了菠萝蜜，榴莲干了。
+
+* Chúng nó bây giờ sống sót nhờ thuốc độc.
++ 他们现在通过毒药生存。
+
+* Một dạ dày chật ních những nhân ngôn.
++ 饱含人类话语的肚子。
+
+* Thuốc bả chuột, vi trùng đầy nước bọt.
++ 老鼠毒药，充满唾液的细菌。
+
+* Biết sự tình, cả nhân loại buồn nôn.
++ 知道了这种情况，整个人类都很恶心。
+
+* Trước khôn lường nổi dậy những tầm vông.
++ 面对不可预测的冲突。
+
+* Nay khó cản cây về theo Cách mạng.
++ 现在很难阻止树木革命。
+
+* Cờ của nhân dân ngày càng tỏ vang.
++ 人们的旗帜越来越受欢迎。
+
+* Thiên nhiên không ngừng ủng hộ chúng ta.
++ 大自然不断支持我们。
+
+* Một máy bay bốn mươi chín ngôi sao.
++ 一架四十九颗星星。
+
+* Nát dúm thân hình, nằm chỏng gọng.
++ 身体皱巴巴，平躺。
+
+* Bốn mươi chín ngôi sao, bốn mươi chín ngôi sao.
++ 四十九颗星，四十九颗星。
+
+* Rơi xuống bàn ô nhục – Vì sao.
++ 丢在桌子上丢人-为什么。
+
+* Bà má Năm Căn bỏm bẻm nhai trầu.
++ 南灿的母亲咀嚼槟榔并咀嚼它。
+
+* Mặc áo bà ba, đầu búi tóc.
++ 穿妈妈的上衣，包子。
+
+* Sao con thấy má là hình đất nước.
++ 为什么看到我的脸颊是乡村的形象。
+
+* Là một làng xanh biếc trên sông.
++ 作为河上的绿色村庄。
+
+* Nằm giữa vùng quanh năm nước ngập.
++ 位于全年洪水的中间。
+
+* Vẹt với đước ken dày trùng điệp.
++ 鹦鹉和浓密的红树林芒果。
+
+* Những thợ rừng, thợ biển đổ bao công.
++ 林场工人，海工倒入了。
+
+* Khi má vừa bước đến Năm Căn.
++ 她刚到南坎时。
+
+* Lơ thơ mới mấy chòi đốn củi.
++ 忽略新的小木屋一些木棚。
+
+* Cá đặc nước, nhưng rừng còn tối.
++ 鱼是水的，但是森林仍然是黑暗的。
+
+* Đất hẹp trồng rau lúa khó khăn.
++ 种植水稻蔬菜的狭窄土地很难。
+
+* Thương bác trai năm ấy phá rừng.
++ 可惜那年我叔叔砍伐了森林。
+
+* Cơm chiều đợi, mà chạy tìm: thảm xót.
++ 下午饭等了，但跑去找：可悲。
+
+* Bên vũng máu, những lốt in chân cọp.
++ 里面的血迹，老虎的腿印。
+
+* Cây đước còn dao phập ngang lưng.
++ 根茎上有一把刀。
+
+* Má Năm Căn mấy chục năm tròn.
++ 年的脸颊数十年轮。
+
+* Nuôi hai con, làm nghề cá, mắm.
++ 抚养两个孩子，做鱼和鱼露。
+
+* Chợ Năm Căn cửa nhà xây thắm.
++ 是一栋房屋。
+
+* Tôm khô tép lụi cá biển lồng thơm.
++ 干虾和带香海鱼的虾。
+
+* Chợ Năm Căn đốt, dựng mấy lầ.
++ 南罐市场被烧毁，建造了数次。
+
+* Năm Căn vẫn cây rừng, cá bể.
++ 南坎仍然有林木，鱼缸。
+
+* Bà má Năm Căn vào “Hội mẹ”.
++ 南灿的母亲去了“母亲协会”。
+
+* Nuôi bộ đội từng bữa uống, bữa ăn.
++ 每顿饭都供养士兵，每顿饭。
+
+* Cảm kích thay bà má Năm Căn.
++ 感谢南母母亲。
+
+* Có một con trai làm trái, rễ.
++ 有一个儿子作为水果，有根。
+
+* Cộng hoà vệ binh ngày khởi nghĩa.
++ 叛乱共和国纪念日。
+
+* Đánh trận Gia Rai vì nước bỏ mình.
++ 由于该国离开我们而与战斗。
+
+* Ngập dấu dao xưa, cây đước xanh.
++ 满是古刀，绿色的红树林。
+
+* Lá ánh mặt trời che bóng mát.
++ 阳光的叶子。
+
+* Trên hai nấm mồ cha với con.
++ 在父子两个坟墓上。
+
+* Êm đềm gió biển ru phơ phất.
++ 宜人的海风飘扬。
+
+* Bà má Năm Căn vẫn đó mà.
++ 南灿的妈妈还在。
+
+* Bền bỉ giữ sông và bám đất.
++ 持续保持河流并紧贴地面。
+
+* Ham ưa trồng trọt, thích chăn nuôi.
++ 渴望耕种，喜欢养动物。
+
+* Lòng thuỷ chung như đầy bát nước.
++ 忠实的心像装满水的碗。
+
+* Đoàn thể phê bình má chủ quan.
++ 群众批评主观脸颊。
+
+* Gọi ông chủ tịch xã bằng thằng.
++ 直接叫公社社长。
+
+* Quả tình má trọng như con đẻ.
++ 正如小时候所料。
+
+* Không phân tình mẹ với tình dân.
++ 人与人之间没有区别。
+
+* Ôi! má Năm Căn tóc ngả màu.
++ 天哪！南灿的脸颊发色。
+
+* Vẫn còn phải giữ chót.
++ 仍然必须保留最后的。
+
+* Ruột liền của má ôm Nam – Bắc.
++ 母亲的肠子紧紧抱住南北。
+
+* Lại những đêm ngày cực xót đau.
++ 晚上和晚上都很痛苦。
+
+* Bà má Năm Căn, bà má Năm Căn.
++ 南灿的妈妈南灿的妈妈。
+
+* Những bà má Năm Căn làm ra đất nước.
++ 南灿的母亲造国。
+
+* Xắn đôi tay áo, buộc khăn rằn.
++ 卷起袖子，系上方巾。
+
+* Đánh chết bọn ăn cướp, ăn cướp.
++ 战斗杀死土匪，土匪。
+
+* Tôi uất không nguôi máu Hướng Điền.
++ 我无法平息香遍的血。
+
+* Đất nước trong tôi là một khối.
++ 我国是一个街区。
+
+* Dòng sông Bến Hải chảy qua tim.
++ 奔海河流经心脏。
+
+* Chị Vân chỉ một vành khăn trắng.
++ 万女士指着一圈白毛巾。
+
+* Mà tang cha, tang mẹ, hai em.
++ 但是哀悼的父亲，哀悼的母亲，两个孩子。
+
+* Tang chín mươi hai người bị giết.
++ 哀悼有人丧生。
+
+* Dân hai thôn trong biển máu ngập chìm.
++ 血海中两个村庄的人们被淹。
+
+* Chúng lấy áo của những người đã chết.
++ 他们拿了死者的衣服。
+
+* Đem ra dùng, ra bán, lũ côn đồ.
++ 带来使用，出售，暴徒。
+
+* Khe A Chê, A Na vùi bãi cát.
++ 赫阿彻和阿娜把沙子埋了。
+
+* Chúng thiêu nhà, nương rẫy phá tàn khô.
++ 他们烧毁房屋和田野以摧毁干旱的田野。
+
+* Đồng bào Thượng, chúng cấm chân dép guốc.
++ 通州人，他们禁止凉鞋。
+
+* Cấm tóc kia không được hớt gọn gàng.
++ 禁止其他头发剪不整齐。
+
+* Chúng gọi “Mọi” như trong thời mất nước.
++ 他们称呼为“所有”，就像在脱水时一样。
+
+* Cấm áo quần, bắt mặc khố lang thang.
++ 没有衣服，没有缠腰带。
+
+* Chị Vân cúi xuống bồng em nhỏ.
++ 范弯腰抱着婴儿。
+
+* Môi đỏ như còn bú mẹ em.
++ 红红的嘴唇好像在吸吮我的母亲。
+
+* Em chết, chị thương như vẫn sống.
++ 我死了，我仍然热爱生活。
+
+* Nhấc thây người lớn, sợ đè em.
++ 接大人，怕压死我。
+
+* Chị Vân ra Bắc, dân quân đón.
++ 万女士去了北方，民兵欢迎她。
+
+* Kể chuyện vui, cho chị đỡ buồn.
++ 讲一个有趣的故事，让我难过。
+
+* Lúc nghỉ, họ vào rừng hái trái.
++ 休息期间，他们去森林采摘水果。
+
+* Có người tặng chị cả hoa thơm.
++ 有人给了她芬芳的花朵。
+
+* Trèo đèo lội suối ra miền Bắc.
++ 往北爬。
+
+* Đến thủ đô chung, chị khóc oà.
++ 她到了共同首都哭了。
+
+* Máu của Hướng Điền thành nước mắt.
++ 香甸的血变成了眼泪。
+
+* Uất từ lòng chị đến tìm ta.
++ 从她的内心浮渣找到我。
+
+* Và trên đầu chị chiếc khăn tang.
++ 在她的头上哀悼。
+
+* Bỗng đỏ như vang, tím tựa chàm.
++ 忽然红如酒，紫如靛。
+
+* Ôi chín mươi hai người bị giết.
++ 哦，有人被杀。
+
+* Đau hoài trong máu thịt miền Nam.
++ 南方血液的怀旧之痛。
+
+* Em Ứng đi trong trí nhớ tôi.
++ 应先生走进我的记忆。
+
+* Ôi em trai trẻ mắt yêu đời.
++ 哦，热爱生活的小弟弟。
+
+* Bước dài, vai rộng, nhanh câu nói.
++ 长步，宽阔的肩膀，快速的句子。
+
+* Răng đẹp tươi hoa, nhớ nụ cười.
++ 美丽的牙齿明亮，记住微笑。
+
+* Ở nhà, ba má gọi.
++ 在家里，我父母叫。
+
+* Chợ nhỏ bên kênh quán thủ thường.
++ 常规商店的小市场。
+
+* Lên học Mỹ Tho hằng nhất lớp.
++ 去我的芹上课。
+
+* Nghèo nên chăm học, Ứng là gương.
++ 穷人应该努力学习，翁是一面镜子。
+
+* Ứng ham đá bóng, ưa xoài tượng.
++ 应用足球球，例如芒果雕像。
+
+* Đi guốc đơn sơ, tính rất hiền.
++ 简单的木，非常温柔。
+
+* Từ lúc vào Nam tôi gặp Ứng.
++ 自从我去南方以后，我遇到了翁。
+
+* Bốn năm tình nghĩa kết anh em.
++ 四年的友谊。
+
+* Sách hay những lúc kề nhau đọc.
++ 当你并排阅读时，好书。
+
+* Một nớp nhiều khi hai bạn chui.
++ 当您在地下两个时，会得到更多。
+
+* Ứng nó chí tình dù kém tuổi.
++ 即使您还年轻，也要充满爱意地运用它。
+
+* Ngày tôi về Bắc, viết thư hoài.
++ 我回到北方的那天，我总是写信。
+
+* Kháng chiến anh trên rừng Việt Bắc.
++ 他在越北森林中的抵抗。
+
+* Khu Đ em cũng ở bưng biền.
++ 区我也住在海里。
+
+* Có vợ, một con, em khoẻ mạnh.
++ 已婚，一个孩子，我很健康。
+
+* Ứng là cán bộ của thanh niên.
++ 申请者是青年官员。
+
+* Rồi một hôm kia, bỗng tối trời.
++ 然后有一天，突然黑了。
+
+* Tin ra: Mỹ Diệm giết em rồi.
++ 相信：我的命已经杀了我。
+
+* Giết ba mươi tuổi đang tràn sức.
++ 岁的杀手满溢。
+
+* Giết ở miền Nam Ứng của tôi.
++ 杀死我的南翁。
+
+* Chúng giết một người đang tiến bước.
++ 他们杀死一个正在进步的人。
+
+* Cổ em đang hát – máu ào ra.
++ 我的脖子在唱歌-鲜血涌出。
+
+* Không buộc được chân, nên chúng giết.
++ 他们无法束缚自己的脚所以他们杀死了。
+
+* Một tương lai đang độ sáng loà.
++ 未来是光明的。
+
+* Em Ứng đi trong trí nhớ anh.
++ 翁先生走过他的记忆。
+
+* Bức thư em gửi lúc Hoà bình.
++ 我在和平寄来的信。
+
+* Còn đây nét chữ tươi roi rói.
++ 这是新鲜的笔迹。
+
+* Như thấy em cười, em bước nhanh.
++ 仿佛看到我在微笑，我走得很快。
+
+* Thù tới kề bên, chẳng phải xa.
++ 与其靠近而不是不远。
+
+* Thù trong máu thịt đứa em ta.
++ 在我哥哥的肉里报仇。
+
+* Thù vung những cánh tay lông lá.
++ 复仇摆动多毛的叶子。
+
+* Đạn nhắm tim tôi bắn thẳng mà.
++ 子弹使我的心脏直拍。
+
+* Con của Ứng bây giờ ai nuôi.
++ 谁现在抚养孩子。
+
+* Ứng ơi! đã chuyển sức muôn người.
++ 我的申请！已经改变了所有人。
+
+* Đã gầm bão táp tung bay đá.
++ 怒吼暴风雨飞舞的岩石。
+
+* Trên khắp miền Nam đó, Ứng ơi.
++ 整个南方，申请人。
+
+* Khiến mắt tôi ào giọt lệ.
++ 使我的眼睛泪流满面。
+
+* Nụ cười anh ngạo nghễ.
++ 他傲慢的笑容。
+
+* Đôi mắt sáng dưới hàng mi.
++ 睫毛下明亮的眼睛。
+
+* Hai mươi bảy tuổi bước đi.
++ 走了二十七岁。
+
+* Giặc Mỹ – Diệm muốn ghì trở lại.
++ 美国敌人想要退缩。
+
+* Trước đây tôi chưa hề ngờ tới.
++ 我没想到。
+
+* Một nụ cười có thể xúc động tâm can.
++ 微笑可以感动人心。
+
+* Khiến vọt ra nước mắt hai hàng.
++ 造成两行眼泪。
+
+* Một nụ cười trên mặt người chiến đấu.
++ 战士脸上的笑容。
+
+* Một nụ cười tươi tựa máu.
++ 像鲜血一样的微笑。
+
+* Xanh màu trời và chém địch như gươm.
++ 蓝色，像剑一样向敌人猛击。
+
+* Các anh cười, ôi những đoá thanh niên.
++ 你们笑，年轻人。
+
+* Như hoa vẫn hồn nhiên trong sự sống.
++ 由于花朵在生活中仍然是纯真的。
+
+* Một nụ cười chấp mưa gào gió rống.
++ 微笑接受咆哮的雨。
+
+* Án tử hình không động đến làn môi.
++ 死刑不会触及嘴唇。
+
+* Như chúng ta đã thắng địch lâu rồi.
++ 因为我们早就赢得了敌人。
+
+* Nụ cười ấy khiến quân thù hoảng loạn.
++ 那个微笑使敌人感到恐慌。
+
+* Thêm tức tối, bứt tóc ra từng mảng.
++ 更加生气，拔掉头发。
+
+* Những người đáng lẽ đang thênh thang xây dựng.
++ 应该在建筑上徘徊的人。
+
+* Giặc kết tội phải máu sa đầu rụng.
++ 被定罪的敌人首先要流血。
+
+* Gió vào trong cây, ở trong đó vẫy tay ra.
++ 风吹进了树，它在挥舞着手。
+
+* Một nghìn hoa, một nghìn hoa.
++ 一千朵花，一千朵花。
+
+* Một vườn chung đặt tên.
++ 一个名为的普通花园。
+
+* Cành ở bên Nam thương lá Bắc.
++ 南方的树枝喜欢北方的叶子。
+
+* Đôi bên âu yếm đổ vào Trung.
++ 充满爱意的一面倒入中央。
+
+* Cúc vàng thanh đạm cho nên cúc.
++ 黄菊花所以菊花。
+
+* Trông thấy hồng tươi bạn với hồng.
++ 看起来像新鲜的玫瑰。
+
+* Một chiếc đảo hoa cầu uốn nhẹ.
++ 轻轻弯曲的花岛。
+
+* Nước rờn muôn vạn ánh sao trong.
++ 星空中有一千个星光水。
+
+* Những giọt mồ hôi vẫn hãy còn.
++ 汗水依然存在。
+
+* Những đá hoá thành sương tưới mãi.
++ 岩石变成了永远浇水的薄雾。
+
+* Tiếng ca những buổi đắp, đào, khiêng.
++ 演唱掩护，挖掘和携带会议。
+
+* Đã hoá đường thơ, lối cỏ viền.
++ 诗意的糖，草的边界。
+
+* Cho được đẹp lòng người chủ nước.
++ 为了取悦主人。
+
+* Tha hồ phong cảnh hãy làm duyên.
++ 被风景宠坏。
+
+* Anh chị vào đây hẹn trái tim.
++ 你来这里有心。
+
+* Muốn mời bay lượn cá cùng chim.
++ 想要与鸟飞鱼。
+
+* Hiểu ta sâu sắc hơn ai hết.
++ 比任何人更深刻地了解我们。
+
+* Là giữa um tùm cái lặng im.
++ 寂静之间是茂盛的寂静。
+
+* Vườn của ta xinh, hoa của ta.
++ 我的花园很美，我的花很美。
+
+* Muốn còn dài rộng đến bao la.
++ 想要长久而广阔。
+
+* Muốn tay vun quén cho sông núi.
++ 想要培育山河。
+
+* Đẹp Bắc Nam Trung khắp nước nhà.
++ 美丽的北部中南部遍布全国。
+
+* Gió vào trong cây, ở trong đó vẫy tay ra.
++ 风吹进了树，它在挥舞着手。
+
+* Cái võng Bình Định.
++ 平定吊床。
+
+* Bài hát Bình Định.
++ 宋彬。
+
+* Người ru là người Bình Định.
++ 摇篮曲来自平定。
+
+* Cây nhãn Hưng Yên.
++ 红颜龙眼。
+
+* Đêm sao Hưng Yên.
++ 鸿颜星夜。
+
+* Chòm xóm, vườn tược Hưng Yên.
++ 邻里，兴园花园。
+
+* Giọng người ru rất mực là hiền.
++ 摇篮曲非常温柔。
+
+* Một giọng đàn ông còn trẻ lắm.
++ 年轻人的声音。
+
+* Một người cán bộ hay nhân viên.
++ 官员或雇员。
+
+* Cái điệu hò Bình Định, Phú Yên.
++ 平定和富安的舞蹈。
+
+* Tiếng ru con, con ngủ cho yên.
++ 摇篮曲，我为和平而睡觉。
+
+* Em bậu ơi, bụi ớt chim chuyền.
++ 亲爱的鸟辣椒。
+
+* Cơm nước Bắc sáu năm chung lẫn.
++ 北稻六年混。
+
+* Giọng miền dừa vẫn giữ y nguyên.
++ 椰子域语音保持不变。
+
+* Ra ngoài này công tác Hưng Yên.
++ 出门，洪恩的作品。
+
+* Lấy vợ Hưng Yên, hiền tựa nhãn.
++ 已婚洪恩，温柔的头衔。
+
+* Cháu một tuổi, cửa nhà đơn giản.
++ 我今年一岁，门很简单。
+
+* Chị đi đâu, anh hát trong đêm.
++ 你要去哪里，他在晚上唱歌。
+
+* Chiếc võng bằng cói Bắc bện êm.
++ 北部的吊床很光滑。
+
+* Nhưng kẽo kẹt hệt như trong Bình Định.
++ 但是嘈杂的声音就像在《平定》中一样。
+
+* Ôi điệu hát có tiếng gà, trăng ánh.
++ 哦，这首歌有鸡声，月光。
+
+* Toả quê Nam, quê dũng cảm, hồn nhiên.
++ 传播南方，勇敢，无辜的国家。
+
+* Mình yêu tôi mãi như son sắt.
++ 我永远像铁口红一样爱你。
+
+* Con có thương cha hãy nhoẻn cười.
++ 如果你爱我，请微笑。
+
+* Ôi điệu hát vốn ra từ mạch đất.
++ 哦，这首歌来自大地。
+
+* Nên bây giờ mang đất mãi không thôi.
++ 因此，现在只能永远带来地球。
+
+* Trên đường Nam Bộ lúc ra đi.
++ 在我离开南方的路上。
+
+* Yêu mến lòng như nước ngựa phi.
++ 爱心如奔马。
+
+* Qua ga Hà Nội sao thân thiết.
++ 在河内火车站附近。
+
+* Mỗi một vòng xe quyến lạ kỳ.
++ 每个人都有一种奇怪的汽车魅力。
+
+* Mỗi một vòng xe một mở ra.
++ 每一回合都开始。
+
+* Đường qua tươi thắm, lại đường qua.
++ 路很新鲜，路已经结束了。
+
+* Hai hàng cây biếc chen nhà cửa.
++ 两排树挤进了房子。
+
+* Thôn xóm dâng vào, núi lượn xa.
++ 小村庄涌入，山滑得很远。
+
+* Ôi những xum xuê thị trấn hồng.
++ 哦，粉红色的小镇。
+
+* Mọc nhiều nhà máy mái hừng đông.
++ 发展许多黎明屋顶工厂。
+
+* Qua bao chợ búa lao xao tiếng.
++ 通过无数的市场。
+
+* Qua những phà vui chở tựa bồng.
++ 通过渡轮的乐趣背着背。
+
+* Đồng xanh Thanh Hoá lúa mênh mang.
++ 清化绿色领域有广阔的稻田。
+
+* Tàu cặp sông Lam bến chở hàng.
++ 运送林河货船对。
+
+* Lác đác bên sông tiều dưới núi.
++ 散落在河上在山上垂死。
+
+* Ai đưa ta tới đỉnh đèo Ngang.
++ 是谁带我们到达了通行证的顶端。
+
+* Tiếng đã thay sang giọng Quảng Bình.
++ 声音已变为的声音。
+
+* Chàm như nước biển, nước sông Gianh.
++ 靛蓝为海水，吉安河为水。
+
+* Ta đi trên bước đường Nam tiến.
++ 我走到南方的路上。
+
+* Nghe đất cha ông nở đẹp lành.
++ 听父亲的美丽土地。
+
+* Đường dẫu quanh co những khúc nào.
++ 哪条路蜿蜒曲折。
+
+* Đường khi sát biển, lúc non cao.
++ 年轻时靠近海边的道路。
+
+* Con đường chính đại tên xuyên vút.
++ 主要的路叫腾飞。
+
+* Đâu cũng Nam ra với Bắc vào.
++ 到处都是南方出来，北方进来。
+
+* Vĩnh Linh no ấm, ngói cây xinh.
++ 荣赫饱满，树木很美。
+
+* Ta thiết tha lòng đến Vĩnh Linh.
++ 我恳切地来到。
+
+* Đôi bến Hiền Lương cây một sắc.
++ 有时，兴隆码头有一棵大树。
+
+* Không đi, cầu vẫn nối ân tình.
++ 不走，桥仍宽限期。
+
+* Đường vào Nam – số Một – không chia.
++ 通往南方的道路-第一-不可分割。
+
+* Bước tới đinh ninh hẹn bước về.
++ 前往约会。
+
+* Ánh sáng cũng liền như tiếng nói.
++ 光线像声音一样瞬间。
+
+* Qua sông, đường vẫn bạt ngàn – đi.
++ 越过河，路还是很大的-走。
+
+* Một tên Mỹ bị sập hầm chông.
++ 一个美国人崩溃了。
+
+* Hầm chúng tôi sâu, trên phủ lá.
++ 我们深的掩体，覆盖着树叶。
+
+* Khoét trong đất một chí trả thù.
++ 咬在地上报仇的意愿。
+
+* Chông dài, có ngạnh như câu cá.
++ 长而顽固，喜欢钓鱼。
+
+* Trung đội lính phải khiêng mày đi.
++ 排要带你。
+
+* Đến chết vẫn bắt người ta khổ.
++ 到死人还是让人受苦。
+
+* Lòi ruột rồi tên Mỹ chỉ huy.
++ 胆量和美国司令。
+
+* Ta còn gửi đầu mi trên cổ.
++ 我什至把头放在脖子上。
+
+* Máu Mỹ tưới kìa, toang thịt Mỹ.
++ 美国血，美国肉。
+
+* Bay dựng lầu trên thịt người ta.
++ 在人的肉上飞上楼。
+
+* Chông vào, thịt Mỹ đau không nhỉ.
++ 进来，美国肉会痛吗。
+
+* Khắp cả mặt đất là hầm chông.
++ 整个地面都是一个坑。
+
+* Bước thì phải liệu, đi phải trông.
++ 步骤是必须的，必须去看看。
+
+* Một tờ lá rụng, một chòm cỏ.
++ 一片落叶，一簇草。
+
+* Đều giấu hờn căm ở dưới lòng.
++ 隐藏下面隐藏的仇恨。
+
+* Hai tên Mỹ chôn chân giữa đồng.
++ 领域中间有两个美国名字。
+
+* Trăm tên Mỹ sỗ sàng cướp nước.
++ 一百个美国名字愿意抢劫这个国家。
+
+* Nghìn tên Mỹ sẽ thành số không.
++ 一千个美国名字将变为零。
+
+* Bà mẹ trong làng dừa Nam Dương.
++ 印度尼西亚椰子村的母亲。
+
+* Nhìn con mới đẻ chết bi thương.
++ 看着新生的孩子惨死。
+
+* Sao con của mẹ hơn vàng ngọc.
++ 我母亲的明星比黄金更重要。
+
+* Chưa bước chân son, đã cụt đường.
++ 不踩脚儿子，死胡同。
+
+* Bà mẹ Ấn Độ ngực đầy sữa.
++ 印度母亲的乳房充满牛奶。
+
+* Con nhả vú ra, không bú nữa.
++ 我释放乳房，不再吮吸。
+
+* Chưa được nuôi con, con chết rồi.
++ 不抚养孩子，我死了。
+
+* Tại trời, tại đất, hay tại người.
++ 在天堂，地球还是人类中。
+
+* Bà mẹ ở miền Nam Việt Nam.
++ 越南南部的母亲。
+
+* Thương con thai nghén giữa hờn căm.
++ 爱恨中的胎儿。
+
+* Đợi ngày thấy mặt trên tay bế.
++ 等待一天看到我的脸在我怀里。
+
+* Con bỗng trong thai chết giữa mầm.
++ 我突然在病菌中间死了。
+
+* Mẹ người Nam Mỹ, mẹ Phi châu.
++ 南美母亲，非洲母亲。
+
+* Như mẹ bao la khắp địa cầu.
++ 母亲遍布全球。
+
+* Khóc gọi đứa con đang trứng nước.
++ 哭泣的婴儿。
+
+* Vội vàng con bỏ mẹ đi đâu.
++ 快点你离开我妈妈的地方。
+
+* Con có đi đâu, mẹ, mẹ ơi.
++ 妈妈妈妈你要去哪里。
+
+* Con trong bụng mẹ muốn chào đời.
++ 子宫里的孩子想出生。
+
+* Con đeo vú mẹ còn ham sữa.
++ 戴着乳房的母亲仍然有牛奶。
+
+* Muốn sống, chơi, đùa, để mẹ vui.
++ 想要生活，娱乐，开玩笑，让妈妈开心。
+
+* Hỡi mẹ thương yêu, mẹ héo hon.
++ 亲爱的妈妈，她枯萎了。
+
+* Chớ nhìn thảm xót một mình con.
++ 别孤单的样子。
+
+* Nhìn xa ba triệu em măng sữa.
++ 远离万有奶芽的儿童。
+
+* Hơi thở kim tiền mới giết chôn.
++ 新金属气息杀死。
+
+* Đám mây phóng xạ, mưa oan nghiệt.
++ 放射性云，大雨。
+
+* Những mẹ đau thương, hãy ngước nhìn.
++ 悲伤的母亲，抬头。
+
+* Qua rào dậu, vượt trên làng nước.
++ 穿过树篱，穿过水乡。
+
+* Nhìn ra thù: giặc Mỹ là tên.
++ 俯瞰敌人：美国敌人就是名字。
+
+* Ai khổ cho bằng Thần Tự do.
++ 谁遭受自由精神的折磨。
+
+* Một mình trước cửa biển Nhiêu do.
++ 独自在海边做。
+
+* Tàu bè tấp nập – như sa mạc.
++ 繁忙的船只-像沙漠一样。
+
+* Biển hoá nhà giam, đảo tựa gò.
++ 海上监狱，岛上就像个土丘。
+
+* Tấm thân đẹp đẽ đồng lên nước.
++ 美丽的车身板将水弄湿了。
+
+* Bốn chục thước cao, tròn mấy thước.
++ 四十英尺高，几码圆。
+
+* Áo choàng phủ rộng nếp trang nghiêm.
++ 长袍上覆盖着庄严的曲线。
+
+* Đầu quấn những tia như ánh đuốc.
++ 他的头上覆盖着火炬般的光芒。
+
+* Khổng lồ trên bục đứng xo ro.
++ 讲台上的巨人静止不动。
+
+* Hỏi ai có ngờ Thần Tự do.
++ 问一个怀疑自由神的人吗。
+
+* Thần bị bao vây trên nước Mỹ.
++ 我被美国包围。
+
+* Nơi Vàng uống máu, thành con Quỷ.
++ 金喝血的地方变成了魔鬼。
+
+* Nơi người phải tủi kiếp da đen.
++ 人们必须是黑人的地方。
+
+* Người phải dấn thân làm bợm, đĩ.
++ 你一定要当个母狗，荡妇。
+
+* Nơi cao ngất nghểu nhà chọc trời.
++ 放置高耸的摩天大楼。
+
+* Đổ bóng oan khiên đè xuống người.
++ 不公正地在她身上投下了阴影。
+
+* Bà Chúa ngân hàng, môi đỏ hỏn.
++ 银行之主，红红的嘴唇。
+
+* Lấy Vua lái súng, mặt chàm hôi.
++ 让国王开枪，脸臭。
+
+* Thần Tự do đây biết hướng nào.
++ 自由在这里知道哪个方向。
+
+* Biết nhìn hướng thấp hay trên cao.
++ 知道如何在上方高低看。
+
+* Ôi! mang tên lớn, mang hình đẹp.
++ 天哪！大名鼎鼎。
+
+* Mà giữa cô liêu bị nhốt vào.
++ 但是之间的利乌锁定了。
+
+* Những tấn đồng kia không có tội.
++ 那几吨铜没有罪。
+
+* Sao đúc hình người bêu riếu mãi.
++ 为什么要永远铸造模具。
+
+* Thà như vạn mảnh sắt cùng gang.
++ 更好地像铸铁和铸铁。
+
+* Đúc được lưỡi cày hay lưỡi hái.
++ 犁或镰刀。
+
+* Lương tâm nước Mỹ đâu, lên tiếng.
++ 美国的良心在哪里，大声说出来。
+
+* Vượt quá trên đầu lũ nhớp nhơ.
++ 凌乱的洪水之上。
+
+* Ta yêu mình với sức dài bờ bể hai nghìn cây số.
++ 我爱自己长达公里。
+
+* Với sức rộng của bốn mùa mai chiều nắng gió.
++ 有了四个季节的力量，太阳和风。
+
+* Với sức lâu bốn nghìn năm cũ ta yêu.
++ 我们拥有四千年的古老力量。
+
+* Ta yêu mình – mình biết đến bao nhiêu.
++ 我们爱我们-我们知道多少。
+
+* Ta yêu mình đến nỗi trái tim ta xé vỡ.
++ 我太爱自己了，我的心碎了。
+
+* Mỗi khi trên mặt mình bóng đêm đau khổ.
++ 每当我面对痛苦的黑暗。
+
+* Thà rằng ta bốn ngựa chạy phanh thây.
++ 最好让四匹马奔跑。
+
+* Hơn là mình máu vẫn đổ đêm ngày.
++ 比我日夜流血。
+
+* Như thế đấy, mình ơi, gớm ghê, duy nhất.
++ 就是这样，亲爱的，令人恶心，独特。
+
+* Hơn cả những tình nhân nhớ năm canh, sáu khắc.
++ 比那些想念汤的那一年，六个时刻的恋人。
+
+* Ta yêu mình có thể gầy vóc non sông.
++ 我爱我可以瘦，年轻。
+
+* Ta liền mình soi mặt xuống biển Đông.
++ 我立即看着东海。
+
+* Mình như lòng bàn tay ta, ta rõ.
++ 我们就像我们的手掌，我们知道。
+
+* Ta như thịt xương, mình là máu đỏ.
++ 我像肉和骨头，我是红血。
+
+* Có lạ xa chi nhau nữa mà thề.
++ 发誓彼此之间还有其他陌生的东西。
+
+* Nhưng giữa ngày giông bão muốn lên che.
++ 但是在暴风雨中，我想掩饰。
+
+* Nhưng giữa trận giáp lá cà quyết chiến.
++ 但是在战斗中，战斗是激烈的。
+
+* Giận lũ cướp non sông, đến trời mây cũng tím.
++ 我为年轻的海盗泛滥而生气，即使天空乌云密布。
+
+* Mình đi lên tiền tuyến, áo giáp xông pha.
++ 我走到前线，装甲爆裂。
+
+* Ta muốn nói với mình.
++ 我想对自己说。
+
+* Hỡi con ngươi của mắt ta.
++ 我的瞳孔啊。
+
+* Hỡi ruột rà ta yêu dấu.
++ 肠子，亲爱的宝贝。
+
+* Bước sát bước, máu chan hoà tiếp máu.
++ 走路紧紧，鲜血混杂着。
+
+* Hạt gạo cắn đôi, tấm áo đắp chung.
++ 一口饭，普通披风。
+
+* Dẫu có nằm gai nếm mật, ta cùng.
++ 即使我们躺下来品尝蜂蜜，我们也会在一起。
+
+* Ta thề với mình dẫu cho trời long đất lở.
++ 即使天塌下来，我还是向自己发誓。
+
+* Đôi ta không bao giờ chịu bẻ làm hai nửa.
++ 有时候我们永远都不会分裂成两半。
+
+* Ta thề với mình dù quân địch gian ngoan.
++ 我向自己发誓，即使敌人是好的。
+
+* Có hung hăng trên một biển bạo tàn.
++ 在残酷的海洋上有侵略性。
+
+* Dù chúng mọc nghìn đầu, chúng ta vạn tay chẳng mỏi.
++ 尽管他们长了数千头，但我们已经厌倦了数千只手。
+
+* Đạp cỏ dại dưới chân, quyết phát quang bờ cõi.
++ 脚下的脚踏杂草，决心清除土地。
+
+* Đem lại mùa xuân trên mặt đất liền quê.
++ 把春天带到农村。
+
+* Xương dính xương, thịt dính thịt – ta thề.
++ 骨头粘在骨头上，肉粘在肉上-我发誓。
+
+* Khắp nơi, trên những đường tôi đi.
++ 到处都是我走的路上。
+
+* Tôi đã nghe xao xuyến, rầm rì.
++ 我很疯狂，喃喃地说。
+
+* Ngói mới.
++ 新瓷砖。
+
+* Trên những đường tôi dạo, tôi qua.
++ 在我行走的道路上，我经过。
+
+* Tôi đã nghe nhiều, những khúc ca.
++ 我听过很多歌。
+
+* Dù đi nhanh, dù đứng lại nhìn.
++ 虽然走得快，虽然站着不动。
+
+* Trong lòng tôi sắc hãy còn in.
++ 我仍然在心里打印。
+
+* Trong buổi chiều hồng, trong mai xanh.
++ 在粉红色的下午，在蓝杏。
+
+* Mắt tôi giở những trang tốt lành.
++ 我的目光转向了好页。
+
+* Giữa khu phố cũ, hoặc ven hồ.
++ 在老城区的中部，或沿湖。
+
+* Trên những vườn hoang, trên ngoại ô.
++ 在郊外的野生花园中。
+
+* Cất lên trên ruộng, chạy băng đồng.
++ 放在田野里，穿过田野。
+
+* Chen với lùm cây, soi xuống sông.
++ 陈与树林，望着河。
+
+* Ôi ngàn vạn ngói, nói xôn xao.
++ 呵呵，几千瓦说线圈。
+
+* Như đất ta vui bỗng vọt trào.
++ 好像我们的土地突然快乐。
+
+* Ôi ngàn muôn sức lực.
++ 数千力量哦。
+
+* Trải ra thành rộng, dựng thành cao.
++ 散布成一个高大的城堡。
+
+* Quên sao được lúa thì con gái.
++ 我忘了米饭，我的女儿。
+
+* Xanh thẫm, dày, chen, gợn đến trời.
++ 深蓝色，浓厚的陈，涟漪到天堂。
+
+* Bỗng nở như hoa vừng ngói đỏ.
++ 突然像芝麻花一样绽放红瓦。
+
+* Lúa toan vượt ngói, ngói càng tươi.
++ 大米越过瓷砖，瓷砖越新鲜。
+
+* Mái nhà máy mới, mái nhà thương.
++ 新工厂屋顶，商业屋顶。
+
+* Mái chợ xum xuê, lại mái trường.
++ 市场的屋顶很茂盛，学校的屋顶又回来了。
+
+* Ngói mới trăm nơi cùng cửa sổ.
++ 数以百计的带窗户的新地方。
+
+* Xây lên không khí những toà gương.
++ 营造一面镜子。
+
+* Tôi đi trên đất nước thân yêu.
++ 我在我心爱的国家。
+
+* Không biết bao nhiêu, chỉ biết nhiều.
++ 不太了解，只知道那么多。
+
+* Muốn trùm hạnh phúc dưới trời xanh.
++ 希望老板在蓝天下开心。
+
+* Có lẽ tôi cũng hoá thành.
++ 也许我也变成了。
+
+* Cao, lên cao xây dựng.
++ 高，攀登施工。
+
+* Từng bước ta lên cao.
++ 我们一步一步地攀登。
+
+* Lên bằng thân mỗi viên gạch đỏ.
++ 靠着每个红砖的身体。
+
+* Lên bằng vôi, bằng vữa trộn nhào.
++ 用石灰拌砂浆。
+
+* Lên bằng hồ có khi pha mật.
++ 在湖边有时混合蜂蜜。
+
+* Cho cát, cho sỏi gắn vào nhau.
++ 将沙子和碎石放在一起。
+
+* Lên bằng xương sắt bê tông dựng.
++ 用铁骨混凝土建造。
+
+* Cờ vẫy ta lên, trời đỏ lựng.
++ 旗帜挥舞着我们，天空是红色的。
+
+* Lên bằng tre giá bắc cheo leo.
++ 在北方的竹子上。
+
+* Lưng chừng không khí những cầu treo.
++ 当心吊桥。
+
+* Đường lên tới mái đi trôn ốc.
++ 通往屋顶的路在盘旋。
+
+* Không phải mái xưa ôm lấy đất.
++ 不是旧的屋顶紧贴地面。
+
+* Nặng đè đời cũ mái than van.
++ 在旧屋顶上称重，抱怨着。
+
+* Mà mái ngày nay mây gió tràn.
++ 今天那个屋顶乌云密布。
+
+* Xưởng mới cũng như người mới vậy.
++ 新工厂就像新工厂一样。
+
+* Ngẩng đầu nhìn ngạo nghễ không gian.
++ 抬起头，看着傲慢的空间。
+
+* Đường lên mái mới em hăng gánh.
++ 我走到新屋顶的路。
+
+* Anh trở chiếc bay tay óng ánh.
++ 他转过身来，挥舞着闪亮的手。
+
+* Đảo tròn xây ống khói.
++ 烟囱圆岛。
+
+* Giá vút tựa tên lao.
++ 像这样的价格飞速上涨。
+
+* Ồ, trái tim ta vững.
++ 哦，我的心很坚强。
+
+* Nhìn xuống mắt không chao.
++ 往下看。
+
+* Bốn mươi thước còn tiến.
++ 四十码仍在前进。
+
+* Gió bên tai rào rào.
++ 风在栅栏上。
+
+* Chọn từng viên gạch một.
++ 逐一选择每个积木。
+
+* Đặt ngang tầm mọc sao.
++ 设定水平的恒星生长。
+
+* Những người tuổi trẻ máu đang đỏ.
++ 有血的年轻人是红色的。
+
+* Thích lên thật cao, nhìn thật tỏ.
++ 喜欢上去真的很高，看起来很真实。
+
+* Trước trèo đèo núi diệt xâm lăng.
++ 在爬山口消灭侵略者之前。
+
+* Nay thấy không gian, say muốn băng.
++ 现在看到空间，喝醉想要冰块。
+
+* Móng đào dưới đất đã kiên cố.
++ 地下的开挖基础坚固。
+
+* Gạch xây lên trời không sợ nhào.
++ 内置在天空中的砖块不怕揉捏。
+
+* Ta cao thật đấy – muôn tinh tú.
++ 我很高-所有星星。
+
+* Trong vòm bàn tay ta ước ao.
++ 我希望在我的手掌中。
+
+* Bốn tầng ánh sáng, bốn tầng gương.
++ 四层的灯光，四层的镜子。
+
+* Tiếng máy đều đều êm đêm trường.
++ 晚上发动机的声音稳定。
+
+* Cắt thẳng lên trời đường vách dựng.
++ 直奔悬崖上的天空。
+
+* Sao quanh nhà máy mọc như sương.
++ 植物周围的星星像露珠一样生长。
+
+* Thoải mái, gọn gàng, nhà máy sạch.
++ 舒适，整洁，干净的工厂。
+
+* Thóc ra thành gạo chảy như nguồn.
++ 水稻变成流动的大米作为来源。
+
+* Những quân cướp giật ta xua hết.
++ 土匪抢走了我的一切。
+
+* Gạo mới muôn nhà hạt trắng ngon.
++ 新米饭像美味的白色种子。
+
+* Cổng đóng, tôi tựa cổng – đứng chơi.
++ 大门是关闭的，我是大门-站立。
+
+* Nhìn vào nhà máy với nhìn trời.
++ 看着天空看着工厂。
+
+* Thấy mình chắc dạ, nghe no đủ.
++ 确信自己，听够了。
+
+* Như cả Nhà Xay: gạo của tôi.
++ 就像整个磨坊一样：我的米饭。
+
+* Không phải chuyện đời xưa, mà chuyện đời nay.
++ 这不是过去的故事，而是今生的故事。
+
+* Có một người chất vạn gánh trên vai.
++ 有人背负着重担。
+
+* Vạn gánh đầy tràn, gánh to, gánh nhỏ.
++ 一切都充满了，大负担，小负担。
+
+* Gánh như núi, gánh dồn như thác đổ.
++ 像山一样负担，像小瀑布一样负担。
+
+* Người ấy gánh, và đi.
++ 他扛着走。
+
+* Bao nhiêu mặt trận rồi? Bao nhiêu tiền tuyến.
++ 有多少条战线？一线多少钱。
+
+* Ba mươi năm! hết chuyến rồi lại chuyến.
++ 三十年！旅行结束，然后返回。
+
+* Tưởng là đây, nơi nghỉ mệt, lấy hơi.
++ 我以为是在这里放松，呼吸的地方。
+
+* Tưởng một phút này quạt mát, ngồi chơi.
++ 我以为这个粉丝会坐一会儿。
+
+* Nhưng mà không! mới lau mồ hôi trán.
++ 但是不！新鲜擦拭额头上的汗水。
+
+* Đã lại bước, đặng dành trời ánh sáng.
++ 走回去，拯救天空。
+
+* Vừa sinh ra trong nước mắt, mồ hôi.
++ 刚出生于眼泪，汗水。
+
+* Nhổ tre pheo đánh cho địch tơi bời.
++ 挤竹子打败敌人。
+
+* Lớn lên trong tù, chân còng xích sắt.
++ 在监狱中长大，被铁链束缚。
+
+* Mà tay trắng thành ngọn dao, đã chặt.
++ 那白手切成小刀，切碎。
+
+* Mới vươn vai, mừng đạp đất đội trời.
++ 刚刚伸出来，高兴地踢着天空。
+
+* Đã ầm ầm lửa khói lũ tanh hôi.
++ 发出浓烈的烟熏味。
+
+* Đã lại trường chinh dọc dài theo biển.
++ 回到海边的主要学校。
+
+* Lấy dãy Trường Sơn làm đòn gánh.
++ 以山脉为负担。
+
+* Lấy hai mươi triệu làm một người.
++ 以一千万作为一个人。
+
+* Lấy bốn nghìn năm làm thế dựa.
++ 花了四千年的时间。
+
+* Như một người gánh nặng đường trơn.
++ 作为平坦道路的负担。
+
+* Mười ngón chân xoè bám sâu xuống đất.
++ 十个脚趾紧贴地面。
+
+* Bặm môi bước, gánh nặng nề cũng nhấc.
++ 咬嘴唇，沉重的负担也解除了。
+
+* Trận này chưa phải trận cuối cùng.
++ 这场比赛不是最后一场比赛。
+
+* Đau khổ năm năm, mặt trận dành thống nhất.
++ 苦了五年，团结阵线。
+
+* Thà nghiến thịt bầm xương.
++ 我宁愿磨我的骨头。
+
+* Hơn là đứt gan đứt ruột.
++ 肝肠不止。
+
+* Con người mang muôn gánh ở trên vai.
++ 人们肩负重担。
+
+* Nhìn mặt trời mọc đỏ, bước khoan thai.
++ 看着红色的太阳升起，刻意的脚步。
+
+* Chân cứng đá mềm, – và đang còn mặt trận.
++ 坚硬的岩石四肢-仍在前面。
+
+* Dài đến vô cùng.
++ 渴望无限。
+
+* Trăm dâu đổ đầu tằm.
++ 几百个桑头。
+
+* Tên gọi là: Xây dựng.
++ 名称是。
+
+* Trăm trách nhiệm đổ vào người trách nhiệm.
++ 责任人要承担数百项责任。
+
+* Bàn ghế ở đâu xộc xệch: người ấy phải lo.
++ 桌子和椅子粗糙的地方：他不得不担心。
+
+* Đường sá ở đâu bụi bặm: người ấy phải lo.
++ 道路尘土飞扬的地方：他必须担心。
+
+* Trẻ con bụng còn dun lãi: người ấy phải lo.
++ 孩子们仍然有兴趣：他们必须担心。
+
+* Hàng xóm bực mình chửi đổng: người ấy phải lo.
++ 邻居惹恼了他：他必须担心。
+
+* Một lá rau, hạt muối: cũng cơ đồ.
++ 一叶蔬菜，盐种子：也可绘制。
+
+* Một tấm áo cũng to như biển cả.
++ 衬衫和海一样大。
+
+* Một người khóc, phải giải sầu, nâng đỡ.
++ 哭泣的人必须感到悲伤和坚持。
+
+* Trên núi còn run: lỗi đó tại mình.
++ 这座山仍然在颤抖：这是我的错。
+
+* Gánh mưa vừa cạn.
++ 雨刚刚干了。
+
+* Gánh hạn đã sang.
++ 干旱来了。
+
+* Đê mới đắp.
++ 新堤。
+
+* Bão rập rình muốn tới.
++ 暴风雨潜伏而来。
+
+* Chống mù chữ.
++ 反文盲。
+
+* Chống chữ mù trở lại.
++ 反识字。
+
+* Lo trồng cây.
++ 罗植树。
+
+* Vì lo thiếu cột nhà.
++ 因为担心缺少列。
+
+* Chuyện tâm hồn, lo khúc hát, bài ca.
++ 灵魂的故事，lo歌曲，歌曲。
+
+* Lo tiếng nói, đặng nói ra khúc chiết.
++ 罗声，说歌。
+
+* Vũ trụ đó, mau phòng vào xa tít.
++ 那宇宙，很快进入房间。
+
+* Khối óc luôn luôn khởi những công trình.
++ 大脑总是开始建造。
+
+* Ôi người yêu, yêu hơn cả ái tình.
++ 哦，我的爱，胜过你的爱。
+
+* Người rất mực xa xanh và đỏ thắm.
++ 这个人很蓝又深红色。
+
+* Người gần gũi và bao la vạn dặm.
++ 他亲密而广阔。
+
+* Người một người và ức triệu con người.
++ 一人一百万。
+
+* Ba mươi năm, và sau, trước: muôn đời.
++ 年，以及之后，之前：永远。
+
+* Người gánh gánh của chúng tôi: là Đảng.
++ 我们的负担：是党。
+
+* Người gánh gánh với chúng ta: là Đảng.
++ 我们的承载者：是党。
+
+* Người gánh ta, ta gánh Người: là Đảng.
++ 他载着我，我载着他：是党。
+
+* Người gánh đất, Người gánh trời: là Đảng.
++ 承载大地的人们，承载天堂的人们：党。
+
+* Ôi ngời ngời Đảng Cộng sản Đông Dương.
++ 哇，印度支那共产党。
+
+* Đảng Lao động Việt Nam, là một đó.
++ 越南工党就是那个。
+
+* Kim tự tháp diệu kỳ trong vũ trụ.
++ 宇宙中的神奇金字塔。
+
+* Hồ Chí Minh là đỉnh sáng: ngôi sao.
++ 胡志明市是最明亮的山峰。
+
+* Và thân mình dám ngạo cả trời cao.
++ 我的身体敢于高高耸立。
+
+* Là vai gắn của biết bao đồng chí.
++ 是那么多同志的肩膀。
+
+* Và nền tảng vững vàng hơn chiến luỹ.
++ 基础比战略更坚实。
+
+* Là nhân dân, là dân tộc quật cường.
++ 作为人民，是一个勤奋的人。
+
+* Không phải chuyện đời xưa, mà chuyện đời nay.
++ 不是过去的故事，而是今生的故事。
+
+* Chuyện đời nay mới cao dày đến thế.
++ 这辈子的故事是如此深刻。
+
+* Chuyện của Đảng, lớn lao và tập thể.
++ 党的故事，伟大而集体。
+
+* Gánh lúc đầu còn đòn gánh thủ công.
++ 起初，负担仍然是手动的。
+
+* Gánh hôm nay đã rèn thép, đúc đồng.
++ 如今的负担是锻钢，铸铜。
+
+* Gánh ngày mai có thể là đòn bẩy.
++ 明天的负担可能是杠杆。
+
+* Sức nguyên tử trong tay quần chúng dậy.
++ 原子力在群众手中。
+
+* Gánh to, gánh nhỏ, nhiệm vụ thật đầy.
++ 大负担，小负担，真正的使命已满。
+
+* Đảng cùng ta phá.
++ 聚会与我们分手。
+
+* Đảng cùng ta xây.
++ 与我们共建派对。
+
+* Diệu kỳ! chỉ hai tiếng mà thôi.
++ 太神奇了！仅仅两个小时。
+
+* Đảng đã về dựng lại đời tôi.
++ 党回来重建我的生活。
+
+* Đảng đã dạy cho tôi hai tiếng.
++ 党教了我两个小时。
+
+* Đấu tranh là lẽ sống trên đời.
++ 战斗可能是世界上的生命。
+
+* Trong đời cũ trái tim ngoài ngực.
++ 在我的前世，我的心在胸口。
+
+* Tôi thoi thót đêm ngày đau nhức.
++ 我痛苦地夜夜挣扎。
+
+* Cái gì nuôi, cái gì quật hố chôn.
++ 吃什么，埋葬什么。
+
+* Đảng dạy cho tôi phân biệt từ nguồn.
++ 党教导我要区别出处。
+
+* Đảng cho tôi xương sống của tâm hồn.
++ 党给了我灵魂的坚强。
+
+* Một rễ xâu các tế bào rời rã.
++ 患病细胞的根。
+
+* Một tiếng gọi của biển người sâu cả.
++ 深海的呼唤。
+
+* Đã vào làm cốt lõi của tim tôi.
++ 已经是我内心的核心。
+
+* Từ đó, nhà tựa vào cột cái.
++ 从那里，房子靠在支柱上。
+
+* Khi gió bão tưởng vật mình, bẻ gãy.
++ 当风和风暴想像的时候，打破它。
+
+* Khi muôn sương đè trên một bấc đèn.
++ 当露珠落在灯芯上时。
+
+* Tôi lại từ dưới vực đấu tranh lên.
++ 我又从底层开始战斗。
+
+* Chỉ còn hai tiếng: đấu tranh! tranh đấu.
++ 只剩两个小时了：战斗！打。
+
+* Tôi chiếm lại từng ống xương, mạch máu.
++ 我收回所有骨头和血管。
+
+* Giành với âm u từng mỗi tế bào.
++ 对于每个阴暗的细胞。
+
+* Giật với ốm đau từng giọt máu đào.
++ 每滴桃子血都使人烦躁不安。
+
+* Tôi biết tôi người lính trong hàng trận.
++ 我知道我是一名士兵。
+
+* Không phải gậy toè đầu, mà mũi tên vót nhọn.
++ 不是大棒，而是锋利的箭头。
+
+* Không phải sỏi lăn lóc, mà viên gạch xây nhà.
++ 不是滚石，而是砌砖。
+
+* Trên vai có gánh, mới vững đường xa.
++ 在肩膀上，一个新的长途电话公司。
+
+* Đấu tranh là nhân trong lòng chiếc bánh.
++ 斗争是蛋糕的核心。
+
+* Là lửa đốt lên, chim cất cánh.
++ 熊熊燃烧，大火燃烧了。
+
+* Đảng đã cho tôi đứng thẳng làm người.
++ 党让我直立为人。
+
+* Đường Đảng tôi đi, rộng mãi chân trời.
++ 我参加的路派对，永远的广阔视野。
+
+* Có một nguồn trong hơn thuỷ tinh.
++ 有比玻璃更清晰的来源。
+
+* Soi mình lại thấy cả muôn mình.
++ 让自己看到所有想要的东西。
+
+* Nơi ấy, Đảng cùng ta đi tới.
++ 在那里，党与我们同行。
+
+* Có một trời ai cũng thấy xanh.
++ 每个人都能看到天空。
+
+* Bốn xuân no ấm mãi hoà bình.
++ 四个春天永远充满和平。
+
+* Một lâu đài cửa sổ mênh mông.
++ 巨大的窗户城堡。
+
+* Đẹp thêm hoài, xây chẳng lúc xong.
++ 一直更美丽，构建不会完成。
+
+* Một đường cái đạp qua bùn máu.
++ 一条穿过血腥泥泞的路。
+
+* Vẫn chiếu ra bảy sắc cầu vồng.
++ 仍显示彩虹的颜色。
+
+* Một chất ngọc mà như xạ thơm.
++ 像麝香一样发珍珠的物质。
+
+* Rắn hơn thép, hiền như hạt cơm.
++ 比钢坚固，像米粒一样温柔。
+
+* Một ngọn lửa muôn lòng đều thắp.
++ 永恒的火被点燃。
+
+* Một ráng hồng tươi cả chiều hôm.
++ 整个下午都亮粉色。
+
+* Dù đã sáng hay còn đêm tối.
++ 不论是早上还是晚上。
+
+* Dù mình ta một nửa còn đau.
++ 即使我们痛苦一半。
+
+* Dù thời gian nơi chậm, nơi mau.
++ 尽管时间很慢，但地点很快。
+
+* Cả trái đất là ngôi nhà mới.
++ 整个地球都是新家。
+
+* Cơm tràn trề, bánh chín phây phây.
++ 米饭饱，面包熟。
+
+* Nồi Thạch Sanh ăn mãi còn đầy.
++ 锅总是满的。
+
+* Anh bộ đội đứng gác trong đêm khuya.
++ 那个士兵在夜间守卫着。
+
+* Lá vông đồng rụng quanh anh tầm tã.
++ 落叶掉在他的尿布上。
+
+* Gió bấc thổi từng hồi như cắt dạ.
++ 灯芯不时吹来吹去。
+
+* Anh bộ đội đứng gác trong đêm khuya.
++ 那个士兵在夜间守卫着。
+
+* Cổng mênh mang, đường vắng chẳng ai về.
++ 大门广阔而空无一人，没有人回家。
+
+* Khuya rất khuya. 
++ 深夜。
+
+* Không ai thức, ngoài anh chong đôi mắt.
++ 没有人醒着，但他起眼睛。
+
+* Thành phố im như không một cửa nhà.
++ 这座城市就像一扇门一样沉默。
+
+* Chiếc mũ sao anh đội thấm sương sa.
++ 他戴的那顶帽子被薄雾浸透了。
+
+* Đêm ở quanh vai, rét dài theo gió.
++ 夜绕在肩上，随风寒。
+
+* Cả bốn bề lặng ngắt.
++ 所有四个表面均被静音。
+
+* Đầu vẫn thẳng, anh một mình đứng đó.
++ 头保持笔直，他独自站在那里。
+
+* Canh giữ, làm tròn nhiệm vụ vô danh.
++ 守护并完成匿名任务。
+
+* Rét lay mình thức giấc giữa năm canh.
++ 在年中冷醒自己。
+
+* Tôi nhìn thấy đằng xa, anh bộ đội.
++ 我在远方看到，士兵。
+
+* Vẫn đứng tự bao giờ trong đêm vời vợi.
++ 仍然站在伟大的夜晚。
+
+* Mắt tỏ, tai nghe tiếng động bốn bề.
++ 清晰的眼睛，四侧耳机。
+
+* Như mình anh phụ trách cả đêm khuya.
++ 像我一样，我负责整个晚上。
+
+* Anh phụ trách cả núi sông, trời đất.
++ 他负责山区和河流，天堂和大地。
+
+* Tôi bỗng nghĩ: anh bộ đội lặng yên, trầm tĩnh.
++ 我突然想到：那个士兵安静而镇定。
+
+* Đã tạc theo hình ảnh của Cụ Hồ.
++ 刻入何叔叔的形象。
+
+* Đã tạc theo hình ảnh Bác vô tư.
++ 刻入无忧无虑的叔叔的形象。
+
+* Hồ Chí Minh kiên trinh, người lĩnh cũ.
++ 老人，胡志明坚持。
+
+* Tôi lại nghĩ: trong lòng ta Bác nở.
++ 我又想了想：叔叔在我心中绽放。
+
+* Chúng ta mang Hồ chủ tịch trong mình.
++ 我们带何总来。
+
+* Bác đã cho ta khuôn mẫu bóng hình.
++ 叔叔给了我们图案剪影。
+
+* Để tạc mãi suốt đời theo ảnh Bác.
++ 根据何叔叔的照片雕刻生活。
+
+* Đó là gương sáng trong vằng vặc.
++ 这是一个光辉的例子。
+
+* Đó là hình đẹp nhất của ta.
++ 那是我们最好的画面。
+
+* Nguyện hi sinh phấn đấu xông pha.
++ 愿牺牲努力逐步淘汰。
+
+* Tạc theo Hồ Chí Minh vĩ đại.
++ 根据伟大的胡志明市雕刻而成。
+
+* Từng tuôn giọt lệ mấy muôn năm.
++ 多年的每一滴眼泪。
+
+* Lấp cả con người bởi bụi lầm.
++ 让整个人充满灰尘。
+
+* Đựng nát là gan, rơi thấm đá.
++ 肝脏被压碎，掉下来结石。
+
+* Vạch trời, từng đã xé hờn căm.
++ 天空天堂，曾经破烂不堪。
+
+* Nghẹn ngào lên cổ, mắt mờ hoa.
++ 住脖子，眼睛模糊。
+
+* Tan vỡ trên môi một tiếng oà.
++ 嘴唇上的裂纹破裂。
+
+* Nếm mãi vị buồn ghê mặn, chát.
++ 永远品尝令人作呕的咸味，刺激性。
+
+* Người ôi! lạnh đói gỡ không ra.
++ 天哪！冷饥饿并没有消除。
+
+* Những đôi trai gái trước yêu đương.
++ 恋爱中的第一对情侣。
+
+* Biết mấy chia duyên lại cách đường.
++ 知道如何分开。
+
+* Cha mẹ nói oan, quan nói hiếp.
++ 父母说不公，官员说强奸。
+
+* Mực mài nước mắt gửi người thương.
++ 墨水打磨的眼泪送给亲人。
+
+* Thầm không tiếc nấc nỗi cô dâu.
++ 新娘无私地说。
+
+* Nỗi gái buôn mình, nỗi vợ hầu.
++ 贩卖女孩，他的妻子。
+
+* Áo chị nữ tì lau chẳng ráo.
++ 姐姐的衣服不流干。
+
+* Gối người sương phụ thấm canh thâu.
++ 枕头的露水面被人们吸收。
+
+* Có khi lai láng huyết ra tòng.
++ 有时杂种会流血。
+
+* Nước mất nhà tan hận chẳng cùng.
++ 讨厌无家可归的无家可归者。
+
+* Có lúc trải nhiều oan nghiệt quá.
++ 有时候我们有太多不满。
+
+* Mắt khô, lệ gạn chảy vào trong.
++ 眼睛干涩，流着泪水。
+
+* Trăm ngàn kiếp lệ cuốn theo sông.
++ 数以十万计的生命席卷了河流。
+
+* Biển chứa long lanh sóng vạn trùng.
++ 大海里有千浪。
+
+* Trái đất – ba phần tư nước mắt.
++ 地球-四分之三的眼泪。
+
+* Đi như giọt lệ giữa không trung.
++ 像半空中的眼泪一样行走。
+
+* Trong khoảng đời đau khổ ấy, tôi sinh.
++ 在那痛苦的生活中，我出生了。
+
+* Tôi lớn lên, cay đắng những tâm tình.
++ 我长大了，痛苦的心情。
+
+* Dân nô lệ ở trong vòng lưới sắt.
++ 奴隶在网中。
+
+* Mỗi cử động, tôi thấy đều vướng mắc.
++ 每一个动作，我都感到纠结。
+
+* Đi trong đời như một kẻ lột da.
++ 像一个有皮肤的人一样生活。
+
+* Rách đau thương ở giữa bọn gian tà.
++ 在恶人中间撕下悲伤。
+
+* Nhìn dân chúng khổ vì đâu, chẳng biết.
++ 看看人们因为不知道而遭受的苦难。
+
+* Vũ trụ tưởng tàn, thế gian tưởng hết.
++ 宇宙结束了，世界认为它结束了。
+
+* Không đấu tranh mà chỉ có thương tâm.
++ 没有挣扎，只有可怜。
+
+* Tôi thảm một mình, quẩn tháng quanh năm.
++ 我一个人铺地毯，一年四季闲逛。
+
+* Thuở đau ấy, sao dễ dàng tê tái.
++ 当他受伤时，麻木变得多么容易。
+
+* Một bóng trăng đi, một làn gió tới.
++ 月亮来了，微风来了。
+
+* Rụng lá trên cây, nhạt nắng trong chiều.
++ 落叶乔木，午后阳光普照。
+
+* Khóc còi tàu đem khuất mất người yêu.
++ 为失去爱人而哭泣。
+
+* Khóc với nhạc sầu biệt người chín suối.
++ 九个人流着悲伤的音乐哭泣。
+
+* Tìm can đảm trong vô cùng yếu đuối.
++ 在巨大的弱点中找到勇气。
+
+* Vẫy mùi soa đưa tiễn cả thời gian.
++ 时时散发着吟的气味。
+
+* Gắng ươm hoa trên những đống tro tàn.
++ 尽量在灰烬上育苗。
+
+* Sa mạc đời tỉ tê dòng suối khóc.
++ 沙漠生命数十亿麻木的流泪。
+
+* Kho của cải chỉ còn hàng lệ ngọc.
++ 珍惜只是珍珠。
+
+* Khóc là ngôn ngữ để tỏ yêu đương.
++ 哭是表达爱意的语言。
+
+* Khóc thấy êm đềm, lệ có mùi hương.
++ 哭泣是和平的，香味有香气。
+
+* Khóc mà khóc, chẳng vì sao nữa cả.
++ 哭泣和哭泣没有任何理由。
+
+* Như đoàn kết những nỗi buồn thiên hạ.
++ 就像团结世界的悲伤一样。
+
+* Như góp thu giọt lệ của muôn đời.
++ 就像收集永恒的眼泪。
+
+* Máu của linh hồn là nước mắt.
++ 灵魂之血是眼泪。
+
+* Còn rơi biết đến lúc nào thôi.
++ 还在下降直到什么时候。
+
+* Đến bây giờ Cách mạng tuổi mười hai.
++ 直到现在的十二次革命。
+
+* Đã bốn mươi năm Cách mạng tháng Mười.
++ 自十月革命以来已有40年了。
+
+* Vui Khởi nghĩa, gian khổ cùng Kháng chiến.
++ 艰辛与抵抗。
+
+* Chia với nhân dân cay đắng ngọt bùi.
++ 与苦人分手。
+
+* Như gỗ thuyền ăn chịu cùng muối biển.
++ 就像船上的木头可以忍受海盐一样。
+
+* Cách mạng dần dần thay đổi hồn tôi.
++ 革命逐渐改变了我的灵魂。
+
+* Tôi hãy còn những khi rơi lệ cũ.
++ 我仍然有旧的眼泪。
+
+* Nhưng cũng lạ! giữa mưa ngàn thác lũ.
++ 而且也奇怪！在成千上万的降雨和降雨中。
+
+* Bốn bề cây, sao chẳng thấy bơ vơ.
++ 四面树，为何不见无奈。
+
+* Chân rớm máu, mồ hôi nhiều có đổ.
++ 脚血腥，出汗过多。
+
+* Sao mắt tôi không thấy lệ hoen mờ.
++ 为什么我的眼睛看不到眼泪。
+
+* Tôi đã trải những đau lòng tột độ.
++ 我经历了极大的痛苦。
+
+* Căm uất đốt đôi thái dương muốn nổ.
++ 怨恨烧毁了想要爆炸的寺庙。
+
+* Giặc giết bạn tôi, giặc bắn rụi nhà.
++ 敌人杀死了我的朋友，敌人击落了房屋。
+
+* Nhìn thóc cháy khi đồng bào đói khổ.
++ 看着人们饿的时候烧米饭。
+
+* Lệ tôi dàn; rồi đứng lại, không sa.
++ 我安排了然后停下来，不是。
+
+* Tôi ít khóc, hay khóc thì cũng ngắn.
++ 我哭少，或者哭也短。
+
+* Mạch sầu thảm như dừng dừng cạn cạn.
++ 忧郁的循环似乎停止了。
+
+* Mây buồn thương như lảng lảng xa xa.
++ 悲伤的乌云似乎消失了。
+
+* Mắt trong tỏ – nhưng lạ lùng vô hạn.
++ 清澈的眼睛-但奇怪的是无限。
+
+* Bỗng một nguồn lệ mới lại tuôn ra.
++ 突然有新的眼泪涌出。
+
+* Một nguồn lệ từ bao la vĩ đại.
++ 巨大的力量之源。
+
+* Từ nghĩa lớn của nhân quần, sông núi.
++ 人民，山川河流的伟大意义。
+
+* Từ tương lai, từ phơi phới trên cao.
++ 从未来，从阳光。
+
+* Ào ạt tới như mùa xuân đổ suối.
++ 犹如溪水般涌动。
+
+* Sương sớm mai trên mặt thắm hoa đào.
++ 清晨的露珠在桃花花瓣上。
+
+* Nói sao đây với ơn nghĩa đồng bào.
++ 我如何表达同胞的感激之情。
+
+* Những lớp mở trong những làng, những bản.
++ 在乡村，乡村开设公开课。
+
+* Một bó chè tươi, một rổ khoai lang.
++ 一束新鲜的茶，一篮子地瓜。
+
+* Các mẹ đến thăm với cả lòng vàng.
++ 母亲们全力以赴。
+
+* Trời nắng nỏ, đi mười lăm cây số.
++ 天晴，走了十五公里。
+
+* Mặt nhăn nhíu như gốc già cổ thụ.
++ 脸像老旧的一样皱了。
+
+* Cười thương yêu như mầm biếc.
++ 爱如发芽。
+
+* Hai tay nhận quà, bỗng ở trong tôi.
++ 两只手突然收到礼物。
+
+* Lệ ùn đến – may nửa chừng ngừng lại.
++ 眼泪来了-中途停止了。
+
+* Cay sống mũi như là ăn rau cải.
++ 香辣的鼻子仿佛在吃蔬菜。
+
+* Ấm thay tình đồng chí giữa đêm đông.
++ 冬夜半夜，热情的同志们。
+
+* Họp chi bộ rồi, đèn dọc vẫn chong.
++ 聚会聚会，灯光仍然亮着。
+
+* Chúng ta kể những mẩu đời trước cũ.
++ 我们讲述旧生活。
+
+* Bao nhiêu kiếp đầu thai qua cửa khổ.
++ 通过痛苦之门有多少次重生。
+
+* Đến bây giờ rộng mở cả mai sau.
++ 到目前为止，明天开放。
+
+* Những đảo cô đơn, Đảng nối nhịp cầu.
++ 孤独的岛屿，由党在这座桥上架桥。
+
+* Yêu nhau quá, ta để tràn tâm tưởng.
++ 如此彼此相爱，我们充满了思想。
+
+* Lòng càng khóc, càng nhẹ nhàng sung sướng.
++ 您哭得越多，越开心。
+
+* Khi một đoàn khăn đỏ thiếu niên qua.
++ 当一群少年男孩经过时。
+
+* Khi quê vui như đón ruộng về nhà.
++ 当乡村如欢迎野外家一样快乐时。
+
+* Hoặc đỉnh đèo cao, nhìn trùm Tổ quốc.
++ 或者是高通的顶端，看着那个国家的老板。
+
+* Có gì thương, gì mến ở xa xa.
++ 什么爱，远方的爱。
+
+* Khi ta muốn ào ra.
++ 当我们想冲出去时。
+
+* Với non sông hay quần chúng chan hoà.
++ 与山区或群众和谐相处。
+
+* Những lúc đó, lòng đầy vui khẽ thắt.
++ 那时，心里充满了喜悦。
+
+* Tôi đã biết rồi. Sắp dàn nước mắt.
++ 我已经知道了快要哭了。
+
+* Ở sân bay.
++ 在机场。
+
+* Bộ đội ta chào đồng chí Chu Ân Lai.
++ 我军迎接周恩来。
+
+* Tôi thấy các anh ăn mặc sáng ngời.
++ 我看到你们穿着鲜艳。
+
+* Mắt thẳng trước, họ bước đều như thép.
++ 眼睛直视前方，他们像钢铁一样稳步行走。
+
+* Bỗng chạm vào tôi – một cái gì cao đẹp.
++ 突然碰我-美丽的东西。
+
+* Bất thần đâu nước mắt ứa tự nhiên.
++ 突然眼泪自然流下。
+
+* Tôi phải quay đi, sợ các bạn nhìn.
++ 我不得不转身，害怕你的目光。
+
+* Ôi thật dạt dào, đắm say, kỳ ảo.
++ 哦，如此丰富，热情，神奇。
+
+* Những giọt lệ loài người vừa sáng tạo.
++ 人类的眼泪刚刚创造。
+
+* Hãy cảm ơn Đảng Cộng sản, lòng ta ơi.
++ 谢谢共产党，我的心。
+
+* Hãy cảm ơn những người dựng con người.
++ 感谢那些造人的人。
+
+* Hãy cảm ơn Hồ Chí Minh đồng chí.
++ 谢谢胡志明市。
+
+* Đã rèn luyện một nửa già thế kỷ.
++ 训练了半个世纪以来。
+
+* Xây dựng từng chi bộ, dành từng tấc non sông.
++ 建立每个分支，度过河的每一寸。
+
+* Tôi cũng cảm ơn anh bộ đội anh hùng.
++ 我还要感谢英勇的士兵。
+
+* Ơn anh thợ, ơn anh cày lao lực.
++ 谢谢工人，谢谢你的耕作。
+
+* Cảm ơn cả những vồng khoai, luống đất.
++ 多亏了所有的地瓜和床。
+
+* Nuôi tôi no để biết khóc vì thương.
++ 喂我哭，因为我爱他们。
+
+* Khóc vì vui, và cả khóc vì buồn.
++ 为喜悦而哭泣，为悲伤而哭泣。
+
+* Ta chủ động hồn ta sinh nước mắt.
++ 我们主动让我们的灵魂流泪。
+
+* Đó là suối tưới cho hồn dịu mát.
++ 这是一条流淌灵魂的溪流。
+
+* Xưa lệ sa, ta oán hận đất trời.
++ 从前，我不满天地。
+
+* Nay lệ hoà, ta lại thấy đời tươi.
++ 如今，我们再次感到新鲜。
+
+* Giọt nước mắt ta.
++ 我的眼泪。
+
+* Chan chứa tình người.
++ 陈蕴含着人类的爱。
+
+* Em lấy anh từ ngày hăm nhăm tuổi.
++ 我五岁时嫁给了你。
+
+* Đến bây giờ em đã bốn mươi.
++ 我现在四十岁。
+
+* Anh trả cho em trời đất để làm người.
++ 我付钱给天上人间。
+
+* Anh trả cho em Tổ quốc và sông núi.
++ 我付你我的国家和山区。
+
+* Anh mở rộng đời, vô cùng biên giới.
++ 他扩大了自己的生活，无国界。
+
+* Tám năm, em uống nước trên ngàn.
++ 八年，我喝了一千多水。
+
+* Hiểu lòng khe suối.
++ 了解河床。
+
+* Lại sống vùng đồi, đi khắp những đồi son.
++ 再次在山上生活，在山上转转。
+
+* Lại xuống đồng bằng học cái sáng, cái khôn.
++ 回到平原学习光明，智慧。
+
+* Vinh hiển, anh đưa em trở về Hà Nội.
++ 光荣，我带你回到河内。
+
+* Mười lăm năm anh cho em gần gụi.
++ 十五年他让我关闭。
+
+* Người, những con người.
++ 人，人。
+
+* Tay, những bàn tay.
++ 手，手。
+
+* Vĩ đại, bình thường, tinh khéo, thơ ngây.
++ 伟大，普通，聪明，天真。
+
+* Em biết cân mồ hôi và giọt máu.
++ 我知道如何衡量汗水和血滴。
+
+* Em mới biết cầm bút như ngọn dáo.
++ 我知道如何握笔像汤匙。
+
+* Mười lăm năm ăn hạt gạo của anh.
++ 吃了十五年饭。
+
+* Uống ngụm nước.
++ 喝点水。
+
+* Ngọn rau.
++ 蔬菜上衣。
+
+* Thấm nghĩa nặng tình.
++ 吸收沉重的爱。
+
+* Hạt gạo của những người thắt bụng.
++ 那些收紧肚子的人的米粒。
+
+* Quả trứng của những người mặt hãy còn xanh.
++ 脸上的鸡蛋仍然是绿色的。
+
+* Đĩa đèn dầu dọc, anh thắp soi trang.
++ 立式油灯盘，他点亮了页面。
+
+* Trang sách giấy thô, đọc vào: sán lạn.
++ 原始纸页，请继续阅读：幸。
+
+* Tấm áo đắp ôm, tấm chăn bầu bạn.
++ 修身衬衫，陪伴毯子。
+
+* Em ngã anh nâng, đau ốm có anh.
++ 我让他不高兴，对他感到厌倦。
+
+* Đến bây giờ buồm ta gió lộng trời xanh.
++ 现在，我们的帆风很大，天空是蓝色的。
+
+* Sóng nổi dâng, thuyền ta đầy mai mốt.
++ 波涛汹涌，我的船充满了明天。
+
+* Điện chảy tràn trề, áo cơm tươi tốt.
++ 电流在流淌，饭衫很茂盛。
+
+* Đêm kia ta lấn, ruộng đất không bờ.
++ 前一天晚上，我们侵占了没有堤岸的土地。
+
+* Chân giày nhớ lúc chân thô.
++ 脚鞋记得脚粗糙。
+
+* Cười thơm lệ đắng, bao giờ em quên.
++ 当你忘记的时候，微笑的痛苦的眼泪。
+
+* Ở với anh hai thứ tóc đã chen.
++ 他已经剪了两根头发。
+
+* Anh đã vào trong em như ánh sáng.
++ 我像光一样进入了你。
+
+* Anh đã hoá như đêm ngày, mưa nắng.
++ 你转过身来，像黑夜与黑夜，雨与阳光。
+
+* Như khí trời em thở, nước lớn em bơi.
++ 就像我呼吸的空气一样，我游泳的水也很大。
+
+* Em mặc anh như tấm áo rạng ngời.
++ 我穿你像光辉的长袍。
+
+* Kiêu hãnh chói con ngươi em sáng rực.
++ 自豪地闪耀着她的学生们。
+
+* Mười lăm năm là sách vàng em đọc.
++ 十五年是我读过的黄金书。
+
+* Mười lăm năm là tràng ngọc em đeo.
++ 十五年是您戴的珍珠。
+
+* Trong tâm hồn em, anh mãi mãi buông neo.
++ 在我的灵魂里，你永远被锚定。
+
+* Nghe tiếng nói anh, thấy lòng vui reo bát ngát.
++ 听他的声音，他的内心充满了喜悦。
+
+* Đẻ với anh những đứa con tinh thần, biết ca biết hát.
++ 带着他的孩子，精神，会唱歌。
+
+* Mười lăm năm qua.
++ 在过去的十五年中。
+
+* Chứ ba mươi năm nữa.
++ 三十年来。
+
+* Muôn đời, muôn thuở.
++ 永远永远。
+
+* Có bao giờ em sống xa anh.
++ 你有没有远离我住。
+
+* Một cốc vàng như đồng lúa chín.
++ 一杯金像成熟的稻田。
+
+* Bọt trắng phau như trên đầu sóng biển.
++ 白色泡沫像波浪一样。
+
+* Một cốc vàng ánh sáng xuyên qua.
++ 一杯光透。
+
+* Cốc tươi cười, ta ca hát chúng ta.
++ 可可笑着，我们唱歌。
+
+* Ta không phải những người tuý luý.
++ 我们不是理性主义者。
+
+* Không mượn cớ để say tràn bí tỉ.
++ 不要借口喝醉。
+
+* Không, chúng ta dìu dịu say thôi.
++ 不，我们会从容帮助。
+
+* Những cốc bạn bè, những cốc hoà vui.
++ 朋友杯，快乐杯。
+
+* Tôi muốn rót cốc bia đầu thứ nhất.
++ 我想倒我的第一杯啤酒。
+
+* Nâng lên cao, như đoá hoa thành tích.
++ 提升，像成就之花。
+
+* Cách mạng mình còn chống hạn, trừ sâu.
++ 我们的革命仍在与干旱，杀虫剂。
+
+* Chống phong ba, còn trị lụt, bắc cầu.
++ 抗麻风病，也可以治疗洪水，桥梁。
+
+* Còn lắm việc; nhưng tơ vàng đã dệt.
++ 还有很多工作要做；但是丝绸是编织的。
+
+* Chăn áo bông nhồi, chén trà hương biếc.
++ 棉被，酿茶杯。
+
+* Cách mạng còn gian khổ, đã cười hoa.
++ 革命依然艰辛，鲜花开怀大笑。
+
+* Một chút gì cũng quý, của cách mạng cho ta.
++ 对我们来说是一点宝贵的革命。
+
+* Bia trên đời phải đâu là chuyện mới.
++ 世界上的啤酒不是什么新鲜事物。
+
+* Bọn chúng nó đã nốc đầy như suối.
++ 他们已经塞满了小溪。
+
+* Mới, là bàn tay giải phóng dựng lên.
++ 新的，是解放的手。
+
+* Là lòng ta màu hoa lý thanh thiên.
++ 作为自然美的色彩吧。
+
+* Tôi chọn vần thơ mừng hàng mậu dịch.
++ 我选择交易诗歌押韵。
+
+* Cửa mở quốc doanh, người chen mến thích.
++ 国有门是敞开的，人们很喜欢它。
+
+* Cách mạng thường có vậy; trước: chê bai.
++ 革命通常会发生；之前。
+
+* Nhưng thức lâu mới biết đêm dài.
++ 但是只有在保持清醒一整夜之后。
+
+* Một cốc vàng như đồng lúa chín.
++ 一杯金像成熟的稻田。
+
+* Bọt trắng phau như trên đầu sóng biển.
++ 白色泡沫像波浪一样。
+
+* Một cốc vàng ánh sáng xuyên qua.
++ 一杯光透。
+
+* Cốc tươi cười, ta ca hát chúng ta.
++ 可可笑着，我们唱歌。
+
+* Lúa, ôi lúa! ngươi toả mừng tha thiết.
++ 米，哦米！你认真地崇拜。
+
+* Ngươi lùa vào tâm trí của ta; ngươi.
++ 你溜进我的脑海；你。
+
+* Chứng tỏ đời mới chỉ bắt đầu thôi.
++ 证明生活才刚刚开始。
+
+* Đến cây lúa cũng chưa dùng hết sức.
++ 甚至水稻也没有尽力而为。
+
+* Thôi, từ giã những buồn rầu quanh quất.
++ 好吧，告别你周围的悲伤。
+
+* Vứt bi quan, xây dựng lấy thần kỳ.
++ 悲观投掷，打造魔力。
+
+* Tư tưởng người cũng như khóm lúa kia.
++ 人们的心态就像那米饭菠萝。
+
+* Xưa chỉ mới như than đun, củi đốt.
++ 过去就像木炭，柴火。
+
+* Từ nay sẽ phát ra nguyên tử lực.
++ 从现在开始，它将发出原子力。
+
+* Đời sẽ bay, theo tư tưởng cao xa.
++ 按照崇高的思想，生活会飞。
+
+* Người vừa mới đẻ một hành tinh.
++ 刚下行星的人。
+
+* Một ngôi sao – mới sinh vào vũ trụ.
++ 一颗星星-新生进入宇宙。
+
+* Đường tinh tú.
++ 糖星。
+
+* Chính là ra từ trí tuệ Lênin.
++ 列宁心不在。
+
+* Mở, hôm nay rộng mở.
++ 开放，今天开放。
+
+* Chính là Ngôi sao Đỏ điện Krem-lin.
++ 这是克里姆林宫的红星。
+
+* Bốn mốt năm toả hồng trên thế giới.
++ 四年半世界潮红。
+
+* Nay tên lửa đưa lên trời vòi vọi.
++ 现在火箭升空了。
+
+* Một hành tinh mang quốc hiệu Liên Xô.
++ 一颗以苏联名字命名的星球。
+
+* Reo, vui, bay, cả trời đất hoan hô.
++ 快乐，飞翔，欢呼。
+
+* Người đã đẻ một đứa con vĩnh viễn.
++ 谁生了一个永久的孩子。
+
+* Xiềng của đất buộc muôn đời chẳng chuyển.
++ 地球的链条将永远被束缚。
+
+* Một chiếc lông bay – cũng phải rơi về.
++ 一根羽毛在飘动-也必须后退。
+
+* Nay nhổ neo rồi! Rời trái đất ta đi.
++ 现在拉锚！离开我的世界。
+
+* Giữa vũ trụ.
++ 宇宙之间。
+
+* Cắm cờ đầu cộng sản.
++ 标记共产党员头。
+
+* Chào Chị Trăng! Lần này tôi chưa ghé.
++ 你好，月亮姐妹！我这次没有去过。
+
+* Đường đi lên, nhiệm vụ hãy còn cao.
++ 途中，任务仍然很高。
+
+* Hẹn với Mặt trời.
++ 与太阳约会。
+
+* Những là này ước mai ao.
++ 但这是向往。
+
+* Đến trước thái dương, tôi sẽ quay chào.
++ 在我庙宇的前面，我会转身敬礼。
+
+* Và cũng có bốn mùa.
++ 还有四个季节。
+
+* Trên mình tôi sẽ chuyển.
++ 我会转向我自己。
+
+* Ôi Trái đất! mẹ muôn lần yêu mến.
++ 哦，地球！我想爱你。
+
+* Nghìn đời sau, nhưng bóng vẫn dần lui.
++ 几千年后，但球仍然退缩。
+
+* Xuân thế gian, Người đã sẻ cho trời.
++ 世界的春天，他分享了天堂。
+
+* Và, xao xuyến, các Vì sao bạn lứa.
++ 还有，你的朋友们的星星在飞舞。
+
+* Giữa các anh đang sôi sùng sục lửa.
++ 你们中间有沸腾的火。
+
+* Tôi, hành tinh, nhưng là mắt trông tìm.
++ 我，这个星球，但我的眼睛在注视着。
+
+* Một bàn tay, một trái tim.
++ 一只手，一颗心。
+
+* Một chiếc thuyền, một con chim.
++ 船，鸟。
+
+* Tôi xúc cảm như mộng Người ấp ủ.
++ 我觉得自己像一个梦珍惜。
+
+* Đây là hạt đầu tiên.
++ 这是第一粒种子。
+
+* Ta gieo vào vũ trụ.
++ 我播种到宇宙。
+
+* Như nguyên tử lần đầu khi tách nổ.
++ 就像原子第一次破裂一样。
+
+* Một mầm đầu đến nở giữa đồng sao.
++ 一颗新芽出现在星空的中央。
+
+* Sẽ kéo theo muôn Bắc đẩu, Nam tào.
++ 将会拖累中国北部的北海。
+
+* Sẽ chuyển rúng cả bầu cao, khoảng biếc.
++ 将转移怀孕的高度，大约。
+
+* Và trước nhất: một Hành tinh Xô viết.
++ 首先是苏联星球。
+
+* Trăng vào rằm tháng tám Trung thu.
++ 月中秋节满月。
+
+* Trong ngần, toả ánh sáng xanh mát rượi.
++ 显然，它散发出凉爽的蓝光。
+
+* Đêm nay, ta cũng ngửa đầu nhìn trăng không mỏi.
++ 今晚，我们也歪着头看着月亮，没有疲劳。
+
+* Nhưng mắt ta nhìn đã khác, trăng ơi.
++ 但是我的眼睛不一样，我的月亮。
+
+* Ta nhìn trăng như một quả dưa trời.
++ 我像瓜一样看着月亮。
+
+* Ta đã bấm dấu móng tay lên đó.
++ 我把指甲钉在上面了。
+
+* Người đã phóng bàn tay vào vũ trụ.
++ 将手伸向宇宙的人。
+
+* Bắt được trăng rồi.
++ 赶上了月亮。
+
+* Trăng hỡi, bắt tay.
++ 月亮，握手。
+
+* Trăng cợt người đã nghìn vạn năm nay.
++ 今年，月亮已经有成千上万的人。
+
+* Trăng mỉm cười, trêu ngươi, thách thức.
++ 月亮笑了，戏弄了，挑战了。
+
+* Trăng ở mặt người, trăng đôi trên ngực.
++ 月亮在他的脸上，月亮在他的胸部。
+
+* Trăng đã làm thao thức biết bao xuân.
++ 月亮已经醒了很多年了。
+
+* Người muốn lên trăng, trăng chẳng xuống trần.
++ 人们想去月球，月亮没有来到天花板。
+
+* Gương nhật nguyệt không dọi tình u ẩn.
++ 月镜不恋爱。
+
+* Chú cuội cây đa, ả Hằng cung Quảng.
++ 丛榕群女士，一束榕树
+
+* Mãi mãi là mộng ước đó mà thôi.
++ 永远只有那个梦想。
+
+* Đêm nay trăng ở trên trời.
++ 今夜月亮在天上。
+
+* Trăng không ở trên trời của Trời khắc nghiệt.
++ 月亮不在天堂的天堂中。
+
+* Vũ trụ hết khí lạnh lùng thê thiết.
++ 宇宙不再寒冷。
+
+* Vũ trụ ta, cờ xô viết làm thân.
++ 我们的宇宙，以苏联国旗为主体。
+
+* Tôi người thi sĩ đã bao năm.
++ 我当诗人很多年了。
+
+* Mơn cái bóng trăng mờ ảo huyễn.
++ 触摸虚幻的月亮阴影。
+
+* Xa xôi mộng nguyệt vẩn vơ hồn.
++ 遥远的梦梦游荡的灵魂。
+
+* Nay thấy mặt trăng thành một bến.
++ 现在看到月亮变成码头。
+
+* Trăng có tay người lên tới nơi.
++ 月亮在那儿有人类的手。
+
+* Chuyển từ trăng lạnh hoá trăng tươi.
++ 从寒冷的月亮变成新鲜的月亮。
+
+* Tàu ta mai mốt lên đây đỗ.
++ 我的船明天要停。
+
+* Dìu dặt cung trăng đặt bước người.
++ 拥抱月亮踩着人。
+
+* Từ hôm nay, trăng dọi lòng sông.
++ 从今天起，月亮将触及河流。
+
+* Trăng soi mặt hồ, hay chiếu vào mắt biếc.
++湖上的月亮，或闪耀的眼睛 。
+
+* Mỗi bóng trăng trên núi, biển, rừng, đồng.
++ 高山，海洋，森林，田野中的每个月亮。
+
+* Đều dọi xuống ảnh búa liềm xô viết.
++ 放下苏联镰刀锤的形象。
+
+* Thông xanh đứng hiên ngang.
++ 绿松耸立在阳台上。
+
+* Những cây lá vàng, vàng xao xác.
++ 黄色的叶子和黄色的叶子已经死了。
+
+* Những cây trụi lá mình cây bạc.
++ 树叶裸露的银树。
+
+* Những cây đã cháy lạnh đầu mùa.
++ 树木在季节初被冷藏。
+
+* Và tất cả đi hàng hàng, lớp lớp.
++ 所有这些都进入行和类。
+
+* Đường sắt qua Xibêri.
++ 穿越加勒比海的铁路。
+
+* Chân trời không có núi.
++ 天边没有山脉。
+
+* Chỉ một rừng thu dài đẹp mênh mang.
++ 只有一个美丽的秋天的森林。
+
+* Trên không dù tắt nắng.
++ 即使太阳出来了。
+
+* Lá vẫn giữ ánh vàng.
++ 叶子保持金黄。
+
+* Rừng phong thu đã nhuốm màu quan san.
++ 秋天的枫树林里布满了橘子。
+
+* Những làng nhà gỗ thưa và ấm.
++ 木房子又薄又温暖。
+
+* Gỗ cũ in màu tình cảm tháng ngày.
++ 颜色老木头，过时了。
+
+* Những khung cửa kính sơn màu trắng.
++ 玻璃窗被漆成白色。
+
+* Rèm thêu buông phía trong lay.
++ 绣花窗帘让里面松散。
+
+* Giây mắc rađiô, cột đèn điện gỗ.
++ 秒广播，木质路灯柱。
+
+* Đã lâu hạnh phúc đến nơi này.
++ 很高兴到这个地方。
+
+* Con tàu phía trước có ngôi sao.
++ 前面的船上有一颗星星。
+
+* Rẽ đôi không khí và tung gió.
++ 将空气变成一半并释放风。
+
+* Đi vững chãi, tự hào.
++ 保持稳定，自豪。
+
+* Giữa đồng, rừng, điện, gỗ.
++ 在田野，森林，电力，木材之间。
+
+* Con tàu phía trước có ngôi sao.
++ 前面的船上有一颗星星。
+
+* Ta chào ngươi, Hạ Long nghìn vạn đảo.
++ 我向你致敬，下龙十万个岛屿。
+
+* Vạn hòn gieo trên sóng biếc trập trùng.
++ 范岛在巧合的浪潮中播种。
+
+* Bia biển trời với đá xinh kỳ ảo.
++ 海啤酒与美丽的奇迹般的岩石。
+
+* Dựng muôn đời ca vẻ đẹp non sông.
++ 永恒的美丽之河之美。
+
+* Ta vào vịnh Hạ Long, hồn diễm lệ.
++ 我们进入下龙湾，美丽的灵魂。
+
+* Trải tung ra, quăng lưới bắt muôn trùng.
++ 摊开，像所有一样扔网。
+
+* Đảo gọi đảo, bể lượn rồng giữa bể.
++ 岛称为岛，龙滑行坦克位于坦克中间。
+
+* Ta ngả chào vừng non nước Hạ Long.
++ 我在下龙向年轻芝麻致敬。
+
+* Đây bản thảo tạo vật còn nặn dở.
++ 该手稿仍未完成。
+
+* Núi, đảo, mây, – đá cùng sóng ngổn ngang.
++ 山，岛，云，-岩石和波涛汹涌。
+
+* Đá thuở trước khổng lồ chơi ném thử.
++ 在尝试巨石之前。
+
+* Cây trên mình còn hương vị hồng hoang.
++ 他身上的树木仍然野玫瑰。
+
+* Tàu ta làm chiếc thoi con dệt biển.
++ 我的船开了班车。
+
+* Hồn ta làm con én liệng trong không.
++ 我的灵魂被空气吞没。
+
+* Một trang nước trải như vào vĩnh viễn.
++ 一页水像永远一样散布。
+
+* Một trang trời chim, với gió song song.
++ 鸟的天空页，有平行的风。
+
+* Ôi bao nhiêu, bao nhiêu hào khí đẹp.
++ 哦，多少，美丽的光环。
+
+* Áo Hạ Long Tổ quốc mặc oai hùng.
++ 下龙国土大衣穿庄严。
+
+* Mắt ngắm mãi.
++ 眼睛永远注视着。
+
+* Lòng hãy còn kinh ngạc.
++ 内心仍然敬畏。
+
+* Tàu ta qua rồi, đẹp vẫn mênh mông.
++ 我的船不见了，如此美丽依旧。
+
+* Tôi đã rơi vào biển lúa.
++ 我掉入米海。
+
+* Tôi bơi, bơi, khoái trá lạ thường.
++ 我游泳，游泳，令人难以置信的乐趣。
+
+* Áo quần tôi ướt mát giọt sương.
++ 我的衣服又湿又凉，有露珠。
+
+* Mùi thơm đầy hương lúa, nếp hương.
++ 这款香水充满了糯米香。
+
+* Theo đợt gió, lựa chiều sóng lúa.
++ 根据风的不同，选择稻浪的方向。
+
+* Tôi bơi trên ngút ngàn gợn lụa.
++ 我游动着成千上万的丝绸。
+
+* Lúa sắp chín rồi, tôi nghe reo.
++ 大米即将成熟，我听到响了。
+
+* Những hạt nhiều bằng mấy lúc gieo.
++ 播种的种子越多，播种的次数就越多。
+
+* Những hạt căng bằng mồ hôi rỏ hạt.
++ 珠子散布着汗珠。
+
+* Những hạt mẩy bằng muôn gàu nước tát.
++ 用一桶水拍打水滴。
+
+* Những hạt vàng, hạt ngọc xô nhau.
++ 金珠，珍珠珠。
+
+* Vẫn dính nhành mà vẫn chạy mau.
++ 仍然坚持但仍在快速运行。
+
+* Từ Bắc Ninh về huyện Thuận Thành.
++ 从北宁市到顺化区。
+
+* Theo vòng xe đạp, trải mông mênh.
++ 跟随自行车，展开无数。
+
+* Mắt tôi ôm hết bao nhiêu lúa.
++ 我眼里有多少米。
+
+* Xanh chuyển sang vàng, vàng ấp xanh.
++ 绿色变成黄色，黄色孵化为绿色。
+
+* Cảm ơn người không nghỉ bàn tay.
++ 谢谢您的非手掌休息。
+
+* Cảm ơn kẻ cày sâu cấy dày.
++ 谢谢深耕机。
+
+* Cảm ơn đất nước luôn sinh đẻ.
++ 感谢国永远生育。
+
+* Cho tôi bơi biển lúa một ngày.
++ 让我有一天在米海里游泳。
+
+* Rét phóng trời đông ra rất xa.
++ 冰冷的冬天的天空很远。
+
+* Mây như pha sữa cả trời nhoà.
++ 像牛奶一样多云。
+
+* Lọc đều ánh sáng lên phơi phới.
++ 将光线均匀地过滤到空气中。
+
+* Cả một ngày như mới sớm ra.
++ 全新的一天即将到来。
+
+* Chân trời thu lại mà thêm rộng.
++ 地平线缩回并扩大。
+
+* Gió lạnh qua cây đụng cánh dài.
++ 穿过树的冷风碰到了长翼。
+
+* Chim cũng sải đi kêu chiếp chiếp.
++ 鸟类也大步鸣叫。
+
+* Mùa đông có một cái gì tươi.
++ 冬天有新鲜的东西。
+
+* Lúa mùa gặt được khô chân ruộng.
++ 稻田收成在田间脚下干燥。
+
+* Rơm ở trong làng chất đống cao.
++ 村里的稻草堆得很高。
+
+* Hỡi người sắp thuế đang chăm chút.
++ 纳税人正在照顾。
+
+* Kho huyện Từ Sơn dựng cổng chào.
++ 土山区仓库建了一个问候门。
+
+* Mắt của ta đầy những núi non.
++ 我的眼睛充满群山。
+
+* Lòng so dây với suối kia đờn.
++ 心相比其他泉水。
+
+* Lên rừng thăm lại, nghe chim hót.
++ 再次参观森林，参观鸟类。
+
+* Trời với hồn ta, ai biếc hơn.
++ 上帝和我的灵魂，谁更好。
+
+* Trên những ngọn cao thường khi nhẹ.
++ 在高处通常比较温和。
+
+* Chưa trèo, mới nghĩ đã nghe trong.
++ 还没爬，以为已经听到了。
+
+* Hoà Bình! cảnh đẹp và tên đẹp.
++ 哇！美丽的景色和美丽的名字。
+
+* Đã sáu năm rồi ta nhớ mong.
++ 已经六年了，我记得期待。
+
+* Hỡi chị Mường ơi khăn trắng tinh.
++ 亲爱的孟女士，一条纯白毛巾。
+
+* Hỡi anh bộ đội bước đi nhanh.
++ 士兵，士兵，快步走。
+
+* Hỡi nhà sàn ấy ai đang lợp.
++ 那些住在高跷屋里的人。
+
+* Hỡi ruộng cày bên nương sắn xanh.
++ 在绿色木薯田上耕作。
+
+* Hỡi những bông lau tím bạc hoa.
++ 银色百合花。
+
+* Hỡi xe đang chạy với bu gà.
++ 车正在狂奔。
+
+* Mến yêu, tôi muốn vang lên gọi.
++ 爱，我想打电话。
+
+* Tất cả rừng sâu! cả núi xa.
++ 全是深林！整座山很远。
+
+* Nằm với sông Lô chảy ở đầu giường.
++ 躺在床头的罗河上。
+
+* Nằm với dưới kia Cây đa Nước chảy.
++ 躺在那里的榕树。
+
+* Phía trên là Cây số bảy Hà Giang.
++ 上方是公里七河江。
+
+* Đêm nay ta về nằm với những năm.
++ 今晚我们回到岁月的谎言。
+
+* Kháng chiến gian lao gió núi mưa dầm.
++ 在抵抗时期，山，风和横梁。
+
+* Lá mưa rì rầm trời như ngâm nước.
++ 像雨水般滴落雨滴的天空。
+
+* Cơ quan trong rừng đêm buốt xuyên chăn.
++ 森林中的代理人整夜都在青蛙跳。
+
+* Đêm nay ta về nằm lại với ta.
++ 今晚我会和我一起躺下。
+
+* Ấp tai xuống giường, yêu mến bao la.
++ 将耳朵放在床上，巨大的爱。
+
+* Thấm thía lại những ngọt bùi kháng chiến.
++ 重新吸收抵抗力的果肉。
+
+* Một khúc sông Lô, đôi bờ xanh mướt.
++ 洛河很多，绿色的河岸。
+
+* Ngô khẽ lay cờ, mía ken lá sắc.
++ 恩戈轻轻地摇了摇旗帜，将手杖碾碎。
+
+* Đường sâu quanh quất, nhà nhỏ xóm thưa.
++ 周围路很深，房屋稀疏。
+
+* Đi về này những lối này năm xưa.
++ 回到过去的这种方式。
+
+* Đất nước ơi, ta quyện với mình chặt lắm.
++ 我的国家，我非常坚持自己。
+
+* Nên đi rồi, lòng không thể gỡ ra.
++ 应该已经走了，心脏无法摘除。
+
+* Và phần nào là hồn thẳm của ta.
++ 我们最内心的灵魂是哪一部分。
+
+* Này là bông cúc với bông mai.
++ 这是菊花和杏。
+
+* Với lại bông lan lá nhọn dài.
++ 用长而尖的兰花。
+
+* Với lại bông hồng da mởn mởn.
++ 还有皮肤的玫瑰。
+
+* Này thêm bông lý với bông lài.
++ 这将物理棉添加到茉莉花棉中。
+
+* Thêm đoá tường vi chấm lệ trinh.
++ 添加过程的微点。
+
+* Nhành thì gai sắc, lá thì xinh.
++ 树枝很刺，叶子很漂亮。
+
+* Thơm sao thanh thoát hoa sen trắng.
++ 芳香典雅的星星白莲花。
+
+* Hoa cải hoa dưa vàng thái bình.
++ 平安的黄色瓜花花。
+
+* Máu đất đưa lên thắp mặt trời.
++ 大地的血被照亮了太阳。
+
+* Nở thành xinh đẹp, dọi thành tươi.
++ 绽放成美丽，饱满变为新鲜。
+
+* Tia như ráng lặn; xanh như biển.
++ 尝试潜水；像大海一样蓝。
+
+* Xuân đậm; hồng như một nụ cười.
++ 黑暗的春天粉红色的微笑。
+
+* Người từ muôn thuở biết yêu hoa.
++ 永远的人们都懂得爱花。
+
+* Yêu chất thơm tho, vẻ ngọc ngà.
++ 爱香，珍珠象牙。
+
+* Nhưng được yêu hoa nào mấy kẻ.
++ 但是你们喜欢哪朵花。
+
+* Phần đông đói lạnh quất bầm da.
++ 绝大部分饥寒交迫的皮肤。
+
+* Đến nay xã hội sắp đông qua.
++ 社会即将超越。
+
+* Nhân loại đi lên cõi sáng loà.
++ 人类上升到光辉的境界。
+
+* Hẹn, với tự do, cơm bánh đủ.
++ 可以自由任命年糕。
+
+* Hoa hồng cho tất cả người ta.
++ 所有人的佣金。
+
+* Yêu em, anh muốn vun trồng.
++ 爱你，我要修。
+
+* Trái đơm muôn vị, hoa lồng ngàn hương.
++ 五颜六色的水果，关在笼子里的数千朵花。
+
+* Đẹp vì sông núi, đẹp trời mây.
++ 因为山川河流而美丽，美丽的云彩。
+
+* Tổ quốc ta còn đẹp ở cây.
++ 我们的国家仍然绿树成荫。
+
+* Ôi Mẹ áo xanh êm ái phủ.
++ 哦，妈妈，光滑的绿色大衣覆盖。
+
+* Từ vườn Nam bộ đến rừng Tây.
++ 从南方花园到西方森林。
+
+* Gió mãi vào ngâm giữa lá thông.
++ 风永远浸在松针中间。
+
+* Vịt đùa bên rạch, bóng dừa trông.
++ 鸭子在运河上玩耍，椰子球看起来。
+
+* Vi vu sóng biển phi lao hoạ.
++ 海滩海浪。
+
+* Một bóng cây đa mát cả đồng.
++ 整个榕树树荫的阴影。
+
+* Rặng liễu xanh như những nét mày.
++ 绿色的柳树像笔触。
+
+* Muỗm bên chùa cổ nở hoa say.
++ 穆伊族古庙盛开醉。
+
+* Làng tre tươi tốt tre xa thẫm.
++ 郁郁葱葱的竹村郁郁葱葱的竹子。
+
+* Như ở chân trời một vệt mây.
++ 就像地平线上的乌云。
+
+* Cây giữa bình minh bạc loáng sương.
++ 银色黎明中的树。
+
+* Cây khi trái chín tựa treo vàng.
++ 果实成熟后，像金子一样悬挂。
+
+* Cây cao chim gửi ru giùm tổ.
++ 高大的鸟树使巢穴平静。
+
+* Cây khuất cho anh chuyện với nàng.
++ 隐藏的树木让他和她说话。
+
+* Trồng một cây xanh.
++ 种一棵树。
+
+* Hút sâu nhựa đất toả lên ngày.
++ 每天深吸地面的塑料辐射。
+
+* Hút nghìn nắng gió trên tơ lá.
++ 在丝绸上吸了成千上万的风和阳光。
+
+* Dựng một lầu cây hương thoảng bay.
++ 搭建树皮闻到空气。
+
+* Một năm thêm mấy tháng rồi.
++ 再过几个月。
+
+* Thu đi, đông lại, bồi hồi sắp xuân.
++ 秋天，冻结，很快恢复。
+
+* Gặp em, em gặp mấy lần.
++ 再见，再见。
+
+* Tưởng quen mà lạ, tưởng gần mà xa.
++ 奇怪的想法，陌生，近而远。
+
+* Ai làm cách trở đôi ta.
++ 谁能通向我们。
+
+* Vì anh vụng ngượng, hay là vì em.
++ 是因为您很尴尬，还是因为我。
+
+* Trăng còn đợi gió chưa lên.
++ 月亮仍在等待风上升。
+
+* Hay là trăng đã tròn trên mái rồi.
++ 还是屋顶上的满月了。
+
+* Hằng ngày em nói bao lời.
++ 每天我说很多话。
+
+* Với cha, với mẹ, với người chung quanh.
++ 和父亲，母亲，周围的人一起。
+
+* Với đường phố, với cây xanh.
++ 与街道，与树木。
+
+* Sao em chưa nói với anh một lời.
++ 你怎么没跟我说一句话。
+
+* Tương tư ăn phải miếng mồi.
++ 类似于吃饵。
+
+* Đứng đi trên lửa, nằm ngồi trong sương.
++ 站在火上，躺在雾中。
+
+* Phải duyên, phải lứa thì thương.
++ 你必须去爱，去爱，去爱。
+
+* Để chi đêm thẳm ngày trường, hỡi em.
++ 亲爱的，在学校之夜。
+
+* Hôm nay em đến chơi.
++ 我今天来玩。
+
+* Lại đem cả đất trời.
++ 带来整个地球和天空。
+
+* Hoa lá lại ùa đến.
++ 花和叶子来了。
+
+* Theo bước em, vào đời.
++ 跟着我，进入生活。
+
+* Bướm, chim cất cánh bay.
++ 蝴蝶和小鸟起飞。
+
+* Đá, vàng lên tiếng hát.
++ 摇滚，黄金唱歌。
+
+* Hương nào bằng tóc mát.
++ 任何清爽的头发香气。
+
+* Ngọc nào bằng tay em.
++ 用手上的任何珍珠。
+
+* Nhưng hạnh phúc hôm nay.
++ 今天很开心。
+
+* Sao lại như không nỡ.
++ 为什么不喜欢它。
+
+* Len xói giữa đôi ta.
++ 我们之间的羊毛侵蚀。
+
+*Có một dòng nước vỡ .
++ 一阵水。
+
+* Sườn đê chưa gắn lại.
++ 肋骨没有重新连接。
+
+* Máu vẫn chảy từ hông.
++ 血液仍从臀部流出。
+
+* Ta nhìn nhau, khắc khoải.
++ 我们看着对方，着急。
+
+* Như một vết thương lòng.
++ 像伤心一样。
+
+* Chẳng sung sướng thì thôi.
++ 不仅不开心。
+
+* Không thể nào ngơ được.
++ 不能忽略它。
+
+* Không nỡ thắm hoa cười.
++ 我忍不住要笑。
+
+* Không nỡ yên nước bước.
++ 无法独自离开水。
+
+* Anh nhớ trong đời cũ.
++ 我记得我的前世。
+
+* Xác đói chết nhục nhằn.
++ 饿死的尸体。
+
+* Những người còn cơm gạo.
++ 还有米饭的人。
+
+* Đóng cửa lại mà ăn.
++ 关上门吃饭。
+
+* Anh tủi cực nghẹn ngào.
++ 他非常住。
+
+* Nuốt sao trôi cửa cổ.
++ 吞噬星辰漂流古门。
+
+* Như máu thịt đồng bào.
++ 像血肉一样的家伙。
+
+* Đã vương vào cơm bữa.
++ 大米盛宴。
+
+* Ngô đồng một lá rụng.
++ 铜一叶秋。
+
+* Cả thiên hạ hay thu.
++ 整个世界还是秋天。
+
+* Một con sông tràn thủng.
++ 一条河破裂了。
+
+* Toàn đất nước âu lo.
++ 整个国家都很着急。
+
+* Hôm nay em đến chơi.
++ 我今天来玩。
+
+* Ta đón nhau từ cửa.
++ 我们从门口互相接吻。
+
+* Miệng chưa nói ra lời.
++ 嘴还没说话。
+
+* Đã hiểu nhau một nửa.
++ 互相了解了一半。
+
+* Đó là vui sướng của lòng đôi ta.
++ 这是我们内心的喜悦。
+
+* Gắn muôn giây với tất cả sơn hà.
++ 在所有涂料上停留几秒钟。
+
+* Một con ngựa đau, cả tàu bỏ cỏ.
++ 一匹马受伤，整艘船都弃草了。
+
+* Ân tình không thể tách xa.
++ 爱无法分离。
+
+* Sớm nay thức dậy như thường lệ.
++ 像往常一样早起。
+
+* Sao tiếng chim kêu.
++ 星星鸟。
+
+* Bỗng khác thường.
++ 突然变得异常。
+
+* Lá cũ lại nhìn ra mới mới.
++ 老叶子看起来又新又新。
+
+* Trời êm, không đợi có pha sương.
++ 平静，没有等待露水阶段。
+
+* Bàn ghế thở vui, giường cũng rạng.
++ 桌子和椅子呼吸，床很明亮。
+
+* Phòng văn như toả một mùi hương.
++ 办公室闻起来像一种气味。
+
+* Nghe tiếng chim kêu bỗng khác thường.
++ 听鸟叫声。
+
+* Tôi cầm mùi dạ lan hương.
++ 我有风信子的味道。
+
+* Trong tay, đi đến người thương cách trùng.
++ 在您的手中，以同样的方式去亲人。
+
+* Dạ lan thơm nức lạ lùng.
++ 兰花的异味。
+
+* Tưởng như đi mãi chưa cùng mùi hương.
++ 似乎永远伴随着气味。
+
+* Nghe tiếng cười trong gió mai xao xuyến.
++ 聆听明天微弱的笑声。
+
+* Ta biết Tình sắp sửa đến, Tình ơi.
++ 我知道爱即将来临，爱。
+
+* Như xa gần như tới lại như lui.
++ 就近距离来回。
+
+* Đáng yêu lắm – vẫn thói ngươi đùa nghịch.
++ 真可爱-还在和你一起玩。
+
+* Đã khá lâu ngươi bỏ ra đi biệt.
++ 很久以来，您已经离开了。
+
+* Nay ngươi về, ta biết, muốn làm lơ.
++ 现在您回来了，我知道，我想忽略它。
+
+* Mới nhận ra ngươi, tin hãy còn ngờ.
++ 刚刚意识到您相信，仍然对此表示怀疑。
+
+* Ta muốn dập mầm non tia lửa thắm.
++ 我要扑灭波光粼粼的学龄前儿童。
+
+* Dưới tro của thường ngày.
++ 在日常生活的废墟下。
+
+* Kẻo sinh nhiều chuyện lắm.
++ 以免生来很多东西。
+
+* Nhưng ngươi là con sáo ở bên sông.
++ 但是你是河边的八哥鸟。
+
+* Con sáo bay xa, con sáo sổ lồng.
++ 鸟飞得很远，,鸟在笼子里飞。
+
+* Áo dù rách, vẫn còn ngời cúc áo.
++ 尽管衬衫被撕裂了，但仍有纽扣。
+
+* Đáy chĩnh vét rồi, hãy còn hạt gạo.
++ 底部已经满了，还有米粒。
+
+* Cuống rạ vàng, ánh lên giữa đống rơm.
++ 黄茎，在稻草间闪闪发光。
+
+* Hoa thành tro, vẫn giữ chặt mùi thơm.
++ 花儿变成灰烬，仍然保持着芬芳。
+
+* Ngươi khoẻ và dai như cỏ gấu.
++ 你像熊草一样强壮耐嚼。
+
+* Tưởng dẫy sạch rồi, nhưng mà ẩn náu.
++ 我以为我很干净，但是我避难了。
+
+* Từ trong ruột đất, đợi chút mưa xuân.
++ 从地心里等着春雨。
+
+* Lại đâm chồi tung toé một màu xanh.
++ 再次溅起绿色。
+
+* Lòng ta hãy ôm trong như giếng tạnh.
++ 让我像井一样拥抱。
+
+* Nước vẫn sâu khơi, mà bờ vắng lạnh.
++ 水还很深，但岸边却空无一人。
+
+* Chính ngươi đến soi mặt, êm sao.
++ 自我面对，光滑的星星。
+
+* Ngươi thả gàu múc nước, rúng trăng sao.
++ 您放下水桶抽水，摇动月亮和星星。
+
+* Nghe tiếng cười trong gió mai xao xuyến.
++ 聆听明天微弱的笑声。
+
+* Thuyền ơi thuyền; bến ta mời cặp bến.
++ 我的船，船；我邀请双人船坞。
+
+* Tình, ngươi thêu muôn thuở.
++ 爱，你永远绣。
+
+* Dẫu có thêu bằng chỉ nhớ với tơ thương.
++ 即使用记忆线和丝线绣花。
+
+* Dẫu khi dệt, gai có nhầm với chỉ.
++ 尽管在编织时，荆棘被误认为是线。
+
+* Dù kim nhọn hãy còn quên trong ấy.
++ 即使忘记了尖针。
+
+* Dù ngồi lên, đau khổ khứa vào da.
++ 即使他坐起来，疼痛也弄脏了他的皮肤。
+
+* Đời thêm hồng, đượm chút máu lòng ta.
++ 生活为我的心增添了粉红色，一点点的鲜血。
+
+* Thư yêu như một mảnh người gửi đến.
++ 作为寄件人的片段的爱信。
+
+* Hai bức thư như hai bàn tay nắm trong tay.
++ 两个字母就像两个手拉手。
+
+* Tay của mình ấp bên ngực ta đây.
++ 我的手在我的胸口。
+
+* Thư của mình.
++ 我的信。
+
+* Ta hít thở mùi hương ngây ngất.
++ 我们呼吸着甜美的香气。
+
+* Hai bức thư đến từ gió may hiu hắt.
++ 这两个字母来自凄凉的风。
+
+* Đến tự sương xa, từ xứ thần tiên.
++ 来自薄雾本身，来自仙境。
+
+* Giấy giấy ơi, sao mà nảy diệu huyền.
++ 我的纸，多么神奇。
+
+* Tất cả chữ tạo nên trời mới lạ.
++ 所有的单词都创造了新的天堂。
+
+* Trên đường đời chúng ta.
++ 在我们生活的道路上。
+
+* Một đoá hoa đã nở.
++ 花开了。
+
+* Tự ta trồng, và ta hái tặng nhau.
++ 我们自己栽种，彼此采摘。
+
+* Nở hôm nay, nhưng ươm đã bao lâu.
++ 今天开花，但是托儿所有多久了。
+
+* Hái, mà vẫn ở trên nhành, không dứt.
++ 采摘，但仍然在树枝上，永无止境。
+
+* Hoa ấy màu tươi hương ngát quá.
++ 颜色是如此新鲜，如此香。
+
+* Vì sao tê tái cả hồn ta.
++ 为什么要麻木我的灵魂。
+
+* Giữa đông hàn, thư nhóm lửa say sưa.
++ 在冬季的中期，熊熊大火不断。
+
+* Mỗi câu viết khiến cho lòng xao xuyến.
++ 每句话都让我心跳。
+
+* Một tên ký có sức gì hiển hiện.
++ 签名没什么可显示的。
+
+* Mỗi bức thư là một bức gương.
++ 每个字母都是一面镜子。
+
+* Để ta cầm soi mặt, thấy người thương.
++ 让我抱着我的脸，看到受伤的人。
+
+* Nhớ em như một vết thương.
++ 想念你像伤口。
+
+* Trong lòng; như vỡ mảnh gương trong lòng.
++ 在我心中；就像我心中破碎的镜子一样。
+
+* Như cầm cốc thuỷ tinh trong.
++ 就像拿着透明的玻璃杯一样。
+
+* Trong tay bóp nát, máu dòng dòng sa.
++ 在被压碎的手中，血流。
+
+* Em là vui sướng của ta.
++ 你是我的快乐。
+
+* Mến yêu vô tận, em là nỗi đau.
++ 永远爱你，你是痛苦。
+
+* Sống trên quả đất tìm nhau.
++ 生活在地球上寻找对方。
+
+* Nhớ em như nước xoáy sâu đập bờ.
++ 想念你，就像一个深沉的漩涡。
+
+* Hỡi người yêu mến muôn xưa.
++ 哦，旧情人。
+
+* Yêu muôn sau, với bấy giờ đang yêu.
++ 永远爱，现在你恋爱了。
+
+* Những ai lướt sóng cưỡi triều.
++ 那些在浪潮中冲浪的人。
+
+* Biển ân tình – có trải nhiều xót xa.
++ 爱的海洋-有很多感叹吗。
+
+* Ngọc tuyệt vời anh trao cho em.
++ 我给你的伟大的宝石。
+
+* Mười năm em có giở ra xem.
++ 你把它变成十年吗。
+
+* Sắc trời hôm ấy, hoa hôm ấy.
++ 那天的天空，那天的花。
+
+* Rừng mới tan sương, trúc rủ rèm.
++ 新的森林融化了雾气，竹帘垂下。
+
+* Bên Quán Ông Già, ngọc gửi em.
++ 在老人店里，吴哥送我。
+
+* Mười năm em có giở ra xem.
++ 你把它变成十年吗。
+
+* Áo em xanh biếc, mây xanh biếc.
++ 我的衬衫是蓝色的，云是蓝色的。
+
+* Tay đã chia rồi lại níu thêm.
++ 双手被分开，然后后退。
+
+* Trong tim, trong mắt ngọc vô hình.
++ 在我心中，在看不见的珍珠眼中。
+
+* Hơn cả lưu li ngọc hữu hình.
++ 余有形玉立。
+
+* Một ánh ngân dài hơn tiếng nói.
++ 比声音更长的光泽。
+
+* Muôn vàn im lặng ngọc làm thinh.
++ 数千颗无声的珍珠寂静无声。
+
+* Từ em biên giới bặt mười năm.
++ 我和你在一起已经十年了。
+
+* Ngọc ấy thường anh vẫn dở thăm.
++ 经常未完成。
+
+* Đông lạnh ấp iu nhờ ngọc ấm.
++ 被温暖的珍珠冻结。
+
+* Đêm đen, ngọc lại sáng như rằm.
++ 夜晚是黑色的，珍珠像满月一样明亮。
+
+* Mười năm in mãi áo xanh em.
++ 永远穿绿色衬衫十年。
+
+* Nay gặp nhau trên mấy bậc thềm.
++ 现在我们会见步骤。
+
+* Mấy mươi lần mấy trăm năm đằng đẵng.
++ 几百年几百倍。
+
+* Nhân loại đầu trần đi trong lửa nắng.
++ 人类赤着头走在烈日下。
+
+* Nhân loại hoang vu như một cánh rừng.
++ 人类像森林一样野性。
+
+* Bọn làm cây vào bổ chặt ngang lưng.
++ 他们做了一棵树来收紧腰部。
+
+* Nhựa sống, máu, rỏ xuống từng suối chảy.
++ 汁液，鲜血，流淌的每一滴水。
+
+* Chủ nô, chúa đất.
++ 主人，主人。
+
+* Chủ xưởng: tay rìu.
++ 工厂老板：手斧。
+
+* Trợn tròn con mắt.
++ 滚动的眼睛。
+
+* Hung hăng cú diều.
++ 进取的风筝猫头鹰。
+
+* Xẻo mình dân chúng.
++ 可怜的人。
+
+* Lấy thịt chiến tranh.
++ 得到战争的肉。
+
+* Xô bờ, chiếm cõi.
++ 斗岸，占领境界。
+
+* Xây lăng, đắp thành.
++ 建筑陵墓和堤防。
+
+* Tuỷ xương nhầy ngập trên xích xe tăng.
++ 粘液的骨髓泛滥在坦克链上。
+
+* Sỏi lăn đường lấy ở những hàm răng.
++ 碎石从牙齿上滚下来。
+
+* Gối bị lưng đè.
++ 靠背枕头。
+
+* Đói che trời đất.
++ 渴望掩盖天地。
+
+* Lều rét le te.
++ 勒特冷帐篷。
+
+* Bệnh về tràn ngập.
++ 生病了。
+
+* Lệ lăn trên má.
++ 眼泪滚落在脸颊上。
+
+* Rơi xuống đất tròn.
++ 落在地面上。
+
+* Chiều chiều mắt đổ.
++ 下午的眼神。
+
+* Như là sương tuôn.
++ 像露水一样。
+
+* Nhưng luôn luôn nhân loại vẫn gieo mùa.
++ 但是人类总是播种季节。
+
+* Cấy máu xuống, đợi chờ khi nở nhuỵ.
++ 血培养下来，等待耻辱。
+
+* Hữu tình tay cất.
++ 迷人的双手。
+
+* Hạt giống ngày mai.
++ 明天播种。
+
+* Mồ hôi hiu hắt.
++ 汗流背。
+
+* Bay trong gió trời.
++ 在风中飞翔。
+
+* Roi quật rút lưng.
++ 鞭打后鞭。
+
+* Không, tao vẫn cấy.
++ 不，我还是植入。
+
+* Hạt giống mai này.
++ 这个杏子。
+
+* Chúng mày không thấy.
++ 你看不到。
+
+* Tiếng than không mất.
++ 煤不带。
+
+* Đến đập cửa trời.
++ 通往天空之门。
+
+* Ruột lìa không tắt.
++ 肠子没有关闭。
+
+* Phổi nồng chuyền hơi.
++ 肺微微通过空气。
+
+* Lớp ngày mục xuống làm phân ủ.
++ 每天堆肥。
+
+* Mưa nắng trăng sao thúc đẩy mùa.
++ 星星和雨水照耀着季节。
+
+* Giọt nước mắt, giống của loài hoa quí.
++ 眼泪像珍贵的花朵。
+
+* Nở nụ dần dần trên những cành tơ.
++ 丝绸树枝上逐渐盛开的芽。
+
+* Năm trước, năm xưa.
++ 去年，旧年。
+
+* Hoa còn rón rén.
++ 花也爬。
+
+* Hoa nở thêm nhiều.
++ 花开得更多。
+
+* Mầm đâm rễ bén.
++ 细菌刺伤。
+
+* Một ngày sương tuyết.
++ 下雪天。
+
+* Nở hoa Tháng Mười.
++ 十月盛开。
+
+* Tháng Năm hoa giậy.
++ 五月花。
+
+* Tháng Tám hoa cười.
++ 八月花开笑。
+
+* Dù cho sấm nổ.
++ 即使雷声爆炸。
+
+* Đá chạy, cát mờ.
++ 磨石，半透明的沙子。
+
+* Sức hoa lên rộ.
++ 花的力量蓬勃发展。
+
+* Cản được bao giờ.
++ 曾经封锁吗。
+
+* Đây là mùa gặt.
++ 这是收获。
+
+* Đây là mùa thơ.
++ 这是诗歌的季节。j
+
+* Tôi đã từng làm thơ về mây về gió.
++ 我曾经写过关于风云的诗。
+
+* Tôi sẽ còn làm thơ về sen ngó với đào tơ.
++ 我仍然会写关于莲花和丝绸的诗。
+
+* Hẹn sớm mong chiều tôi vẫn sẽ làm thơ.
++ 我希望我能尽快写诗。
+
+* Nhưng hơn cả xưa kia, hơn cả bao giờ.
++ 但是比以往任何时候都更多。
+
+* Tôi muốn làm bài thơ về chuyên chính vô sản.
++ 我想写一首关于无产阶级专政的诗。
+
+* Đã khuya lắm.
++ 为时已晚。
+
+* Chừng hai ba giờ sáng.
++ 大约凌晨两三点。
+
+* Ngủ nhiều rồi tôi thức giấc.
++ 我睡了很多，醒了。
+
+* Đêm đen.
++ 黑暗的夜晚。
+
+* Chiếu lưa thưa mấy giãy lạnh cột đèn.
++ 几个冷灯柱的细小投影。
+
+* Bóng tối xe vào với giờ với khắc.
++ 黑暗的汽车经过数小时的雕刻而进入。
+
+* Ngực trái đất tròn tôi nghe đang đập.
++ 我听到的地球的大乳房在跳动。
+
+* Gió tự vô cùng về lật mảnh chăn.
++ 风极易自转。
+
+* Đây là giờ giữa âm phủ dương gian.
++ 这是冥界中的时刻。
+
+* Đêm với ngày như bụng người đang chửa.
++ 白天晚上像孕妇的肚子。
+
+* Tôi tự hỏi mình.
++ 我问自己。
+
+* Giờ này có ai trăn trở.
++ 现在有人担心吗。
+
+* Có ai mắt mở.
++ 有人睁开眼睛吗。
+
+* Ai khóc thầm không.
++ 谁默默哭泣。
+
+* Có ai ban chiều ăn chẳng no lòng.
++ 有人下午不吃饭吗。
+
+* Cái đói dậy như trẻ con khóc thét.
++ 渴望像孩子一样哭泣吗。
+
+* Có ai nhức những vết thương lở loét.
++ 有人受伤吗。
+
+* Ai ốm không, thiếu thuốc vẫn nằm chờ.
++ 谁生病了，缺药仍然是。
+
+* Thiên hạ giờ này hết khổ hay chưa.
++ 人们现在摆脱苦难了吗。
+
+* Có con sư tử nào đang xé người ăn thịt.
++ 有狮子在撕扯吃肉的人吗。
+
+* Có trận lụt nào vỡ bờ gầm thét.
++ 洪水爆发并轰鸣。
+
+* Đầu người đang chìm quét giữa giòng xanh.
++ 头正沉在绿色的溪流之间。
+
+* Ở Bắc Phi ngùn ngụt lửa chiến tranh.
++ 在北非，战争之火令人窒息。
+
+* Những nhà nào đêm nay đang cháy dở.
++ 今晚哪些房子着火了。
+
+* Ở những nơi đang ban ngày, hiện giờ đang mở cửa.
++ 在白天开放的地方。
+
+* Bao nhiêu roi da đang quật đổ người.
++ 甩了多少鞭子。
+
+* Không, tôi không muốn quay về những quy luật cũ rồi.
++ 不，我不想回到原来的规则。
+
+* Luật chó sói, luật hỗn mang mù quáng.
++ 狼法，瞎乱法。
+
+* Chúng bay góp sức tàn, cố tình nhiễu loạn.
++ 他们飞来助长残酷，故意打扰。
+
+* Muốn làm mưa, làm hạn cũng tuỳ bay.
++ 要下雨，干旱还取决于飞行。
+
+* Nhưng Đảng đã về hạ trại ở đây.
++ 但是党来这里扎营了。
+
+* Ta sẽ chặt nghìn tay con bạch tuộc.
++ 我要砍掉章鱼的手。
+
+* Bọn hổ báo ta ghè nanh, ta bẻ vuốt.
++ 老虎嫉妒，我折断爪子。
+
+* Những luật điên cuồng ta buộc sẽ thông minh.
++ 我们注定要制定明智的疯狂规则。
+
+* Luật chiến tranh thay bằng luật hoà bình.
++ 战争法被和平法取代。
+
+* Bọn rồng đất ta dần dần tóm gáy.
++ 我们的地龙逐渐抓住脖子。
+
+* Vô sản tài tình, chuyên chính là thế đấy.
++ 有才华的无产阶级就是这样。
+
+* Con ngựa bất kham.
++ 无与伦比的马。
+
+* Ta khớp quai hàm.
++ 我们匹配下巴线。
+
+* Chuyên chính là tát cạn những lòng tham.
++ 正义在打贪婪。
+
+* Đêm khuya khoắt đang tranh giành thiện, ác.
++ 深夜为善与恶而战。
+
+* Rắn rết bò, chim chóc thu mình dớn dác.
++ 蛇，蛇，鸟突然缩。
+
+* Cụ già ho, à ơi mẹ dỗ con.
++ 老人咳嗽，哦，妈妈安慰我。
+
+* Thắng hay thua đời sẽ méo hay tròn.
++ 胜利或失败的人生会扭曲还是圆。
+
+* Trận quyết liệt.
++ 激战。
+
+* Yên lòng và vững chí.
++ 安心与坚定。
+
+* Ôi êm ái khi tay cầm vũ khí.
++ 握武器的时候顺手哦。
+
+* Chuyên chính của ta là thép cương kiên.
++ 我们的主要重点是韧性钢。
+
+* Nhưng cũng là đôi mắt mẹ hiền.
++ 还有温柔的妈妈的眼睛。
+
+* Chuyên chính giữ gìn cho hoa được nở.
++ 公义使花朵绽放。
+
+* Chăn nhân ái ủ muôn nghìn hơi thở.
++ 仁慈的毯子千呼万唤。
+
+* Tôi đã từng làm thơ về gió về mây.
++ 我曾经写过关于云风的诗。
+
+* Tôi làm thơ về tư tưởng đêm nay.
++ 我今晚写关于思想的诗。
+
+* Bọn chúng cười ta làm thơ chính trị.
++ 他们嘲笑我们写政治诗。
+
+* Nếu hình thức có hơi non một tý.
++ 如果表格太小。
+
+* Chúng vui mừng la ó vỗ tay ran.
++ 他们欢呼鼓掌，鼓掌。
+
+* Mặc chúng kêu rêu lá rụng, hoa tàn.
++ 身穿苔藓，落叶和枯萎的花朵。
+
+* Tôi thẳng thắn ngợi ca nền chuyên chính.
++ 我坦率地称赞专政。
+
+* Mở mắt ra: là chói loà ánh sáng.
++ 睁开眼睛：耀眼的光芒。
+
+* Hàng vạn vạn phút giây xây dựng.
++ 数万分钟的建设。
+
+* Những toa tàu mạnh mẽ của thời gian.
++ 这些强大的时间旅行。
+
+* Chở yêu thương và tin tưởng đầy tràn.
++ 爱与信任充满爱。
+
+* Một buổi họp, một phố ngày chủ nhật.
++ 会议，周日街。
+
+* Một triển lãm, một quảng trường đông chật.
++ 一个展览，一个拥挤的广场。
+
+* Giữa trăm vai, chen vào ngực thanh niên.
++ 在挤进年轻人胸部的一百个肩膀中。
+
+* Tôi thấy đời: ngọn lửa mãi bừng lên.
++ 我看到生命：火总是在升起。
+
+* Ôi cuồn cuộn những Hồng Hà tuổi trẻ.
++ 哦，滚年轻的洪河。
+
+* Kể từ lúc lòng tôi vừa mở hé.
++ 从那一刻起我的心刚刚打开。
+
+* Đến hôm nay – tuy đã có nhiều năm.
++ 直到今天-尽管已经有很多年了。
+
+* Có thể trong tôi bớt vẻ tơ rằm.
++ 也许我的丝绸少了。
+
+* Nhưng cuộc sống vẫn má đào hơ hớ.
++ 但是生活依然厚脸皮吧。
+
+* Những mặt trai càng ngày càng rực rỡ.
++ 脸越来越灿烂。
+
+* Lông mày rậm hơn, vừng trán cao hơn.
++ 眉毛较粗，额头较高。
+
+* Những nàng em càng biếc nước xanh non.
++ 您越年轻，大海越年轻。
+
+* Mỗi ngày mới, lại bao nhiêu bạn trẻ.
++ 每天都有多少年轻人。
+
+* Bắt đầu yêu với tấm lòng mới mẻ.
++ 开始用新的心去爱。
+
+* Đất trời xưa, họ lại thấy tinh sương.
++ 他们在古老的天空中看到露水。
+
+* Qua những trái tim đời vẫn lên đường.
++ 走过人生的心灵仍在路上。
+
+* Họ lại càng yêu nhau hơn chục năm về trước.
++ 他们十几年前就彼此相爱了。
+
+* Đời giải phóng mỗi ngày thêm một bước.
++ 每天的解放生活更进一步。
+
+* Những ngựa thời gian dồn dã vó câu.
++ 时间的骏马积蹄。
+
+* Tôi thấy mênh mông mà đủ choáng đầu.
++ 我感到无比震撼。
+
+* Mở rộng tay chỉ muốn choàng cho hết.
++ 伸出手，只想盖住它们。
+
+* Bằng tưởng tượng tôi vẫn hôn tha thiết.
++ 通过想象，我仍然认真地亲吻。
+
+* Mặt người ấm áp, mặt người thanh.
++ 他的脸很温暖，脸很平静。
+
+* Những mặt người trong tựa suối lành.
++ 信息流中的人们的面孔很健康。
+
+* Ấm quá – mặt người sao mát quá.
++ 太温暖了-你的脸太酷了。
+
+* Chứa hương – và đựng cả trời xanh.
++ 包含-并包含天空。
+
+* Trước cảnh đẹp, có người ưa chụp ảnh.
++ 在美丽的风景之前，有些人喜欢拍照。
+
+* Tôi, tôi muốn ghi giữa nước giòng sông.
++ 我，我想写在河中间。
+
+* Tới biển xa xanh thả một cành hồng.
++ 去遥远的蓝色海洋，放一朵玫瑰。
+
+* Thả một tấm lòng góp vào vĩnh viễn.
++ 放下心来为永远做贡献。
+
+* Nếu để được một vần thơ yêu mến.
++ 如果我喜欢一首诗。
+
+* Một viên bụi ngọc trên trán thời gian.
++ 准时额头上的珍珠尘。
+
+* Nếu lệ đời có một giọt không tan.
++ 如果一滴泪在生活中无法溶解。
+
+* Tôi gửi được cho bạn ngày sau nhận.
++ 我第二天寄给您。
+
+* Chỉ lớn mãi những cái gì không bận.
++ 永远成长，不忙。
+
+* Khắc tên vào cây hơn khắc vào bia.
++ 把名字刻在树上，而不是刻在啤酒上。
+
+* Đi với tuổi xanh đem ánh mai về.
++ 明天是绿色时代。
+
+* Gieo gặt với mùa chứ đừng để lỡ.
++ 随季节播种，不要错过。
+
+* Những ống máu chạy lâu ngày phải vỡ.
++ 长时间运转的血管必须破裂。
+
+* Óc dùng nhiều có lúc rạn xương đau.
++ 章鱼有时会痛到骨折。
+
+* Những tế bào có thể hết ôm nhau.
++ 细胞会停止拥抱。
+
+* Nhưng tư tưởng đã bắt mồi lửa sống.
++ 但是思想活跃起来。
+
+* Thay mới mãi với cuộc đời chuyển động.
++ 永远用动人的生活代替。
+
+* Thì vẫn cháy luôn, thì vẫn trẻ hoài.
++ 还在燃烧，还在年轻。
+
+* Thân phải suy tàn, tuổi có đeo đai.
++ 身体必须耗尽，带的年龄。
+
+* Tư tưởng vẫn như biển rộng sông dài.
++ 思想仍然像大海一样漫漫。
+
+* Xây dựng mãi cho đến giờ biệt thế.
++ 建成至今。
+
+* Và lúc đó, đã có người thay thế.
++ 那时，有一个替代品i。
+
+* Dì ơi, bác ơi, đáng tuổi mẹ của con.
++ 阿姨，这值我妈妈的年龄。
+
+* Con mới gặp mẹ lần thứ nhất.
++ 我第一次见到你。
+
+* Con thấy mẹ u buồn trên nét mặt.
++ 我看到你在我脸上难过。
+
+* Con bỗng giật mình.
++ 我突然大吃一惊。
+
+* Trán mẹ bóng còn qua.
++ 妈妈的额头已经过去了。
+
+* Sương còn mờ trên tóc mẹ sương pha.
++ 她的头发上的雾仍然模糊。
+
+* Mẹ còn hãy ngậm ngùi, còn ảm đạm.
++ 母亲也很可惜，仍然阴郁。
+
+* Mẹ ngồi yên lặng.
++ 妈妈静静地坐着。
+
+* Mẹ chẳng thở than.
++ 妈妈没有抱怨。
+
+* Nhưng con như dây điện nhạy vô vàn.
++ 但是你就像很多敏感的电线。
+
+* Mới nhìn mẹ: cảm thấy làn hiu hắt.
++ 妈妈的新面貌：车道阴沉。
+
+* Nhanh như chớp, trái tim con đầy uất.
++ 快如闪电，我的心充满了活力。
+
+* Dì ơi, bác ơi, mặc áo vải lành.
++ 伯母阿姨穿着漂亮的衣服。
+
+* Chưa phải đói nghèo, không phải gầy xanh.
++ 还不穷，不瘦。
+
+* Ai đặt áng bùi ngùi trên mặt mẹ.
++ 谁把悲伤放在他母亲的脸上。
+
+* Ngùi ngẫm ấy khiến hồn con rách xé.
++ 考虑到那使我的灵魂流泪。
+
+* Con đã ghê rồi cái thứ chiều xưa.
++ 那时下午我很糟糕。
+
+* Không tối đen, má xám xám nhờ nhờ.
++ 不深，灰灰色谢谢。
+
+* Ngùi ngẫm chết hết cả xương, cả tuỷ.
++ 遍历和染死所有骨头，骨髓。
+
+* Mẹ ơi, thà mẹ sầu, mẹ khổ.
++ 妈妈，最好是伤心，妈妈很痛苦。
+
+* Mẹ xé trời vạch đất lúc đau thương.
++ 母亲在痛苦的时候撕裂了天地。
+
+* Nhưng cái bùi ngùi làm tủi nhục tâm hồn.
++ 但是悲伤使灵魂屈辱。
+
+* Con giận nó.
++ 我很生气。
+
+* Không thể nảo trở lại.
++ 不行无法恢复。
+
+* Tôi căm thù chế độ cũ vì nó giết người.
++ 我讨厌旧政权，因为它杀死了人们。
+
+* Tôi còn căm thù hơn, vì nó tạo cái bùi ngùi.
++ 我更讨厌，因为这让我难过。
+
+* Cái bùi ngùi ra vẻ dịu dàng, tê tái.
++ 悲伤似乎温柔，麻木。
+
+* Trông thấy nó, tôi tưởng đời cũ quay về trở lại.
++ 看到它，我以为我的前世归来了。
+
+* Với những u già nhẫn nhục cười buồn.
++ 带着老t耐心的笑着。
+
+* Đày đoạ những u già giữa bàn ghế, vại chum.
++ 消除桌子和椅子，罐子罐之间的旧颠簸。
+
+* Tôi thấy mặt cái đời xưa khả ố.
++ 我找到了可恶的旧生活的面孔。
+
+* Thấy nó chớm quay về ở đâu, ta chặn ngay đường nó.
++ 看看它又回来了，我会立即停下来加糖。
+
+* Đã lấy mình lấp lỗ châu mai.
++ 带我掩盖了欧洲漏洞。
+
+* Để chặn đường đời cũ, chặt chân nó, chôn vùi.
++ 要阻止生活方式，砍断腿，埋葬。
+
+* Khi vui sướng, ta nổ cười huyên náo.
++ 当我快乐的时候，我突然大笑起来。
+
+* Lúc đau khổ, ta gằm gằm giông bão.
++ 在苦难中，我们正处于雷暴的边缘。
+
+* Cắt cái ngậm ngùi, vứt nó xuống sông.
++ 减少怜悯，丢进河里。
+
+* Chặt cái bùi ngùi, dẫm nó dưới chân.
++ 切掉旋钮，踩到脚下。
+
+* Mẹ ơi, con đã trông nhầm.
++ 妈我看错了不是。
+
+* Con gặp mẹ khi mẹ đang nghĩ ngợi.
++ 我在想的时候遇到了你。
+
+* Sau hồi yên lặng, lúc mẹ cất lời.
++ 沉默之后，当我母亲说话时。
+
+* Mẹ nói làm ăn, công việc, cuộc đời.
++ 妈妈说生意，工作，生活。
+
+* Mẹ nói cuốc vườn, thổi cơm, đi học.
++ 她说园艺，吹饭，上学。
+
+* Lo dâu con út, nhớ cháu ở xa.
++ 担心最小的女儿，记得她离我很远。
+
+* Còn thắt lưng buộc bụng, dựng đời ta.
++ 和紧缩，建立我们的生活。
+
+* Giận đời cũ, con trông nhầm vội vã.
++ 在前世生气，你匆忙看错了。
+
+* Chúng ta còn hơi thở.
++ 但是妈我们还有呼吸。
+
+* Còn chặn đường kiếp cũ, chẳng cho qua.
++ 也挡住了前世的路，不过去。
+
+* Mẹ cùng con xây vững cái bây giờ.
++ 母亲和孩子建造了现在。
+
+* Hãy nhìn đời bằng đôi mắt xanh non.
++ 用绿色的眼睛看生活。
+
+* Hãy để trẻ con nói cái ngon của kẹo.
++ 让孩子们说糖果的美味。
+
+* Hãy để cho bà nói má thơm của cháu.
++ 我说你香的脸颊。
+
+* Hãy nghe tuổi trẻ ca ngợi tình yêu.
++ 听青年赞美爱情。
+
+* Mẹ bế đứa con như ôm tròn trái đất.
++ 母亲抱着婴儿喜欢拥抱地球。
+
+* Suối chạy tìm sông trăm vòng tươi mát.
++ 溪流奔流寻找一百条新鲜的河流。
+
+* Con chim sổ lồng bát ngát xa bay.
++ 鸟窗笼子这么远。
+
+* Hãy ăn bát cơm như chính tay mình nấu.
++ 自己动手吃一碗米饭。
+
+* Nghe tiếng trống trường như em lớp sáu.
++ 听六年级的校鼓。
+
+* Sớm mai khai giảng sáng những khăn hồng.
++ 明天早晨，粉红色的围巾将被打开。
+
+* Đôi mắt xanh non.
++ 年轻的绿眼睛。
+
+* Cha xin của con.
++ 拜托，我父亲。
+
+* Người đi trước xin của người sắp tới.
++ 向前走的人要来。
+
+* Biết chỗ đứng để nhìn cho thật mới.
++ 知道站在哪里看起来新。
+
+* Cuộc sống xanh non.
++ 绿色生活。
+
+* Mãi mãi tươi dòn.
++ 永远脆弱。
+
+* Đường vào nhà cụ Muỗi.
++ 蚊子之家的路。
+
+* Lá rừng biếc che che.
++ 森林覆盖的叶子。
+
+* Sỏi đá dù khúc khuỷu.
++ 即使石头扭曲了。
+
+* Bao năm tôi vẫn về.
++ 多年以来，我仍然回来。
+
+* Nhà cụ dưới trời quang.
++ 晴朗的天空下的房子。
+
+* Phải lui vào giữa nứa.
++ 必须回到中间。
+
+* Máy bay địch mắt mù.
++ 盲眼敌机。
+
+* Cây xanh hồng bếp lửa.
++ 蓝玫瑰厨房火灾。
+
+* Sân hơi rung một tý.
++ 院子有一点震动。
+
+* Nước ống tôi rửa chân.
++ 用管道水洗脚。
+
+* Những nụ cười tươi nở.
++ 新鲜的微笑。
+
+* Như hoa bên suối xuân.
++ 像春天的溪流上的花朵。
+
+* Bà chia ngọt sẻ bùi.
++ 她的肉很香。
+
+* Ông pha trà nấu nước.
++ 他泡茶煮水。
+
+* Đứa con của miền xuôi.
++ 平原之子。
+
+* Đã nói lời miền ngược.
++ 表示反向域。
+
+* Tôi thuộc dàn để muối.
++ 我属于果园里的盐。
+
+* Quen cả chỗ ngâm măng.
++ 熟悉竹笋。
+
+* Những khi nhớ cụ Muỗi.
++ 当我想念蚊子。
+
+* Suối lội rừng cũng băng.
++ 森林溪流也流动。
+
+* Tháng mướp nở hoa vàng.
++ 愿瓜开黄色花。
+
+* Tháng tròn na, chín nhãn.
++ 一整月不，九个标签。
+
+* Chanh vườn cụ tôi ăn.
++ 我吃的柠檬园林工具。
+
+* Lại còn mang biếu bạn.
++ 也给你带来礼物。
+
+* Bù chi cho tất cả.
++ 为了补偿一切。
+
+* Đáp trả có chi đâu.
++ 根本没有答案。
+
+* Biếu cụ.
++ 礼貌。
+
+* Một gói vôi ăn trầu.
++ 一包槟榔。
+
+* Ngày trở lại thủ đô.
++ 回到首都后。
+
+* Hai cụ nhìn, tủi tủi.
++ 两种工具看起来可惜。
+
+* Hoà bình ba năm; chưa.
++ 和平三年；还没。
+
+* Viết thư thăm cụ Muỗi.
++ 写信参观蚊子。
+
+* Đổi trái tim có được không.
++ 有可能改变心意吗。
+
+* Bạn trên đường, xin anh đổi hộ.
++ 您在路上，请为我更改。
+
+* Trái tim tôi nó thường đau khổ.
++ 我的心经常痛。
+
+* Trái tim tôi nhoi nhói một bên.
++ 我的心在一侧疼痛。
+
+* Gây sự và trăn trở không yên.
++ 引起和不安的担忧。
+
+* Tôi không biết dọn quang đường cái.
++ 我不知道如何清除道路。
+
+* Đặng bước cho êm, cỏ hoa cười nói.
++ 当当平稳地走着，草花笑了。
+
+* Xông vào gai, tự tạo ra gai.
++ 冲尖峰，自己创造尖峰。
+
+* Biết khôn thì da đã toạc rồi.
++ 知道皮肤已经被撕掉了。
+
+* Biết lựa những lời dễ nghe, bồng bế.
++ 选择容易听到，携带。
+
+* Đổi cho tôi một trái tim như thế.
++ 像这样给我一颗心。
+
+* Tôi chẳng đổi đâu.
++ 我不会改变。
+
+* Trái tim tôi trái chứng, cứng đầu.
++ 我的心是固执的，相反。
+
+* Tôi không muốn lá mặt và lá trái.
++ 我不要叶子离开。
+
+* Sắp ngã ngũ thì mình hăng hái.
++ 快要入睡了，我精力充沛。
+
+* Nơi nào thắng trận, đã có anh ta.
++ 战斗胜利的地方，有他。
+
+* Hai mặt người trên một mặt người ta.
++ 一方的两个人。
+
+* Đuổi cái tự nhiên, nó liền trở lại.
++ 追逐自然，它立即返回。
+
+* Tôi xin mang mãi một trái tim rừng.
++ 我会永远带出森林的心。
+
+* Để tôi đấu tranh với nó không ngừng.
++ 让我无休止地战斗吧。
+
+* Mật ong có khi hút từ nhuỵ đắng.
++ 蜂蜜有时会从恶臭中吸吮。
+
+* Không sợ ngã, chỉ sợ không bước thẳng.
++ 不怕摔倒，只怕不走直。
+
+* Ốm chi mà ốm mãi.
++ 疾病永远生病。
+
+* Cơ thể báo động dài.
++ 报警器长。
+
+* Chuyện không hay trong phổi.
++ 肺不好。
+
+* Những sợi thần kinh rối.
++ 神经纤维缠结。
+
+* Tim xoay cả cửa nhà.
++ 心动了整个门。
+
+* Chuyến này, ngươi nói thật.
++ 这次，您说实话。
+
+* Cơ thể muốn làm chi ta.
++ 身体想做什么。
+
+* Cây sống bằng gốc, bằng rễ.
++ 植物是由根生根的。
+
+* Người xây trên nền móng thịt xương.
++ 建立在肉和骨头的基础上。
+
+* Trí như ánh sáng, đức như hương.
++ 三如轻，美如香。
+
+* Buộc vào đất bằng hai chân bước.
++ 用两只脚绑在地上。
+
+* Đời bạn ta đang treo nơi cuống phổi.
++ 我朋友的生活在肺部。
+
+* Thơ đang hay – có thể đứt như đàn.
++ 诗歌很好-可能像竖琴一样折断。
+
+* Bạn thì vấp ngã trên một lá gan.
++ 你偶然发现了肝脏。
+
+* Mạch máu bứt đường – và thế là im lặng.
++ 血管破裂了-太安静了。
+
+* Nhưng lại là sự thật.
++ 听起来很烦人！但这是真的。
+
+* Và chính ta đang ngồi ghế không yên.
++ 我们坐在不安定的座位上。
+
+* Chân ghế sập hoài, gai góc mọc lên.
++ 椅子的腿永远塌下来，荆棘发芽。
+
+* Đừng tính chuyện một cuộc đời êm dịu.
++ 不要考虑和平生活。
+
+* Ta nhai gặm cái sợi xiềng của bệnh.
++ 我咀嚼疾病的，铐。
+
+* Mắt gằm gừ từ bệnh viện nhìn ra.
++ 医院凝视着眼睛。
+
+* Con đường bên ngoài gió mát rượi da.
++ 风外的道路凉爽。
+
+* Con đê bên ngoài Hồng Hà thổi gió.
++ 洪河外的堤防正在吹大风。
+
+* Muốn chạy ra ngay, người như hoa nở.
++ 想要马上用完，像鲜花一样绽放的人。
+
+* Hai tay khoát rộng; xình xịch như tàu.
++ 双手宽；像船一样惊人。
+
+* Một phút của đời, ta quí hơn châu.
++ 一分钟的生命，我们比欧洲更宝贵。
+
+* Mà phải nằm đây, cãi nhau với bệnh.
++ 必须躺在这里，与疾病争吵。
+
+* Còn cãi nhau nhiều.
++ 还在争论很多。
+
+* Chỉ có từ rày là một cuộc tranh đua.
++ 只有这个词是竞争。
+
+* Một cuộc vật nhau, ta thắng, ngươi thua.
++ 打架，我赢了，你输了。
+
+* Như người bỏ sỏi vào mồm.
++ 就像一个人把石头放在嘴里。
+
+* Ta đã định.
++ 我原本打算。
+
+* Thét thi với sóng.
++ 尖叫竞争与波浪。
+
+* Hát giữa bão, phải trường hơi, lớn giọng.
++ 在暴风雨中唱歌，声音有点大声。
+
+* Ta sẽ biết giả hàng, nhẫn nhục từng cơn.
++ 我们会知道假货，耐心等待。
+
+* Để lại tưng bừng, hát mạnh, hát to hơn.
++ 保持欢腾，唱歌强劲，大声唱歌。
+
+* Ta sẽ biết bao vây ngươi, hỡi bệnh.
++ 我会知道包围你的，生病了。
+
+* Con dao sắc trên quả cam phân khoảnh.
++ 橘子上的锋利的刀分散了注意力。
+
+* Cắt riêng ra cái phần nhỏ bị ung.
++ 切除癌症的一小部分。
+
+* Nỗi ốm đau không thể quá một vùng.
++ 疾病不能超过一个地区。
+
+* Và phần lớn quả cam ta – vẫn ngọt.
++ 和我们大多数的橘子-仍然很甜。
+
+* Hỡi thi sĩ Hainơ, tôi cảm phục.
++ 海恩诗人，我很佩服。
+
+* Nụ cười anh cùng thơ nở không thôi.
++ 他的笑容和诗歌只有绽放。
+
+* Khi anh nằm đau, tê bại, cuối đời.
++ 当他感到疼痛，麻木，晚年生活时。
+
+* Anh trào lộng cái “huyệt sâu bằng đệm”.
++ 他散发着“带有垫子的深穴位”。
+
+* Vâng, thần kinh yếu, chẳng yếu đâu trí tuệ.
++ 是的，神经无力，智力也不弱。
+
+* Trí tuệ còn nguyên vẹn; lại còn tăng.
++ 完整的智力；甚至增加。
+
+* Mạch tim đau, xưởng thơ vẫn không dừng.
++ 心脏血管受伤，诗歌工作室仍然没有停止。
+
+* Có phải chăng, có những ngày chủ nhật.
++ 价格实惠，有星期天吗。
+
+* Trí ta đã bơi ngược chiều sức lực.
++ 我的头脑游动着力量。
+
+* Như buộc chân vào ghế, ta tấn công.
++ 好像把脚绑在椅子上，我们攻击。
+
+* Trên những trang bài, quyết giật thành công.
++ 在帖子页面上，确定成功吗。
+
+* Còn có thể ốm nhiều.
++ 可能会很恶心。
+
+* Bảo toàn lấy cổ họng.
++ 保持他的喉咙。
+
+* Đặng mà hát cho lâu.
++ 唱了很久的歌。
+
+* Hát cho dẻo cho dai.
++ 唱得很久很灵活。
+
+* Hát cho lớn, cho sâu.
++ 大声地，深深地唱歌。
+
+* Hát qua đầu cái chết.
++ 唱死神。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
+* .
++ 。
+
 * .
 + 。
 
@@ -19960,6 +26791,11 @@
 
 * .
 + 。
+
+* .
++ 。
+
+* .
 
 * .
 + 。
@@ -20536,6 +27372,8 @@
 
 * .
 + 。
+
+* .
 
 * .
 + 。
@@ -21112,6 +27950,8 @@
 
 * .
 + 。
+
+* .
 
 * .
 + 。
@@ -21688,6 +28528,8 @@
 
 * .
 + 。
+
+* .
 
 * .
 + 。
@@ -22264,3 +29106,5 @@
 
 * .
 + 。
+
+* .
