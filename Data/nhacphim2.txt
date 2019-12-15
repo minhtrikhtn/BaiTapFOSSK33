@@ -124,7 +124,7 @@
 * Chúng ta đã cùng khóc, chúng ta đã cùng cười.
 + 我們哭了 我們笑著。
 
-* Chúng ta đã từng ngẩng đầu nhìn bầu trời..
+* Chúng ta đã từng ngẩng đầu nhìn bầu trời.
 + 我們抬頭望天空。
 
 * Những vì sao vẫn lấp lánh trên cao.
@@ -142,7 +142,7 @@
 * Bởi vì anh đã gặp em đúng lúc.
 + 因為我剛好遇見你。
 
-* nên mới có thể lưu giữ những kí ức tươi đẹp..
+* nên mới có thể lưu giữ những kí ức tươi đẹp.
 + 留下足跡才美麗。
 
 * Gió thổi, hoa rơi, nước mắt như mưa.
@@ -440,7 +440,7 @@
 + 多少樓台煙雨中。
 
 * Nhớ lại tình ta vấn vương thưở ban đầu.
-+ 記得當初你儂我儂。
++ 記得當初你儂我儂　。
 
 * Nơi phồn hoa đô hội.
 + 車如流水馬如龍。
@@ -830,7 +830,7 @@
 * những gì đau thương trong tim em giờ như là một màn kịch.
 + 天在哭 我在哭。
 
-* Ánh mắt của anh .
+* Ánh mắt của anh.
 + 你在何处。
 
 * nụ cười của anh giờ đeo bám em trong nỗi cô độc này.
@@ -944,7 +944,7 @@
 * Anh như chim bay quên đường về.
 + 曾 经 心 痛 为 何 变 成 陌 生。
 
-* âm thầm mình em.. nơi đây với những bâng khuâng.
+* âm thầm mình em. nơi đây với những bâng khuâng.
 + 我 只 想 要 和 你 一 起 飞 翔。
 
 * Cánh chim ơi! còn mịt mù tận trời nào.
@@ -1109,7 +1109,7 @@
 * Niềm thân ái thắm thiết khắn khít bền lâu.
 + 当午夜的钟声敲痛离别的心门。
 
-* Cùng nhau san chia buồn vui, Ta mến nhau như sông biển dài..
+* Cùng nhau san chia buồn vui, Ta mến nhau như sông biển dài.
 + 却打不开我深深的沈默。
 
 * Dìu nhau qua bao gian lao không ngại khó khăn.
@@ -2043,7 +2043,7 @@ Ngày đêm em vẫn nguyện cầu mong sao đừng mất đi.
 + Sẽ được vui vẻ。
 
 * Trái táo nhỏ.
-+ 小苹果 。
++ 小苹果。
 
 * Hạt mầm mà tôi trồng, cuối cùng cũng đã kết trái.
 + 我种下一颗种子, 终于长出了果实。
@@ -2175,7 +2175,7 @@ Ngày đêm em vẫn nguyện cầu mong sao đừng mất đi.
 + 公园里葬礼的回音在漫天飞行。
 
 * Đóa hoa hồng trắng mà tôi tặng em đã bị khô héo trong không gian tăm tối.
-+ 送你的白色玫瑰在纯黑的环境凋零 。
++ 送你的白色玫瑰在纯黑的环境凋零。
 
 *  Những con quạ trên cây bỗng imlặng một cách lạ kỳ.
 + 乌鸦在树枝上诡异的很安静。
@@ -2183,7 +2183,7 @@ Ngày đêm em vẫn nguyện cầu mong sao đừng mất đi.
 * Lắng nghe chiếc áo choàng đen của tôi muốn sưởi ấm cho em.
 + 静静听我黑色的大衣 想温暖你。
 
-* Những ký ức đang băng giá theonăm tháng, một sinh mệnh đã khuất...đã khuất.
+* Những ký ức đang băng giá theonăm tháng, một sinh mệnh đã khuất..đã khuất.
 + 日渐冰冷的回忆 走过的走过的生命。
 
 * dưới ánh trăng nho nhỏ.
@@ -2277,7 +2277,7 @@ hãy để con ở lại bên cạnh ba nhé.
 + 林志炫。
 
 * Ngàn Ngàn Bài Hát Thiếu Sót.
-+ 千千闕歌 。
++ 千千闕歌。
 
 * Trần Tuệ Nhàn.
 + 陳慧嫻。
@@ -2301,7 +2301,7 @@ hãy để con ở lại bên cạnh ba nhé.
 + 祝你一路順風。
 
 * Đêm Tối Không Đến Nữa.
-+ 黑夜不再來 。
++ 黑夜不再來。
 
 * Ngôi Sao Ước Nguyện.
 +  星語心願。
@@ -2322,7 +2322,7 @@ hãy để con ở lại bên cạnh ba nhé.
 + 故鄉的浮雲。
 
 * Nam Nhi Mạnh Mẽ.
-+ 耐操的男兒 。
++ 耐操的男兒。
 
 * Bước Đi Dù Không Biết Đường.
 + 走不知路。
@@ -2336,7 +2336,7 @@ hãy để con ở lại bên cạnh ba nhé.
 * Mùa Xuân Năm Đó.
 + 彼年春天。
 
-* .Sinh Mạng Của Linh Hồn.
+*.Sinh Mạng Của Linh Hồn.
 + 生命的靈魂。
 
 * Ngọn Gió Tự Do.
@@ -2364,7 +2364,7 @@ hãy để con ở lại bên cạnh ba nhé.
 + 痴心。
 
 * Ngắm Bầu Trời Hữu Tình.
-+ 望天有情 。
++ 望天有情。
 
 * Kỷ Niệm Của Shakespeare.
 + 思念的莎酷拉。
@@ -2379,10 +2379,10 @@ hãy để con ở lại bên cạnh ba nhé.
 + 想你不願夢醒。
 
 * Cái Giá Của Sai Lầm.
-+ 錯誤的代價 。
++ 錯誤的代價。
 
 * Anh Luôn Luôn Ở Trong Lòng Em.
-+ 你一直住置我的心內面 。
++ 你一直住置我的心內面。
 
 * Nếu Như Yêu Là Đau Lòng.
 + 愛若心傷。
@@ -2409,7 +2409,7 @@ hãy để con ở lại bên cạnh ba nhé.
 + 一生只愛你。
 
 * Tỉnh Ngộ Một Nửa.
-+ 半夢半醒 。
++ 半夢半醒。
 
 * Trái Tim Nguội Lạnh.
 + 心灰。
@@ -2436,7 +2436,7 @@ hãy để con ở lại bên cạnh ba nhé.
 + 你怎么舍得我难过。
 
 * Sứ Thanh Hoa.
-+ 青花瓷 。
++ 青花瓷。
 
 * Em muốn kìm nén bản thân mình.
 + 我 要 控 制 我 自 己。
