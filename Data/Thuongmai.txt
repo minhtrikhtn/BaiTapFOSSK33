@@ -1,0 +1,89 @@
+﻿* Chào giá.
++ 询盘。
+
+* Hỏi giá.
++ 发盘。
+
+* Người chào giá.
++ 实盘。
+
+* Công ty.
++ 公司。
+
+* Thị trường.
++ 市场。
+
+* Xí nghiệp, doanh nghiệp.
++ 企业。
+
+* Đầu tư.
++ 投资。
+
+* Ngân hàng.
++ 银行。
+
+* Đô la Mỹ.
++ 美元。
+
+* Vốn.
++ 资金。
+
+* Kinh doanh, nghiệp vụ.
++ 业务。
+
+* Tăng trưởng.
++ 增长。
+
+* Sản phẩm.
++ 产品。
+
+* Giá.
++ 价格。
+
+* Quản trị, quản lý.
++ 管理。
+
+* Nền kinh tế.
++ 经济。
+
+* Rủi ro.
++ 风险。
+
+* Khoản vay.
++ 贷款。
+
+* Vốn lớn, vốn hoá lớn.
++ 大盘。
+
+* Ngành.
++ 行业。
+
+* Thương mại hàng đổi hàng, mậu dịch trao đổi hàng.
++ 易货贸易。
+
+* Thương mại tương hỗ, buôn bán đối lưu mậu dịch hàng đổi hàng.
++ 互惠贸易。
+
+* Thương mại đa phương.
++ 多边贸易。
+
+* Thương mại song phương.
++ 双边贸易。
+
+* Thương mại chuyển khẩu.
++ 转口贸易。
+
+* Thương mại xuất khẩu.
++ 转口贸易。
+
+* Thương mại nhập khẩu.
++ 进口贸易。
+
+* Khu vực tự do mậu dịch.
++ 自由贸易区。
+
+* Tự do thương mại.
++ 自由贸易。
+
+* Người nhận hàng.
++ 收货人。
