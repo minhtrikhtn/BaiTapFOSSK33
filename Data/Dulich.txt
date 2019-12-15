@@ -1,350 +1,327 @@
-﻿* Đi đến sân bay hết bao nhiêu tiền?. 
-+ 去机场多少钱？。
+﻿*  Đi đến sân bay hết bao nhiêu tiền?. 
++  去机场多少钱。
 
-* Cần khoảng bao lâu. 
-+ 大概需要多长时间。
+*  Cần khoảng bao lâu. 
++  大概需要多长时间。
 
-* Anh đi đâu. 
-+ 你去哪里。
+*  Anh đi đâu. 
++  你去哪里。
 
-* Đến công viên Bắc Hải. 
-+ 去北海公园。
+*  Đến công viên Bắc Hải. 
++  去北海公园。
 
-* Xin lỗi, tôi không mang theo tiền lẻ. 
-+ 对不起，我没有带零钱。
+*  Xin lỗi, tôi không mang theo tiền lẻ. 
++  对不起，我没有带零钱。
 
-* Cho tôi đến địa chỉ này.
-+ 请带我去这个地方/地址。
+*  Cho tôi đến địa chỉ này.
++  请带我去这个地方/地址。
 
-* Xin hãy đi nhanh một chút.
-+ 请快一点。
+*  Xin hãy đi nhanh một chút.
++  请快一点。
 
-* Tôi có việc gấp.
-+ 我有急事。
+*  Tôi có việc gấp.
++  我有急事。
 
-* Bạn đừng lái xe quá nhanh, tôi sợ.
-+ 你不要开得太快，我害怕。
+*  Bạn đừng lái xe quá nhanh, tôi sợ.
++  你不要开得太快，我害怕。
 
-* Ngành du lịch.
-+ 旅游业。
+*  Ngành du lịch.
++  旅游业。
 
-* Du khách.
-+ 游客。
+*  Du khách.
++  游客。
 
-* Tôi muốn theo đuổi công việc du lịch.
-+ 我想从事旅游业的工作。
+*  Tôi muốn theo đuổi công việc du lịch.
++  我想从事旅游业的工作。
 
-* Dịch vụ du lịch.
-+ 旅游服务。
+*  Dịch vụ du lịch.
++  旅游服务。
 
-* Mạng lưới dịch vụ du lịch lớn nhất thế giới.
-+ 全球最大旅游服务网络。
+*  Mạng lưới dịch vụ du lịch lớn nhất thế giới.
++  全球最大旅游服务网络。
 
-* Hướng dẫn viên du lịch.
-+ 导游。
+*  Hướng dẫn viên du lịch.
++  导游。
 
-* Bạn tôi làm hướng dẫn viên du lịch tại Nhật Bản.
-+ 我朋友在日本当导游。
+*  Bạn tôi làm hướng dẫn viên du lịch tại Nhật Bản.
++  我朋友在日本当导游。
 
-* Thẻ du lịch.
-+ 旅游证件。
+*  Thẻ du lịch.
++  旅游证件。
 
-* ai kiểm tra những thẻ du lịch này.
-+ 谁核发这些旅游证件的。
+*  ai kiểm tra những thẻ du lịch này.
++  谁核发这些旅游证件的。
 
-* Sổ tay hướng dẫn du lịch.
-+ 导游手册。
+*  Sổ tay hướng dẫn du lịch.
++  导游手册。
 
-* tôi muốn mua mấy cuốn sô tay hướng dẫn du lịch.
-+ 我想买几本北京导游手册。
+*  tôi muốn mua mấy cuốn sô tay hướng dẫn du lịch.
++  我想买几本北京导游手册。
 
-* Ngân phiếu du lịch.
-+ 旅行支票。
+*  Ngân phiếu du lịch.
++  旅行支票。
 
-* Tôi nên đi đâu để đổi ngân phiếu du lịch.
-+ 我该去哪儿兑换旅行支票。
+*  Tôi nên đi đâu để đổi ngân phiếu du lịch.
++  我该去哪儿兑换旅行支票。
 
-* Tuyến du lịch.
-+ 旅游路线。
+*  Tuyến du lịch.
++  旅游路线。
 
-* Tôi biết tất cả các tuyến du lịch tốt nhất trong thành phố này.
-+ 我知道这个城市中所有最好的旅游路线。
+*  Tôi biết tất cả các tuyến du lịch tốt nhất trong thành phố này.
++  我知道这个城市中所有最好的旅游路线。
 
-* Nơi đến du lịch.
-+ 旅行目的地。
+*  Nơi đến du lịch.
++  旅行目的地。
 
-* chúng tôi đã đến địa điểm du lịch rồi mới nghỉ ngơi.
-+ 我们到达旅行目的地后就休息了。
+*  chúng tôi đã đến địa điểm du lịch rồi mới nghỉ ngơi.
++  我们到达旅行目的地后就休息了。
 
-* Tiền chi phí chuyến du lịch.
-+ 旅费。
+*  Tiền chi phí chuyến du lịch.
++  旅费。
 
-* Số tiền này chỉ là chi phí đi lại, không bao gồm chỗ ở.
-+ 这笔钱只是旅费，不包食宿。
+*  Số tiền này chỉ là chi phí đi lại, không bao gồm chỗ ở.
++  这笔钱只是旅费，不包食宿。
 
 
-* Mùa du lịch ,mùa cao điểm.
-+ 旅游旺季。
+*  Mùa du lịch ,mùa cao điểm.
++  旅游旺季。
 
-* Mùa thu là mua cao điểm du lịch bắc kinh
-+ 秋天是北京的旅游旺季。
+*  Mùa thu là mua cao điểm du lịch bắc kinh
++  秋天是北京的旅游旺季。
 
-* Mùa ít khách du lịch.
-+ 旅游淡季。
+*  Mùa ít khách du lịch.
++  旅游淡季。
 
-* mùa ít khách du lịch tốn tiền ít hơn.
-+ 在旅游淡季花费会少些。
+*  mùa ít khách du lịch tốn tiền ít hơn.
++  在旅游淡季花费会少些。
 
-* Hàng lưu niệm ,quà lưu niện du lịch.
-+ 旅游纪念品。
+*  Hàng lưu niệm ,quà lưu niện du lịch.
++  旅游纪念品。
 
-* Họ thường xuyên mang về 1 ít hàng lưu niệm.
-+ 他们通常带回一些旅游纪念品。
+*  Họ thường xuyên mang về 1 ít hàng lưu niệm.
++  他们通常带回一些旅游纪念品。
 
-* Du khách nước ngoài.
-+ 外国游客。
+*  Du khách nước ngoài.
++  外国游客。
 
-* Ngồi trên xe du lịch đều là du khách nước ngoài.
-+ 旅游车上坐着的都是外国游客。
+*  Ngồi trên xe du lịch đều là du khách nước ngoài.
++  旅游车上坐着的都是外国游客。
 
-* Đoàn tham quan du lịch.
-+ 观光团。
+*  Đoàn tham quan du lịch.
++  观光团。
 
-* đoàn du lịch tham quan của chúng tôi có 10 người.
-+ 我们的旅游观光团有十个人。
+*  đoàn du lịch tham quan của chúng tôi có 10 người.
++  我们的旅游观光团有十个人。
 
-* Đi du lịch theo đoàn có hướng dẫn viên du lịch.
-+ 有导游的团体旅游。
+*  Đi du lịch theo đoàn có hướng dẫn viên du lịch.
++  有导游的团体旅游。
 
-* du lịch theo đoàn có hướng dẫn khá tốt.
-+ 有导游的旅游比较好。
+*  du lịch theo đoàn có hướng dẫn khá tốt.
++  有导游的旅游比较好。
 
-* Du lịch trọn gói .
-+ 包价旅行。
+*  Du lịch trọn gói .
++  包价旅行。
 
-* du lịch trọn gói cần tiêu bao nhiêu tiền.
-+ 包价旅行要花多少钱。
+*  du lịch trọn gói cần tiêu bao nhiêu tiền.
++  包价旅行要花多少钱。
 
-* Du lịch vòng quanh thế giới.
-+ 环球旅行。
+*  Du lịch vòng quanh thế giới.
++  环球旅行。
 
-* Anh ta tiếp tục tự mình đi du lịch vòng quanh thế giới.
-+ 他继续自己的环球旅行。
+*  Anh ta tiếp tục tự mình đi du lịch vòng quanh thế giới.
++  他继续自己的环球旅行。
 
-* Chuyến du lịch nước ngoài.
-+ 国外旅行。
+*  Chuyến du lịch nước ngoài.
++  国外旅行。
 
-* cô ấy khát vọng đi nước ngoài du lịch.
-+ 她渴望去国外旅行。
+*  cô ấy khát vọng đi nước ngoài du lịch.
++  她渴望去国外旅行。
 
-* Chuyến picnic dã ngoại.
-+ 郊外野餐。
+*  Chuyến picnic dã ngoại.
++  郊外野餐。
 
-* tôi đề nghị đi picnic dã ngoại, như thế nào.
-+ 我建议去郊外野餐, 怎么样。
+*  tôi đề nghị đi picnic dã ngoại, như thế nào.
++  我建议去郊外野餐, 怎么样。
 
-* Du lịch tuần trăng mật.
-+ 蜜月旅行。
+*  Du lịch tuần trăng mật.
++  蜜月旅行。
 
-* Du lịch tuần trăng mặt chi phí toàn bộ bao nhiêu.
-+ 全程蜜月旅行的价钱是多少。
+*  Du lịch tuần trăng mặt chi phí toàn bộ bao nhiêu.
++  全程蜜月旅行的价钱是多少。
 
-* Đồ dùng trong du lịch.
-+ 旅行用品。
+*  Đồ dùng trong du lịch.
++  旅行用品。
 
-* Hiện tại anh ta có thể đi mua sắm đồ dùng du lịch.
-+ 现在他可以去采购旅行用品。
+*  Hiện tại anh ta có thể đi mua sắm đồ dùng du lịch.
++  现在他可以去采购旅行用品。
 
-* mẫu đăng kí.
-+ 登记表。
+*  mẫu đăng kí.
++  登记表。
 
-* nhân viên phục vụ.
-+ 服务员。
+*  nhân viên phục vụ.
++  服务员。
 
-* nhân viên tiếp tân.
-+ 接待员。
+*  nhân viên tiếp tân.
++  接待员。
 
-* nhân viên trực ban.
-+ 值班服务员。
+*  nhân viên trực ban.
++  值班服务员。
 
-* Hành trình của bạn sắp xếp ổn rồi chứ.
-+ 你的行程安排好了吗。
+*  Hành trình của bạn sắp xếp ổn rồi chứ.
++  你的行程安排好了吗。
 
-* Bạn ở đấy trong bao lâu.
-+ 呆多久。
+*  Bạn ở đấy trong bao lâu.
++  呆多久。
 
-* Nơi ở của du khách.
-+ 旅客住宿所。
+*  Nơi ở của du khách.
++  旅客住宿所。
 
-* Phòng nhỏ trong trại dã ngoại.
-+ 野营小屋。
+*  Phòng nhỏ trong trại dã ngoại.
++  野营小屋。
 
-* Sơn trang nghỉ mát.
-+ 避暑山庄。
+*  Sơn trang nghỉ mát.
++  避暑山庄。
 
-* Tàu thủy du lịch.
-+ 游览船。
+*  Tàu thủy du lịch.
++  游览船。
 
-* Tắm biển.
-+ 海水浴。
+*  Tắm biển.
++  海水浴。
 
-* Tắm nắng.
-+ 太阳浴。
+*  Tắm nắng.
++  太阳浴。
 
-* Thảm du lịch.
-+ 旅行毯	。
+*  Thảm du lịch.
++  旅行毯	。
 
-* Tham quan trên biển.
-+ 海上观光。
+*  Tham quan trên biển.
++  海上观光。
 
-* Thắng cảnh du lịch.
-+ 旅游胜地。
+*  Thắng cảnh du lịch.
++  旅游胜地。
 
-* Thắng cảnh nghỉ mát.
-+ 避暑胜地。
+*  Thắng cảnh nghỉ mát.
++  避暑胜地。
 
-* Thẻ du lịch.
-+ 旅行证件。
+*  Thẻ du lịch.
++  旅行证件。
 
-* Tiền vé vào cửa.
-+ 门票费。
+*  Tiền vé vào cửa.
++  门票费。
 
-* Trại dã ngoại ngày nghỉ.
-+ 假日野营地。
+*  Trại dã ngoại ngày nghỉ.
++  假日野营地。
 
-* Trang bị leo núi.
-+ 登山装备。
+*  Trang bị leo núi.
++  登山装备。
 
-* Túi da du lịch.
-+ 旅行皮包。
+*  Túi da du lịch.
++  旅行皮包。
 
-* Túi du lịch.
-+ 旅行袋。
+*  Túi du lịch.
++  旅行袋。
 
-* Túi du lịch bằng vải bạt.
-+ 帆布行李袋。
+*  Túi du lịch bằng vải bạt.
++  帆布行李袋。
 
-* Tuyến du lịch.
-+ 旅游路线。
+*  Tuyến du lịch.
++  旅游路线。
 
-* Vali du lịch.
-+ 旅行箱。
+*  Vali du lịch.
++  旅行箱。
 
-*Kỳ nghỉ phép lần này anh đi đâu.
-+这次休假去哪里。
+* Kỳ nghỉ phép lần này anh đi đâu.
++ 这次休假去哪里。
 
+* Tôi muốn đi du lịch cũng người thân.
++ 想和家人一起去旅游。
 
-*Tôi muốn đi du lịch cũng người thân.
-+想和家人一起去旅游。
+* Đi đâu?
++ 去哪里。
 
+* Tôi định đi du lịch ở nước ngoài.
++ 打算去国外旅行。
 
-*Đi đâu?
-+去哪里。
+* Tôi muốn sang Trung Quốc một chuyến.
++ 我想去一趟中国。
 
+* Anh chưa đến đó à?
++ 你没有去过吗。
 
-*Tôi định đi du lịch ở nước ngoài.
-+打算去国外旅行。
+* Tôi đến rồi.
++ 我去过了。
 
+* Bọn trẻ vẫn chưa được đi.
++ 孩子们没有去过。
 
-*Tôi muốn sang Trung Quốc một chuyến.
-+我想去一趟中国。
+* Chắc là đi 1 chuyến 6 ngày 5 đêm.
++ 可能去个6天5夜吧。
 
+* Tôi định đến Bắc Kinh và Tây An.
++ 打算去北京和西安。
 
-*Anh chưa đến đó à?
-+你没有去过吗。
+* Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
++ 4天3夜的话，就只能去北京了。
 
+* Không đủ thời gian à?
++ 时间不够吧。
 
-*Tôi đến rồi.
-+我去过了。
+* Muốn đi tham quan hết Bắc Kinh thì hơi khó.
++ 想把北京看完都比较难。
 
-*Bọn trẻ vẫn chưa được đi.
-+孩子们没有去过。
+* Trung Quốc có rất nhiều nơi nên đến tham quan.
++ 中国要看的地方太多了。
 
+* Tôi cũng muốn đến thăm Tây Tạng.
++ 我也想去西藏看看。
 
-*Chắc là đi 1 chuyến 6 ngày 5 đêm.
-+可能去个6天5夜吧。
+* Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
++ 我也想去少林寺看看。
 
-
-*Tôi định đến Bắc Kinh và Tây An.
-+打算去北京和西安。
-
-
-*Nếu đi 4 ngày 3 đêm thì chỉ đi được mỗi Bắc Kinh thôi.
-+4天3夜的话，就只能去北京了。
-
-
-*Không đủ thời gian à?
-+时间不够吧。
-
-
-*Muốn đi tham quan hết Bắc Kinh thì hơi khó.
-+想把北京看完都比较难。
-
-
-*Trung Quốc có rất nhiều nơi nên đến tham quan.
-+中国要看的地方太多了。
-
-
-*Tôi cũng muốn đến thăm Tây Tạng.
-+我也想去西藏看看。
-
-
-*Tôi cũng muốn đến thăm chùa Thiếu lâm tự.
-+我也想去少林寺看看。
-
-
-*+Tôi muốn đến thăm đảo Jeju.
-+我想去济州岛看看。
-
+* + Tôi muốn đến thăm đảo Jeju.
++ 我想去济州岛看看。
  
-*Hai vợ chồng dự định cùng đi.
-+计划夫妻俩一起去。
+* Hai vợ chồng dự định cùng đi.
++ 计划夫妻俩一起去。
 
+* Khi về còn nghỉ ngơi nữa.
++ 回来后再休息一下。
 
-*Khi về còn nghỉ ngơi nữa.
-+回来后再休息一下。
+* Năm ngoái tôi đi du lịch châu Âu rồi.
++ 我去年去欧洲旅行了。
 
+* Tôi muốn để sang năm mới đi.
++ 我想明天去。
 
-*Năm ngoái tôi đi du lịch châu Âu rồi.
-+我去年去欧洲旅行了。
+* Khoảng.
++ 大概。
 
+* Xuống xe.
++ 下车。
 
-*Tôi muốn để sang năm mới đi.
-+我想明天去。
+* Dừng.
++ 停。
 
+* Đợi.
++ 等。
 
-*Khoảng.
-+大概。
+* Cốp sau.
++ 后备箱。
 
+* Đồng hồ tính tiền (taxi).
++ 计价器。
 
-*Xuống xe.
-+下车。
+* giấy biên nhận.
++ 收据。
 
-*Dừng.
-+停。
+* tiền lẻ.
++ 零钱。
 
-*Đợi.
-+等。
+* địa chỉ.
++ 地址。
 
-*Cốp sau.
-+后备箱。
+* nhanh.
++ 快。
 
-*Đồng hồ tính tiền (taxi).
-+计价器。
-
-*giấy biên nhận.
-+收据。
-
-*tiền lẻ.
-+零钱。
-
-*địa chỉ.
-+地址。
-
-*nhanh.
-+快。
-
-*chậm.
-+慢。
-
-
+* chậm.
++ 慢。
