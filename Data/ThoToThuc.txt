@@ -458,7 +458,7 @@
 + 有田不歸如江水。
 
 * Chơi núi La Phù làm một bài bảo con tới.
-+ 遊羅浮山一首示兒子過 。
++ 遊羅浮山一首示兒子過。
 
 * Nhân gian sao có kinh bạch ngọc.
 + 人間有此白玉京。
@@ -619,7 +619,7 @@
 * Ví bảo tự đàn phát tiếng ra.
 + 若言琴上有琴聲。
 
-* Cớ sao trong hộp chẳng ngân nga..
+* Cớ sao trong hộp chẳng ngân nga.
 + 放在匣中何不鳴。
 
 * Bảo rằng tiếng ở trên đầu ngón.
